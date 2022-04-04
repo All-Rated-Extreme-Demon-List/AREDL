@@ -1,0 +1,184 @@
+*{
+  font-family: 'Mukta Mahee', sans-serif;
+  color: black !important;
+}
+header{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100px;
+  background: rgb(1, 46, 86);
+}
+#sitename{
+  position: fixed;
+  top: 30px;
+  left: 30px;
+  font-size: 2em;
+}
+
+#pc-link{
+  position: fixed;
+  text-align: right;
+  top: 35px;
+  right: 30px;
+  font-size: 1.3em;
+}
+#list{
+  background: rgb(1, 46, 86);
+  position: fixed;
+  top: 100px;
+  left: 0;
+  width: 30%;
+  overflow-y: auto;
+}
+#additional-information{
+  background: rgb(140, 140, 255);
+  position: fixed;
+  top: 100px;
+  right: 0;
+  width: 30%;
+  overflow-y: auto;
+}
+#info{
+  background: rgb(245, 186, 31);
+  position: fixed;
+  top: 100px;
+  left: 30%;
+  width: 40%;
+  overflow-y: auto;
+}
+#inner-info, #inner-right-info{
+  padding: 1em;
+}
+.entry{
+  padding: 1em;
+
+}
+.entry:nth-child(odd){
+  background: rgb(91, 107, 166);
+}
+.entry:hover{
+  background: rgba(255, 255, 255, 0.212);
+  cursor: pointer;
+  color:rgba(0, 0, 0,0.5) !important;
+}
+
+A:hover {color:rgba(0, 0, 0,0.5) !important; text-decoration:none; }
+
+.selected{
+  background: rgba(190, 190, 190, 0) !important;
+}
+.author{
+  font-variant: small-caps;
+}
+#levelname{
+  font-size: 1.7em;
+  font-weight: bold;
+
+}
+#levelauthor{
+  font-size: 1.1em;
+}
+#leveldescription{
+  font-size: 0.8em;
+  font-variant: small-caps;
+
+}
+.vid{
+  width: 100%;
+}
+#records{
+  width: 100%;
+}
+#records-title{
+  font-size: 1.5em;
+  font-weight: bold;
+  color: black;
+}
+#records-table{
+  width: 100%;
+}
+#explanation-simple-title{
+  font-size: 1.5em;
+  font-weight: bold;
+  color: black;
+}
+#explanation-simple{
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+}
+.interentry{
+  width: 100%;
+  padding: 0.5em;
+}
+.record-entry:nth-child(even){
+  background: rgb(113, 130, 255)
+}
+.record-entry:nth-child(odd){
+  background: rgba(108, 126, 243, 0.596)
+}
+#block{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: black;
+  color: black;
+  font-size: 3em;
+}
+.hacked{
+  background: rgb(0, 64, 255);
+  color: white;
+  font-weight: strong;
+  font-size: 0.4em;
+  padding: 0.4em;
+  border-radius: 1em;
+}
+.p-hacked{
+  background: rgb(151, 191, 255);
+  color: white;
+  font-weight: strong;
+  font-size: 0.4em;
+  padding: 0.4em;
+  border-radius: 1em;
+}
+#hi{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: white;
+  z-index: 99;
+}
+#user-rank {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+Swal {
+  color: black;
+}
+/* scroll bar [DO NOT MODIFY] */
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: grey; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(68, 68, 68); 
+}
