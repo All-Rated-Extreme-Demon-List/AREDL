@@ -1,0 +1,41 @@
+{
+  "id": 78592049,
+  "name": "Shitty RAGE",
+  "author": "ZerniasX",
+  "creators": [],
+  "verifier": "ZerniasX",
+  "percentToQualify": 55,
+  "password": "1010",
+  "records": [
+    {
+      "user": "Demons [GD]",
+      "link": "https://www.youtube.com/watch?v=bFEvaWntK9k",
+      "percent": 100,
+      "hz": 60
+    },
+    {
+      "user": "DogeyBoi",
+      "link": "https://www.youtube.com/watch?v=G6vndubJ86o",
+      "percent": 100,
+      "hz": 360
+    },
+    {
+      "user": "Riptide",
+      "link": "https://youtu.be/uAl1IbTCouU",
+      "percent": 100,
+      "hz": 120
+    },
+    {
+      "user": "Armani",
+      "link": "https://youtu.be/NYvx7OANAqY",
+      "percent": 100,
+      "hz": 360
+    },
+    {
+      "user": "ExtremeBeemon",
+      "link": "https://youtu.be/s9BI_wVrGcE",
+      "percent": 100,
+      "hz": 150
+    }
+  ]
+}

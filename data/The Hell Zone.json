@@ -1,0 +1,47 @@
+{
+  "id": 76250887,
+  "name": "Shitty The Hell Zone",
+  "author": "Prometheus",
+  "creators": ["SarcasticMuch", "Experience43", "fakeiwnl"],
+  "verifier": "Prometheus",
+  "percentToQualify": 100,
+  "password": "Free to Copy",
+  "records": [
+    {
+      "user": "Shel",
+      "link": "https://www.youtube.com/watch?v=dL59JVXSUBQ",
+      "percent": 100,
+      "hz": 144
+    },
+    {
+      "user": "iRaily",
+      "link": "https://youtu.be/UGJKEthVWtQ",
+      "percent": 100,
+      "hz": 288
+    },
+    {
+      "user": "T333",
+      "link": "https://www.youtube.com/watch?v=l0U_ZqXS-WQ",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "ObvSilver",
+      "link": "https://youtu.be/qtm1U4ydMkk",
+      "percent": 100,
+      "hz": 165
+    },
+    {
+      "user": "Brinnn",
+      "link": "https://www.youtube.com/watch?v=0kKHIJCgOhc",
+      "percent": 100,
+      "hz": 120
+    },
+    {
+      "user": "KylashTheKiller",
+      "link": "https://youtu.be/hlgG9R-S5qo",
+      "percent": 100,
+      "hz": 60
+    }
+  ]
+}
