@@ -1,0 +1,60 @@
+.page-list {
+    .list-container,
+    .level-container {
+        padding-block: 2rem;
+    }
+
+    .level {
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+        padding-right: 2rem;
+        max-width: 48rem;
+
+        .video {
+            aspect-ratio: 16 / 9;
+        }
+
+        .stats {
+            display: flex;
+            justify-content: space-evenly;
+            gap: 2rem;
+
+            li {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                gap: 1rem;
+            }
+        }
+
+        .records {
+            gap: 1rem;
+            table-layout: fixed;
+
+            .record {
+                gap: 1rem;
+                // height: 2rem;
+                border-bottom: 2px solid #ddd;
+
+                .link {
+                    width: 2rem;
+
+                    a {
+                        height: 2rem;
+                        width: 2rem;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        border-radius: 50%;
+                        transition: background-color;
+
+                        &:hover {
+                            background-color: rgba(#000, 0.1);
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

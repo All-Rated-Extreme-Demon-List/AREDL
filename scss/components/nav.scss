@@ -1,0 +1,64 @@
+@use '../_theme' as t;
+
+.nav {
+    display: flex;
+    column-gap: 2rem;
+
+    .nav__tab {
+        padding-top: 4px;
+        border-bottom: 4px solid transparent;
+        display: flex;
+        align-items: center;
+        padding-inline: 1rem;
+        transition: border-color 100ms ease;
+
+        &.router-link-active {
+            // Special Vue-Router class
+            border-color: t.$on-primary-color;
+        }
+
+        &:hover {
+            border-color: t.$on-primary-color;
+        }
+    }
+
+    .nav__actions {
+        flex: 1;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        padding-right: 3rem;
+        gap: 1rem;
+
+        .nav__icon {
+            height: 3rem;
+            width: 3rem;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background-color 100ms ease;
+
+            &:hover {
+                background-color: rgba(#fff, 0.2);
+            }
+
+            img {
+                height: 1.5rem;
+            }
+        }
+
+        .nav__cta {
+            padding: 1rem;
+            background-color: t.$on-primary-color;
+            color: t.$primary-color;
+            border-radius: 0.5rem;
+            box-shadow: 0 1px 0.5rem 0 rgba(#006, 0.5);
+            transition: transform 100ms ease;
+
+            &:hover:not(:active) {
+                transform: translateY(-2px);
+            }
+        }
+    }
+}

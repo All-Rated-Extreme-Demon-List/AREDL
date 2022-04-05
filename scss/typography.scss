@@ -44,7 +44,7 @@ h3,
 h4,
 .type-h4,
 .type-title-lg {
-    @include lexend-deca(12, 12); // Title Large
+    @include lexend-deca(16, 12); // Title Large
     font-weight: 700;
     text-transform: uppercase;
     -webkit-font-smoothing: subpixel-antialiased;
@@ -55,6 +55,7 @@ h5,
 .type-title-md {
     @include lexend-deca(14, 12); // Title Medium
     font-weight: 700;
+    text-transform: uppercase;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 
@@ -64,13 +65,13 @@ dt,
 .type-title-sm {
     @include lexend-deca(12, 12); // Title Small
     font-weight: 700;
+    text-transform: uppercase;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 
-footer a,
 .type-label-lg {
     @include lexend-deca(12, 8); // Label Large
-    font-weight: 600;
+    font-weight: 500;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 

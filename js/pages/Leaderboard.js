@@ -11,26 +11,28 @@ export default {
         selected: 0,
     }),
     template: `
-        <Spinner v-if="loading"></Spinner>
-        <template v-else>
+        <main v-if="loading">
+            <Spinner></Spinner>
+        </main>
+        <main v-else class="page-leaderboard">
             <ul>
-                <li v-for="entry in leaderboard">
-                    <p>{{ entry.user }}: {{ entry.total }}</p>
+                <li v-for="ientry in leaderboard">
+                    <p>{{ ientry.user }}: {{ ientry.total }}</p>
                 </li>
             </ul>
             <article>
-                <h1>{{ selEntry.user }}</h1>
-                <p>{{ selEntry.total }}</p>
+                <h1>{{ entry.user }}</h1>
+                <p>{{ entry.total }}</p>
                 <ol>
-                    <li v-for="score in selEntry.scores">
+                    <li v-for="score in entry.scores">
                         {{ score.percent }}%: {{ score.level }} (+{{ score.score }})
                     </li>
                 </ol>
             </article>
-        </template>
+        </main>
     `,
     computed: {
-        selEntry() {
+        entry() {
             return this.leaderboard[this.selected];
         },
     },

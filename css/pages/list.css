@@ -1,0 +1,50 @@
+.page-list .list-container,
+.page-list .level-container {
+    padding-block: 2rem;
+}
+.page-list .level {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding-right: 2rem;
+    max-width: 48rem;
+}
+.page-list .level .video {
+    aspect-ratio: 16/9;
+}
+.page-list .level .stats {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 2rem;
+}
+.page-list .level .stats li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+.page-list .level .records {
+    gap: 1rem;
+    table-layout: fixed;
+}
+.page-list .level .records .record {
+    gap: 1rem;
+    border-bottom: 2px solid #ddd;
+}
+.page-list .level .records .record .link {
+    width: 2rem;
+}
+.page-list .level .records .record .link a {
+    height: 2rem;
+    width: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: background-color;
+}
+.page-list .level .records .record .link a:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+/*# sourceMappingURL=list.css.map */

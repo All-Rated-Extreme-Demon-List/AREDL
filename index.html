@@ -4,16 +4,45 @@
         <meta name="viewport" content="user-scalable=no" />
         <title>The Shitty List</title>
         <link rel="icon" href="/favicon.ico" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@500;700&display=swap"
+            rel="stylesheet"
+        />
         <link rel="stylesheet" type="text/css" href="/css/reset.css" />
+        <link rel="stylesheet" type="text/css" href="/css/typography.css" />
         <link rel="stylesheet" type="text/css" href="/css/main.css" />
+        <link rel="stylesheet" type="text/css" href="/css/pages/list.css" />
+        <link rel="stylesheet" type="text/css" href="/css/pages/leaderboard.css" />
+        <link rel="stylesheet" type="text/css" href="/css/components/list.css" />
+        <link rel="stylesheet" type="text/css" href="/css/components/nav.css" />
         <script src="https://unpkg.com/vue@3"></script>
         <script src="https://unpkg.com/vue-router@4"></script>
     </head>
-    <body>
-        <header></header>
-        <main id="app">
-            <router-view></router-view>
-        </main>
+    <body id="app">
+        <header>
+            <div class="logo type-h2">TSL</div>
+            <nav class="nav">
+                <router-link class="nav__tab" to="/">
+                    <span class="type-label-lg">List</span>
+                </router-link>
+                <router-link class="nav__tab" to="/leaderboard">
+                    <span class="type-label-lg">Leaderboard</span>
+                </router-link>
+                <div class="nav__actions">
+                    <a class="nav__icon" href="https://discord.gg/5F299T7">
+                        <img src="/assets/discord.svg" alt="Discord Logo" />
+                    </a>
+                    <a
+                        class="nav__cta type-label-lg"
+                        href="https://docs.google.com/forms/d/e/1FAIpQLSfnL07lut6MBPuPElD9Pv0AQ6RTlkhKsqWYMKnBMSpIcmQRkA/viewform"
+                        >Submit Record</a
+                    >
+                </div>
+            </nav>
+        </header>
+        <router-view></router-view>
         <footer></footer>
         <script type="module" src="/js/main.js"></script>
     </body>

@@ -1,24 +1,45 @@
 :root {
-  --color-background: white;
-  --color-on-background: black;
-  --color-primary: #001b74;
-  --color-on-primary: white;
+    --color-background: white;
+    --color-on-background: black;
+    --color-primary: #0066ff;
+    --color-on-primary: white;
 }
 
-html,
 body {
-  margin: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    background-color: var(--color-background);
+    color: var(--color-on-background);
+}
+
+header,
+main {
+    display: grid;
+    grid-template-columns: minmax(20rem, 2fr) 5fr;
+    column-gap: 2rem;
 }
 
 header {
-  height: 4rem;
-  background-color: var(--color-primary);
-  color: var(--color-on-primary);
+    height: 4rem;
+    background-color: var(--color-primary);
+    color: var(--color-on-primary);
+}
+header .logo {
+    justify-self: end;
+    align-self: center;
 }
 
 main {
-  display: grid;
-  grid-template-columns: 16rem 1fr 16rem;
+    height: 0;
+    flex: 1;
+    display: grid;
+    grid-template-rows: minmax(0, 1fr);
+    column-gap: 2rem;
+}
+main > div {
+    overflow-y: scroll;
 }
 
 /*# sourceMappingURL=main.css.map */
