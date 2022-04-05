@@ -1,27 +1,14 @@
-import { embed } from './util.js';
+import Leaderboard from './components/Leaderboard.js';
+import Level from './components/Level.js';
+import List from './components/List.js';
 
 export default {
-    template: `<ul>
-        <li v-for="(level, i) in list">
-            <button @click="this.selected = i">
-                {{ level.name }}
-            </button>
-        </li>
-    </ul>
-    <div>
-        <template v-if="level">
-            <h1>{{ level.name }}</h1>
-            <p>{{ level.author }}</p>
-            <iframe :src="embed(level.verification)" frameborder="0"></iframe>
-            <ul>
-                <li v-for="record in level.records">
-                    <div>{{ record.percent }}</div>
-                    <a :href="record.link">{{ record.user }}</a>
-                </li>
-            </ul>
-        </template>
-    </div>
-    <ul></ul>`,
+    components: { Leaderboard, Level, List },
+    template: `
+        <List :list="list" v-model="selected"></List>
+        <Level :level="level" :rank="selected + 1"></Level>
+        <Leaderboard :list="list"></Leaderboard>
+    `,
     data: () => ({
         list: [],
         loading: true,
@@ -31,9 +18,6 @@ export default {
         level() {
             return this.list[this.selected];
         },
-    },
-    methods: {
-        embed,
     },
     async mounted() {
         const listResult = await fetch('/data/_list.json');
