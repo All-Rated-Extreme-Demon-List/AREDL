@@ -1,0 +1,13 @@
+{
+    "name": "tsl",
+    "version": "1.6.0",
+    "scripts": {
+        "build": "sass scss:css",
+        "dev": "sass --watch scss:css",
+        "format": "prettier --write ."
+    },
+    "devDependencies": {
+        "prettier": "^2.6.2",
+        "sass": "^1.49.11"
+    }
+}

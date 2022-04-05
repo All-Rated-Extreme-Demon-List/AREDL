@@ -1,0 +1,24 @@
+:root {
+  --color-background: white;
+  --color-on-background: black;
+  --color-primary: #001b74;
+  --color-on-primary: white;
+}
+
+html,
+body {
+  margin: 0;
+}
+
+header {
+  height: 4rem;
+  background-color: var(--color-primary);
+  color: var(--color-on-primary);
+}
+
+main {
+  display: grid;
+  grid-template-columns: 16rem 1fr 16rem;
+}
+
+/*# sourceMappingURL=main.css.map */

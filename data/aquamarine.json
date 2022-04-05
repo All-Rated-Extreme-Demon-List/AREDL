@@ -1,0 +1,53 @@
+{
+    "id": 78101918,
+    "name": "Shitty Aquamarine",
+    "author": "Spaace",
+    "creators": ["Gokill", "h4tecr1me", "hexuri"],
+    "verifier": "Slayer",
+    "verification": "https://youtu.be/BvDxO3gcRtY",
+    "percentToQualify": 71,
+    "records": [
+        {
+            "user": "ExtremeBeemon",
+            "link": "https://www.youtube.com/watch?v=4J5to7s1uf8",
+            "percent": 100,
+            "hz": 150
+        },
+        {
+            "user": "KylashTheKiller",
+            "link": "https://www.youtube.com/watch?v=DpqBGASmECk",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Dandy Chiggins",
+            "link": "https://youtu.be/i3KG5eobo28",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "klopa",
+            "link": "https://www.youtube.com/watch?v=u3yT1verZxo",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Kenos Song",
+            "link": "https://www.youtube.com/watch?v=OBLkDN9e7M8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "iRaily",
+            "link": "https://youtu.be/2uVr3if-De8",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Gamez",
+            "link": "https://www.youtube.com/watch?v=6w7fI6a_ZwU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+@use '_theme' as t;
+
+html,
+body {
+    margin: 0;
+}
+
+header {
+    height: 4rem;
+    background-color: t.$primary-color;
+    color: t.$on-primary-color;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 16rem 1fr 16rem;
+}

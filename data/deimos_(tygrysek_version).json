@@ -1,0 +1,47 @@
+{
+    "id": 74052741,
+    "name": "Shitty Deimos (Tygrysek Version)",
+    "author": "chspchips",
+    "creators": [],
+    "verifier": "iRaily",
+    "verification": "https://www.youtube.com/watch?v=waos7xD6Qi8",
+    "percentToQualify": 59,
+    "records": [
+        {
+            "user": "BlueTomcat",
+            "link": "https://www.youtube.com/watch?v=l-zClJdKSko",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Shel",
+            "link": "https://youtu.be/_vP3Ds6g4Oc",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "kri1s5",
+            "link": "https://www.youtube.com/watch?v=itYN7QxOzvc",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Se7enGMD",
+            "link": "https://www.youtube.com/watch?v=KYypHXjAHtE",
+            "percent": 100,
+            "hz": null
+        },
+        {
+            "user": "ExtremeBeemon",
+            "link": "https://youtu.be/8IzvTFajzN0",
+            "percent": 100,
+            "hz": 150
+        },
+        {
+            "user": "DashTH",
+            "link": "https://www.youtube.com/watch?v=AM2paplPWe0 (raw footage)",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}

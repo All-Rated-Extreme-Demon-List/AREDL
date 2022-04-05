@@ -1,0 +1,29 @@
+{
+    "id": 72810786,
+    "name": "Shitty Stygian Machinery",
+    "author": "HargChucu",
+    "creators": ["chspchips"],
+    "verifier": "iRaily",
+    "verification": "https://youtu.be/wl5o8QN5Z58",
+    "percentToQualify": 64,
+    "records": [
+        {
+            "user": "Fh1r",
+            "link": "https://www.youtube.com/watch?v=g0d4szBEjag",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BlueTomcat",
+            "link": "https://youtu.be/_HvW_8qXCQo",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Dougieman",
+            "link": "https://youtu.be/Wesd7yMf82c",
+            "percent": 73,
+            "hz": null
+        }
+    ]
+}

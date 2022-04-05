@@ -1,28 +1,29 @@
 {
-  "id": 75783295,
-  "name": "Shitty koreastep",
-  "author": "eninem",
-  "creators": [],
-  "verifier": "Davine_007",
-  "percentToQualify": 64,
-  "records": [
-    {
-      "user": "Lisa",
-      "link": "https://www.youtube.com/watch?v=F0K1ylQLCZY",
-      "percent": 100,
-      "hz": 360
-    },
-    {
-      "user": "LzKlauss",
-      "link": "https://www.youtube.com/watch?v=U-_O5s1y9vY",
-      "percent": 100,
-      "hz": 360
-    },
-    {
-      "user": "M1nYong",
-      "link": "https://www.youtube.com/watch?v=kZjWXFymJtg",
-      "percent": 100,
-      "hz": 360
-    }
-  ]
+    "id": 75783295,
+    "name": "Shitty koreastep",
+    "author": "eninem",
+    "creators": [],
+    "verifier": "Davine_007",
+    "verification": "https://youtu.be/BzMIqluAxh4",
+    "percentToQualify": 64,
+    "records": [
+        {
+            "user": "Lisa",
+            "link": "https://www.youtube.com/watch?v=F0K1ylQLCZY",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "LzKlauss",
+            "link": "https://www.youtube.com/watch?v=U-_O5s1y9vY",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "M1nYong",
+            "link": "https://www.youtube.com/watch?v=kZjWXFymJtg",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

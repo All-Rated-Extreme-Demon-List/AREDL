@@ -1,0 +1,18 @@
+/* Error: There is no module with the namespace "r".
+ *    ,
+ * 52 | /     @include r.lg {
+ * 53 | |         @include quicksand(16, 12);
+ * 54 | \     }
+ *    '
+ *   scss/typography.scss 52:5  root stylesheet */
+
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: 'Error: There is no module with the namespace "r".\a    \2577 \a 52 \2502  \250c      @include r.lg {\a 53 \2502  \2502          @include quicksand(16, 12);\a 54 \2502  \2514      }\a    \2575 \a   scss/typography.scss 52:5  root stylesheet';
+}

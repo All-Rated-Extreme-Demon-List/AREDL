@@ -1,6 +1,9 @@
 import { d } from '../js/list.js';
 
-type List = Level[];
+type List = {
+    id: number;
+    name: number;
+}[];
 
 interface Level {
     vids?: Video[];
@@ -10,7 +13,7 @@ interface Level {
     id: number;
     pass: string;
     percentToQualify: number;
-    verficationVid: string;
+    verificationVid: string;
 }
 
 interface Video {
@@ -62,19 +65,23 @@ const piped = list.map((level: Level) => {
         author,
         creators,
         verifier,
-        verfication: level.verficationVid,
+        verification: level.verificationVid,
         percentToQualify: level.percentToQualify,
         password: level.pass === 'Free to copy' ? undefined : level.pass,
-        records: level.vids?.map((vid) => ({
-            user: vid.user,
-            link: vid.link,
-            percent: vid.percent,
-            hz: parseInt(vid.hz),
-        })) || [],
+        records:
+            level.vids?.map((vid) => ({
+                user: vid.user,
+                link: vid.link,
+                percent: vid.percent,
+                hz: parseInt(vid.hz),
+            })) || [],
     };
 });
 
+const mlist: string[] = [];
 piped.forEach((elem) => {
-    const json = JSON.stringify(elem);
-    Deno.writeTextFile(`./data/${elem.name.substring(7)}.json`, json);
+    const name = elem.name.substring(7).toLowerCase().replaceAll(' ', '_');
+    mlist.push(name);
+    Deno.writeTextFile(`./data/${name}.json`, JSON.stringify(elem));
 });
+Deno.writeTextFile(`./data/_list.json`, JSON.stringify(mlist));
