@@ -38,3 +38,10 @@ main {
         overflow-y: scroll;
     }
 }
+
+.spinner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    grid-column: span 2;
+}

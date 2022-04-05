@@ -52,8 +52,8 @@ h3,
 .type-h3,
 .type-headline-sm {
     font-family: 'Lexend Deca', sans-serif;
-    font-size: 34.2857142857px;
-    line-height: 36px;
+    font-size: 22.8571428571px;
+    line-height: 28px;
     font-weight: 700;
     letter-spacing: -1px;
     -webkit-font-smoothing: subpixel-antialiased;
@@ -62,14 +62,14 @@ h3::before,
 .type-h3::before,
 .type-headline-sm::before {
     content: '';
-    margin-bottom: -0.2em;
+    margin-bottom: -0.2875em;
     display: table;
 }
 h3::after,
 .type-h3::after,
 .type-headline-sm::after {
     content: '';
-    margin-top: -0.15em;
+    margin-top: -0.2375em;
     display: table;
 }
 

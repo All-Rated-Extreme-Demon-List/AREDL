@@ -35,7 +35,7 @@ h2,
 h3,
 .type-h3,
 .type-headline-sm {
-    @include lexend-deca(24, 12); // Headline Small
+    @include lexend-deca(16, 12); // Headline Small
     font-weight: 700;
     letter-spacing: -1px;
     -webkit-font-smoothing: subpixel-antialiased;

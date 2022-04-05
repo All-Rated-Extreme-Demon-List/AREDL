@@ -9,6 +9,12 @@
     padding-right: 2rem;
     max-width: 48rem;
 }
+.page-list .level .level-authors {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    grid-auto-rows: max-content;
+    gap: 1rem;
+}
 .page-list .level .video {
     aspect-ratio: 16/9;
 }
@@ -28,7 +34,6 @@
     table-layout: fixed;
 }
 .page-list .level .records .record {
-    gap: 1rem;
     border-bottom: 2px solid #ddd;
 }
 .page-list .level .records .record .link {
