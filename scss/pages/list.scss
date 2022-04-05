@@ -1,6 +1,7 @@
 .page-list {
     .list-container,
-    .level-container {
+    .level-container,
+    .meta-container {
         padding-block: 2rem;
     }
 
@@ -58,6 +59,28 @@
                             background-color: rgba(#000, 0.1);
                         }
                     }
+                }
+            }
+        }
+    }
+
+    .meta {
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+
+        .editors {
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+
+            li {
+                display: flex;
+                align-items: center;
+                gap: 0.5rem;
+
+                img {
+                    height: 1.25rem;
                 }
             }
         }

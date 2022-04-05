@@ -17,7 +17,7 @@ body {
 header,
 main {
     display: grid;
-    grid-template-columns: minmax(20rem, 2fr) 5fr;
+    grid-template-columns: minmax(20rem, 2fr) 5fr minmax(20em, 2fr);
     column-gap: 2rem;
 }
 
@@ -46,7 +46,7 @@ main > div {
     display: flex;
     align-items: center;
     justify-content: center;
-    grid-column: span 2;
+    grid-column: span 3;
 }
 
 /*# sourceMappingURL=main.css.map */

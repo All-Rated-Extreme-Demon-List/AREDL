@@ -1,5 +1,6 @@
 .page-list .list-container,
-.page-list .level-container {
+.page-list .level-container,
+.page-list .meta-container {
     padding-block: 2rem;
 }
 .page-list .level {
@@ -50,6 +51,24 @@
 }
 .page-list .level .records .record .link a:hover {
     background-color: rgba(0, 0, 0, 0.1);
+}
+.page-list .meta {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.page-list .meta .editors {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+.page-list .meta .editors li {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+.page-list .meta .editors li img {
+    height: 1.25rem;
 }
 
 /*# sourceMappingURL=list.css.map */
