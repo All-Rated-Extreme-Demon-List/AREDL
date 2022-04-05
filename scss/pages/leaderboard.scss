@@ -1,4 +1,8 @@
 .page-leaderboard {
+    max-width: 96rem;
+    margin: 0 auto;
+    grid-template-columns: 1fr 2fr;
+
     .board-container,
     .player-container {
         padding-block: 2rem;
