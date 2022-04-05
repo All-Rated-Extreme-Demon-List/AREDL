@@ -1,4 +1,9 @@
 /**
+ * Numbers of decimal digits to round to
+ */
+const scale = 3;
+
+/**
  * Calculate the score awarded when having a certain percentage on a list level
  * @param {Number} rank Position on the list
  * @param {Number} percent Percentage of completion
@@ -15,8 +20,21 @@ export function score(rank, percent, minPercent) {
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
     if (percent != 100) {
-        return score - score / 3;
+        return round(score - score / 3);
     }
 
-    return score;
+    return round(score);
+}
+
+export function round(num) {
+    if (!('' + num).includes('e')) {
+        return +(Math.round(num + 'e+' + scale) + 'e-' + scale);
+    } else {
+        var arr = ('' + num).split('e');
+        var sig = '';
+        if (+arr[1] + scale > 0) {
+            sig = '+';
+        }
+        return +(Math.round(+arr[0] + 'e' + sig + (+arr[1] + scale)) + 'e-' + scale);
+    }
 }

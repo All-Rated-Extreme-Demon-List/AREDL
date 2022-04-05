@@ -6,12 +6,14 @@
         <link rel="icon" href="/favicon.ico" />
         <link rel="stylesheet" type="text/css" href="/css/reset.css" />
         <link rel="stylesheet" type="text/css" href="/css/main.css" />
-        <!-- <script src="https://unpkg.com/vue@3"></script> -->
-        <script src="/node_modules/vue/dist/vue.global.js"></script>
+        <script src="https://unpkg.com/vue@3"></script>
+        <script src="https://unpkg.com/vue-router@4"></script>
     </head>
     <body>
         <header></header>
-        <main id="app"></main>
+        <main id="app">
+            <router-view></router-view>
+        </main>
         <footer></footer>
         <script type="module" src="/js/main.js"></script>
     </body>

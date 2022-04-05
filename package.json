@@ -8,8 +8,6 @@
     },
     "devDependencies": {
         "prettier": "^2.6.2",
-        "sass": "^1.49.11",
-        "vue": "^3.2.31",
-        "vue-router": "^4.0.14"
+        "sass": "^1.49.11"
     }
 }
