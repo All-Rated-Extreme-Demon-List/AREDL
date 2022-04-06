@@ -5,7 +5,6 @@ h1,
     font-size: 51.4285714286px;
     line-height: 52px;
     font-weight: 700;
-    letter-spacing: -2px;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 h1::before,
@@ -30,7 +29,6 @@ h2,
     font-size: 34.2857142857px;
     line-height: 40px;
     font-weight: 700;
-    letter-spacing: -1.5px;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 h2::before,
@@ -55,7 +53,6 @@ h3,
     font-size: 22.8571428571px;
     line-height: 28px;
     font-weight: 700;
-    letter-spacing: -1px;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 h3::before,

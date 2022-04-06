@@ -17,9 +17,13 @@
         .table {
             display: grid;
             grid-template-columns: max-content 2fr 1fr max-content;
-            grid-auto-rows: 2rem;
+            grid-auto-rows: max-content;
             align-items: center;
             column-gap: 2rem;
+
+            p {
+                padding-block: 1rem;
+            }
 
             .rank,
             .score {
