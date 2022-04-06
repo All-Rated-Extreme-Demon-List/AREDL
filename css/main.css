@@ -12,7 +12,7 @@ body {
 header,
 main {
     display: grid;
-    grid-template-columns: minmax(20rem, 2fr) 5fr minmax(20em, 2fr);
+    grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(16em, 1fr);
     column-gap: 1.5rem;
 }
 
