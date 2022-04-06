@@ -1,7 +1,7 @@
 h1,
 .type-h1,
 .type-headline-lg {
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'times new roman', sans-serif;
     font-size: 51.4285714286px;
     line-height: 52px;
     font-weight: 700;
@@ -26,7 +26,7 @@ h1::after,
 h2,
 .type-h2,
 .type-headline-md {
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'times new roman', sans-serif;
     font-size: 34.2857142857px;
     line-height: 40px;
     font-weight: 700;
@@ -51,7 +51,7 @@ h2::after,
 h3,
 .type-h3,
 .type-headline-sm {
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'verdana', sans-serif;
     font-size: 22.8571428571px;
     line-height: 28px;
     font-weight: 700;
@@ -76,7 +76,7 @@ h3::after,
 h4,
 .type-h4,
 .type-title-lg {
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'verdana', sans-serif;
     font-size: 22.8571428571px;
     line-height: 28px;
     font-weight: 700;
@@ -101,7 +101,7 @@ h4::after,
 h5,
 .type-h5,
 .type-title-md {
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'verdana', sans-serif;
     font-size: 20px;
     line-height: 26px;
     font-weight: 700;
@@ -127,7 +127,7 @@ h6,
 dt,
 .type-h6,
 .type-title-sm {
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'verdana', sans-serif;
     font-size: 17.1428571429px;
     line-height: 24px;
     font-weight: 700;
@@ -152,10 +152,10 @@ dt::after,
 }
 
 .type-label-lg {
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
     font-size: 17.1428571429px;
     line-height: 20px;
-    font-weight: 500;
+    font-weight: bold;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 .type-label-lg::before {
@@ -170,7 +170,7 @@ dt::after,
 }
 
 .type-label-md {
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'verdana', sans-serif;
     font-size: 14.2857142857px;
     line-height: 18px;
     font-weight: 500;
@@ -188,7 +188,7 @@ dt::after,
 }
 
 .type-label-sm {
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'verdana', sans-serif;
     font-size: 11.4285714286px;
     line-height: 12px;
     font-weight: 500;
@@ -207,10 +207,9 @@ dt::after,
 
 p,
 .type-body {
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'verdana', sans-serif;
     font-size: 17.1428571429px;
     line-height: 28px;
-    font-weight: 500;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 p::before,
@@ -221,6 +220,23 @@ p::before,
 }
 p::after,
 .type-body::after {
+    content: '';
+    margin-top: -0.4416666667em;
+    display: table;
+}
+
+.type-mono {
+    font-family: 'Consolas', monospace;
+    font-size: 17.1428571429px;
+    line-height: 28px;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+.type-mono::before {
+    content: '';
+    margin-bottom: -0.4916666667em;
+    display: table;
+}
+.type-mono::after {
     content: '';
     margin-top: -0.4416666667em;
     display: table;

@@ -1,32 +1,22 @@
-:root {
-    --color-background: white;
-    --color-on-background: black;
-    --color-primary: #0066ff;
-    --color-on-primary: white;
+.list li {
+    display: flex;
+    align-items: center;
+    color: white;
+    gap: 1rem;
 }
-
-.list {
-    table-layout: fixed;
-    border: none;
+.list li.active {
+    color: orange;
 }
-.list .list__item.list__item--active .list__level button {
-    background-color: var(--color-primary);
-    color: var(--color-on-primary);
-}
-.list .list__item .list__rank {
-    padding: 1rem;
-    text-align: end;
-}
-.list .list__item .list__level button {
-    background-color: var(--color-background);
-    color: var(--color-on-background);
+.list li button {
+    background-color: transparent;
     border: none;
     border-radius: 0.5rem;
-    padding: 1rem;
+    padding: 0;
     text-align: start;
     line-break: anywhere;
+    padding-block: 1rem;
 }
-.list .list__item .list__level button:hover {
+.list li button:hover {
     background-color: #eee;
     color: black;
     cursor: pointer;

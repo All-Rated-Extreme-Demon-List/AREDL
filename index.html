@@ -6,10 +6,6 @@
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-        <link
-            href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@500;700&display=swap"
-            rel="stylesheet"
-        />
         <link rel="stylesheet" type="text/css" href="/css/reset.css" />
         <link rel="stylesheet" type="text/css" href="/css/typography.css" />
         <link rel="stylesheet" type="text/css" href="/css/main.css" />
@@ -21,8 +17,10 @@
         <script src="https://unpkg.com/vue-router@4"></script>
     </head>
     <body id="app">
-        <header>
-            <div class="logo type-h2">TSL</div>
+        <header class="surface">
+            <div class="logo">
+                <img src="assets/logo.png" alt="" />
+            </div>
             <nav class="nav">
                 <router-link class="nav__tab" to="/">
                     <span class="type-label-lg">List</span>
@@ -43,7 +41,6 @@
             </nav>
         </header>
         <router-view></router-view>
-        <footer></footer>
         <script type="module" src="/js/main.js"></script>
     </body>
 </html>

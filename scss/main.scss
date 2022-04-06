@@ -1,29 +1,34 @@
-@use '_theme' as t;
-
 body {
+    padding: 1.5rem;
     height: 100%;
     display: flex;
     flex-direction: column;
     margin: 0;
-    background-color: t.$background-color;
-    color: t.$on-background-color;
+    // background-color: t.$background-color;
+    background: url('../assets/background.jpg');
+    background-size: cover;
+    color: white;
 }
 
 header,
 main {
     display: grid;
     grid-template-columns: minmax(20rem, 2fr) 5fr minmax(20em, 2fr);
-    column-gap: 2rem;
+    column-gap: 1.5rem;
 }
 
-header {
+header.surface {
+    margin-bottom: 2rem;
+    padding: 0;
     height: 4rem;
-    background-color: t.$primary-color;
-    color: t.$on-primary-color;
 
     .logo {
-        justify-self: end;
+        justify-self: center;
         align-self: center;
+
+        img {
+            height: 3.5rem;
+        }
     }
 }
 
@@ -32,11 +37,18 @@ main {
     flex: 1;
     display: grid;
     grid-template-rows: minmax(0, 1fr);
-    column-gap: 2rem;
+    column-gap: 1.5rem;
 
     > div {
         overflow-y: scroll;
     }
+}
+
+.surface {
+    padding: 1.5rem;
+    background-color: rgba(#000, 0.6);
+    color: white;
+    border: 2px solid white;
 }
 
 .spinner {

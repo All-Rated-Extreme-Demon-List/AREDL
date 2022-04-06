@@ -1,8 +1,3 @@
-.page-list .list-container,
-.page-list .level-container,
-.page-list .meta-container {
-    padding-block: 2rem;
-}
 .page-list .level {
     display: flex;
     flex-direction: column;
@@ -31,16 +26,15 @@
     gap: 1rem;
 }
 .page-list .level .records {
+    display: grid;
+    grid-template-columns: repeat(4, max-content);
+    align-items: center;
     gap: 1rem;
-    table-layout: fixed;
 }
-.page-list .level .records .record {
-    border-bottom: 2px solid #ddd;
-}
-.page-list .level .records .record .link {
+.page-list .level .records .link {
     width: 2rem;
 }
-.page-list .level .records .record .link a {
+.page-list .level .records .link a {
     height: 2rem;
     width: 2rem;
     display: flex;
@@ -49,8 +43,8 @@
     border-radius: 50%;
     transition: background-color;
 }
-.page-list .level .records .record .link a:hover {
-    background-color: rgba(0, 0, 0, 0.1);
+.page-list .level .records .link a:hover {
+    background-color: rgba(255, 255, 255, 0.2);
 }
 .page-list .meta {
     display: flex;
