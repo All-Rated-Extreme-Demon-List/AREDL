@@ -1,49 +1,7 @@
 @use 'util/capsize';
 
-@mixin times($cap-height, $line-gap) {
-    font-family: 'times new roman', sans-serif;
-    @include capsize.capsize(
-        (
-            'capHeight': 700,
-            'ascent': 1000,
-            'descent': -250,
-            'unitsPerEm': 1000,
-        ),
-        $cap-height,
-        $line-gap
-    );
-}
-
-@mixin verdana($cap-height, $line-gap) {
-    font-family: 'verdana', sans-serif;
-    @include capsize.capsize(
-        (
-            'capHeight': 700,
-            'ascent': 1000,
-            'descent': -250,
-            'unitsPerEm': 1000,
-        ),
-        $cap-height,
-        $line-gap
-    );
-}
-
-@mixin comic-sans($cap-height, $line-gap) {
-    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
-    @include capsize.capsize(
-        (
-            'capHeight': 700,
-            'ascent': 1000,
-            'descent': -250,
-            'unitsPerEm': 1000,
-        ),
-        $cap-height,
-        $line-gap
-    );
-}
-
-@mixin consolas($cap-height, $line-gap) {
-    font-family: 'Consolas', monospace;
+@mixin lexend-deca($cap-height, $line-gap) {
+    font-family: 'Lexend Deca', sans-serif;
     @include capsize.capsize(
         (
             'capHeight': 700,
@@ -59,7 +17,7 @@
 h1,
 .type-h1,
 .type-headline-lg {
-    @include times(36, 16); // Headline Large
+    @include lexend-deca(36, 16); // Headline Large
     font-weight: 700;
     -webkit-font-smoothing: subpixel-antialiased;
 }
@@ -67,7 +25,7 @@ h1,
 h2,
 .type-h2,
 .type-headline-md {
-    @include times(24, 16); // Headline Medium
+    @include lexend-deca(24, 16); // Headline Medium
     font-weight: 700;
     -webkit-font-smoothing: subpixel-antialiased;
 }
@@ -75,7 +33,7 @@ h2,
 h3,
 .type-h3,
 .type-headline-sm {
-    @include verdana(16, 12); // Headline Small
+    @include lexend-deca(16, 12); // Headline Small
     font-weight: 700;
     -webkit-font-smoothing: subpixel-antialiased;
 }
@@ -83,7 +41,7 @@ h3,
 h4,
 .type-h4,
 .type-title-lg {
-    @include verdana(16, 12); // Title Large
+    @include lexend-deca(16, 12); // Title Large
     font-weight: 700;
     text-transform: uppercase;
     -webkit-font-smoothing: subpixel-antialiased;
@@ -92,7 +50,7 @@ h4,
 h5,
 .type-h5,
 .type-title-md {
-    @include verdana(14, 12); // Title Medium
+    @include lexend-deca(14, 12); // Title Medium
     font-weight: 700;
     text-transform: uppercase;
     -webkit-font-smoothing: subpixel-antialiased;
@@ -102,37 +60,33 @@ h6,
 dt,
 .type-h6,
 .type-title-sm {
-    @include verdana(12, 12); // Title Small
+    @include lexend-deca(12, 12); // Title Small
     font-weight: 700;
     text-transform: uppercase;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 
 .type-label-lg {
-    @include comic-sans(12, 8); // Label Large
-    font-weight: bold;
+    @include lexend-deca(12, 8); // Label Large
+    font-weight: 500;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 
 .type-label-md {
-    @include verdana(10, 8); // Label Medium
+    @include lexend-deca(10, 8); // Label Medium
     font-weight: 500;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 
 .type-label-sm {
-    @include verdana(8, 4); // Label Small
+    @include lexend-deca(8, 4); // Label Small
     font-weight: 500;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 
 p,
 .type-body {
-    @include verdana(12, 16); // Body Medium
-    -webkit-font-smoothing: subpixel-antialiased;
-}
-
-.type-mono {
-    @include consolas(12, 16);
+    @include lexend-deca(12, 16); // Body Medium
+    font-weight: 500;
     -webkit-font-smoothing: subpixel-antialiased;
 }

@@ -12,16 +12,21 @@ export default {
             <Spinner></Spinner>
         </main>
         <main v-else class="page-list">
-            <div class="list-container surface">
-                <ol class="list">
-                    <li v-for="(level, i) in list" :class="{ 'active': selected == i }">
-                        <button @click="selected = i">
-                            <p class="type-label-lg">#{{ i + 1 }} &mdash; {{ level.name }}</p>
-                        </button>
-                    </li>
-                </ol>
+            <div class="list-container">
+                <table class="list">
+                    <tr v-for="(level, i) in list" class="list__item" :class="{ 'list__item--active': selected == i }">
+                        <td class="list__rank">
+                            <p class="type-label-lg">#{{ i + 1 }}</p>
+                        </td>
+                        <td class="list__level">
+                            <button @click="selected = i">
+                                <span class="type-label-lg">{{ level.name }}</span>
+                            </button>
+                        </td>
+                    </tr>
+                </table>
             </div>
-            <div class="level-container surface">
+            <div class="level-container">
                 <div class="level">
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
@@ -62,7 +67,7 @@ export default {
                     </div>
                 </div>
             </div>
-            <div class="meta-container surface">
+            <div class="meta-container">
                 <div class="meta">
                     <h3>List Editors</h3>
                     <ul class="editors">

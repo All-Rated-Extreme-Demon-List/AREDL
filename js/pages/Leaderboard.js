@@ -17,16 +17,24 @@ export default {
             <Spinner></Spinner>
         </main>
         <main v-else class="page-leaderboard">
-            <div class="board-container surface">
-                <ol class="list">
-                    <li v-for="(ientry, i) in leaderboard" class="list__item" :class="{ 'active': selected == i }">
-                        <button @click="selected = i">
-                            <p class="type-label-lg">#{{ i + 1 }} &mdash; {{ localize(ientry.total) }}: {{ ientry.user }}</p>
-                        </button>
-                    </li>
-                </ol>
+            <div class="board-container">
+                <table class="list">
+                    <tr v-for="(ientry, i) in leaderboard" class="list__item" :class="{ 'list__item--active': selected == i }">
+                        <td class="list__rank">
+                            <p class="type-label-lg">#{{ i + 1 }}</p>
+                        </td>
+                        <td class="list__rank">
+                            <p class="type-label-lg">{{ localize(ientry.total) }}</p>
+                        </td>
+                        <td class="list__level">
+                            <button @click="selected = i">
+                                <span class="type-label-lg">{{ ientry.user }}</span>
+                            </button>
+                        </td>
+                    </tr>
+                </table>
             </div>
-            <div class="player-container surface">
+            <div class="player-container">
                 <div class="player">
                     <h1>#{{ selected + 1 }} {{ entry.user }}</h1>
                     <h3>{{ entry.total }}</h3>
@@ -37,7 +45,7 @@ export default {
                             <p>{{ score.level }}</p>
                             <p class="score">+{{ localize(score.score) }}</p>
                             <a :href="score.link">
-                                <img src="assets/video.svg" alt="Video">
+                                <img src="/assets/video.svg" alt="Video">
                             </a>
                         </templa>
                     </div>
@@ -48,7 +56,7 @@ export default {
                             <p>{{ score.level }}</p>
                             <p class="score">+{{ localize(score.score) }}</p>
                             <a :href="score.link">
-                                <img src="assets/video.svg" alt="Video">
+                                <img src="/assets/video.svg" alt="Video">
                             </a>
                         </template>
                     </div>
@@ -59,7 +67,7 @@ export default {
                             <p>{{ score.percent }}% {{ score.level }}</p>
                             <p class="score">+{{ localize(score.score) }}</p>
                             <a :href="score.link">
-                                <img src="assets/video.svg" alt="Video">
+                                <img src="/assets/video.svg" alt="Video">
                             </a>
                         </temp>
                     </div>

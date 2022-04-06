@@ -1,3 +1,8 @@
+.page-list .list-container,
+.page-list .level-container,
+.page-list .meta-container {
+    padding-block: 2rem;
+}
 .page-list .level {
     display: flex;
     flex-direction: column;
@@ -27,7 +32,7 @@
 }
 .page-list .level .records {
     display: grid;
-    grid-template-columns: repeat(4, max-content);
+    grid-template-columns: max-content 2fr 1fr max-content;
     align-items: center;
     gap: 1rem;
 }
@@ -44,7 +49,7 @@
     transition: background-color;
 }
 .page-list .level .records .link a:hover {
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(0, 0, 0, 0.1);
 }
 .page-list .meta {
     display: flex;

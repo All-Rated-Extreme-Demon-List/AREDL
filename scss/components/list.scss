@@ -1,22 +1,30 @@
-.list {
-    li {
-        display: flex;
-        align-items: center;
-        color: white;
-        gap: 1rem;
+@use '../_theme' as t;
 
-        &.active {
-            color: orange;
+.list {
+    table-layout: fixed;
+    border: none;
+
+    .list__item {
+        &.list__item--active {
+            .list__level button {
+                background-color: t.$primary-color;
+                color: t.$on-primary-color;
+            }
         }
 
-        button {
-            background-color: transparent;
+        .list__rank {
+            padding: 1rem;
+            text-align: end;
+        }
+
+        .list__level button {
+            background-color: t.$background-color;
+            color: t.$on-background-color;
             border: none;
             border-radius: 0.5rem;
-            padding: 0;
+            padding: 1rem;
             text-align: start;
             line-break: anywhere;
-            padding-block: 1rem;
 
             &:hover {
                 background-color: #eee;

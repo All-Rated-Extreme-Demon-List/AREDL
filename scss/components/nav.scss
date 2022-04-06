@@ -1,3 +1,5 @@
+@use '../_theme' as t;
+
 .nav {
     display: flex;
     column-gap: 2rem;
@@ -7,17 +9,16 @@
         border-bottom: 4px solid transparent;
         display: flex;
         align-items: center;
+        padding-inline: 1rem;
         transition: border-color 100ms ease;
 
         &.router-link-active {
             // Special Vue-Router class
-            color: orange;
+            border-color: t.$on-primary-color;
         }
 
         &:hover {
-            background-color: #eee;
-            color: black;
-            cursor: pointer;
+            border-color: t.$on-primary-color;
         }
     }
 
@@ -47,13 +48,15 @@
         }
 
         .nav__cta {
-            padding: 0.5rem;
-            color: black;
-            border: 4px outset #eee;
-            background-color: #ccc;
+            padding: 1rem;
+            background-color: t.$on-primary-color;
+            color: t.$primary-color;
+            border-radius: 0.5rem;
+            box-shadow: 0 1px 0.5rem 0 rgba(#006, 0.5);
+            transition: transform 100ms ease;
 
-            &:active {
-                border-style: inset;
+            &:hover:not(:active) {
+                transform: translateY(-2px);
             }
         }
     }

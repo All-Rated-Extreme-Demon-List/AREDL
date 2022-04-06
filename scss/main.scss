@@ -1,13 +1,12 @@
+@use '_theme' as t;
+
 body {
-    padding: 1.5rem;
     height: 100%;
     display: flex;
     flex-direction: column;
     margin: 0;
-    // background-color: t.$background-color;
-    background: url('../assets/background.jpg');
-    background-size: cover;
-    color: white;
+    background-color: t.$background-color;
+    color: t.$on-background-color;
 }
 
 header,
@@ -17,18 +16,14 @@ main {
     column-gap: 1.5rem;
 }
 
-header.surface {
-    margin-bottom: 2rem;
-    padding: 0;
+header {
     height: 4rem;
+    background-color: t.$primary-color;
+    color: t.$on-primary-color;
 
     .logo {
-        justify-self: center;
+        justify-self: end;
         align-self: center;
-
-        img {
-            height: 3.5rem;
-        }
     }
 }
 
@@ -37,18 +32,11 @@ main {
     flex: 1;
     display: grid;
     grid-template-rows: minmax(0, 1fr);
-    column-gap: 1.5rem;
+    column-gap: 2rem;
 
     > div {
         overflow-y: scroll;
     }
-}
-
-.surface {
-    padding: 1.5rem;
-    background-color: rgba(#000, 0.6);
-    color: white;
-    border: 2px solid white;
 }
 
 .spinner {

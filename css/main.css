@@ -1,12 +1,17 @@
+:root {
+    --color-background: white;
+    --color-on-background: black;
+    --color-primary: #0066ff;
+    --color-on-primary: white;
+}
+
 body {
-    padding: 1.5rem;
     height: 100%;
     display: flex;
     flex-direction: column;
     margin: 0;
-    background: url('../assets/background.jpg');
-    background-size: cover;
-    color: white;
+    background-color: var(--color-background);
+    color: var(--color-on-background);
 }
 
 header,
@@ -16,17 +21,14 @@ main {
     column-gap: 1.5rem;
 }
 
-header.surface {
-    margin-bottom: 2rem;
-    padding: 0;
+header {
     height: 4rem;
+    background-color: var(--color-primary);
+    color: var(--color-on-primary);
 }
-header.surface .logo {
-    justify-self: center;
+header .logo {
+    justify-self: end;
     align-self: center;
-}
-header.surface .logo img {
-    height: 3.5rem;
 }
 
 main {
@@ -34,17 +36,10 @@ main {
     flex: 1;
     display: grid;
     grid-template-rows: minmax(0, 1fr);
-    column-gap: 1.5rem;
+    column-gap: 2rem;
 }
 main > div {
     overflow-y: scroll;
-}
-
-.surface {
-    padding: 1.5rem;
-    background-color: rgba(0, 0, 0, 0.6);
-    color: white;
-    border: 2px solid white;
 }
 
 .spinner {

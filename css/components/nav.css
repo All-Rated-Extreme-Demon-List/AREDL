@@ -1,3 +1,10 @@
+:root {
+    --color-background: white;
+    --color-on-background: black;
+    --color-primary: #0066ff;
+    --color-on-primary: white;
+}
+
 .nav {
     display: flex;
     column-gap: 2rem;
@@ -7,15 +14,14 @@
     border-bottom: 4px solid transparent;
     display: flex;
     align-items: center;
+    padding-inline: 1rem;
     transition: border-color 100ms ease;
 }
 .nav .nav__tab.router-link-active {
-    color: orange;
+    border-color: var(--color-on-primary);
 }
 .nav .nav__tab:hover {
-    background-color: #eee;
-    color: black;
-    cursor: pointer;
+    border-color: var(--color-on-primary);
 }
 .nav .nav__actions {
     flex: 1;
@@ -40,13 +46,15 @@
     height: 1.5rem;
 }
 .nav .nav__actions .nav__cta {
-    padding: 0.5rem;
-    color: black;
-    border: 4px outset #eee;
-    background-color: #ccc;
+    padding: 1rem;
+    background-color: var(--color-on-primary);
+    color: var(--color-primary);
+    border-radius: 0.5rem;
+    box-shadow: 0 1px 0.5rem 0 rgba(0, 0, 102, 0.5);
+    transition: transform 100ms ease;
 }
-.nav .nav__actions .nav__cta:active {
-    border-style: inset;
+.nav .nav__actions .nav__cta:hover:not(:active) {
+    transform: translateY(-2px);
 }
 
 /*# sourceMappingURL=nav.css.map */
