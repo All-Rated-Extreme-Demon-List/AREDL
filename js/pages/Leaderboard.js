@@ -47,7 +47,7 @@ export default {
                             <a :href="score.link">
                                 <img src="/assets/video.svg" alt="Video">
                             </a>
-                        </templa>
+                        </template>
                     </div>
                     <h2 v-if="entry.completed.length > 0">Completed</h2>
                     <div class="table">
@@ -69,7 +69,7 @@ export default {
                             <a :href="score.link">
                                 <img src="/assets/video.svg" alt="Video">
                             </a>
-                        </temp>
+                        </template>
                     </div>
                 </div>
             </div>
