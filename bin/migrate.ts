@@ -1,4 +1,4 @@
-import { d } from '../js/list.js';
+import { d } from './list.js';
 
 type List = {
     id: number;

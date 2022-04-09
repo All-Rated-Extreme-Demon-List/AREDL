@@ -7,7 +7,7 @@ import LevelAuthors from '../components/List/LevelAuthors.js';
 
 const roleIconMap = {
     owner: '/assets/crown.svg',
-    helper: '/assets/user-gear.svg',
+    admin: '/assets/user-gear.svg',
     dev: '/assets/code.svg',
 };
 
