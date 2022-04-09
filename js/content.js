@@ -21,6 +21,12 @@ export async function fetchList() {
     );
 }
 
+export async function fetchEditors() {
+    const editorsResults = await fetch(`${dir}/_editors.json`);
+    const editors = await editorsResults.json();
+    return editors;
+}
+
 export async function fetchLeaderboard() {
     const list = await fetchList();
 

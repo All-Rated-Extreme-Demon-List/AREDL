@@ -1,9 +1,15 @@
 import { embed } from '../util.js';
 import { score } from '../score.js';
-import { fetchList } from '../content.js';
+import { fetchList, fetchEditors } from '../content.js';
 
 import Spinner from '../components/Spinner.js';
 import LevelAuthors from '../components/List/LevelAuthors.js';
+
+const roleIconMap = {
+    owner: '/assets/crown.svg',
+    helper: '/assets/user-gear.svg',
+    dev: '/assets/code.svg',
+};
 
 export default {
     components: { Spinner, LevelAuthors },
@@ -70,40 +76,12 @@ export default {
             <div class="meta-container">
                 <div class="meta">
                     <h3>List Editors</h3>
-                    <ul class="editors">
-                        <li>
-                            <img src="/assets/crown.svg" alt="Owner">
-                            <p>IRaily</p>
+                    <ol class="editors">
+                        <li v-for="editor in editors">
+                            <img :src="roleIconMap[editor.role]" :alt="editor.role">
+                            <p>{{ editor.name }}</p>
                         </li>
-                        <li>
-                            <img src="/assets/user-gear.svg" alt="Helper">
-                            <p>AcropolisBoy</p>
-                        </li>
-                        <li>
-                            <img src="/assets/user-gear.svg" alt="Helper">
-                            <p>SupaX_</p>
-                        </li>
-                        <li>
-                            <img src="/assets/user-gear.svg" alt="Helper">
-                            <p>ExtremeBeemon</p>
-                        </li>
-                        <li>
-                            <img src="/assets/user-gear.svg" alt="Helper">
-                            <p>hex</p>
-                        </li>
-                        <li>
-                            <img src="/assets/user-gear.svg" alt="Helper">
-                            <p>Davine_007</p>
-                        </li>
-                        <li>
-                            <img src="/assets/code.svg" alt="Developer">
-                            <p>Electro</p>
-                        </li>
-                        <li>
-                            <img src="/assets/code.svg" alt="Developer">
-                            <p>Prometheus</p>
-                        </li>
-                    </ul>
+                    </ol>
                     <h3>Submission Requirements</h3>
                     <p>
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
@@ -132,8 +110,10 @@ export default {
     `,
     data: () => ({
         list: [],
+        editors: [],
         loading: true,
         selected: 0,
+        roleIconMap,
     }),
     computed: {
         level() {
@@ -143,6 +123,7 @@ export default {
     async mounted() {
         // Hide loading spinner
         this.list = await fetchList();
+        this.editors = await fetchEditors();
         this.loading = false;
     },
     methods: {
