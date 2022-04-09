@@ -38,7 +38,7 @@ export default {
                 <div class="player">
                     <h1>#{{ selected + 1 }} {{ entry.user }}</h1>
                     <h3>{{ entry.total }}</h3>
-                    <h2>Verified</h2>
+                    <h2 v-if="entry.verified.length > 0">Verified</h2>
                     <div class="table">
                         <template v-for="score in entry.verified">
                             <p class="rank">#{{ score.rank }}</p>
@@ -49,7 +49,7 @@ export default {
                             </a>
                         </templa>
                     </div>
-                    <h2>Completed</h2>
+                    <h2 v-if="entry.completed.length > 0">Completed</h2>
                     <div class="table">
                         <template v-for="score in entry.completed">
                             <p class="rank">#{{ score.rank }}</p>
@@ -60,7 +60,7 @@ export default {
                             </a>
                         </template>
                     </div>
-                    <h2>Progressed</h2>
+                    <h2 v-if="entry.progressed.length > 0">Progressed</h2>
                     <div class="table">
                         <template v-for="score in entry.progressed">
                             <p class="rank">#{{ score.rank }}</p>
