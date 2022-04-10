@@ -58,16 +58,11 @@ export default {
                             <div class="percent">
                                 <p>{{ record.percent }}%</p>
                             </div>
-                            <div class="user">
-                                <p>{{ record.user }}</p>
-                            </div>
+                            <a class="user" :href="record.link">
+                                <span class="type-label-lg">{{ record.user }}</span>
+                            </a>
                             <div class="hz">
                                 <p>{{ record.hz }}Hz</p>
-                            </div>
-                            <div class="link">
-                                <a :href="record.link">
-                                    <img src="/assets/video.svg" alt="Video">
-                                </a>
                             </div>
                         </template>
                     </div>

@@ -42,7 +42,7 @@
         }
     }
 
-    .level {
+    .level-container .level {
         display: flex;
         flex-direction: column;
         gap: 2rem;
@@ -63,6 +63,7 @@
         .stats {
             display: flex;
             justify-content: space-evenly;
+            text-align: center;
             gap: 2rem;
 
             li {
@@ -75,26 +76,18 @@
 
         .records {
             display: grid;
-            grid-template-columns: max-content 2fr 1fr max-content;
+            grid-template-columns: max-content 1fr max-content;
             align-items: center;
-            gap: 1rem;
+            column-gap: 1rem;
 
-            .link {
-                width: 2rem;
+            .percent,
+            .user,
+            .hz {
+                padding-block: 1rem;
+            }
 
-                a {
-                    height: 2rem;
-                    width: 2rem;
-                    display: flex;
-                    align-items: center;
-                    justify-content: center;
-                    border-radius: 50%;
-                    transition: background-color;
-
-                    &:hover {
-                        background-color: rgba(#000, 0.1);
-                    }
-                }
+            a:hover {
+                text-decoration: underline;
             }
         }
     }
