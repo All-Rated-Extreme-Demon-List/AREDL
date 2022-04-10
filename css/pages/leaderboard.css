@@ -40,7 +40,8 @@
     border-radius: 0.5rem;
     padding: 1rem;
     text-align: start;
-    word-break: break-all;
+    word-break: normal;
+    overflow-wrap: anywhere;
 }
 .page-leaderboard .board .user button:hover {
     background-color: #eee;

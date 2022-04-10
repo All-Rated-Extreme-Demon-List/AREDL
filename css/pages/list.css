@@ -14,7 +14,7 @@
     padding-inline: 1rem;
 }
 .page-list .list {
-    table-layout: fixed;
+    table-layout: auto;
 }
 .page-list .list .rank {
     text-align: end;
@@ -30,6 +30,8 @@
     border-radius: 0.5rem;
     padding: 1rem;
     text-align: start;
+    word-break: normal;
+    overflow-wrap: anywhere;
 }
 .page-list .list .level button:hover {
     background-color: #eee;
