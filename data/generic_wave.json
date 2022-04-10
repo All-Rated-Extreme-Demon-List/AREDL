@@ -101,7 +101,7 @@
         {
             "user": "DeNora17",
             "link": "https://youtu.be/OWmgj1mu5YQ",
-            "percent": 100,
+            "percent": 66,
             "hz": 240
         },
         {
@@ -121,6 +121,12 @@
             "link": "https://www.youtube.com/watch?v=YHQR4bna5Ao&ab_channel=ImCrisGD",
             "percent": 65,
             "hz": 240
+        },
+        {
+            "user": "Korvak",
+            "link": "https://youtu.be/4CO8MzsuFqg",
+            "percent": 100,
+            "hz": 288
         }
     ]
 }

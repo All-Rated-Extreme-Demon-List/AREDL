@@ -87,12 +87,6 @@
             "hz": 180
         },
         {
-            "user": "train",
-            "link": "https://youtu.be/yJ5F_mdO3Ng",
-            "percent": 100,
-            "hz": 165
-        },
-        {
             "user": "Riptide",
             "link": "https://youtu.be/PqQMRlDY1IU",
             "percent": 100,
@@ -109,6 +103,12 @@
             "link": "https://www.youtube.com/watch?v=JBBuCtgNVoM",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "train",
+            "link": "https://youtu.be/yJ5F_mdO3Ng",
+            "percent": 100,
+            "hz": 165
         }
     ]
 }

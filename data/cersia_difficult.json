@@ -2,7 +2,14 @@
     "id": 77433701,
     "name": "Shitty Cersia Difficult",
     "author": "Prometheus",
-    "creators": ["sarcasticmuch", "TravelChimp", "zFice", "eninem", "Kiwi1938", "Spaace"],
+    "creators": [
+        "sarcasticmuch",
+        "TravelChimp",
+        "zFice",
+        "eninem",
+        "Kiwi1938",
+        "Spaace"
+    ],
     "verifier": "Magmeta",
     "verification": "https://www.youtube.com/watch?v=UQWIefA2Cio",
     "percentToQualify": 60,
@@ -14,7 +21,7 @@
             "hz": 144
         },
         {
-            "user": "ExtremeBeemon",
+            "user": "attrixia",
             "link": "https://www.youtube.com/watch?v=cG4-tK1RHZs",
             "percent": 100,
             "hz": 150

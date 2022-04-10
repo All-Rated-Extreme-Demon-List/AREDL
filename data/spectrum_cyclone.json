@@ -3,7 +3,7 @@
     "name": "Shitty Spectrum Cyclone",
     "author": "Lil_Creator",
     "creators": [],
-    "verifier": "Qb1",
+    "verifier": "qb1",
     "verification": "https://youtu.be/1VMFNpNmOjI",
     "percentToQualify": 60,
     "records": [
@@ -12,6 +12,42 @@
             "link": "https://www.youtube.com/watch?v=L_ECeUhF9Fo",
             "percent": 100,
             "hz": 165
+        },
+        {
+            "user": "Decin0",
+            "link": "https://youtu.be/fxYlM_4Ws-s",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "GD CrimsonKing22",
+            "link": "https://www.youtube.com/watch?v=uxpQwGGa3Hs&ab_channel=GDCrimsonKing22",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "KylashTheKiller",
+            "link": "https://youtu.be/9HJ7I9zRIlU",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "attrixia",
+            "link": "https://www.youtube.com/watch?v=iVWF9ew_a4g",
+            "percent": 100,
+            "hz": 150
+        },
+        {
+            "user": "Shel",
+            "link": "https://youtu.be/7-ZYAqE9Hek",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Holojen",
+            "link": "https://youtu.be/tsbL_FvmxEY",
+            "percent": 100,
+            "hz": 288
         }
     ]
 }

@@ -5,7 +5,7 @@
     "creators": [],
     "verifier": "GDTeabag",
     "verification": "https://www.youtube.com/watch?v=xfVsvIPErG4",
-    "percentToQualify": 65,
+    "percentToQualify": 100,
     "password": "536942",
     "records": [
         {
@@ -117,21 +117,9 @@
             "hz": 360
         },
         {
-            "user": "Facu361",
-            "link": "https://youtu.be/NWnWqQ7WpeM",
-            "percent": 79,
-            "hz": 360
-        },
-        {
             "user": "Fh1r",
             "link": "https://www.youtube.com/watch?v=Gqef5TOvovc",
             "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Krys",
-            "link": "https://www.youtube.com/watch?v=Zwlytkpk47g",
-            "percent": 72,
             "hz": 240
         },
         {
@@ -139,12 +127,6 @@
             "link": "https://youtu.be/-EjBpD9XhtU",
             "percent": 100,
             "hz": 200
-        },
-        {
-            "user": "wexxy",
-            "link": "https://youtu.be/cZYN2zdTQ8I",
-            "percent": 84,
-            "hz": 360
         },
         {
             "user": "DNM121",
@@ -165,18 +147,6 @@
             "hz": 360
         },
         {
-            "user": "Ruzzet",
-            "link": "https://youtu.be/tAURjW3kqYk",
-            "percent": 70,
-            "hz": 360
-        },
-        {
-            "user": "Invinceicube",
-            "link": "https://www.youtube.com/watch?v=m40YrTtCVUQ&t=16s",
-            "percent": 80,
-            "hz": 300
-        },
-        {
             "user": "Shel",
             "link": "https://youtu.be/XiH7lEjHFns",
             "percent": 100,
@@ -189,12 +159,6 @@
             "hz": 165
         },
         {
-            "user": "ItsAsianGuy",
-            "link": "https://youtu.be/5iJVaKzH0qA",
-            "percent": 66,
-            "hz": 240
-        },
-        {
             "user": "zMushi",
             "link": "https://www.youtube.com/watch?v=hsNBnE08ChY",
             "percent": 100,
@@ -205,12 +169,6 @@
             "link": "https://www.youtube.com/watch?v=tIglcea4xlc",
             "percent": 100,
             "hz": 288
-        },
-        {
-            "user": "quadD",
-            "link": "https://www.youtube.com/watch?v=ON5Tr8jECtg",
-            "percent": 73,
-            "hz": 120
         },
         {
             "user": "Lisa",
@@ -235,18 +193,6 @@
             "link": "https://www.youtube.com/watch?v=5fV2uc92RdE",
             "percent": 100,
             "hz": 240
-        },
-        {
-            "user": "AriCattus",
-            "link": "https://www.youtube.com/watch?v=ZoB7V7GxyoA",
-            "percent": 72,
-            "hz": 330
-        },
-        {
-            "user": "IvanRK",
-            "link": "https://www.youtube.com/watch?v=hb39bgMSHto&t=26s",
-            "percent": 66,
-            "hz": 120
         },
         {
             "user": "AranXRE",
@@ -277,18 +223,6 @@
             "link": "https://www.youtube.com/watch?v=BXJ2TrU93_Y",
             "percent": 100,
             "hz": 288
-        },
-        {
-            "user": "train",
-            "link": "https://www.youtube.com/watch?v=wrnplApQWCs&",
-            "percent": 65,
-            "hz": 165
-        },
-        {
-            "user": "Shiz",
-            "link": "https://www.youtube.com/watch?v=JcqanWKgDNc",
-            "percent": 84,
-            "hz": 360
         },
         {
             "user": "Papote Malote",
@@ -349,6 +283,24 @@
             "link": "https://youtu.be/kA4wJvwcQi8",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "Brownie",
+            "link": "https://youtu.be/TB9avlsl1X0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ZerniasX",
+            "link": "https://youtu.be/pO1L8CSPxAE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "BlueTomcat",
+            "link": "https://youtu.be/Y4EenlrXk8M",
+            "percent": 100,
+            "hz": 288
         }
     ]
 }
