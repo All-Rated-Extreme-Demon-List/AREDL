@@ -13,17 +13,28 @@ header,
 main {
     display: grid;
     grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(16em, 1fr);
-    column-gap: 1.5rem;
+    column-gap: 2rem;
 }
 
 header {
+    display: flex;
+    padding-inline: calc(12.5vw);
     height: 4rem;
     background-color: t.$primary-color;
     color: t.$on-primary-color;
 
+    @media screen and (min-width: 1280px) {
+        display: grid;
+        padding-inline: 0;
+    }
+
     .logo {
         justify-self: end;
         align-self: center;
+    }
+
+    .nav {
+        flex: 1;
     }
 }
 

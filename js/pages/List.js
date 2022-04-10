@@ -19,18 +19,18 @@ export default {
         </main>
         <main v-else class="page-list">
             <div class="list-container">
-                <table class="list">
-                    <tr v-for="(level, i) in list" class="list__item" :class="{ 'list__item--active': selected == i }">
-                        <td class="list__rank">
+                <div class="list">
+                    <template v-for="(level, i) in list">
+                        <div class="rank">
                             <p class="type-label-lg">#{{ i + 1 }}</p>
-                        </td>
-                        <td class="list__level">
+                        </div>
+                        <div class="level" :class="{ 'active': selected == i }">
                             <button @click="selected = i">
                                 <span class="type-label-lg">{{ level.name }}</span>
                             </button>
-                        </td>
-                    </tr>
-                </table>
+                        </div>
+                    </template>
+                </div>
             </div>
             <div class="level-container">
                 <div class="level">

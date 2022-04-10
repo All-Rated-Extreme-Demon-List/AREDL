@@ -18,21 +18,21 @@ export default {
         </main>
         <main v-else class="page-leaderboard">
             <div class="board-container">
-                <table class="list">
-                    <tr v-for="(ientry, i) in leaderboard" class="list__item" :class="{ 'list__item--active': selected == i }">
-                        <td class="list__rank">
+                <div class="board">
+                    <template v-for="(ientry, i) in leaderboard">
+                        <div class="rank">
                             <p class="type-label-lg">#{{ i + 1 }}</p>
-                        </td>
-                        <td class="list__rank">
+                        </div>
+                        <div class="total">
                             <p class="type-label-lg">{{ localize(ientry.total) }}</p>
-                        </td>
-                        <td class="list__level">
+                        </div>
+                        <div class="user" :class="{ 'active': selected == i }">
                             <button @click="selected = i">
                                 <span class="type-label-lg">{{ ientry.user }}</span>
                             </button>
-                        </td>
-                    </tr>
-                </table>
+                        </div>
+                    </template>
+                </div>
             </div>
             <div class="player-container">
                 <div class="player">
@@ -42,33 +42,24 @@ export default {
                     <div class="table">
                         <template v-for="score in entry.verified">
                             <p class="rank">#{{ score.rank }}</p>
-                            <p>{{ score.level }}</p>
+                            <a class="level type-label-lg" :href="score.link">{{ score.level }}</a>
                             <p class="score">+{{ localize(score.score) }}</p>
-                            <a :href="score.link">
-                                <img src="/assets/video.svg" alt="Video">
-                            </a>
                         </template>
                     </div>
                     <h2 v-if="entry.completed.length > 0">Completed</h2>
                     <div class="table">
                         <template v-for="score in entry.completed">
                             <p class="rank">#{{ score.rank }}</p>
-                            <p>{{ score.level }}</p>
+                            <a class="level type-label-lg" :href="score.link">{{ score.level }}</a>
                             <p class="score">+{{ localize(score.score) }}</p>
-                            <a :href="score.link">
-                                <img src="/assets/video.svg" alt="Video">
-                            </a>
                         </template>
                     </div>
                     <h2 v-if="entry.progressed.length > 0">Progressed</h2>
                     <div class="table">
                         <template v-for="score in entry.progressed">
                             <p class="rank">#{{ score.rank }}</p>
-                            <p>{{ score.percent }}% {{ score.level }}</p>
+                            <a class="level type-label-lg" :href="score.link">{{ score.percent }}% {{ score.level }}</a>
                             <p class="score">+{{ localize(score.score) }}</p>
-                            <a :href="score.link">
-                                <img src="/assets/video.svg" alt="Video">
-                            </a>
                         </template>
                     </div>
                 </div>

@@ -18,17 +18,28 @@ header,
 main {
     display: grid;
     grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(16em, 1fr);
-    column-gap: 1.5rem;
+    column-gap: 2rem;
 }
 
 header {
+    display: flex;
+    padding-inline: 12.5vw;
     height: 4rem;
     background-color: var(--color-primary);
     color: var(--color-on-primary);
 }
+@media screen and (min-width: 1280px) {
+    header {
+        display: grid;
+        padding-inline: 0;
+    }
+}
 header .logo {
     justify-self: end;
     align-self: center;
+}
+header .nav {
+    flex: 1;
 }
 
 main {
