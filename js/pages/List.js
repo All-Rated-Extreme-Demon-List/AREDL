@@ -1,14 +1,14 @@
-import { embed } from '../util.js';
-import { score } from '../score.js';
-import { fetchList, fetchEditors } from '../content.js';
+import { embed } from "../util.js";
+import { score } from "../score.js";
+import { fetchList, fetchEditors } from "../content.js";
 
-import Spinner from '../components/Spinner.js';
-import LevelAuthors from '../components/List/LevelAuthors.js';
+import Spinner from "../components/Spinner.js";
+import LevelAuthors from "../components/List/LevelAuthors.js";
 
 const roleIconMap = {
-    owner: '/assets/crown.svg',
-    admin: '/assets/user-gear.svg',
-    dev: '/assets/code.svg',
+    owner: "/assets/crown.svg",
+    admin: "/assets/user-gear.svg",
+    dev: "/assets/code.svg",
 };
 
 export default {
@@ -22,7 +22,8 @@ export default {
                 <div class="list">
                     <template v-for="(level, i) in list">
                         <div class="rank">
-                            <p class="type-label-lg">#{{ i + 1 }}</p>
+                            <p v-if="i + 1 <= 150" class="type-label-lg">#{{ i + 1 }}</p>
+                            <p v-else class="type-label-lg">Legacy</p>
                         </div>
                         <div class="level" :class="{ 'active': selected == i }">
                             <button @click="selected = i">
