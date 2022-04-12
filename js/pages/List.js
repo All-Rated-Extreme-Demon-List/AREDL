@@ -77,7 +77,8 @@ export default {
                     <ol class="editors">
                         <li v-for="editor in editors">
                             <img :src="roleIconMap[editor.role]" :alt="editor.role">
-                            <p>{{ editor.name }}</p>
+                            <a v-if="editor.link" class="type-label-lg link" :href="editor.link">{{ editor.name }}</a>
+                            <p v-else>{{ editor.name }}</p>
                         </li>
                     </ol>
                     <h3>Submission Requirements</h3>

@@ -109,3 +109,6 @@
 .page-list .meta .editors li img {
     height: 1.25rem;
 }
+.page-list .meta .editors li a:hover {
+    text-decoration: underline;
+}

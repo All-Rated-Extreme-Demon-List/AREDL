@@ -1,27 +1,33 @@
 [
     {
         "role": "owner",
-        "name": "iRaily"
+        "name": "iRaily",
+        "link": "https://www.youtube.com/channel/UCM-QcWkSJ-mc_9g8s-AdZ4Q"
     },
     {
         "role": "admin",
-        "name": "AcropolisBoy"
+        "name": "AcropolisBoy",
+        "link": "https://www.youtube.com/channel/UCNjxCcZhFahytBAInhFfwnQ"
     },
     {
         "role": "admin",
-        "name": "SupaX_"
+        "name": "SupaX_",
+        "link": "https://www.youtube.com/channel/UCyMUc0STd5Vu5y1gFLdHtbQ"
     },
     {
         "role": "admin",
-        "name": "ExtremeBeemon"
+        "name": "attrixia",
+        "link": "https://www.youtube.com/channel/UCuIjp9tid4fAwzPkqXkvlOg"
     },
     {
         "role": "helper",
-        "name": "hex"
+        "name": "hex",
+        "link": "https://www.youtube.com/channel/UCjtbb0De-o33CwRxucn-bCg"
     },
     {
         "role": "helper",
-        "name": "Davine"
+        "name": "Davine_007",
+        "link": "https://www.youtube.com/channel/UCdFZfQWXHkJkofMyorv0ccw"
     },
     {
         "role": "dev",
@@ -29,10 +35,12 @@
     },
     {
         "role": "dev",
-        "name": "Prometheus"
+        "name": "Prometheus",
+        "link": "https://www.youtube.com/c/PrometheusCoding/"
     },
     {
         "role": "dev",
-        "name": "Emonadeo"
+        "name": "Emonadeo",
+        "link": "https://github.com/Emonadeo"
     }
 ]
