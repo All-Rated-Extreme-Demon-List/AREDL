@@ -48,7 +48,7 @@ What's an easy way to prove I don't hack?
 It's been like more than a week and my record still hasn't been added, what do i
 do?
 
--   You can ask us in [#list-support](https://discord.gg/jRAYbe6w6z) , it was
+-   You can ask us in [#list-support](discord.gg/shittylist) , it was
     probably an accidentally deleted record(yes it happens), accidentally deleting
     the form, your name was mispelled or you were rejected for cheating
 
