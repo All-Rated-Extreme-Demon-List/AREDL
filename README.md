@@ -94,6 +94,7 @@ Can i submit Multiple levels on 1 video?
 
 -   Davine
 -   hex
+-   KylashTheKiller
 
 ---
 
@@ -101,7 +102,6 @@ Can i submit Multiple levels on 1 video?
 
 -   LBoke
 -   frigusterio
--   KylashTheKiller
 -   Nolife
 
 ---
