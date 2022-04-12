@@ -7,5 +7,36 @@
     "verification": "https://www.youtube.com/watch?v=H5RI1rG31-U",
     "percentToQualify": 53,
     "password": "Not copyable",
-    "records": []
+    "records": [
+        {
+            "user": "attrixia",
+            "link": "https://youtu.be/_QoRFTvXTtI",
+            "percent": 100,
+            "hz": 150
+        },
+        {
+            "user": "ObvSilver",
+            "link": "https://youtu.be/VhoyvydJY1A",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Decin0",
+            "link": "https://youtu.be/TbpZCAZEMvE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Gamez",
+            "link": "https://www.youtube.com/watch?v=D7GbyxSUUiU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "CaoticGD",
+            "link": "https://youtu.be/T1OndLapLks",
+            "percent": 58,
+            "hz": 360
+        }
+    ]
 }
