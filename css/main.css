@@ -17,7 +17,10 @@ body {
 header,
 main {
     display: grid;
-    grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(16em, 1fr);
+    grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(
+            16em,
+            1fr
+        );
     column-gap: 2rem;
 }
 
@@ -37,6 +40,9 @@ header {
 header .logo {
     justify-self: end;
     align-self: center;
+    display: flex;
+    align-items: flex-end;
+    gap: 1rem;
 }
 header .nav {
     flex: 1;
