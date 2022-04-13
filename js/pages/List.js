@@ -1,15 +1,15 @@
-import { embed } from "../util.js";
-import { score } from "../score.js";
-import { fetchList, fetchEditors } from "../content.js";
+import { embed } from '../util.js';
+import { score } from '../score.js';
+import { fetchEditors, fetchList } from '../content.js';
 
-import Spinner from "../components/Spinner.js";
-import LevelAuthors from "../components/List/LevelAuthors.js";
+import Spinner from '../components/Spinner.js';
+import LevelAuthors from '../components/List/LevelAuthors.js';
 
 const roleIconMap = {
-    owner: "/assets/crown.svg",
-    admin: "/assets/user-gear.svg",
-    helper: "/assets/user-shield.svg",
-    dev: "/assets/code.svg",
+    owner: '/assets/crown.svg',
+    admin: '/assets/user-gear.svg',
+    helper: '/assets/user-shield.svg',
+    dev: '/assets/code.svg',
 };
 
 export default {

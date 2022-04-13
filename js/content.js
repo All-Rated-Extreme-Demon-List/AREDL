@@ -17,7 +17,7 @@ export async function fetchList() {
                 path,
                 records: level.records.sort((a, b) => b.percent - a.percent),
             };
-        })
+        }),
     );
 }
 
@@ -33,9 +33,9 @@ export async function fetchLeaderboard() {
     const scoreMap = {};
     list.forEach((level, rank) => {
         // Verification
-        const verifier =
-            Object.keys(scoreMap).find((u) => u.toLowerCase() === level.verifier.toLowerCase()) ||
-            level.verifier;
+        const verifier = Object.keys(scoreMap).find(
+            (u) => u.toLowerCase() === level.verifier.toLowerCase(),
+        ) || level.verifier;
         scoreMap[verifier] ??= {
             verified: [],
             completed: [],
@@ -51,9 +51,9 @@ export async function fetchLeaderboard() {
 
         // Records
         level.records.forEach((record) => {
-            const user =
-                Object.keys(scoreMap).find((u) => u.toLowerCase() === record.user.toLowerCase()) ||
-                record.user;
+            const user = Object.keys(scoreMap).find(
+                (u) => u.toLowerCase() === record.user.toLowerCase(),
+            ) || record.user;
             scoreMap[user] ??= {
                 verified: [],
                 completed: [],
