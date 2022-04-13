@@ -173,7 +173,8 @@
             "user": "Acidius",
             "link": "https://www.youtube.com/watch?v=v29krdurRVw",
             "percent": 100,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "Kobra456",
@@ -407,7 +408,8 @@
             "user": "GDTombstone",
             "link": "https://youtu.be/OCnfAeNGvYM",
             "percent": 100,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "WildWaffle",

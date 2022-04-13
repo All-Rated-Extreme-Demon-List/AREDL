@@ -509,7 +509,8 @@
             "user": "max1mumGD",
             "link": "https://m.youtube.com/watch?v=qfqIheW4npU",
             "percent": 66,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "Frozono",
@@ -761,7 +762,8 @@
             "user": "SuperDog",
             "link": "https://www.youtube.com/watch?v=MWUZ0M0P1FQ",
             "percent": 61,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "spooney",
@@ -869,7 +871,8 @@
             "user": "Coheton",
             "link": "https://youtu.be/yIleUn0ckgg",
             "percent": 100,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "PatoQuack",

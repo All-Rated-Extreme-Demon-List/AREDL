@@ -221,13 +221,15 @@
             "user": "Acidius",
             "link": "https://www.youtube.com/watch?v=M8IuT8_ZY6M",
             "percent": 100,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "AJazz",
             "link": "https://youtu.be/YGOiNUjLfe8",
             "percent": 100,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "XLGamer10",

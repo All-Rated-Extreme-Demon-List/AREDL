@@ -47,7 +47,8 @@
             "user": "Ben The Cool",
             "link": "https://youtu.be/uoLUUdaSUFc",
             "percent": 100,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "WhatsApp",
@@ -323,7 +324,8 @@
             "user": "moab",
             "link": "https://youtu.be/a1TvrR4iO2Q",
             "percent": 100,
-            "hz": null
+            "hz": 144,
+            "mobile": true
         },
         {
             "user": "Oisk",
@@ -353,7 +355,8 @@
             "user": "LSeolha",
             "link": "https://youtu.be/j-zfzzE_UlI",
             "percent": 100,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "volokno",
@@ -377,7 +380,8 @@
             "user": "AzielGD",
             "link": "https://youtu.be/q8hdLSEF9Ms",
             "percent": 100,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "Kanekigh",
@@ -527,7 +531,8 @@
             "user": "Dougieman",
             "link": "https://youtu.be/kyBhzeoQzDg",
             "percent": 100,
-            "hz": null
+            "hz": 120,
+            "mobile": true
         },
         {
             "user": "CuttNSee",

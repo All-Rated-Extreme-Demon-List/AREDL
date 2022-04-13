@@ -126,7 +126,8 @@
             "user": "Janarik",
             "link": "https://youtu.be/cCbSQIz_hWE",
             "percent": 100,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "Cric2",
@@ -162,7 +163,8 @@
             "user": "CesarSegaSonic",
             "link": "https://youtu.be/qOnV7pFElNc",
             "percent": 100,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "KasiaUwU",

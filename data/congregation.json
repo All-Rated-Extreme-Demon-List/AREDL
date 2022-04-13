@@ -71,13 +71,14 @@
             "user": "AzielGD",
             "link": "https://youtu.be/ZWrb7BUZty4",
             "percent": 100,
-            "hz": null
+            "hz": 120
         },
         {
             "user": "Vladymir [GD]",
             "link": "https://www.youtube.com/watch?v=_tcurOVly8o",
             "percent": 87,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "KylashTheKiller",
@@ -113,7 +114,8 @@
             "user": "Fallentoge",
             "link": "https://clips.twitch.tv/CalmIgnorantShrewAllenHuhu-l90D3s5Xt3xRyidF",
             "percent": 79,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "Hiper Crack",

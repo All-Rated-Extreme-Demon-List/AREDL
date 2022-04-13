@@ -12,7 +12,8 @@
             "user": "Starteccs",
             "link": "https://www.youtube.com/watch?v=OO_levwoUfU",
             "percent": 100,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "iRaily",
@@ -36,13 +37,15 @@
             "user": "70n0fh4y",
             "link": "https://youtu.be/7it1qddTTn0",
             "percent": 100,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "Dougieman",
             "link": "https://www.youtube.com/watch?v=BSEOoCqdaA0",
             "percent": 100,
-            "hz": null
+            "hz": 120,
+            "mobile": true
         },
         {
             "user": "Kobra456",
@@ -84,7 +87,8 @@
             "user": "DijonGD",
             "link": "https://www.youtube.com/watch?v=Rxlfs6tRHro",
             "percent": 100,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "WilltheRen",

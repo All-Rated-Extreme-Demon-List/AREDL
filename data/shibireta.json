@@ -107,7 +107,8 @@
             "user": "YellowDoopAlt",
             "link": "https://youtu.be/1hpdHvUucxk",
             "percent": 100,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "Defek",
@@ -275,13 +276,15 @@
             "user": "Dougieman",
             "link": "https://youtu.be/VTX2yMqTta0",
             "percent": 100,
-            "hz": null
+            "hz": 120,
+            "mobile": true
         },
         {
             "user": "LSeolha",
             "link": "https://youtu.be/p4xw9HDZVhM",
             "percent": 100,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "train",

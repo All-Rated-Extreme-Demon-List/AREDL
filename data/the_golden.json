@@ -689,7 +689,8 @@
             "user": "Zoink Doink",
             "link": "https://youtu.be/pvjrSNVwxnc",
             "percent": 100,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "AustinGD",
@@ -1421,7 +1422,8 @@
             "user": "SoWOW",
             "link": "https://www.youtube.com/watch?v=chHX4pJEhr4",
             "percent": 100,
-            "hz": null
+            "hz": 120,
+            "mobile": true
         },
         {
             "user": "wolfblack54",
@@ -1451,7 +1453,8 @@
             "user": "IkuGD",
             "link": "https://youtu.be/fkW0u5ahYB4",
             "percent": 100,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "RazerJCZ",

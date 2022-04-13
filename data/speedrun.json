@@ -29,13 +29,15 @@
             "user": "Fallentoge",
             "link": "https://www.youtube.com/watch?v=4L3XVVSuf18",
             "percent": 100,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "Dougieman",
             "link": "https://youtu.be/jecU_au44z4",
             "percent": 100,
-            "hz": null
+            "hz": 120,
+            "mobile": true
         },
         {
             "user": "T333",
@@ -83,7 +85,8 @@
             "user": "DijonGD",
             "link": "https://www.youtube.com/watch?v=It20ZwginIU",
             "percent": 100,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "zMultix",

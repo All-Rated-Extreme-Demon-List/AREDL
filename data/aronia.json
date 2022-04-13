@@ -30,7 +30,8 @@
             "user": "Starteccs",
             "link": "https://www.youtube.com/watch?v=4aO_BUlcHys",
             "percent": 100,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "Vink",
@@ -138,7 +139,8 @@
             "user": "DijonGD",
             "link": "https://www.youtube.com/watch?v=SyfdRmaAnfg",
             "percent": 65,
-            "hz": null
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "KylashTheKiller",
