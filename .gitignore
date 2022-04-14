@@ -1,6 +1,5 @@
 .idea/
-.vscode/*
-!.vscode/settings.json
+.vscode/
 deno.json
 
 node_modules/
