@@ -27,12 +27,6 @@
             "hz": 360
         },
         {
-            "user": "Gamez",
-            "link": "https://www.youtube.com/watch?v=D7GbyxSUUiU",
-            "percent": 100,
-            "hz": 240
-        },
-        {
             "user": "CaoticGD",
             "link": "https://youtu.be/T1OndLapLks",
             "percent": 58,
@@ -55,6 +49,12 @@
             "link": "https://www.youtube.com/watch?v=94ex5j9n04s",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "ImaGDChris2K18",
+            "link": "https://youtu.be/aSxqy84H6cU",
+            "percent": 100,
+            "hz": 165
         }
     ]
 }
