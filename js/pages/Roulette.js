@@ -123,14 +123,13 @@ export default {
             if (this.useMainList) list.push(...fullList.slice(0, 75));
             if (this.useExtendedList) list.push(...fullList.slice(75, 150));
 
-            this.levels = shuffle(
-                list.slice(0, 100).map((lvl, i) => ({
-                    rank: i + 1,
-                    id: lvl.id,
-                    name: lvl.name,
-                    video: lvl.verification,
-                })),
-            ); // random 100 levels
+            // random 100 levels
+            this.levels = shuffle(list.map((lvl, i) => ({
+                rank: i + 1,
+                id: lvl.id,
+                name: lvl.name,
+                video: lvl.verification,
+            }))).slice(0, 100);
             this.showRemaining = false;
             this.givenUp = false;
             this.progression = [];
