@@ -64,7 +64,7 @@ export default {
                         </div>
                         <!-- Remaining Levels -->
                         <template v-if="givenUp && showRemaining">
-                            <div class="level" v-for="(level, i) in levels.slice(progression.length + 1, levels.length - (progression[progression.length - 1] || 0) + 2)">
+                            <div class="level" v-for="(level, i) in levels.slice(progression.length + 1, levels.length - currentPercentage + progression.length)">
                                 <a :href="level.video" class="video">
                                     <img :src="getThumbnailFromId(getYoutubeIdFromUrl(level.video))" alt="">
                                 </a>
@@ -161,9 +161,13 @@ export default {
             this.loading = false;
         },
         onDone() {
+            if (!this.percentage) {
+                return;
+            }
+
             if (
-                !this.percentage ||
-                this.percentage <= this.currentPercentage
+                this.percentage <= this.currentPercentage ||
+                this.percentage > 100
             ) {
                 this.showToast('Invalid percentage.');
                 return;
