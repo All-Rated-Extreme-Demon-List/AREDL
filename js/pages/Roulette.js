@@ -16,11 +16,11 @@ export default {
                     Shameless copy of the Extreme Demon Roulette by <a href="https://matcool.github.io/extreme-demon-roulette/">matcool</a>.
                 </p>
                 <div class="check">
-                    <input type="checkbox" id="main" value="Main List" checked>
+                    <input type="checkbox" id="main" value="Main List" v-model="useMainList">
                     <label for="main">Main List</label>
                 </div>
                 <div class="check">
-                    <input type="checkbox" id="extended" value="Extended List" checked>
+                    <input type="checkbox" id="extended" value="Extended List" v-model="useExtendedList">
                     <label for="extended">Extended List</label>
                 </div>
                 <Btn @click.native.prevent="onStart">{{ levels.length === 0 ? 'Start' : 'Restart'}}</Btn>
@@ -36,11 +36,11 @@ export default {
                             <div class="meta">
                                 <p>#{{ level.rank }}</p>
                                 <h2>{{ level.name }}</h2>
-                                <p>{{ progression[i] }}%</p>
+                                <p style="color: #00b54b; font-weight: 700">{{ progression[i] }}%</p>
                             </div>
                         </div>
                         <!-- Current Level -->
-                        <div class="level">
+                        <div class="level" v-if="!hasCompleted">
                             <a :href="currentLevel.video" target="_blank" class="video">
                                 <img :src="getThumbnailFromId(getYoutubeIdFromUrl(currentLevel.video))" alt="">
                             </a>
@@ -56,22 +56,22 @@ export default {
                             </form>
                         </div>
                         <!-- Results -->
-                        <div v-if="givenUp" class="results">
+                        <div v-if="givenUp || hasCompleted" class="results">
                             <h1>Results</h1>
                             <p>Number of levels: {{ progression.length }}</p>
                             <p>Highest percent: {{ progression[progression.length - 1] || 0 }}%</p>
-                            <Btn @click.native.prevent="showRemaining = true">Show remaining levels</Btn>
+                            <Btn v-if="(progression[progression.length - 1] || 0) < 99 && !hasCompleted" @click.native.prevent="showRemaining = true">Show remaining levels</Btn>
                         </div>
                         <!-- Remaining Levels -->
                         <template v-if="givenUp && showRemaining">
-                            <div class="level" v-for="(level, i) in levels.slice(progression.length)">
+                            <div class="level" v-for="(level, i) in levels.slice(progression.length + 1, levels.length - (progression[progression.length - 1] || 0) + 2)">
                                 <a :href="level.video" class="video">
                                     <img :src="getThumbnailFromId(getYoutubeIdFromUrl(level.video))" alt="">
                                 </a>
                                 <div class="meta">
                                     <p>#{{ level.rank }}</p>
                                     <h2>{{ level.name }}</h2>
-                                    <p>{{ (progression[progression.length - 1] || 0) + 1 + i }}%</p>
+                                    <p style="color: #d50000; font-weight: 700">{{ (progression[progression.length - 1] || 0) + 2 + i }}%</p>
                                 </div>
                             </div>
                         </template>
@@ -87,11 +87,9 @@ export default {
         percentage: undefined,
         givenUp: false,
         showRemaining: false,
+        useMainList: true,
+        useExtendedList: true,
     }),
-    async mounted() {
-        // Hide loading spinner
-        // this.loading = false;
-    },
     computed: {
         currentLevel() {
             return this.levels[this.progression.length];
@@ -99,22 +97,34 @@ export default {
         placeholder() {
             return `At least ${(this.progression[this.progression.length - 1] || 0) + 1}%`;
         },
+        hasCompleted() {
+            return this.progression[this.progression.length - 1] >= 100 ||
+                this.progression.length === this.levels.length;
+        },
     },
     methods: {
         shuffle,
         getThumbnailFromId,
         getYoutubeIdFromUrl,
         async onStart() {
-            if (this.levels.length > 0 && !this.givenUp) {
+            if (this.levels.length > 0 && !this.givenUp && !this.hasCompleted) {
                 alert('Give up before starting a new roulette.');
+                return;
+            }
+
+            if (!this.useMainList && !this.useExtendedList) {
                 return;
             }
 
             this.loading = true;
 
-            const list = await fetchList();
+            const fullList = await fetchList();
+            const list = [];
+            if (this.useMainList) list.push(...fullList.slice(0, 75));
+            if (this.useExtendedList) list.push(...fullList.slice(75, 150));
+
             this.levels = shuffle(
-                list.slice(0, 99).map((lvl, i) => ({
+                list.slice(0, 100).map((lvl, i) => ({
                     rank: i + 1,
                     id: lvl.id,
                     name: lvl.name,
@@ -123,6 +133,8 @@ export default {
             ); // random 100 levels
             this.showRemaining = false;
             this.givenUp = false;
+            this.progression = [];
+            this.percentage = undefined;
 
             this.loading = false;
         },
