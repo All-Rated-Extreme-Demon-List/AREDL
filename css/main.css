@@ -26,7 +26,7 @@ main {
 
 header {
     display: flex;
-    padding-inline: 12.5vw;
+    padding-inline: calc(12.5vw - 2rem);
     height: 4rem;
     background-color: var(--color-primary);
     color: var(--color-on-primary);
@@ -64,4 +64,11 @@ main > div {
     align-items: center;
     justify-content: center;
     grid-column: span 3;
+}
+
+input[type="checkbox"] {
+    height: 1.25rem;
+    width: 1.25rem;
+    cursor: pointer;
+    margin: 0;
 }
