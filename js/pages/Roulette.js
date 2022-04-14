@@ -90,6 +90,17 @@ export default {
         useMainList: true,
         useExtendedList: true,
     }),
+    mounted() {
+        // Load progress from local storage
+        const roulette = JSON.parse(localStorage.getItem('roulette'));
+
+        if (!roulette) {
+            return;
+        }
+
+        this.levels = roulette.levels;
+        this.progression = roulette.progression;
+    },
     computed: {
         currentLevel() {
             return this.levels[this.progression.length];
@@ -107,7 +118,7 @@ export default {
         getThumbnailFromId,
         getYoutubeIdFromUrl,
         async onStart() {
-            if (this.levels.length > 0 && !this.givenUp && !this.hasCompleted) {
+            if (this.progression.length > 0 && !this.givenUp && !this.hasCompleted) {
                 alert('Give up before starting a new roulette.');
                 return;
             }
@@ -147,9 +158,21 @@ export default {
 
             this.progression.push(this.percentage);
             this.percentage = undefined;
+
+            // Save progress
+            localStorage.setItem(
+                'roulette',
+                JSON.stringify({
+                    levels: this.levels,
+                    progression: this.progression,
+                }),
+            );
         },
         onGiveUp() {
             this.givenUp = true;
+
+            // Save progress
+            localStorage.removeItem('roulette');
         },
     },
 };
