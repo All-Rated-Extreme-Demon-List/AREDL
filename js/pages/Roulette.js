@@ -50,7 +50,7 @@ export default {
                                 <p>{{ currentLevel.id }}</p>
                             </div>
                             <form class="actions" v-if="!givenUp">
-                                <input type="number" v-model="percentage" :placeholder="placeholder" :min="(this.progression[this.progression.length - 1] || 0) + 1" max=100>
+                                <input type="number" v-model="percentage" :placeholder="placeholder" :min="currentPercentage + 1" max=100>
                                 <Btn @click.native.prevent="onDone">Done</Btn>
                                 <Btn @click.native.prevent="onGiveUp" style="background-color: #e91e63;">Give Up</Btn>
                             </form>
@@ -59,8 +59,8 @@ export default {
                         <div v-if="givenUp || hasCompleted" class="results">
                             <h1>Results</h1>
                             <p>Number of levels: {{ progression.length }}</p>
-                            <p>Highest percent: {{ progression[progression.length - 1] || 0 }}%</p>
-                            <Btn v-if="(progression[progression.length - 1] || 0) < 99 && !hasCompleted" @click.native.prevent="showRemaining = true">Show remaining levels</Btn>
+                            <p>Highest percent: {{ currentPercentage }}%</p>
+                            <Btn v-if="currentPercentage < 99 && !hasCompleted" @click.native.prevent="showRemaining = true">Show remaining levels</Btn>
                         </div>
                         <!-- Remaining Levels -->
                         <template v-if="givenUp && showRemaining">
@@ -71,13 +71,20 @@ export default {
                                 <div class="meta">
                                     <p>#{{ level.rank }}</p>
                                     <h2>{{ level.name }}</h2>
-                                    <p style="color: #d50000; font-weight: 700">{{ (progression[progression.length - 1] || 0) + 2 + i }}%</p>
+                                    <p style="color: #d50000; font-weight: 700">{{ currentPercentage + 2 + i }}%</p>
                                 </div>
                             </div>
                         </template>
                     </template>
                 </div>
             </section>
+            <div class="toasts-container">
+                <div class="toasts">
+                    <div v-for="toast in toasts" class="toast">
+                        <p>{{ toast }}</p>
+                    </div>
+                </div>
+            </div>
         </main>
     `,
     data: () => ({
@@ -89,6 +96,7 @@ export default {
         showRemaining: false,
         useMainList: true,
         useExtendedList: true,
+        toasts: [],
     }),
     mounted() {
         // Load progress from local storage
@@ -105,8 +113,11 @@ export default {
         currentLevel() {
             return this.levels[this.progression.length];
         },
+        currentPercentage() {
+            return this.progression[this.progression.length - 1] || 0;
+        },
         placeholder() {
-            return `At least ${(this.progression[this.progression.length - 1] || 0) + 1}%`;
+            return `At least ${this.currentPercentage + 1}%`;
         },
         hasCompleted() {
             return this.progression[this.progression.length - 1] >= 100 ||
@@ -119,7 +130,7 @@ export default {
         getYoutubeIdFromUrl,
         async onStart() {
             if (this.progression.length > 0 && !this.givenUp && !this.hasCompleted) {
-                alert('Give up before starting a new roulette.');
+                this.showToast('Give up before starting a new roulette.');
                 return;
             }
 
@@ -130,17 +141,18 @@ export default {
             this.loading = true;
 
             const fullList = await fetchList();
-            const list = [];
-            if (this.useMainList) list.push(...fullList.slice(0, 75));
-            if (this.useExtendedList) list.push(...fullList.slice(75, 150));
-
-            // random 100 levels
-            this.levels = shuffle(list.map((lvl, i) => ({
+            const fullListMapped = fullList.map((lvl, i) => ({
                 rank: i + 1,
                 id: lvl.id,
                 name: lvl.name,
                 video: lvl.verification,
-            }))).slice(0, 100);
+            }));
+            const list = [];
+            if (this.useMainList) list.push(...fullListMapped.slice(0, 75));
+            if (this.useExtendedList) list.push(...fullListMapped.slice(75, 150));
+
+            // random 100 levels
+            this.levels = shuffle(list).slice(0, 100);
             this.showRemaining = false;
             this.givenUp = false;
             this.progression = [];
@@ -151,8 +163,9 @@ export default {
         onDone() {
             if (
                 !this.percentage ||
-                this.percentage <= this.progression[this.progression.length - 1]
+                this.percentage <= this.currentPercentage
             ) {
+                this.showToast('Invalid percentage.');
                 return;
             }
 
@@ -173,6 +186,12 @@ export default {
 
             // Save progress
             localStorage.removeItem('roulette');
+        },
+        showToast(msg) {
+            this.toasts.push(msg);
+            setTimeout(() => {
+                this.toasts.shift();
+            }, 3000);
         },
     },
 };

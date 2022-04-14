@@ -22,23 +22,19 @@
 }
 
 .page-roulette .levels-container {
+    grid-row: 1;
     grid-column: 2 / span 2;
     overflow-y: auto;
+    padding-right: 2rem;
 }
 
 .page-roulette .levels {
     display: flex;
     flex-direction: column;
-    padding: 2rem 2rem 2rem 0;
+    padding-block: 2rem;
     gap: 2rem;
 }
 
-@media screen and (min-width: 1280px) {
-    .page-roulette .levels-container {
-        grid-column: 2;
-        padding-right: 0;
-    }
-}
 .page-roulette .levels .level {
     display: grid;
     grid-template-columns: 12rem 1fr;
@@ -47,9 +43,6 @@
     overflow: hidden;
     background-color: #eceff1;
 }
-/* .page-roulette .levels .level .video {
-    width: 12rem;
-} */
 .page-roulette .levels .level .video img {
     width: 100%;
     height: 100%;
@@ -91,4 +84,39 @@
 }
 .page-roulette .levels .results .btn {
     margin-top: 1rem;
+}
+.page-roulette .toasts-container {
+    overflow-y: auto;
+    grid-column: 2 / span 2;
+    grid-row: 1;
+    align-self: start;
+    margin-block: 2rem;
+    margin-right: 2rem;
+}
+.page-roulette .toasts {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    overflow-y: auto;
+}
+.page-roulette .toast {
+    display: flex;
+    background-color: #d50000;
+    color: white;
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+@media screen and (min-width: 1280px) {
+    .page-roulette .levels-container {
+        grid-column: 2;
+        padding-right: 0;
+    }
+    .page-roulette .toasts-container {
+        grid-column: 3;
+        margin: 0;
+        padding-right: 2rem;
+        padding-block: 2rem;
+        align-self: stretch;
+    }
 }

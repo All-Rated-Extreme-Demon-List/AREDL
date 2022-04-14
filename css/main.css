@@ -56,7 +56,7 @@ main {
     column-gap: 2rem;
 }
 main > div {
-    overflow-y: scroll;
+    overflow-y: auto;
 }
 
 .spinner {
