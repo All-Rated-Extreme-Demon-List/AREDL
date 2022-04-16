@@ -7,11 +7,22 @@
 
 .page-leaderboard {
     grid-template-columns: minmax(24rem, 2fr) 3fr;
+    grid-template-rows: max-content 1fr;
     max-width: 80rem;
     margin: 0 auto;
 }
+.page-leaderboard .error-container {
+    grid-row: 1;
+    grid-column: 1 / span 2;
+}
+.page-leaderboard .error-container .error {
+    padding: 1rem;
+    background-color: #de0000;
+    color: white;
+}
 .page-leaderboard .board-container,
 .page-leaderboard .player-container {
+    grid-row: 2;
     padding-block: 2rem;
 }
 .page-leaderboard .board-container {

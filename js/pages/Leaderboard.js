@@ -11,12 +11,18 @@ export default {
         leaderboard: [],
         loading: true,
         selected: 0,
+        err: [],
     }),
     template: `
         <main v-if="loading">
             <Spinner></Spinner>
         </main>
         <main v-else class="page-leaderboard">
+            <div class="error-container">
+                <p class="error" v-if="err.length > 0">
+                    Leaderboard may be incorrect, as the following levels could not be loaded: {{ err.join(', ') }}
+                </p>
+            </div>
             <div class="board-container">
                 <table class="board">
                     <tr v-for="(ientry, i) in leaderboard">
@@ -90,7 +96,9 @@ export default {
         },
     },
     async mounted() {
-        this.leaderboard = await fetchLeaderboard();
+        const [leaderboard, err] = await fetchLeaderboard();
+        this.leaderboard = leaderboard;
+        this.err = err;
         // Hide loading spinner
         this.loading = false;
     },
