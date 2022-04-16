@@ -120,8 +120,10 @@ export default {
             return `At least ${this.currentPercentage + 1}%`;
         },
         hasCompleted() {
-            return this.progression[this.progression.length - 1] >= 100 ||
-                this.progression.length === this.levels.length;
+            return (
+                this.progression[this.progression.length - 1] >= 100 ||
+                this.progression.length === this.levels.length
+            );
         },
     },
     methods: {
@@ -129,7 +131,11 @@ export default {
         getThumbnailFromId,
         getYoutubeIdFromUrl,
         async onStart() {
-            if (this.progression.length > 0 && !this.givenUp && !this.hasCompleted) {
+            if (
+                this.progression.length > 0 &&
+                !this.givenUp &&
+                !this.hasCompleted
+            ) {
                 this.showToast('Give up before starting a new roulette.');
                 return;
             }
@@ -141,7 +147,16 @@ export default {
             this.loading = true;
 
             const fullList = await fetchList();
-            const fullListMapped = fullList.map((lvl, i) => ({
+
+            if (fullList.filter(([_, err]) => err).length > 0) {
+                this.loading = false;
+                this.showToast(
+                    'List is currently broken. Wait until it\'s fixed to start a roulette.',
+                );
+                return;
+            }
+
+            const fullListMapped = fullList.map(([lvl, _], i) => ({
                 rank: i + 1,
                 id: lvl.id,
                 name: lvl.name,
@@ -149,7 +164,9 @@ export default {
             }));
             const list = [];
             if (this.useMainList) list.push(...fullListMapped.slice(0, 75));
-            if (this.useExtendedList) list.push(...fullListMapped.slice(75, 150));
+            if (this.useExtendedList) {
+                list.push(...fullListMapped.slice(75, 150));
+            }
 
             // random 100 levels
             this.levels = shuffle(list).slice(0, 100);
