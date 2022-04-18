@@ -28,11 +28,12 @@
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    gap: 1rem;
 }
 .nav .nav__actions .nav__icon {
     height: 3rem;
     width: 3rem;
+    border: none;
+    background-color: transparent;
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -46,6 +47,7 @@
     height: 1.5rem;
 }
 .nav .nav__actions .nav__cta {
+    margin-left: 1rem;
     padding: 1rem;
     background-color: var(--color-on-primary);
     color: var(--color-primary);

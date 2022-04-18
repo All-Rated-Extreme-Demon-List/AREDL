@@ -1,10 +1,3 @@
-:root {
-    --color-background: white;
-    --color-on-background: black;
-    --color-primary: #0066ff;
-    --color-on-primary: white;
-}
-
 .page-list .list-container,
 .page-list .level-container,
 .page-list .meta-container {
@@ -13,6 +6,10 @@
 .page-list .list-container {
     padding-inline: 1rem;
 }
+.page-list .meta-container {
+    padding-right: 2rem;
+}
+
 .page-list .list {
     table-layout: auto;
 }
@@ -35,13 +32,13 @@
     cursor: pointer;
 }
 .page-list .list .level.error button {
-    color: #d50000;
+    color: var(--color-error);
     cursor: not-allowed;
     text-decoration: line-through;
 }
 .page-list .list .level button:hover {
-    background-color: #eee;
-    color: black;
+    background-color: var(--color-background-hover);
+    color: var(--color-on-background-hover);
 }
 .page-list .list .level.active button {
     background-color: var(--color-primary);
@@ -108,8 +105,8 @@
 }
 .page-list .meta .errors .error {
     padding: 1rem;
-    background-color: #d50000;
-    color: white;
+    background-color: var(--color-error);
+    color: var(--color-on-error);
     border-radius: 0.5rem;
 }
 .page-list .meta .editors {

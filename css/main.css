@@ -1,21 +1,42 @@
 :root {
     --color-background: white;
     --color-on-background: black;
+    --color-background-hover: #eee;
+    --color-on-background-hover: black;
     --color-primary: #0066ff;
     --color-on-primary: white;
+    --color-error: #de0000;
+    --color-on-error: white;
+}
+
+main.dark,
+header.dark {
+    color-scheme: dark;
+    --color-background: #1c1b1f;
+    --color-on-background: white;
+    --color-background-hover: #27262c;
+    --color-on-background-hover: white;
+    --color-primary: #283593;
+    --color-on-primary: white;
+    --color-error: #de0000;
+    --color-on-error: white;
+}
+
+html,
+body {
+    height: 100%;
 }
 
 body {
-    height: 100%;
     display: flex;
     flex-direction: column;
     margin: 0;
-    background-color: var(--color-background);
-    color: var(--color-on-background);
 }
 
 header,
 main {
+    background-color: var(--color-background);
+    color: var(--color-on-background);
     display: grid;
     grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(
             16em,
@@ -26,12 +47,12 @@ main {
 
 header {
     display: flex;
-    padding-inline: calc(12.5vw - 2rem);
+    padding-inline: calc(25vw - 10rem);
     height: 4rem;
     background-color: var(--color-primary);
     color: var(--color-on-primary);
 }
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 1366px) {
     header {
         display: grid;
         padding-inline: 0;

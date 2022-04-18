@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
@@ -22,12 +23,12 @@
         <link rel="stylesheet" type="text/css" href="/css/pages/roulette.css" />
         <link rel="stylesheet" type="text/css" href="/css/components/nav.css" />
         <link rel="stylesheet" type="text/css" href="/css/components/btn.css" />
-        <script src="https://unpkg.com/vue@3.2.31/dist/vue.global.prod.js"></script>
+        <script src="https://unpkg.com/vue@3.2.31/dist/vue.global.js"></script>
         <script src="https://unpkg.com/vue-router@4.0.14/dist/vue-router.global.prod.js"></script>
         <script type="module" src="/js/main.js"></script>
     </head>
     <body id="app">
-        <header>
+        <header :class="{ dark: store.dark }">
             <div class="logo">
                 <h2>TSL</h2>
                 <p>v1.6.0</p>
@@ -43,6 +44,15 @@
                     <span class="type-label-lg">Roulette</span>
                 </router-link>
                 <div class="nav__actions">
+                    <button
+                        class="nav__icon"
+                        @click.prevent="store.toggleDark()"
+                    >
+                        <img
+                            :src="store.dark ? '/assets/light.svg' : '/assets/dark.svg'"
+                            alt=""
+                        />
+                    </button>
                     <a class="nav__icon" href="https://discord.gg/shittylist">
                         <img src="/assets/discord.svg" alt="Discord Logo" />
                     </a>
@@ -54,6 +64,6 @@
                 </div>
             </nav>
         </header>
-        <router-view></router-view>
+        <router-view :class="{ dark: store.dark }"></router-view>
     </body>
 </html>

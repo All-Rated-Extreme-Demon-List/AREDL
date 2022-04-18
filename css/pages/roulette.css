@@ -107,7 +107,7 @@
     border-radius: 0.5rem;
 }
 
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 1366px) {
     .page-roulette .levels-container {
         grid-column: 2;
         padding-right: 0;

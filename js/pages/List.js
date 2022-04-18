@@ -1,3 +1,4 @@
+import { store } from '../main.js';
 import { embed } from '../util.js';
 import { score } from '../score.js';
 import { fetchEditors, fetchList } from '../content.js';
@@ -6,10 +7,10 @@ import Spinner from '../components/Spinner.js';
 import LevelAuthors from '../components/List/LevelAuthors.js';
 
 const roleIconMap = {
-    owner: '/assets/crown.svg',
-    admin: '/assets/user-gear.svg',
-    helper: '/assets/user-shield.svg',
-    dev: '/assets/code.svg',
+    owner: 'crown',
+    admin: 'user-gear',
+    helper: 'user-shield',
+    dev: 'code',
 };
 
 export default {
@@ -65,7 +66,7 @@ export default {
                                 <a :href="record.link" class="type-label-lg">{{ record.user }}</a>
                             </td>
                             <td class="mobile">
-                                <img v-if="record.mobile" src="/assets/phone-landscape.svg" alt="Mobile">
+                                <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
                             <td class="hz">
                                 <p>{{ record.hz }}Hz</p>
@@ -86,7 +87,7 @@ export default {
                         <h3>List Editors</h3>
                         <ol class="editors">
                             <li v-for="editor in editors">
-                                <img :src="roleIconMap[editor.role]" :alt="editor.role">
+                                <img :src="\`/assets/\${roleIconMap[editor.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
                                 <a v-if="editor.link" class="type-label-lg link" :href="editor.link">{{ editor.name }}</a>
                                 <p v-else>{{ editor.name }}</p>
                             </li>
@@ -125,6 +126,7 @@ export default {
         selected: 0,
         errors: [],
         roleIconMap,
+        store,
     }),
     computed: {
         level() {
