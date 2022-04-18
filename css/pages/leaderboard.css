@@ -1,8 +1,17 @@
+.page-leaderboard-container {
+    display: block;
+}
 .page-leaderboard {
+    height: 100%;
+    display: grid;
     grid-template-columns: minmax(24rem, 2fr) 3fr;
     grid-template-rows: max-content 1fr;
+    column-gap: 2rem;
     max-width: 80rem;
     margin: 0 auto;
+}
+.page-leaderboard > div {
+    overflow-y: auto;
 }
 .page-leaderboard .error-container {
     grid-row: 1;
