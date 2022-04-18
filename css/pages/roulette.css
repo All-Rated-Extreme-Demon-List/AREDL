@@ -38,7 +38,7 @@
     grid-auto-rows: max-content;
     border-radius: 0.5rem;
     overflow: hidden;
-    background-color: #eceff1;
+    background-color: var(--color-background-hover);
 }
 .page-roulette .levels .level .video img {
     width: 100%;
