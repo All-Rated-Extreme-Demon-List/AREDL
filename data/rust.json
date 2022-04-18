@@ -98,12 +98,6 @@
             "hz": 300
         },
         {
-            "user": "Davine_007",
-            "link": "https://youtu.be/ZMwwG1K42_Y",
-            "percent": 97,
-            "hz": 144
-        },
-        {
             "user": "Holojen",
             "link": "https://www.youtube.com/watch?v=AQXLXmFYRDU",
             "percent": 100,
@@ -236,6 +230,12 @@
             "link": "https://www.youtube.com/watch?v=htBTfodrvis",
             "percent": 100,
             "hz": 280
+        },
+        {
+            "user": "Davine_007",
+            "link": "https://www.youtube.com/watch?v=V_Mzvdez8ws",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
