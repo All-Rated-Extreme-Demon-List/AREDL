@@ -11,6 +11,7 @@ const roleIconMap = {
     admin: 'user-gear',
     helper: 'user-shield',
     dev: 'code',
+    trial: 'user-lock',
 };
 
 export default {
