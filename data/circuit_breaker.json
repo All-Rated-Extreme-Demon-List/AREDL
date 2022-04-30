@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=WNnNkpQH2h8",
     "percentToQualify": 100,
     "password": "456456",
-    "records": []
+    "records": [
+        {
+           "user": "zFice7",
+           "link": "https://youtu.be/C1CLHKlqLsE",
+           "percent": 100,
+           "hz": 144
+        }
+    ]
 }
