@@ -11,20 +11,32 @@ export default {
             <Spinner></Spinner>
         </main>
         <main v-else class="page-roulette">
-            <form class="options">
+            <div class="sidebar">
                 <p class="type-label-md" style="color: #aaa">
                     Shameless copy of the Extreme Demon Roulette by <a href="https://matcool.github.io/extreme-demon-roulette/">matcool</a>.
                 </p>
-                <div class="check">
-                    <input type="checkbox" id="main" value="Main List" v-model="useMainList">
-                    <label for="main">Main List</label>
-                </div>
-                <div class="check">
-                    <input type="checkbox" id="extended" value="Extended List" v-model="useExtendedList">
-                    <label for="extended">Extended List</label>
-                </div>
-                <Btn @click.native.prevent="onStart">{{ levels.length === 0 ? 'Start' : 'Restart'}}</Btn>
-            </form>
+                <form class="options">
+                    <div class="check">
+                        <input type="checkbox" id="main" value="Main List" v-model="useMainList">
+                        <label for="main">Main List</label>
+                    </div>
+                    <div class="check">
+                        <input type="checkbox" id="extended" value="Extended List" v-model="useExtendedList">
+                        <label for="extended">Extended List</label>
+                    </div>
+                    <Btn @click.native.prevent="onStart">{{ levels.length === 0 ? 'Start' : 'Restart'}}</Btn>
+                </form>
+                <p class="type-label-md" style="color: #aaa">
+                    The roulette saves automatically.
+                </p>
+                <form class="save">
+                    <p>Manual Load/Save</p>
+                    <div class="btns">
+                        <Btn @click.native.prevent="onImport">Import</Btn>
+                        <Btn :disabled="!isActive" @click.native.prevent="onExport">Export</Btn>
+                    </div>
+                </form>
+            </div>
             <section class="levels-container">
                 <div class="levels">
                     <template v-if="levels.length > 0">
@@ -97,8 +109,16 @@ export default {
         useMainList: true,
         useExtendedList: true,
         toasts: [],
+        fileInput: undefined,
     }),
     mounted() {
+        // Create File Input
+        this.fileInput = document.createElement('input');
+        this.fileInput.type = 'file';
+        this.fileInput.multiple = false;
+        this.fileInput.accept = '.json';
+        this.fileInput.addEventListener('change', this.onImportUpload);
+
         // Load progress from local storage
         const roulette = JSON.parse(localStorage.getItem('roulette'));
 
@@ -125,17 +145,20 @@ export default {
                 this.progression.length === this.levels.length
             );
         },
+        isActive() {
+            return (
+                this.progression.length > 0 &&
+                !this.givenUp &&
+                !this.hasCompleted
+            );
+        },
     },
     methods: {
         shuffle,
         getThumbnailFromId,
         getYoutubeIdFromUrl,
         async onStart() {
-            if (
-                this.progression.length > 0 &&
-                !this.givenUp &&
-                !this.hasCompleted
-            ) {
+            if (this.isActive) {
                 this.showToast('Give up before starting a new roulette.');
                 return;
             }
@@ -177,6 +200,15 @@ export default {
 
             this.loading = false;
         },
+        save() {
+            localStorage.setItem(
+                'roulette',
+                JSON.stringify({
+                    levels: this.levels,
+                    progression: this.progression,
+                }),
+            );
+        },
         onDone() {
             if (!this.percentage) {
                 return;
@@ -193,20 +225,56 @@ export default {
             this.progression.push(this.percentage);
             this.percentage = undefined;
 
-            // Save progress
-            localStorage.setItem(
-                'roulette',
-                JSON.stringify({
-                    levels: this.levels,
-                    progression: this.progression,
-                }),
-            );
+            this.save();
         },
         onGiveUp() {
             this.givenUp = true;
 
             // Save progress
             localStorage.removeItem('roulette');
+        },
+        onImport() {
+            this.fileInput.showPicker();
+        },
+        async onImportUpload() {
+            if (this.fileInput.files.length === 0) return;
+
+            const file = this.fileInput.files[0];
+
+            if (file.type !== 'application/json') {
+                this.showToast('Invalid file.');
+                return;
+            }
+
+            try {
+                const roulette = JSON.parse(await file.text());
+
+                if (!roulette.levels || !roulette.progression) {
+                    this.showToast('Invalid file.');
+                    return;
+                }
+
+                this.levels = roulette.levels;
+                this.progression = roulette.progression;
+                this.save();
+            } catch {
+                this.showToast('Invalid file.');
+                return;
+            }
+        },
+        onExport() {
+            const file = new Blob(
+                [JSON.stringify({
+                    levels: this.levels,
+                    progression: this.progression,
+                })],
+                { type: 'application/json' },
+            );
+            const a = document.createElement('a');
+            a.href = URL.createObjectURL(file);
+            a.download = 'tsl_roulette';
+            a.click();
+            URL.revokeObjectURL(a.href);
         },
         showToast(msg) {
             this.toasts.push(msg);

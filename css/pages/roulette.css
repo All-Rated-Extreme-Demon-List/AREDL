@@ -1,21 +1,33 @@
-.page-roulette .options {
+.page-roulette .sidebar {
     padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: flex-start;
+}
+.page-roulette .sidebar a {
+    text-decoration: underline;
+}
+.page-roulette .sidebar a:hover {
+    color: var(--color-on-background);
+}
+
+.page-roulette .sidebar .check {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+}
+
+.page-roulette .sidebar form {
     display: flex;
     flex-direction: column;
     gap: 1rem;
     align-items: flex-start;
 }
-.page-roulette .options a {
-    text-decoration: underline;
-}
-.page-roulette .options a:hover {
-    color: var(--color-on-background);
-}
 
-.page-roulette .options .check {
+.page-roulette .sidebar .save .btns {
     display: flex;
-    gap: 0.5rem;
-    align-items: center;
+    gap: 1rem;
 }
 
 .page-roulette .levels-container {
