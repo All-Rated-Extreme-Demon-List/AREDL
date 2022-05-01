@@ -234,6 +234,13 @@ export default {
             localStorage.removeItem('roulette');
         },
         onImport() {
+            if (
+                this.isActive &&
+                !window.confirm('This will overwrite the currently running roulette. Continue?')
+            ) {
+                return;
+            }
+
             this.fileInput.showPicker();
         },
         async onImportUpload() {
@@ -257,6 +264,9 @@ export default {
                 this.levels = roulette.levels;
                 this.progression = roulette.progression;
                 this.save();
+                this.givenUp = false;
+                this.showRemaining = false;
+                this.percentage = undefined;
             } catch {
                 this.showToast('Invalid file.');
                 return;
