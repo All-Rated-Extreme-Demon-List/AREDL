@@ -7,5 +7,18 @@
     "verification": "https://youtu.be/e84b5HaLdm4",
     "percentToQualify": 100,
     "password": "Free to copy",
-    "records": []
+    "records": [
+        {
+           "user": "Clpz",
+           "link": "https://www.youtube.com/watch?v=0jxu9nR6UWg&ab_channel=Clpz",
+           "percent": 100,
+           "hz": 300
+        },
+        {
+            "user": "Hasik",
+            "link": "https://youtu.be/A2yUI5e3WNY",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
 }
