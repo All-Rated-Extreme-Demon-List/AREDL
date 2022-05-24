@@ -6,5 +6,12 @@
     "verifier": "KaiiYT",
     "verification": "https://youtu.be/ISavfrDeGzA",
     "percentToQualify": 58,
-    "records": []
+    "records": [
+        {
+            "user": "Prometheus",
+            "link": "https://youtu.be/cf78Bq2nkwY",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
 }
