@@ -76,9 +76,8 @@ Can i submit Multiple levels on 1 video?
 
 ## List Admins:
 
-- AcropolisBoy
-- SupaX\_
 - attrixia
+- Davine
 
 ## Server Administrators:
 
@@ -89,9 +88,9 @@ Can i submit Multiple levels on 1 video?
 
 ## List Helpers:
 
-- Davine
-- hex
 - KylashTheKiller
+- Spaace
+- TravelChimp
 
 ---
 
