@@ -8,5 +8,36 @@
     "verifier": "Lipton",
     "verification": "https://youtu.be/KZeZu8b0kJU",
     "percentToQualify": 61,
-    "records": []
+    "records": [
+        {
+            "user": "Samuuu18",
+            "link": "https://youtu.be/VIflqSefMz8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "h4tecr1me.",
+            "link": "https://www.youtube.com/watch?v=9VAq8K8iLFE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Dandy Chiggins",
+            "link": "https://youtu.be/tvPCEHrGy68",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Lyrian",
+            "link": "https://www.youtube.com/watch?v=GYbGlyFv1fo&t=25s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "RaizingGD",
+            "link": "https://www.youtube.com/watch?v=td-Z3CbXogw",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
