@@ -10,6 +10,18 @@
     "percentToQualify": 61,
     "records": [
         {
+            "user": "Lyrian",
+            "link": "https://www.youtube.com/watch?v=GYbGlyFv1fo&t=25s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kenos Song",
+            "link": "https://youtu.be/WwWGz7RjvP4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Samuuu18",
             "link": "https://youtu.be/VIflqSefMz8",
             "percent": 100,
@@ -24,12 +36,6 @@
         {
             "user": "Dandy Chiggins",
             "link": "https://youtu.be/tvPCEHrGy68",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Lyrian",
-            "link": "https://www.youtube.com/watch?v=GYbGlyFv1fo&t=25s",
             "percent": 100,
             "hz": 360
         },
