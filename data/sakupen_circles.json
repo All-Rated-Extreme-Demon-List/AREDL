@@ -539,16 +539,22 @@
             "hz": 360
         },
         {
-             "user": "tunbag_",
+            "user": "tunbag_",
             "link": "https://youtu.be/5rvSD28cwdA",
             "percent": 100,
             "hz": 360
         },
         {
-            "user": "Vapor",
+           "user": "Vapor",
            "link": "https://youtu.be/3nqKxIvv4Ao",
            "percent": 54,
            "hz": 360
-       }
+        },
+        {
+           "user": "shekyus",
+           "link": "https://www.youtube.com/watch?v=AP8HjrR0JDg",
+           "percent": 100,
+           "hz": 300
+        }
     ]
 }
