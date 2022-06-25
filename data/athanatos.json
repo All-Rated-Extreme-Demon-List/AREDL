@@ -11,5 +11,11 @@
     "verifier": "Venomio",
     "verification": "https://www.youtube.com/watch?v=1sgeJ-FBSnI",
     "percentToQualify": 66,
-    "records": []
+    "records": [{
+            "user": "woi",
+            "link": "https://www.youtube.com/watch?v=_dk9w8nD2f4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
