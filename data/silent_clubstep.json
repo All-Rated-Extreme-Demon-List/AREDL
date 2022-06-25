@@ -47,11 +47,17 @@
             "percent": 100,
             "hz": 360
         },
-                {
+        {
             "user": "Snakez363",
             "link": "https://www.youtube.com/watch?v=zvHMiUgwSTs",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "BrightBird",
+            "link": "https://youtu.be/j_MpE27Ktnk",
+            "percent": 100,
+            "hz": 288
         }
     ]
 }
