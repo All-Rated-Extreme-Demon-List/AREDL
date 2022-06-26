@@ -772,12 +772,6 @@
             "hz": 360
         },
         {
-            "user": "BrightBird",
-            "link": "https://www.youtube.com/watch?v=ew2CgPbdn7o",
-            "percent": 60,
-            "hz": 288
-        },
-        {
             "user": "Cuin",
             "link": "https://youtu.be/GNKBYXx4lL4",
             "percent": 100,
@@ -1017,6 +1011,12 @@
             "link": "https://www.youtube.com/watch?v=m8cO_BvUnfQ",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "BrightBird",
+            "link": "https://youtu.be/XloVf_pDAwo",
+            "percent": 100,
+            "hz": 288
         }
     ]
 }
