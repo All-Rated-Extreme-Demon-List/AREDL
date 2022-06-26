@@ -101,7 +101,6 @@ Can i submit Multiple levels on 1 video?
 - frigusterio
 - Prometheus
 - Nolife
-- Prometheus
 
 ---
 
