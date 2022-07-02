@@ -277,12 +277,6 @@
             "hz": 360
         },
         {
-            "user": "JuanchitoXD5",
-            "link": "https://www.youtube.com/watch?v=IYoudhUSFwU&ab_channel=juanchitoxd5",
-            "percent": 94,
-            "hz": 120
-        },
-        {
             "user": "Chronic",
             "link": "https://youtu.be/F1uqLbwRJT8",
             "percent": 100,
@@ -323,6 +317,12 @@
             "link": "https://www.youtube.com/watch?v=Xl4TfdvnNYw",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "JuanchitoXD5",
+            "link": "https://www.youtube.com/watch?v=ywMq1ufe0Og&ab_channel=juanchitoxd5",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
