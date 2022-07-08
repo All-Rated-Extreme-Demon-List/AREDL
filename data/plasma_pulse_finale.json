@@ -483,12 +483,6 @@
             "hz": 144
         },
         {
-            "user": "Spaace",
-            "link": "https://youtu.be/asAWguFaxJ4",
-            "percent": 76,
-            "hz": 180
-        },
-        {
             "user": "Andrxw",
             "link": "https://youtu.be/asAWguFaxJ4",
             "percent": 100,
@@ -523,6 +517,12 @@
             "link": "https://www.youtube.com/watch?v=HQ5y9dC03-c",
             "percent": 100,
             "hz": 360
-        }
+        },
+        {
+            "user": "Spaace",
+            "link": "https://youtu.be/c87jw8mUaUo",
+            "percent": 100,
+            "hz": 120
+        },
     ]
 }
