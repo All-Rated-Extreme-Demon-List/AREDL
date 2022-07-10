@@ -7,5 +7,19 @@
     "verification": "https://www.youtube.com/watch?v=2fV2DqF0BBU",
     "percentToQualify": 100,
     "password": "Not Copyable",
-    "records": []
+    "records": [
+        {
+            "user": "RazerJCZ",
+            "link": "https://www.youtube.com/watch?v=hoKufdaTvA4",
+            "percent": 100,
+             "hz": 240
+        },
+        {
+            "user": "Shel",
+            "link": "https://youtu.be/IVzw67NbAE8",
+            "percent": 100,
+             "hz": 144
+        }
+    ]
 }
+
