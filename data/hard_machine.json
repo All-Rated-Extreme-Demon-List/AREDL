@@ -12,5 +12,12 @@
     "verifier": "Prometheus",
     "verification": "https://youtu.be/qv6O_dC3ptc",
     "percentToQualify": 53,
-    "records": []
+    "records": [
+        {
+            "user": "biskit",
+            "link": "https://youtu.be/dHi8jfMJBeI",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
