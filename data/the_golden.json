@@ -1776,11 +1776,17 @@
             "hz": 360
         },
         {
-            "user": "AshenID ",
+            "user": "AshenID",
             "link": "https://youtu.be/1frXmDwcODo",
             "percent": 100,
             "hz": 144,
             "mobile": true
+        },
+        {
+            "user": "Yoshi",
+            "link": "https://youtu.be/T81tm_fISkA",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
