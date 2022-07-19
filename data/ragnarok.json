@@ -2,22 +2,16 @@
     "id": 81673888,
     "name": "Shitty Ragnarok",
     "author": "Prometheus",
-    "creators": [
-    "T333",
-    "Sushiboys",
-    "Liebe",
-    "Salsa",
-    "Ashton",
-    "iHas",
-    "L0GAN",
-    "Fernamg",
-    "CarlIsBored",
-    "iRaily",
-    "Kiwi1938",
-    "chspchips"
-    ],
+    "creators": ["T333", "Sushiboys", "Liebe", "Salsa", "Ashton", "iHas", "L0GAN", "Fernamg", "CarlIsBored", "iRaily", "Kiwi1938", "chspchips"],
     "verifier": "Shel",
     "verification": "https://youtu.be/NrccQY3IRZ8",
     "percentToQualify": 56,
-    "records": []
+    "records": [
+        {
+            "user": "Yoshi",
+            "link": "https://youtu.be/Dnl-yoyfOTY",
+            "percent": 68,
+            "hz": 144
+        }
+    ]
 }
