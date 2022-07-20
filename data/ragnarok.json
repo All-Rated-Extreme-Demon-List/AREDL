@@ -8,9 +8,15 @@
     "percentToQualify": 56,
     "records": [
         {
+            "user": "KylashTheKiller",
+            "link": "https://youtu.be/DepqfpnXHuw",
+            "percent": 100,
+            "hz": 60
+        },
+        {
             "user": "Yoshi",
-            "link": "https://youtu.be/Dnl-yoyfOTY",
-            "percent": 68,
+            "link": "https://youtu.be/D1EeAewoZqM",
+            "percent": 100,
             "hz": 144
         }
     ]
