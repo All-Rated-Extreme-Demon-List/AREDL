@@ -2,11 +2,7 @@
     "id": 79702855,
     "name": "Shitty Silent Clubstep",
     "author": "Prometheus",
-    "creators": [
-        "KylashTheKiller",
-        "zFice",
-        "DoubleSsymbol"
-    ],
+    "creators": ["KylashTheKiller", "zFice", "DoubleSsymbol"],
     "verifier": "KylashTheKiller",
     "verification": "https://youtu.be/_XN6FrMlcLg",
     "percentToQualify": 57,
@@ -94,6 +90,12 @@
             "link": "https://youtu.be/OTieVo8f1_g",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "wienerrr",
+            "link": "https://www.youtube.com/watch?v=j-w8Le_jBPE",
+            "percent": 61,
+            "hz": 360
         }
     ]
 }
