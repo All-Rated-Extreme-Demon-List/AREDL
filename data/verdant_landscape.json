@@ -2,16 +2,7 @@
     "id": 77989546,
     "name": "Shitty Verdant Landscape",
     "author": "iRaily",
-    "creators": [
-        "MamaMauve",
-        "R1fleRob0tz",
-        "AcropolisBoy",
-        "Whitar",
-        "Bluestone",
-        "chspchips",
-        "Kiwi1938",
-        "SupaX_"
-    ],
+    "creators": ["MamaMauve", "R1fleRob0tz", "AcropolisBoy", "Whitar", "Bluestone", "chspchips", "Kiwi1938", "SupaX_"],
     "verifier": "iRaily",
     "verification": "https://youtu.be/knWvX2Eheg0",
     "percentToQualify": 60,
@@ -159,6 +150,13 @@
             "link": "https://youtu.be/eB9tvTj2ujs",
             "percent": 100,
             "hz": 144,
+            "mobile": true
+        },
+        {
+            "user": "AzielGD",
+            "link": "https://youtu.be/pCgFJoXvgFk",
+            "percent": 65,
+            "hz": 120,
             "mobile": true
         }
     ]
