@@ -6,5 +6,12 @@
     "verifier": "Majesstic",
     "verification": "https://www.youtube.com/watch?v=ZwKX0THMfDc",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "WaveWarrior",
+            "link": "https://youtu.be/1Ih8LnTS36A",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
