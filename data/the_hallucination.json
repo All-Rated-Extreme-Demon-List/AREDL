@@ -4,10 +4,17 @@
     "author": "Whitar",
     "creators": [
     "chspchips",
-    "iRaily
+    "iRaily"
     ],
     "verifier": "iRaily",
     "verification": "https://youtu.be/vV4KjSfWvAY",
     "percentToQualify": 61,
-    "records": []
+    "records": [
+        {
+            "user": "Samuuu18",
+            "link": "https://youtu.be/LNWcmmW0ahA",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
