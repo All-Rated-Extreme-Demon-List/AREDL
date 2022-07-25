@@ -92,16 +92,28 @@
             "hz": 240
         },
         {
-            "user": "wienerrr",
-            "link": "https://www.youtube.com/watch?v=j-w8Le_jBPE",
-            "percent": 61,
-            "hz": 360
-        },
-        {
             "user": "Yoshi",
             "link": "https://youtu.be/vEFdVdxP6fY",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "RussianPotato",
+            "link": "https://www.youtube.com/watch?v=8w9oH1LApbY",
+            "percent": 64,
+            "hz": 144
+        },
+        {
+            "user": "wienerrr",
+            "link": "https://www.youtube.com/watch?v=UFcRq7nknDA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "lonifer",
+            "link": "https://www.youtube.com/watch?v=9qpnDsSvtLs&ab_channel=lonifer",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
