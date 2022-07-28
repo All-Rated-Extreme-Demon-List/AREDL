@@ -3,15 +3,22 @@
     "name": "Shitty RAIN",
     "author": "Prometheus",
     "creators": [
-    L0GAN,
-    iRaily,
-    CarlIsBored,
-    chspchips,
-    frigusterio,
-    fice
+    "L0GAN",
+    "iRaily",
+    "CarlIsBored",
+    "chspchips",
+    "frigusterio",
+    "fice"
     ],
     "verifier": "iRaily",
     "verification": "https://youtu.be/MBmyunGTmVo",
     "percentToQualify": 61,
-    "records": []
+    "records": [
+        {
+            "user": "homegrowntag",
+            "link": "https://www.youtube.com/watch?v=L0BVeYRWhXQ",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
