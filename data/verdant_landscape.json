@@ -153,13 +153,6 @@
             "mobile": true
         },
         {
-            "user": "AzielGD",
-            "link": "https://youtu.be/b7y4zKLlaIk",
-            "percent": 78,
-            "hz": 120,
-            "mobile": true
-        },
-        {
             "user": "GD Leaf",
             "link": "https://www.youtube.com/watch?v=-tPTzr7Hal4",
             "percent": 100,
@@ -170,6 +163,13 @@
             "link": "https://youtu.be/zfB0EbtMXUo",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "AzielGD",
+            "link": "https://youtu.be/JSMaqMOcw24",
+            "percent": 81,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }
