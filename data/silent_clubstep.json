@@ -98,12 +98,6 @@
             "hz": 144
         },
         {
-            "user": "RussianPotato",
-            "link": "https://www.youtube.com/watch?v=8w9oH1LApbY",
-            "percent": 64,
-            "hz": 144
-        },
-        {
             "user": "wienerrr",
             "link": "https://www.youtube.com/watch?v=UFcRq7nknDA",
             "percent": 100,
@@ -132,6 +126,12 @@
             "link": "https://youtu.be/Kx4gkBGtY1g",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "RussianPotato",
+            "link": "https://www.youtube.com/watch?v=5hMJXniEoew",
+            "percent": 100,
+            "hz": 288
         }
     ]
 }
