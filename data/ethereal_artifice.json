@@ -2,18 +2,7 @@
     "id": 77046044,
     "name": "Shitty Ethereal Artifice",
     "author": "Luke",
-    "creators": [
-        "chspchips",
-        "Scarlett",
-        "Strix",
-        "RadioY",
-        "Whitar",
-        "Myz",
-        "SupaX_",
-        "IHas",
-        "Microwaveee",
-        "T333"
-    ],
+    "creators": ["chspchips", "Scarlett", "Strix", "RadioY", "Whitar", "Myz", "SupaX_", "IHas", "Microwaveee", "T333"],
     "verifier": "Andrew14916",
     "verification": "https://www.youtube.com/watch?v=BovJebfj09I",
     "percentToQualify": 60,
@@ -41,6 +30,12 @@
             "link": "https://www.youtube.com/watch?v=Ib0CpI6j8vM",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "Emonadeo",
+            "link": "https://www.youtube.com/watch?v=hine6oSk-60",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
