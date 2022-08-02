@@ -229,12 +229,6 @@
             "mobile": true
         },
         {
-            "user": "Kling 1803",
-            "link": "https://youtu.be/z-c5zN_aV9k",
-            "percent": 89,
-            "hz": 165
-        },
-        {
             "user": "trolomask",
             "link": "https://www.youtube.com/watch?v=0BTceDZVviE",
             "percent": 100,
@@ -365,6 +359,12 @@
             "link": "https://youtu.be/tWw5-jgtd50",
             "percent": 67,
             "hz": 180
+        },
+        {
+            "user": "Kling1803",
+            "link": "https://www.youtube.com/watch?v=shQScYvzKI0",
+            "percent": 91,
+            "hz": 165
         }
     ]
 }
