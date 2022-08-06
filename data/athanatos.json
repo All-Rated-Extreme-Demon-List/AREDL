@@ -2,12 +2,7 @@
     "id": 80011366,
     "name": "Shitty Athanatos",
     "author": "strix",
-    "creators": [
-    "Bluestone",
-    "Tai0",
-    "DoublesSymbol",
-    "hexuri"
-    ],
+    "creators": ["Bluestone", "Tai0", "DoublesSymbol", "hexuri"],
     "verifier": "Venomio",
     "verification": "https://www.youtube.com/watch?v=1sgeJ-FBSnI",
     "percentToQualify": 100,
@@ -41,6 +36,12 @@
             "link": "https://www.youtube.com/watch?v=5VVRTXWx3VY",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Freikz",
+            "link": "https://youtu.be/7unbof4U6y4",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
