@@ -5,7 +5,7 @@
     "creators": ["IntriZ", "chspchips", "Whiliams", "JaydenB118", "Acidius"],
     "verifier": "Magmeta",
     "verification": "https://www.youtube.com/watch?v=rdLAqO316UI",
-    "percentToQualify": 62,
+    "percentToQualify": 100,
     "records": [
         {
             "user": "iRaily",
@@ -478,7 +478,13 @@
         },
         {
             "user": "Andrew14916",
-            "link": "https://www.youtube.com/watch?v=WgZDQ4i_IxA            ",
+            "link": "https://www.youtube.com/watch?v=WgZDQ4i_IxA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Dr4QuiTo",
+            "link": "https://www.youtube.com/watch?v=t99qvndRhcg&ab_channel=Dr4QuiTo",
             "percent": 100,
             "hz": 360
         }
