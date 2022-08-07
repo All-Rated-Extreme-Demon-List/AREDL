@@ -6,5 +6,12 @@
     "verifier": "Kobra456",
     "verification": "https://www.youtube.com/watch?v=WsePP6pEt6g",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Vaoen",
+            "link": "https://youtu.be/Bsc-86meQTk",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
 }
