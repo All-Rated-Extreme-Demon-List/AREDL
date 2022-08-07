@@ -70,28 +70,29 @@ Can i submit Multiple levels on 1 video?
 ## Owners:
 
 - Bluestone
-- iRaily
+- JustCrust
 
 ---
 
 ## List Admins:
 
-- attrixia
-- Davine
+- Davine_007
+- Acidius
 
 ## Server Administrators:
 
-- JustCrust
 - Microwaveee
 
 ---
 
 ## List Helpers:
 
+- Samuuu18
 - KylashTheKiller
-- Samuuu
 - TravelChimp
-- Acidius
+- Achlys
+- homegrowntag
+- asmallsock
 
 ---
 
@@ -101,6 +102,7 @@ Can i submit Multiple levels on 1 video?
 - frigusterio
 - Prometheus
 - Nolife
+- Ryoui
 
 ---
 
