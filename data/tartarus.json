@@ -13,5 +13,12 @@
     "verifier": "Kenos Song",
     "verification": "https://youtu.be/4V-ljWgLtzI",
     "percentToQualify": 54,
-    "records": []
+    "records": [
+        {    
+            "user": "antisynth",
+            "link": "https://www.youtube.com/watch?v=GFCob7lOz9k",
+            "percent": 100,
+            "hz": 330
+        }
+    ]
 }
