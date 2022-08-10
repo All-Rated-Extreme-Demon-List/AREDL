@@ -6,5 +6,12 @@
     "verifier": "Lil_Creator",
     "verification": "https://youtu.be/E-nPQ0OPY2k",
     "percentToQualify": 62,
-    "records": []
+    "records": [
+        {    
+            "user": "Ashton",
+            "link": "https://www.youtube.com/watch?v=ACr6ou728gQ",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
