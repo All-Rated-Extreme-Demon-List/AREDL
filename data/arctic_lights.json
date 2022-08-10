@@ -6,5 +6,24 @@
     "verifier": "Bacon",
     "verification": "https://youtu.be/kx0O7Zz-6so",
     "percentToQualify": 64,
-    "records": []
+    "records": [
+        {
+            "user": "skeeb",
+            "link": "youtube.com/watch?v=Vxj2Z5-RmvI",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "HeartLess",
+            "link": "https://youtu.be/3RoQx23scOQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kenos Song",
+            "link": "https://youtu.be/GJj-8chLpd4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
