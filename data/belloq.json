@@ -19,5 +19,12 @@
     "verifier": "Maesile",
     "verification": "https://youtu.be/CecS1XU2_L0",
     "percentToQualify": 59,
-    "records": []
+    "records": [
+        {    
+            "user": "KylashTheKiller",
+            "link": "https://youtu.be/vdJo7XV-4P8",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
 }
