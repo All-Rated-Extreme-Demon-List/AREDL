@@ -8,5 +8,18 @@
     "verifier": "qb",
     "verification": "https://youtu.be/-yaOleR8Zos",
     "percentToQualify": 60,
-    "records": []
+    "records": [
+        {
+            "user": "Dandy Chiggins",
+            "link": "https://youtu.be/n0-_yUvWBfQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kacro",
+            "link": "https://www.youtube.com/watch?v=y01r1qJdT4M",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
