@@ -90,6 +90,25 @@
             "link": "https://youtu.be/0ti3_xNfbqg",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Quick",
+            "link": "https://youtu.be/XArqREd-QYQ",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "GD CrimsonKing22",
+            "link": "https://www.youtube.com/watch?v=IpodrL7bbjg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "WaffleSniffer",
+            "link": "https://www.youtube.com/watch?v=kbx3TJB-6h8",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
