@@ -2,16 +2,7 @@
     "id": 78402532,
     "name": "Shitty CYCLONE",
     "author": "chspchips",
-    "creators": [
-        "Zekron",
-        "TravelChimp",
-        "R1fleRobotz",
-        "FireRift",
-        "Whiliams",
-        "Whitar",
-        "iRaily",
-        "SupaX_"
-    ],
+    "creators": ["Zekron", "TravelChimp", "R1fleRobotz", "FireRift", "Whiliams", "Whitar", "iRaily", "SupaX_"],
     "verifier": "SupaX_",
     "verification": "https://www.youtube.com/watch?v=1-tV6ObuGsU",
     "percentToQualify": 100,
@@ -81,6 +72,12 @@
             "link": "https://www.youtube.com/watch?v=pm5Sh0AYiic",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Riptide",
+            "link": "https://youtu.be/qbeAUlwSeBM",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
