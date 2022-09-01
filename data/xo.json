@@ -6,7 +6,7 @@
     "verifier": "iRaily",
     "verification": "https://youtu.be/NdsrWfTZXOE",
     "percentToQualify": 62,
-    "password": "003240",
+    "password": "3240",
     "records": [
         {
             "user": "Fh1r",
@@ -590,6 +590,12 @@
             "user": "ElBrocasYT",
             "link": "https://www.youtube.com/watch?v=XX1Gn_Xh1I8&t=16s",
             "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Gael Andrade",
+            "link": "https://youtu.be/ElG1m8XxljQ",
+            "percent": 63,
             "hz": 60
         }
     ]  
