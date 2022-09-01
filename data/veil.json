@@ -8,5 +8,12 @@
     "verifier": "Maxiops35",
     "verification": "https://youtu.be/U1noIgdLP5M",
     "percentToQualify": 61,
-    "records": []
+    "records": [
+        {
+            "user": "donut737",
+            "link": "https://youtu.be/ka96ly9UF-I",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
 }
