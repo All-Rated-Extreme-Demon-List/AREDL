@@ -5,7 +5,7 @@
     "creators": ["Infer355", "Lightclaww", "Davine_007"],
     "verifier": "iRaily",
     "verification": "https://youtu.be/k6oGyPqPsxU",
-    "percentToQualify": 61,
+    "percentToQualify": 100,
     "records": [
         {
             "user": "LzKlauss",
@@ -36,6 +36,12 @@
             "link": "https://youtu.be/WWDCOKWZtAQ",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "LloydPro",
+            "link": "https://www.youtube.com/watch?v=lV2-bLodKrc",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
