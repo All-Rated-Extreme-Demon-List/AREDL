@@ -2,14 +2,7 @@
     "id": 82420368,
     "name": "Shitty Tartarus",
     "author": "Prometheus",
-    "creators": [
-    "Sovola",
-    "Liebe",
-    "Ashton",
-    "Carl",
-    "chspchips",
-    "Cyphe"
-    ],
+    "creators": ["Sovola", "Liebe", "Ashton", "Carl", "chspchips", "Cyphe"],
     "verifier": "Kenos Song",
     "verification": "https://youtu.be/4V-ljWgLtzI",
     "percentToQualify": 54,
@@ -29,6 +22,12 @@
         {    
             "user": "woi",
             "link": "https://www.youtube.com/watch?v=4p-6H3KXvwY",
+            "percent": 100,
+            "hz": 360
+        },
+        {    
+            "user": "HeartLess",
+            "link": "https://youtu.be/aDbWXNRDbhs",
             "percent": 100,
             "hz": 360
         }
