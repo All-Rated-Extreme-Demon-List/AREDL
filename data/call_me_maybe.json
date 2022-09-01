@@ -2,9 +2,7 @@
     "id": 81103246,
     "name": "Shitty Call Me Maybe",
     "author": "Wavvy",
-    "creators": [
-    "zFice7"
-    ],
+    "creators": ["zFice7"],
     "verifier": "qb",
     "verification": "https://youtu.be/-yaOleR8Zos",
     "percentToQualify": 60,
@@ -32,6 +30,12 @@
             "link": "https://youtu.be/WFJKNphsKq4",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "KylashTheKiller",
+            "link": "https://youtu.be/POMBHjO7rNk",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
