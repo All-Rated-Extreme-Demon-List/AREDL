@@ -2,9 +2,7 @@
     "id": 81521179,
     "name": "Shitty Cold Sweat",
     "author": "Kiwi1938",
-    "creators": [
-    "Helbrein"
-    ],
+    "creators": ["Helbrein"],
     "verifier": "Lipton",
     "verification": "https://youtu.be/KZeZu8b0kJU",
     "percentToQualify": 61,
@@ -96,6 +94,12 @@
         {
             "user": "GD CrimsonKing22",
             "link": "https://www.youtube.com/watch?v=IpodrL7bbjg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "HeartLess",
+            "link": "https://youtu.be/RrrYV1o6q_M",
             "percent": 100,
             "hz": 360
         }
