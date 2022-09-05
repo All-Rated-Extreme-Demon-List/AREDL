@@ -2,16 +2,24 @@
     "id": 79733975,
     "name": "Shitty Bloodbath",
     "author": "Prometheus",
-    "creators": ["NourTheKing", "KylashTheKiller", "sorrym8", "Aviv", "fice", "carl"],
+    "creators": [
+        "Prometheus",
+        "NourTheKing",
+        "KylashTheKiller",
+        "sorrym8",
+        "Aviv",
+        "fice",
+        "carl"
+    ],
     "verifier": "zMatt05",
     "verification": "https://youtu.be/e84b5HaLdm4",
     "percentToQualify": 100,
     "records": [
         {
-           "user": "Clpz",
-           "link": "https://www.youtube.com/watch?v=0jxu9nR6UWg&ab_channel=Clpz",
-           "percent": 100,
-           "hz": 300
+            "user": "Clpz",
+            "link": "https://www.youtube.com/watch?v=0jxu9nR6UWg&ab_channel=Clpz",
+            "percent": 100,
+            "hz": 300
         },
         {
             "user": "Hasik",
@@ -344,7 +352,7 @@
             "hz": 240
         },
         {
-            "user": "Klöstflow",
+            "user": "Kl\u00f6stflow",
             "link": "https://youtu.be/wULZU2IIPKo",
             "percent": 100,
             "hz": 120

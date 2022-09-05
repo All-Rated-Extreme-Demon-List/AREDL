@@ -2,7 +2,14 @@
     "id": 67996492,
     "name": "Shitty Chromatic Haze",
     "author": "BatryzzGD",
-    "creators": ["IntriZ", "chspchips", "Whiliams", "JaydenB118", "Acidius"],
+    "creators": [
+        "BatryzzGD",
+        "IntriZ",
+        "chspchips",
+        "Whiliams",
+        "JaydenB118",
+        "Acidius"
+    ],
     "verifier": "Magmeta",
     "verification": "https://www.youtube.com/watch?v=rdLAqO316UI",
     "percentToQualify": 100,
@@ -164,7 +171,7 @@
             "hz": 288
         },
         {
-            "user": "Timéo",
+            "user": "Tim\u00e9o",
             "link": "https://youtu.be/lhXlBafNpIE",
             "percent": 100,
             "hz": 144
