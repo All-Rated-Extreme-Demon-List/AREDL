@@ -3,7 +3,8 @@
     "name": "Shitty VEIL",
     "author": "Maxiops35",
     "creators": [
-    "Zazzoo"
+        "Maxiops35",
+        "Zazzoo"
     ],
     "verifier": "Maxiops35",
     "verification": "https://youtu.be/U1noIgdLP5M",
@@ -26,13 +27,7 @@
             "link": "https://youtu.be/-vOF_U57QGY",
             "percent": 100,
             "hz": 60,
-            "mobile":true
-        },
-        {
-            "user": "Riptide",
-            "link": "https://youtu.be/75RTeajJTVM",
-            "percent": 100,
-            "hz": 120
+            "mobile": true
         }
     ]
 }

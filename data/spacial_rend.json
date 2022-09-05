@@ -2,7 +2,10 @@
     "id": 63976167,
     "name": "Shitty Spacial Rend",
     "author": "WhatsApp",
-    "creators": ["Jah"],
+    "creators": [
+        "WhatsApp",
+        "Jah"
+    ],
     "verifier": "WhatsApp",
     "verification": "https://youtu.be/PmI1SlfjwyI",
     "percentToQualify": 100,
@@ -189,7 +192,7 @@
             "mobile": true
         },
         {
-            "user": "Timéo",
+            "user": "Tim\u00e9o",
             "link": "https://youtu.be/7_vpLdwBByQ",
             "percent": 100,
             "hz": 144

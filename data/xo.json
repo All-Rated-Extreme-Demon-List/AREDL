@@ -2,7 +2,12 @@
     "id": 67158594,
     "name": "Shitty xo",
     "author": "iRaily",
-    "creators": ["HargChucu", "GDClutter", "chspchips"],
+    "creators": [
+        "iRaily",
+        "HargChucu",
+        "GDClutter",
+        "chspchips"
+    ],
     "verifier": "iRaily",
     "verification": "https://youtu.be/NdsrWfTZXOE",
     "percentToQualify": 62,
@@ -603,12 +608,6 @@
             "link": "https://youtu.be/BQXcK4ZKObk",
             "percent": 62,
             "hz": 360
-        },
-        {
-            "user": "Eqlipsic",
-            "link": "https://youtu.be/a8LxFY0snqc",
-            "percent": 100,
-            "hz": 240
         }
-    ]  
+    ]
 }

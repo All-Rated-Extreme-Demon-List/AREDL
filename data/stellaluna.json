@@ -8,10 +8,10 @@
     "percentToQualify": 100,
     "records": [
         {
-           "user": "iRaily",
-           "link": "https://youtu.be/A4I6bGH9X4I",
-           "percent": 100,
-           "hz": 288
+            "user": "iRaily",
+            "link": "https://youtu.be/A4I6bGH9X4I",
+            "percent": 100,
+            "hz": 288
         },
         {
             "user": "JASM1818",
@@ -38,4 +38,4 @@
             "hz": 240
         }
     ]
-}    
+}
