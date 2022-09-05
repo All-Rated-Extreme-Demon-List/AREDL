@@ -71,28 +71,26 @@ Can i submit Multiple levels on 1 video?
 
 - Bluestone
 - JustCrust
+- Microwaveee
+- Davine_007
 
 ---
 
 ## List Admins:
 
-- Davine_007
-- Acidius
+- TravelChimp
 
 ## Server Administrators:
-
-- Microwaveee
 
 ---
 
 ## List Helpers:
 
-- Samuuu18
 - KylashTheKiller
-- TravelChimp
 - Achlys
 - homegrowntag
 - asmallsock
+- Ryoui
 
 ---
 
