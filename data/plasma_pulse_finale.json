@@ -2,7 +2,10 @@
     "id": 64156354,
     "name": "Shitty Plasma Pulse Finale",
     "author": "Acidius",
-    "creators": ["Aassbll"],
+    "creators": [
+        "Acidius",
+        "Aassbll"
+    ],
     "verifier": "Acidius",
     "verification": "https://www.youtube.com/watch?v=3lKZcAwgFkA",
     "percentToQualify": 56,
@@ -291,7 +294,7 @@
             "hz": 300
         },
         {
-            "user": "Timéo",
+            "user": "Tim\u00e9o",
             "link": "https://youtu.be/CGohi1ZllXw",
             "percent": 100,
             "hz": 144

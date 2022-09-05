@@ -8,10 +8,10 @@
     "percentToQualify": 100,
     "records": [
         {
-        "user": "Riptide",
-        "link": "https://youtu.be/TOsJHjtcj-o",
-        "percent": 100,
-        "hz": 120
+            "user": "Riptide",
+            "link": "https://youtu.be/TOsJHjtcj-o",
+            "percent": 100,
+            "hz": 120
         },
         {
             "user": "LRub1x",
@@ -20,5 +20,4 @@
             "hz": 360
         }
     ]
-}   
-
+}
