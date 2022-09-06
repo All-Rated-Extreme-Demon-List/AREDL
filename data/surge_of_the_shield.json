@@ -9,5 +9,12 @@
     "verifier": "MinYong",
     "verification": "https://www.youtube.com/watch?v=GcNw1xyt9ds",
     "percentToQualify": 61,
-    "records": []
+    "records": [
+        {
+            "user": "Riptide",
+            "link": "https://youtu.be/4JcGDQQcHBg",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
 }
