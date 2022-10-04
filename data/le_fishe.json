@@ -6,5 +6,12 @@
     "verifier": "TheKalvinator",
     "verification": "https://youtu.be/9NdIiGcqEoc",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "sodaman",
+            "link": "https://youtu.be/O_m4w-JAYbk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
