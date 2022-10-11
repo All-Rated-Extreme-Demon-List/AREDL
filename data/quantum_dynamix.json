@@ -6,5 +6,12 @@
     "verifier": "PinkCotton",
     "verification": "https://youtu.be/0oUnQhsJLL4",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "wiz",
+            "link": "https://youtu.be/qZ3TZ_Q91lE",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
