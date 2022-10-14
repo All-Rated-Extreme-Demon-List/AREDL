@@ -97,9 +97,6 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <p>
-                        CRGDPS is not affiliated with The Shitty List
-                    </p>
                     <h3>Submission Requirements</h3>
                     <p>
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
@@ -124,6 +121,9 @@ export default {
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                    </p>
+                     <p>
+                       Thanks to Prometheus and TSL for letting us use the website :D
                     </p>
                 </div>
             </div>
