@@ -21,42 +21,27 @@
     },
     {
         "role": "helper",
-        "name": "KylashTheKiller",
-        "link": "https://www.youtube.com/c/KylashTheKiller"
+        "name": "Flörian",
+        "link": "https://www.youtube.com/channel/UCyxexTnvTeDsQekNVPHtVBg"
     },
     {
         "role": "helper",
-        "name": "Ryoui",
-        "link": "https://www.youtube.com/channel/UCbon_JIcGDqic5lJj3-8L-w"
+        "name": "Siren",
+        "link": "https://www.youtube.com/channel/UCXEro4z2hGcgh8V6g4gXYWw"
     },
     {
         "role": "helper",
-        "name": "Achlys",
-        "link": "https://www.youtube.com/channel/UCd7V5FKKTC01gAmaxqaK1Ug"
+        "name": "BlackMoonMaster",
+        "link": "https://www.youtube.com/channel/UC6TL5Z5lW6UaBqZqaw4RF9A"
     },
-    {
-        "role": "helper",
-        "name": "homegrowntag",
-        "link": "https://www.youtube.com/channel/UCtPsZ68MCked5rgimzzX7Hw"
-    },
-    {
-        "role": "trial",
-        "name": "ThinCrust",
-        "link": "https://www.youtube.com/channel/UCW0SgOGd9y6yHk5buJ81JfQ"
-    },
-    {
-        "role": "trial",
-        "name": "Prometheus",
-        "link": "https://www.youtube.com/c/PrometheusAlt"
-    },
-    {
-        "role": "dev",
-        "name": "Prometheus",
-        "link": "https://www.youtube.com/c/PrometheusAlt"
-    },
-    {
-        "role": "dev",
-        "name": "Emonadeo",
-        "link": "https://github.com/Emonadeo"
-    }
+//    {
+//        "role": "trial",
+//        "name": "Prometheus",
+ //       "link": "https://www.youtube.com/c/PrometheusAlt"
+ //   },
+  //  {
+  //      "role": "dev",
+  //      "name": "Prometheus",
+  //      "link": "https://www.youtube.com/c/PrometheusAlt"
+  //  },
 ]
