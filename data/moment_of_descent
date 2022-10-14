@@ -1,10 +1,21 @@
 {
-    "id": 74803822,
-    "name": "Shitty A2Marbl",
-    "author": "chspchips",
-    "creators": [],
-    "verifier": "iRaily",
-    "verification": "https://youtu.be/U21gyCuwCO8",
-    "percentToQualify": 100,
-    "records": []
-}
+    "id": 8,
+    "name": "Stereo Wave",
+    "author": "BriXX",
+    "creators": 
+    [
+    "Sebi"
+    ],
+    "verifier": "BriXX",
+    "verification": "https://www.youtube.com/watch?v=XFp2ifnCrCM",
+    "percentToQualify": 48,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DragoonGD",
+            "link": "https://www.youtube.com/watch?v=_f9C0VatIzw",
+            "percent": 100,
+            "hz": 360
+        }
+        ]
+        }
