@@ -1,0 +1,23 @@
+{
+    "id": 135,
+    "name": "The End",
+    "author": "TheRealWacazy",
+    "creators": [],
+    "verifier": "TheRealWacazy",
+    "verification": "https://www.youtube.com/watch?v=1JRWGVGfVxE",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "SkeletalVirus",
+            "link": "https://www.youtube.com/watch?v=1JRWGVGfVxE",
+            "percent": 100,
+            "hz": 300
+        },
+              {
+            "user": "Florian",
+            "link": "https://youtu.be/6OxR1RiC7Zk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
