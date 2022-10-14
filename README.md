@@ -1,5 +1,3 @@
-# Welcome to the maintained Geometry Dash Shitty List repo!
-
 # Disclaimer
 
 ```
