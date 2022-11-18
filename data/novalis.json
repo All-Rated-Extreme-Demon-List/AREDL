@@ -6,5 +6,12 @@
     "verifier": "Gryllex",
     "verification": "https://www.youtube.com/watch?v=ecuAlcs3dIw",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+            {
+            "user": "Jeremyiscool",
+            "link": "https://www.youtube.com/watch?v=EJBkXaul4cs",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
