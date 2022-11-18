@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=dYt5fp5VGVs",
     "percentToQualify": 100,
     "password": "666777",
-    "records": []
+    "records": [
+            {
+            "user": "Jeremyiscool",
+            "link": "https://www.youtube.com/watch?v=YrPp75EJncM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
