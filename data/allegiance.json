@@ -6,5 +6,12 @@
     "verifier": "Endlevel",
     "verification": "https://www.youtube.com/watch?v=wzutYMNXr-Y",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "Chubby9000",
+            "link": "https://youtu.be/MzlFZjDvDaw",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
 }
