@@ -6,5 +6,12 @@
     "verifier": "combi",
     "verification": "https://www.youtube.com/watch?v=laok-nI3-t8",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "Chubby9000",
+            "link": "https://youtu.be/ieIWZyerq5o",
+            "percent": 100,
+            "hz": 330
+        }
+    ]
 }
