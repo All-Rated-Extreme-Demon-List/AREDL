@@ -152,6 +152,9 @@ export default {
                     <p>
                        - Show Layout
                     </p>
+                    <p>
+                       - Replay Bot / Macro
+                    </p>
                 </div>
             </div>
         </main>
