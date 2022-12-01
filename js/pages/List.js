@@ -120,7 +120,7 @@ export default {
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
                     <p>
-                        Do not use Banned Hacks (Listed Below)
+                        Do not use Banned Hacks (<a href="https://docs.google.com/document/d/1AsQS0WH_OzPAzS7avtAB4e8rnYhoqWnFsV068Tcu5VU/edit?usp=sharing" target="_blank">Full List of Allowed / Banned hacks listed here</a>)
                     </p>
                      <p>
                        <h3>Allowed Hacks / Modifications</h3>
