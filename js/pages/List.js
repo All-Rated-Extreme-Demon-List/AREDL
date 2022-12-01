@@ -155,6 +155,12 @@ export default {
                     <p>
                        - Replay Bot / Macro
                     </p>
+                    <p>
+                       - No Mirror
+                    </p>
+                    <p>
+                       - Hitbox Multiplier
+                    </p>
                 </div>
             </div>
         </main>
