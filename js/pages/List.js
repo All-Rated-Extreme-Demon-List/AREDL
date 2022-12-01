@@ -85,7 +85,7 @@ export default {
                         <p class="error" v-for="error of errors">{{ error }}</p>
                     </div>
                     <div class="og">
-                        <p class="type-label-md">Original List by <a href="https://me.redlimerl.com/" target="_blank">RedLime</a></p>
+                        <p class="type-label-md">Original List by <a href="https://tsl.pages.dev/#/" target="_blank">TheShittyList</a></p>
                     </div>
                     <template v-if="editors">
                         <h3>List Editors</h3>
@@ -117,13 +117,40 @@ export default {
                         Do not use secret routes or bug routes
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
-                    </p>
-                    <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
+                    <p>
+                        Do not use Banned Hacks (Listed Below)
+                    </p>
                      <p>
-                       Thanks to Prometheus and TSL for letting us use the website :D
+                       <h3>Allowed Hacks / Modifications</h3>
+                    </p>
+                    <p>
+                       - LDMs / ULDMs
+                    </p>
+                    <p>
+                       - Show Hitboxes on Death
+                    </p>
+                    <p>
+                       - Cosmetic Hacks (Show / Hide Player Trail, RGB Icons, etc)
+                    </p>
+                    <p>
+                       - Speedhack above x1 Speed
+                    </p>
+                    <p>
+                       <h3>Banned Hacks</h3>
+                    </p>
+                    <p>
+                       - Noclip
+                    </p>
+                    <p>
+                       - Speedhack below x1 Speed
+                    </p>
+                    <p>
+                       - Show Hitboxes
+                    </p>
+                    <p>
+                       - Show Layout
                     </p>
                 </div>
             </div>
