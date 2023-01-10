@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=ntwfv59VQYI",
     "percentToQualify": 100,
     "password": "111111",
-    "records": []
+    "records": [
+    {
+            "user": "Chubby9000",
+            "link": "https://youtu.be/jBntJuFOktg",
+            "percent": 100,
+            "hz": 330
+        }
+    ]
 }
