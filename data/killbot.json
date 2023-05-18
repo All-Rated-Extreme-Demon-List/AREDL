@@ -6,5 +6,13 @@
     "verifier": "BoldStep",
     "verification": "https://www.youtube.com/watch?v=UQvPvOGYdpw",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "Mexican Toad",
+            "link": "https://youtu.be/OeLputaDeD8",
+            "percent": 100,
+            "hz": 90,
+            "mobile": true
+}
+    ]
 }
