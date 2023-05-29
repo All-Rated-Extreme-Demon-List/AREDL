@@ -1,8 +1,8 @@
 {
     "id": 59899374,
     "name": "Prismatic Haze",
-    "author": "Cirtrax",
-    "creators": ["Cirtrax, Gizbro"],
+    "author": "[REDACTED",
+    "creators": ["[REDACTED], Gizbro"],
     "verifier": "Gizbro",
     "verification": "https://www.youtube.com/watch?v=RS5ZFcuaw3I",
     "percentToQualify": 100,
@@ -18,6 +18,12 @@
             "link": "https://www.youtube.com/watch?v=Y89UVQgWlSQ",
             "percent": 100,
             "hz": 120
+},
+        {
+            "user": "Trees",
+            "link": "https://www.youtube.com/watch?v=BscjhHz2qOc&t=2s&ab_channel=Trees",
+            "percent": 100,
+            "hz": 360
 }
     ]
 }
