@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=jk-r4_Nctes",
     "percentToQualify": 100,
     "password": "220520",
-    "records": []
+    "records": [
+    {
+            "user": "Trees",
+            "link": "https://www.youtube.com/watch?v=rs_PBqMzj4A&ab_channel=Trees",
+            "percent": 100,
+            "hz": 144
+}
+    ]
 }
