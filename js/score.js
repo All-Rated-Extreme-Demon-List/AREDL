@@ -11,7 +11,7 @@ const scale = 3;
  * @returns {Number}
  */
 export function score(rank, percent, minPercent) {
-    if (rank > 1000) {
+    if (rank > 999) {
         return 0;
     }
 
