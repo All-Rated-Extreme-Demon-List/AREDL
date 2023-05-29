@@ -6,5 +6,12 @@
     "verifier": "RG",
     "verification": "https://www.youtube.com/watch?v=sVngEgj0who",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "iiLogan",
+            "link": "https://youtu.be/1_KLWSdzryo",
+            "percent": 100,
+            "hz": 360
+}
+    ]
 }
