@@ -1,10 +1,17 @@
 {
     "id": 62869408,
     "name": "Chromatic Haze",
-    "author": "Cirtrax",
-    "creators": ["Gizbro, Cirtrax"],
+    "author": "[REDACTED]",
+    "creators": ["Gizbro, [REDACTED]"],
     "verifier": "RevoltZy",
     "verification": "https://www.youtube.com/watch?v=J-qEOHy-IIA",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "Trees",
+            "link": "https://www.youtube.com/watch?v=y5VuBzXuY1g&ab_channel=Trees",
+            "percent": 100,
+            "hz": 360
+}
+    ]
 }
