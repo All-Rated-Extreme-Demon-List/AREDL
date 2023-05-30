@@ -98,7 +98,7 @@ export default {
                         </ol>
                     </template>               
                     <p>
-                        WARNING: Records will take a while after the AeonAir video, please refer to the information below
+                        WARNING: Records will take a while after the <a href="https://www.youtube.com/watch?v=Pr5uMhDn_8U" target="_blank">AeonAir Video</a>, please refer to the information below
                     </p>
                     <h3>How to Submit Records</h3>
                     <p>
