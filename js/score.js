@@ -3,7 +3,7 @@
  *400 / Math.sqrt((rank - 1) / 50 + 0.444444) - 100
  * Formula for 800 levels
  */
-const scale = 3;
+const scale = 1;
 
 /**
  * Calculate the score awarded when having a certain percentage on a list level
