@@ -6,5 +6,12 @@
     "verifier": "KiwiPenguin",
     "verification": "https://www.youtube.com/watch?v=uV3NEdoSKio",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "BlueGMD",
+            "link": "https://www.youtube.com/watch?v=7sblA_2CXtw&t=32s",
+            "percent": 100,
+            "hz": 360
+}
+    ]
 }
