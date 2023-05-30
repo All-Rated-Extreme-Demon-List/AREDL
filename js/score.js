@@ -1,6 +1,7 @@
 /**
  * Numbers of decimal digits to round to
  *400 / Math.sqrt((rank - 1) / 50 + 0.444444) - 100
+ * Formula for 800 levels
  */
 const scale = 3;
 
@@ -16,7 +17,7 @@ export function score(rank, percent, minPercent) {
         return 0;
     }
 
-    let score = ((-999 / 799) * (rank) + (799999 / 799)) *
+    let score = ((-999 / 649) * (rank) + (649999 / 649)) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
     score = Math.max(0, score);
