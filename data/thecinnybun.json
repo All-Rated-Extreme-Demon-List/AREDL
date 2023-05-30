@@ -6,5 +6,12 @@
     "verifier": "saturn",
     "verification": "https://www.youtube.com/watch?v=n8eUDCCoBF8",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "Nik14K",
+            "link": "https://youtu.be/HmpAMa0Ot3k",
+            "percent": 100,
+            "hz": 360
+}
+    ]
 }
