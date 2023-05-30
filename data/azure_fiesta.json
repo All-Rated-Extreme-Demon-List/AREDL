@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=HiTfvNpwYCM",
     "percentToQualify": 100,
     "password": "002202",
-    "records": []
+    "records": [
+    {
+            "user": "Nova",
+            "link": "https://www.youtube.com/watch?v=-fSUBLWprAQ",
+            "percent": 100,
+            "hz": 144
+}
+    ]
 }
