@@ -100,7 +100,7 @@ export default {
                     <p>
                         WARNING: Records will take a while after the AeonAir video, please refer to the information below
                     </p>
-                    <h3>How to Submit</h3>
+                    <h3>How to Submit Records</h3>
                     <p>
                         Join the discord, and  use /record submit
                     </p>
