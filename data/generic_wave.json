@@ -6,5 +6,12 @@
     "verifier": "Mullsy",
     "verification": "https://www.youtube.com/watch?v=RL-c3PM4uhk",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "skyv",
+            "link": "https://youtu.be/gEkJ5gYZpQw",
+            "percent": 100,
+            "hz": 120
+}
+    ]
 }
