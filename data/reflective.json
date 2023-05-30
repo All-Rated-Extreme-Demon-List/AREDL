@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=1fzhBT_7Fos",
     "percentToQualify": 100,
     "password": "004242",
-    "records": []
+    "records": [
+    {
+            "user": "Willow",
+            "link": "https://youtu.be/78EA3LYPYPk",
+            "percent": 100,
+            "hz": 240
+}
+    ]
 }
