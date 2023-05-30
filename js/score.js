@@ -1,5 +1,6 @@
 /**
  * Numbers of decimal digits to round to
+ *400 / Math.sqrt((rank - 1) / 50 + 0.444444) - 100
  */
 const scale = 3;
 
