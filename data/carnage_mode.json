@@ -6,5 +6,13 @@
     "verifier": "SrGuillester",
     "verification": "https://www.youtube.com/watch?v=GuJkgwNJ0UU",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "Haze",
+            "link": "https://youtu.be/yaWLfUCM9uE",
+            "percent": 100,
+            "hz": 240
+}
+
+    ]
 }
