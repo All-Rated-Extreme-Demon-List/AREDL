@@ -98,11 +98,36 @@ export default {
                         </ol>
                     </template>               
                     <p>
-                        Hi Aeon :D
+                        WARNING: Records will take a while after the AeonAir video, please refer to the information below
                     </p>
                     <h3>How to Submit</h3>
                     <p>
                         Join the discord, and  use /record submit
+                    </p>
+                    <p>
+                        If your records hasn't accepted or denied after 1 week of submitting it, please resubmit the record again
+                    </p>
+                    <h3>Why was my record denied?</h3>
+                    <p>
+                        If you're record was denied, please check the following
+                    </p>
+                    <p>
+                        Does the video follow the requirements? (Below)
+                    </p>
+                    <p>
+                        Is the level placed on the list? (#pending-placements)
+                    </p>
+                    <p>
+                        Was the submission command filled out correctly?
+                    </p>
+                    <p>
+                        Was the record submitted with several links?
+                    </p>
+                    <p>
+                        Note: The record will say its been denied and the reason in #records, if it isn't accepted or denied after a week, the record will need to resubmitted
+                    </p>
+                    <p>
+                        If the record was wrongfully denied, please make a post in #support or DM SkeletalVirus#9604 on Discord
                     </p>
                     <h3>Submission Requirements</h3>
                     <p>
