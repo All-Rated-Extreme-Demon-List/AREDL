@@ -96,9 +96,13 @@ export default {
                                 <p v-else>{{ editor.name }}</p>
                             </li>
                         </ol>
-                    </template>
+                    </template>               
                     <p>
                         Hi Aeon :D
+                    </p>
+                    <h3>How to Submit</h3>
+                    <p>
+                        Join the discord, and  use /record submit
                     </p>
                     <h3>Submission Requirements</h3>
                     <p>
