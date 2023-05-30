@@ -6,5 +6,12 @@
     "verifier": "Yoshikawa",
     "verification": "https://www.youtube.com/watch?v=xL7qdf33iVI",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "Trehoeje",
+            "link": "https://youtu.be/22aF4qcAZf8",
+            "percent": 100,
+            "hz": 288
+}
+    ]
 }
