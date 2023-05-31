@@ -6,5 +6,12 @@
     "verifier": "MrSpaghetti",
     "verification": "https://www.youtube.com/watch?v=L2cyjYUYeXM",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "Bleamer",
+            "link": "https://www.youtube.com/watch?v=TOlQcvaNL_E",
+            "percent": 100,
+            "hz": 360
+}
+    ]
 }
