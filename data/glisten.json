@@ -48,6 +48,13 @@
             "link": "https://www.youtube.com/watch?v=yxzHncsqhQc",
             "percent": 100,
             "hz": 360
+},
+        {
+            "user": "Ozone",
+            "link": "https://youtu.be/fIiBUEr1Rzw",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
 }
     ]
 }
