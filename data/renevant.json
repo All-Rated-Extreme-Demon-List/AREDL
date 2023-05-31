@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=2Y8kBw8YxO8",
     "percentToQualify": 100,
     "password": "987654",
-    "records": []
+    "records": [
+    {
+            "user": "Bleamer",
+            "link": "https://www.youtube.com/watch?v=K7zRXzC_uNU&t",
+            "percent": 100,
+            "hz": 360
+}
+    ]
 }
