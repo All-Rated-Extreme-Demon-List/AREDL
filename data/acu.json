@@ -377,6 +377,18 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+},
+        {
+            "user": "animaltrack",
+            "link": "https://www.youtube.com/watch?v=vh_yMrQMV5M&t=4s",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Nik14K",
+            "link": "https://youtu.be/eicHdifgmFI",
+            "percent": 100,
+            "hz": 240
 }
     ]
 }
