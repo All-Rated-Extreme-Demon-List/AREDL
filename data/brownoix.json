@@ -6,5 +6,12 @@
     "verifier": "Gizbro",
     "verification": "https://www.youtube.com/watch?v=rd63muZhe_Y",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "Lia",
+            "link": "https://youtu.be/fsIJxd81Mfw",
+            "percent": 100,
+            "hz": 240
+}
+    ]
 }
