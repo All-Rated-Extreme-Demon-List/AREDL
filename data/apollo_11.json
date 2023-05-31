@@ -6,5 +6,12 @@
     "verifier": "Floppy",
     "verification": "https://www.youtube.com/watch?v=r9SkrrOecpY",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "Didjimon",
+            "link": "https://youtu.be/ka40MxUYh3c",
+            "percent": 100,
+            "hz": 144
+}
+    ]
 }
