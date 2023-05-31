@@ -6,5 +6,12 @@
     "verifier": "Rampage",
     "verification": "https://www.youtube.com/watch?v=lt8GNUsFMQo",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "Lia",
+            "link": "https://youtu.be/cFRcOe0tGUY",
+            "percent": 100,
+            "hz": 240
+}
+    ]
 }
