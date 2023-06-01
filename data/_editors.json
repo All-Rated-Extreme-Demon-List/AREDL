@@ -60,11 +60,6 @@
         "link": "https://youtube.com/@trehoeje3785"
     },
     {
-        "role": "dev",
-        "name": "Prometheus",
-        "link": "https://www.youtube.com/c/PrometheusAlt"
-    },
-    {
         "role": "helper",
         "name": "zilucy",
         "link": "link goes here"
@@ -73,5 +68,9 @@
         "role": "helper",
         "name": "iiLogan",
         "link": "link goes here"
-     }
+    },
+    {
+        "role": "dev",
+        "name": "Prometheus",
+        "link": "https://www.youtube.com/c/PrometheusAlt"
     ]
