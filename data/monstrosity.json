@@ -6,5 +6,12 @@
     "verifier": "ysj1005",
     "verification": "https://www.youtube.com/watch?v=A3Yar9jQgvw",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+{
+            "user": "Meep",
+            "link": "https://youtu.be/BO_Vo6_VQ8w",
+            "percent": 100,
+            "hz": 360
+}
+]
 }
