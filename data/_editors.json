@@ -10,6 +10,11 @@
         "link": "https://www.youtube.com/channel/UCDp8z5-vtUg8QJdDM5Yh-tg"
     },
     {
+        "role": "trial",
+        "name": "Willow",
+        "link": "link goes here"
+    },
+    {
         "role": "helper",
         "name": "Meep",
         "link": "https://www.youtube.com/channel/UC3yoBkqkM0lw5a0llt69LxA"
@@ -23,16 +28,6 @@
         "role": "helper",
         "name": "LoveSpectral",
         "link": "https://www.youtube.com/@loveSpectral/featured"
-    },
-    {
-        "role": "helper",
-        "name": "Willow",
-        "link": "link goes here"
-    },
-    {
-        "role": "helper",
-        "name": "Whacka",
-        "link": "link goes here"
     },
     {
         "role": "helper",
@@ -56,11 +51,6 @@
     },
     {
         "role": "helper",
-        "name": "SoftMuffin76",
-        "link": "link goes here"
-    },
-    {
-        "role": "helper",
         "name": "Bobbyp02",
         "link": "link goes here"
     },
@@ -73,5 +63,21 @@
         "role": "dev",
         "name": "Prometheus",
         "link": "https://www.youtube.com/c/PrometheusAlt"
-    }
-]
+    },
+    {
+        "role": "helper",
+        "name": "zilucy",
+        "link": "link goes here"
+    },
+     {
+        "role": "helper",
+        "name": "iiLogan",
+        "link": "link goes here"
+     },
+     {
+        "role": "helper",
+        "name": "Flörian",
+        "link": "link goes here"
+     }
+    ]
+}
