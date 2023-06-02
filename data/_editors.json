@@ -65,6 +65,11 @@
         "link": "link goes here"
     },
     {
+        "role": "helper",
+        "name": "loveSpectral",
+        "link": "link goes here"
+    },
+    {
         "role": "dev",
         "name": "Prometheus",
         "link": "https://www.youtube.com/c/PrometheusAlt"
