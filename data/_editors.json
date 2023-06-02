@@ -5,14 +5,24 @@
         "link": "https://www.youtube.com/channel/UCVifLeNLVQe3mYwRW1IiNnA"
     },
     {
-        "role": "owner",
+        "role": "admin",
         "name": "Willow",
         "link": "link goes here"
     },
     {
-        "role": "trial",
+        "role": "admin",
         "name": "SEDTHEPRODIGY",
         "link": "https://www.youtube.com/channel/UCDp8z5-vtUg8QJdDM5Yh-tg"
+    },
+    {
+        "role": "trial",
+        "name": "iiLogan",
+        "link": "link goes here"
+    },
+    {
+        "role": "trial",
+        "name": "Flörian",
+        "link": "link goes here"
     },
     {
         "role": "helper",
@@ -22,11 +32,6 @@
     {
         "role": "helper",
         "name": "Chubby9000",
-        "link": "link goes here"
-    },
-    {
-        "role": "helper",
-        "name": "Flörian",
         "link": "link goes here"
     },
     {
@@ -57,11 +62,6 @@
     {
         "role": "helper",
         "name": "zilucy",
-        "link": "link goes here"
-    },
-     {
-        "role": "helper",
-        "name": "iiLogan",
         "link": "link goes here"
     },
     {
