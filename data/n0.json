@@ -6,5 +6,12 @@
     "verifier": "Metalface221",
     "verification": "https://www.youtube.com/watch?v=G9MdcWZJk9o",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "Lia",
+            "link": "https://youtu.be/BuUfONNIUOk",
+            "percent": 100,
+            "hz": 240
+}
+    ]
 }
