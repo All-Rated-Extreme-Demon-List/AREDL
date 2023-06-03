@@ -6,5 +6,12 @@
     "verifier": "Rwse",
     "verification": "https://www.youtube.com/watch?v=QYNWtkoQt8E",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "theworldofme",
+            "link": "https://www.youtube.com/watch?v=ulYjgpzy5Ns",
+            "percent": 100,
+            "hz": 360
+}
+    ]
 }
