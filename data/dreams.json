@@ -6,5 +6,12 @@
     "verifier": "Almohadaless",
     "verification": "https://www.youtube.com/watch?v=ekBKOmjk0E4",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "theworldofme",
+            "link": "https://www.youtube.com/watch?v=dSeMMwF1Sb0",
+            "percent": 100,
+            "hz": 360
+}
+    ]
 }
