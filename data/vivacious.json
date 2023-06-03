@@ -6,5 +6,12 @@
     "verifier": "skyzl",
     "verification": "https://www.youtube.com/watch?v=wQoR8lAkMsQ",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Seic",
+            "link": "https://www.youtube.com/watch?v=ocFu7rokzCM&list=PLiG4gb2hm-gJNfg3fwVAKA0upBU9UHKbT&index=5",
+            "percent": 100,
+            "hz": 360
+}
+    ]
 }
