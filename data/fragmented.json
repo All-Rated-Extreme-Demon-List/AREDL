@@ -6,5 +6,12 @@
     "verifier": "TGM05",
     "verification": "https://www.youtube.com/watch?v=7wrpprd9nOw",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "Magmeta",
+            "link": "https://youtu.be/oIrZl7alArk",
+            "percent": 100,
+            "hz": 240
+}
+    ]
 }
