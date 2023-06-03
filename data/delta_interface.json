@@ -6,5 +6,12 @@
     "verifier": "skyzl",
     "verification": "http://www.youtube.com/watch?v=BnrTI1BVqc4",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "theworldofme",
+            "link": "https://www.youtube.com/watch?v=pvki1nTDCMg&",
+            "percent": 100,
+            "hz": 360
+}
+    ]
 }
