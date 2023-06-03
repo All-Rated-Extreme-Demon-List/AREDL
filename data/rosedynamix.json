@@ -8,10 +8,16 @@
     "percentToQualify": 100,
     "records": [
     {
+            "user": "nei",
+            "link": "https://youtu.be/5_YSV5b926Y",
+            "percent": 100,
+            "hz": 360
+},
+        {
             "user": "theworldofme",
             "link": "https://www.youtube.com/watch?v=ulYjgpzy5Ns",
             "percent": 100,
             "hz": 360
-}
+}   
     ]
 }
