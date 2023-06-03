@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=ih6Z1z0E5D4",
     "percentToQualify": 100,
     "password": "789123",
-    "records": []
+    "records": [
+    {
+            "user": "theworldofme",
+            "link": "https://www.youtube.com/watch?v=ksXTuW5bXrE",
+            "percent": 100,
+            "hz": 360
+}
+    ]
 }
