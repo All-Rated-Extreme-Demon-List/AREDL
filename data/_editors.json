@@ -35,14 +35,19 @@
         "link": "https://youtube.com/@trehoeje3785"
     },
     {
-        "role": "helper",
-        "name": "Meep",
-        "link": "https://www.youtube.com/channel/UC3yoBkqkM0lw5a0llt69LxA"
+        "role": "trial",
+        "name": "Chubby9000",
+        "link": "link goes here"
+    },
+    {
+        "role": "trial",
+        "name": "Bobbyp02",
+        "link": "link goes here"
     },
     {
         "role": "helper",
-        "name": "Chubby9000",
-        "link": "link goes here"
+        "name": "Meep",
+        "link": "https://www.youtube.com/channel/UC3yoBkqkM0lw5a0llt69LxA"
     },
     {
         "role": "helper",
@@ -56,23 +61,68 @@
     },
     {
         "role": "helper",
-        "name": "Bobbyp02",
-        "link": "link goes here"
-    },
-    {
-        "role": "helper",
         "name": "zilucy",
-        "link": "link goes here"
-    },
-    {
-        "role": "helper",
-        "name": "loveSpectral",
         "link": "link goes here"
     },
     {
         "role": "helper",
         "name": "Chacks",
         "link": "https://youtube.com/@bestspeedrunner"
+    },
+    {
+        "role": "helper",
+        "name": "Alex_",
+        "link": "link goes here"
+    },
+    {
+        "role": "helper",
+        "name": "Iron",
+        "link": "link goes here"
+    },
+    {
+        "role": "helper",
+        "name": "jesse's evil twin",
+        "link": "link goes here"
+    },
+    {
+        "role": "helper",
+        "name": "jOnel",
+        "link": "link goes here"
+    },
+    {
+        "role": "helper",
+        "name": "lisp",
+        "link": "link goes here"
+    },
+    {
+        "role": "helper",
+        "name": "Megu",
+        "link": "link goes here"
+    },
+    {
+        "role": "helper",
+        "name": "NUwUxuz",
+        "link": "link goes here"
+    },
+    {
+        "role": "helper",
+        "name": "Padahk",
+        "link": "link goes here"
+    },
+    {
+        "role": "helper",
+        "name": "Potato",
+        "link": "link goes here"
+    },
+    {
+        "role": "helper",
+        "name": "YraX",
+        "link": "link goes here"
+    },
+    {
+        "role": "helper",
+        "name": "zoidy",
+        "link": "link goes here"
     },
     {
         "role": "dev",
