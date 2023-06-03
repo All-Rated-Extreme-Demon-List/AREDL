@@ -6,5 +6,12 @@
     "verifier": "Dorami",
     "verification": "https://www.youtube.com/watch?v=k4c19pkOnd8",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "Seic",
+            "link": "https://www.youtube.com/watch?v=I27eRw5e83M&t=3s",
+            "percent": 100,
+            "hz": 360
+}
+    ]
 }
