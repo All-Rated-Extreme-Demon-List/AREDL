@@ -903,6 +903,44 @@
             "link": "https://www.youtube.com/watch?v=VMjdLDtjYWg",
             "percent": 100,
             "hz": 144
+},
+        {
+            "user": "8MB",
+            "link": "https://youtu.be/OLT-DR-fFwo",
+            "percent": 100,
+            "hz": 288
+},
+        {
+            "user": "andyisinsane",
+            "link": "https://www.youtube.com/watch?v=lyrOxBdPCXg&t=25s",
+            "percent": 100,
+            "hz": 144
+},
+        {
+            "user": "MooshDaMoosh",
+            "link": "https://www.youtube.com/watch?v=l2jh9VYOJ50",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Gotias",
+            "link": "https://youtu.be/EO9gugArJBU",
+            "percent": 100,
+            "hz": 120
+},
+        {
+            "user": "superhokeypokey",
+            "link": "https://m.youtube.com/watch?v=uktZiIRerz8",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+},
+        {
+            "user": "Brittle",
+            "link": "https://www.youtube.com/watch?v=7vdXFcV0T0k&t=4s",
+            "percent": 100,
+            "hz": 240
 }
+
     ]
 }
