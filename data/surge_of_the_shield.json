@@ -7,9 +7,16 @@
     "verification": "https://www.youtube.com/watch?v=5jhf-526kRw",
     "percentToQualify": 100,
     "password": "972123",
-    "records": [{
+    "records": [
+        {
             "user": "MobileBot",
             "link": "https://youtu.be/96Fx4o-jnow",
+            "percent": 100,
+            "hz": 360
+},
+                {
+            "user": "Airez",
+            "link": "https://youtu.be/kv5E8Hkfuew",
             "percent": 100,
             "hz": 360
 }
