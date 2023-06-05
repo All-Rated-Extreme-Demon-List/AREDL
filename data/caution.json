@@ -6,5 +6,12 @@
     "verifier": "Zeronium",
     "verification": "https://www.youtube.com/watch?v=jeMSIweyQlA",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "Fabricorn",
+            "link": "https://youtu.be/x5PpHCJ1KbE",
+            "percent": 100,
+            "hz": 360
+}
+    ]
 }
