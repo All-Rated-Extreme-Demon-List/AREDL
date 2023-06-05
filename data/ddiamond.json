@@ -6,5 +6,12 @@
     "verifier": "lamp86",
     "verification": "https://www.youtube.com/watch?v=_kDZq4Z7zFE",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "Fabricorn",
+            "link": "https://youtu.be/B7pIZFD5meM",
+            "percent": 100,
+            "hz": 360
+}
+    ]
 }
