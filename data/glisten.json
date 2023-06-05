@@ -57,12 +57,6 @@
             "mobile": true
 },
         {
-            "user": "karcz",
-            "link": "https://www.youtube.com/watch?v=yxzHncsqhQc",
-            "percent": 100,
-            "hz": 360
-},
-        {
             "user": "Alex_",
             "link": "https://youtu.be/3cLbMXVjdt0",
             "percent": 100,
@@ -79,6 +73,13 @@
             "link": "https://youtu.be/iAVN-bDztc8",
             "percent": 100,
             "hz": 360
+},
+        {
+            "user": "UsualKhaos",
+            "link": "https://youtu.be/eND10qtXYy8",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
 }
     ]
 }
