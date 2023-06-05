@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=XfXzGv0oALw",
     "percentToQualify": 100,
     "password": "789123",
-    "records": []
+    "records": [
+    {
+            "user": "Fabricorn",
+            "link": "https://youtu.be/47mvjGRf0bs",
+            "percent": 100,
+            "hz": 360
+}
+    ]
 }
