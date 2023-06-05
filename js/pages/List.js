@@ -41,7 +41,7 @@ export default {
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
                     <div style="display:flex">
-                        <div v-for="pack in level.packs" class="tag" v-bind:style="{ backgroundColor: pack.colour}">{{pack}}</div>
+                        <div v-for="pack in level.packs" class="tag" :style="{ backgroundColor: pack.colour}">{{pack}}</div>
                     </div>
                     <iframe class="video" :src="embed(level.verification)" frameborder="0"></iframe>
                     <ul class="stats">
