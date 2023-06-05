@@ -1,6 +1,6 @@
 {
     "id": 74028410,
-    "name": "Explicit",
+    "name": "EXPLICIT",
     "author": "Saturn",
     "creators": ["Renn241"],
     "verifier": "Saturn",
@@ -40,6 +40,12 @@
         {
             "user": "Espabeet",
             "link": "https://youtu.be/gFp2lG_n6hY",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Fabricorn",
+            "link": "https://youtu.be/Z15qJlqvLX0",
             "percent": 100,
             "hz": 360
 }
