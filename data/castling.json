@@ -3,11 +3,17 @@
     "name": "Castling",
     "author": "Meroo",
     "creators": [],
-    "verifier": "Squakk",
+    "verifier": "-",
     "verification": "https://www.youtube.com/watch?v=0cMfW600dEo",
     "percentToQualify": 100,
     "records": [
     {
+            "user": "TheyCallMeEvan",
+            "link": "https://youtu.be/KWIff5CCfT8",
+            "percent": 100,
+            "hz": 240
+},
+        {
             "user": "Zenta",
             "link": "https://www.youtube.com/watch?v=txQzqoz-pv4",
             "percent": 100,
@@ -60,6 +66,12 @@
             "link": "https://youtu.be/_Tzr0A82Q2Y",
             "percent": 100,
             "hz": 360
+},
+        {
+            "user": "Wolvyy",
+            "link": "https://www.youtube.com/watch?v=5SFWj_iCY8Q&list=PLU1NI3BRQCmo8EEJJV0CYtSUwAcKBPYGp&index=34",
+            "percent": 100,
+            "hz": 288
 }
     ]
 }
