@@ -504,12 +504,6 @@
             "hz": 360
 },
         {
-            "user": "niroi",
-            "link": "https://youtu.be/yhbtaazkmtw",
-            "percent": 100,
-            "hz": 240
-},
-        {
             "user": "Patrical",
             "link": "https://www.youtube.com/watch?v=G6V93q-j9mA&t=30s",
             "percent": 100,
@@ -635,6 +629,12 @@
             "link": "https://www.youtube.com/watch?v=4nTnBz9_HSM",
             "percent": 100,
             "hz": 240
+},
+        {
+            "user": "Rayaleg8",
+            "link": "https://youtu.be/GXIt9SWvMfM",
+            "percent": 100,
+            "hz": 360
 }
     ]
 }
