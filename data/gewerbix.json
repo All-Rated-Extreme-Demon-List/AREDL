@@ -6,5 +6,10 @@
     "verifier": "MaFFaKa",
     "verification": "https://youtu.be/ff515144d6I",
     "percentToQualify": 100,
-    "records": []
+    "records": [{
+            "user": "Lia",
+            "link": "https://youtu.be/TEn3PWkaa7c",
+            "percent": 100,
+            "hz": 360
+}]
 }
