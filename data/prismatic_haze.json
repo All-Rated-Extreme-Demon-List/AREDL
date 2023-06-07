@@ -1,8 +1,8 @@
 {
     "id": 59899374,
     "name": "Prismatic Haze",
-    "author": "[REDACTED",
-    "creators": ["[REDACTED], Gizbro"],
+    "author": "-",
+    "creators": ["Gizbro"],
     "verifier": "Gizbro",
     "verification": "https://www.youtube.com/watch?v=RS5ZFcuaw3I",
     "percentToQualify": 100,
@@ -198,6 +198,54 @@
             "link": "https://youtu.be/Qtbd7gFRwus",
             "percent": 100,
             "hz": 240
+},
+        {
+            "user": "Fabricorn",
+            "link": "https://youtu.be/K_vwZkX4s2k",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Duckiee",
+            "link": "https://youtu.be/qIhackecj6s",
+            "percent": 100,
+            "hz": 120
+},
+        {
+            "user": "Lia",
+            "link": "https://youtu.be/7qJKSlPKoz8",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "dizbro",
+            "link": "https://youtu.be/HLRMdR76-Gc",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Wolvyy",
+            "link": "https://www.youtube.com/watch?v=_suttxE0haU&list=PLU1NI3BRQCmo8EEJJV0CYtSUwAcKBPYGp&index=2&pp=gAQBiAQB",
+            "percent": 100,
+            "hz": 144
+},
+        {
+            "user": "Bleamer",
+            "link": "https://www.youtube.com/watch?v=tiZEoRqVPo8&t=s&ab_channel=Bleamer",
+            "percent": 100,
+            "hz": 288
+},
+        {
+            "user": "Blitzer",
+            "link": "https://www.youtube.com/watch?v=Wm_ykgXTIR8",
+            "percent": 100,
+            "hz": 288
+},
+        {
+            "user": "LunarSpark",
+            "link": "https://youtu.be/DLegPppbdkA",
+            "percent": 100,
+            "hz": 288
 }
     ]
 }

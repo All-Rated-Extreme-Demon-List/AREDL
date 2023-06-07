@@ -1,8 +1,8 @@
 {
     "id": 62869408,
     "name": "Chromatic Haze",
-    "author": "[REDACTED]",
-    "creators": ["Gizbro, [REDACTED]"],
+    "author": "-",
+    "creators": ["Gizbro"],
     "verifier": "RevoltZy",
     "verification": "https://www.youtube.com/watch?v=J-qEOHy-IIA",
     "percentToQualify": 100,
@@ -54,6 +54,12 @@
             "link": "https://www.youtube.com/watch?v=Q_uTj60nemM",
             "percent": 100,
             "hz": 288
+},
+        {
+            "user": "Lia",
+            "link": "https://youtu.be/DmoB5qw7QVQ",
+            "percent": 100,
+            "hz": 360
 }
     ]
 }

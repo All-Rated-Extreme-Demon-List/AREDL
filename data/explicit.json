@@ -1,6 +1,6 @@
 {
     "id": 74028410,
-    "name": "Explicit",
+    "name": "EXPLICIT",
     "author": "Saturn",
     "creators": ["Renn241"],
     "verifier": "Saturn",
@@ -36,6 +36,30 @@
             "link": "https://youtu.be/XaPABiObcbM",
             "percent": 100,
             "hz": 144
+},
+        {
+            "user": "Espabeet",
+            "link": "https://youtu.be/gFp2lG_n6hY",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Fabricorn",
+            "link": "https://youtu.be/Z15qJlqvLX0",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Lia",
+            "link": "https://youtu.be/tahwziXcGAM",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "nei",
+            "link": "https://youtu.be/Luy1TZeDXoY",
+            "percent": 100,
+            "hz": 360
 }
     ]
 }

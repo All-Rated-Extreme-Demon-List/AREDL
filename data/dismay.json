@@ -2,11 +2,17 @@
     "id": 64680297,
     "name": "Dismay",
     "author": "ewop",
-    "creators": [],
-    "verifier": "ArtsiBurn",
-    "verification": "https://www.youtube.com/watch?v=Nu9XfonJKHU",
+    "creators": ["ewop, eth, goob, silver, Luucas, LimeTime313"],
+    "verifier": "TheyCallMeEvan",
+    "verification": "https://youtu.be/3aYIYYP3iF8",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "ArtsiBurn",
+            "link": "https://www.youtube.com/watch?v=Nu9XfonJKHU",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "Zenta",
             "link": "https://www.youtube.com/watch?v=6IvRb9wfWQs",
@@ -18,6 +24,18 @@
             "link": "https://youtu.be/UOOsNPogwM8",
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+            "user": "Lia",
+            "link": "https://youtu.be/1WQcIYRVSSc",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Wolvyy",
+            "link": "https://www.youtube.com/watch?v=OqjEdHaJA1A&list=PLU1NI3BRQCmo8EEJJV0CYtSUwAcKBPYGp&index=20&pp=gAQBiAQB",
+            "percent": 100,
+            "hz": 288
+}
     ]
 }

@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=KEuFavVAl2Y",
     "percentToQualify": 100,
     "password": "301001",
-    "records": []
+    "records": [
+    {
+            "user": "Matter",
+            "link": "https://youtu.be/NatIbzsd6Rc",
+            "percent": 100,
+            "hz": 144
+}
+    ]
 }

@@ -143,7 +143,7 @@
             "hz": 360
 },
         {
-            "user": "AnnihilationGD",
+            "user": "tomm",
             "link": "https://youtu.be/y51K_uVKlBg",
             "percent": 100,
             "hz": 240
@@ -274,6 +274,49 @@
             "link": "https://youtu.be/IBI5_2ES_1M",
             "percent": 100,
             "hz": 144
+},
+        {
+            "user": "dubo",
+            "link": "https://www.youtube.com/watch?v=6esqcplMLwU",
+            "percent": 100,
+            "hz": 288
+},
+        {
+            "user": "Lia",
+            "link": "https://youtu.be/kLGXsWB42dg",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Wolvyy",
+            "link": "https://www.youtube.com/watch?v=D34Iv6ohqvM&list=PLU1NI3BRQCmo8EEJJV0CYtSUwAcKBPYGp&index=12&pp=gAQBiAQB",
+            "percent": 100,
+            "hz": 288
+},
+{
+            "user": "Silentstar11",
+            "link": "https://youtu.be/lt8jYeJ65qU",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+},
+        {
+            "user": "Vortex83",
+            "link": "https://youtu.be/uX0hDrVd65w",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "geomaniac",
+            "link": "https://www.youtube.com/watch?v=Wz_IHyvXwQg",
+            "percent": 100,
+            "hz": 144
+},
+        {
+            "user": "Matter",
+            "link": "https://youtu.be/1tM5ZL9KjL8",
+            "percent": 100,
+            "hz": 288
 }
     ]
 }

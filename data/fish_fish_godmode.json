@@ -3,7 +3,7 @@
     "name": "FISH FISH GODMODE",
     "author": "whoiskeve",
     "creators": [],
-    "verifier": "skyzl",
+    "verifier": "skzyl",
     "verification": "https://www.youtube.com/watch?v=YMMzsot1w5I",
     "percentToQualify": 100,
     "records": [
@@ -66,6 +66,24 @@
             "link": "https://youtu.be/v63NL2LVVaI",
             "percent": 100,
             "hz": 360
+},
+        {
+            "user": "Fabricorn",
+            "link": "https://youtu.be/UYiIHdad3r4",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "nei",
+            "link": "https://youtu.be/mv2rn3nYu6w",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Vortex83",
+            "link": "https://youtu.be/BF2lLtbVQqs",
+            "percent": 100,
+            "hz": 240
 }
     ]
 }

@@ -8,6 +8,12 @@
     "percentToQualify": 100,
     "records": [
     {
+            "user": "TheyCallMeEvan",
+            "link": "https://youtu.be/B4fbSpLG7GM",
+            "percent": 100,
+            "hz": 240
+},
+        {
             "user": "clncrvl",
             "link": "https://youtu.be/AMp1brv__5E",
             "percent": 100,
@@ -36,6 +42,24 @@
             "link": "https://youtu.be/ncTddCspmZQ",
             "percent": 100,
             "hz": 360
+},
+        {
+            "user": "Lia",
+            "link": "https://youtu.be/ytudBjjTWcc",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "SigmA",
+            "link": "https://youtu.be/pGNZcqcC4Zk",
+            "percent": 100,
+            "hz": 60
+},
+        {
+            "user": "Wolvyy",
+            "link": "https://www.youtube.com/watch?v=DBQKmvVlbYo&list=PLU1NI3BRQCmo8EEJJV0CYtSUwAcKBPYGp&index=26&pp=gAQBiAQB",
+            "percent": 100,
+            "hz": 288
 }
     ]
 }

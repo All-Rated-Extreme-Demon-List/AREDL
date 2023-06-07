@@ -1,6 +1,6 @@
 {
     "id": 80177488,
-    "name": "Quaoar",
+    "name": "Quaoar (ViPriN)",
     "author": "ViPriN",
     "creators": ["EnZore, Buragoz, Masu, ZeroSR, DavJT, StarkyTheSalad, Convie, ViPriN, BelonziK, FerdeFunky, Goose, Scrumpy, OpteX, Marwec, Koolboom, Xender Game, victorinoxX, flash, Rafer, Bianox, Jenkins, KWMS, Cirtrax, GeoGamer12, Licen00, Reunomi, Floppy"],
     "verifier": "AeonAir",
@@ -19,6 +19,24 @@
             "link": "https://www.youtube.com/watch?v=9msIC3t8jro",
             "percent": 100,
             "hz": 360
+},
+        {
+            "user": "Lia",
+            "link": "https://youtu.be/SD2bE5vEW20",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "nei",
+            "link": "https://youtu.be/BioVveg98DI",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "meluwudy",
+            "link": "https://www.youtube.com/watch?v=vZgAueufSc8",
+            "percent": 100,
+            "hz": 144
 }
     ]
 }
