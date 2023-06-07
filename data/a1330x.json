@@ -7,11 +7,17 @@
     "verification": "https://www.youtube.com/watch?v=cLodtmmgm8g",
     "percentToQualify": 100,
     "records": [
-        {
+     {
             "user": "Zenta",
             "link": "https://www.youtube.com/watch?v=CbVpM5X6tHk",
             "percent": 100,
             "hz": 360
-        }
+},
+        {
+            "user": "DarkMatt",
+            "link": "https://www.youtube.com/watch?v=5Lwk_6KDlAI&t=6s&ab_channel=DarkMatt",
+            "percent": 100,
+            "hz": 360
+}
     ]
 }
