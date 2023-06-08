@@ -186,6 +186,31 @@
             "link": "https://youtu.be/1O4W3JeBY-0",
             "percent": 100,
             "hz": 144
+},
+        {
+            "user": "BreadGuyGD",
+            "link": "https://www.youtube.com/watch?v=xb0c6iLXyls",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "Creig",
+            "link": "https://youtu.be/p02lHKwC42I",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "Glungus",
+            "link": "https://www.youtube.com/watch?v=visU5PTgwfI&t=15s&ab_channel=Glungus",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Snivestheidot",
+            "link": "https://youtu.be/NDcUPxLTWPc",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
 }
     ]
 }

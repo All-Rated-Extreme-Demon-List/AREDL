@@ -6,5 +6,12 @@
     "verifier": "Surv",
     "verification": "https://www.youtube.com/watch?v=2Wi-FH1gp6w&t=17s",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "TheyCallMeEvan",
+            "link": "https://youtu.be/49CBOltRCfg",
+            "percent": 100,
+            "hz": 240
+}
+               ]
 }

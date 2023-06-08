@@ -8,6 +8,12 @@
     "percentToQualify": 100,
     "password": "004242",
     "records": [
+        {
+            "user": "TheyCallMeEvan",
+            "link": "https://youtu.be/4xkO2Rj1ghY",
+            "percent": 100,
+            "hz": 240
+},
     {
             "user": "Willow",
             "link": "https://youtu.be/78EA3LYPYPk",
@@ -73,6 +79,18 @@
             "link": "https://youtu.be/9VV7BxXa_NU",
             "percent": 100,
             "hz": 360
+},
+        {
+            "user": "BreadGuyGD",
+            "link": "https://www.youtube.com/watch?v=cn42llopskg",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "Matter",
+            "link": "https://youtu.be/oAaRxN7wALY",
+            "percent": 100,
+            "hz": 288
 }
     ]
 }
