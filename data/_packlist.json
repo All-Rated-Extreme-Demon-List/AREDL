@@ -6,6 +6,26 @@
             "avernus",
             "silent_clubstep"
         ],
-        "colour": "#CF0624"
+        "colour": "#D90016"
+    },
+    {
+        "name": "Sonic Wave Pack",
+        "levels": [
+            "sonic_wave_infinity",
+            "generic_wave",
+            "sonic_wave_rebirth",
+            "sonic_wave",
+            "auditory_breaker"
+        ],
+        "colour": "#161AFA"
+    },
+    {
+        "name": "theworldofme's pack",
+        "levels": [
+            "oblivion",
+            "verdant_landscape",
+            "lotus_flower"
+        ],
+        "colour": "#d9d9d9"
     }
 ]

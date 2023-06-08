@@ -52,7 +52,7 @@ export async function fetchEditors() {
 
 export async function fetchLeaderboard() {
     const list = await fetchList();
-
+    const packResult = await (await fetch(`${dir}/_packlist.json`)).json();
     const scoreMap = {};
     const errs = [];
     list.forEach(([level, err], rank) => {
@@ -69,6 +69,7 @@ export async function fetchLeaderboard() {
             verified: [],
             completed: [],
             progressed: [],
+            packs: []
         };
         const { verified } = scoreMap[verifier];
         verified.push({
@@ -76,6 +77,7 @@ export async function fetchLeaderboard() {
             level: level.name,
             score: score(rank + 1, 100, level.percentToQualify),
             link: level.verification,
+            path: level.path
         });
 
         // Records
@@ -87,6 +89,7 @@ export async function fetchLeaderboard() {
                 verified: [],
                 completed: [],
                 progressed: [],
+                packs: []
             };
             const { completed, progressed } = scoreMap[user];
             if (record.percent === 100) {
@@ -95,6 +98,7 @@ export async function fetchLeaderboard() {
                     level: level.name,
                     score: score(rank + 1, 100, level.percentToQualify),
                     link: record.link,
+                    path: level.path
                 });
                 return;
             }
@@ -105,9 +109,18 @@ export async function fetchLeaderboard() {
                 percent: record.percent,
                 score: score(rank + 1, record.percent, level.percentToQualify),
                 link: record.link,
+                path: level.path
             });
         });
     });
+    for (let user of Object.values(scoreMap)){
+        let levels = ([...user["verified"], ...user["completed"]]).map((x)=>x["path"]);
+        for (let pack of packResult){
+            if (pack.levels.every(e1=>levels.includes(e1))){
+                user["packs"].push(pack);
+            }
+        }
+    }
 
     // Wrap in extra Object containing the user and total score
     const res = Object.entries(scoreMap).map(([user, scores]) => {

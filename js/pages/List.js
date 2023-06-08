@@ -1,5 +1,5 @@
 import { store } from '../main.js';
-import { embed } from '../util.js';
+import { embed, getFontColour } from '../util.js';
 import { score } from '../score.js';
 import { fetchEditors, fetchList } from '../content.js';
 
@@ -41,7 +41,7 @@ export default {
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
                     <div style="display:flex">
-                        <div v-for="pack in level.packs" class="tag" :style="{background:pack.colour}">{{pack.name}}</div>
+                        <div v-for="pack in level.packs" class="tag" :style="{background:pack.colour, color:getFontColour(pack.colour)}">{{pack.name}}</div>
                     </div>
                     <iframe class="video" :src="embed(level.verification)" frameborder="0"></iframe>
                     <ul class="stats">
@@ -236,5 +236,6 @@ export default {
     methods: {
         embed,
         score,
+        getFontColour
     },
 };
