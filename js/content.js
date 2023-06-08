@@ -16,7 +16,7 @@ export async function fetchList() {
                 const levelResult = await fetch(`${dir}/${path}.json`);
                 try {
                     const level = await levelResult.json();
-                    let packs = (packsList.filter(x=>x.levels.includes(path))).map(y=>y.name);
+                    let packs = (packsList.filter(x=>x.levels.includes(path)));
                     return [
                         {
                             ...level,
