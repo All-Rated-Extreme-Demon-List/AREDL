@@ -6,10 +6,12 @@
     "verifier": "Diamond",
     "verification": "https://www.youtube.com/watch?v=ofG2mJi9kEA",
     "percentToQualify": 100,
-    "records": [{
+    "records": [
+    {
             "user": "Denni",
             "link": "https://www.youtube.com/watch?v=jupNyBORa3w",
             "percent": 100,
             "hz": 360
-}]
+}
+    ]
 }
