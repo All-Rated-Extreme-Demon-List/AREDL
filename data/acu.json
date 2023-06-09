@@ -1179,6 +1179,13 @@
             "link": "https://youtu.be/eYK81GWKFk4",
             "percent": 100,
             "hz": 240
+},
+        {
+            "user": "ind",
+            "link": "https://youtube.com/watch?v=SkSUALd3D90&t=7s",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
 }
     ]
 }
