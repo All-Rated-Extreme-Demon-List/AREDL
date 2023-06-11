@@ -44,7 +44,7 @@ export default {
                 <div class="player-container">
                     <div class="player">
                         <h1>#{{ selected + 1 }} {{ entry.user }}</h1>
-                        <div style="display:flex">
+                        <div style="display:flex" v-if="entry.packs.length > 0">
                             <div v-for="pack in entry.packs" class="tag" :style="{background:pack.colour, color:getFontColour(pack.colour)}">{{pack.name}}</div>
                         </div>
                         <h3>{{ entry.total }}</h3>
