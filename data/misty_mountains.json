@@ -211,6 +211,36 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+},
+        {
+            "user": "Clara",
+            "link": "https://youtu.be/xW26rKYA9D4",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "LinedriveGD",
+            "link": "https://www.youtube.com/watch?v=EMuyK8uZ-No",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "MasterOfDonkeys",
+            "link": "https://youtu.be/7xzGSMhcfsg",
+            "percent": 100,
+            "hz": 280
+},
+        {
+            "user": "Patrick61804",
+            "link": "https://youtu.be/STOmBvDm1yU",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Aleczd",
+            "link": "https://www.youtube.com/watch?v=k16tqWuVItY&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=63",
+            "percent": 100,
+            "hz": 240
 }
     ]
 }

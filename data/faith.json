@@ -4,7 +4,7 @@
     "author": "ZeroSR",
     "creators": ["ZeroSR and more"],
     "verifier": "Technical",
-    "verification": "https://www.youtube.com/watch?v=hOwAx1Mn6o8",
+    "verification": "https://youtu.be/hOwAx1Mn6o8?t=254",
     "percentToQualify": 100,
     "records": [
             {
@@ -66,6 +66,30 @@
             "link": "https://youtu.be/_B4NwumsRco",
             "percent": 100,
             "hz": 144
+},
+        {
+            "user": "mynameisjarv",
+            "link": "https://www.youtube.com/watch?v=m8CCiI_D4HA",
+            "percent": 100,
+            "hz": 144
+},
+        {
+            "user": "MasterOfDonkeys",
+            "link": "https://youtu.be/FJ8FBNPM2MU",
+            "percent": 100,
+            "hz": 280
+},
+        {
+            "user": "DartHole",
+            "link": "https://youtu.be/KiqlxVDYK5U",
+            "percent": 100,
+            "hz": 144
+},
+        {
+            "user": "LinedriveGD",
+            "link": "https://www.youtube.com/watch?v=C4av29YLLBk",
+            "percent": 100,
+            "hz": 240
 }
     ]
 }

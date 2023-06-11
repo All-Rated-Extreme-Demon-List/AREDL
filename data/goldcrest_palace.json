@@ -13,6 +13,25 @@
             "link": "https://youtu.be/kfiE9vm1oTQ",
             "percent": 100,
             "hz": 240
+},
+        {
+            "user": "ind",
+            "link": "https://youtube.com/watch?v=WApa8xXFWkI",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+},
+        {
+            "user": "Exomix",
+            "link": "https://www.youtube.com/watch?v=Hg3S2d5zt8c",
+            "percent": 100,
+            "hz": 120
+},
+        {
+            "user": "MasterOfDonkeys",
+            "link": "https://youtu.be/t49kxpTIrG8",
+            "percent": 100,
+            "hz": 240
 }
     ]
 }

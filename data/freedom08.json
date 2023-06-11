@@ -7,5 +7,18 @@
     "verification": "https://www.youtube.com/watch?v=b1DE6OTFS4U",
     "percentToQualify": 100,
     "password": "210317",
-    "records": []
+    "records": [
+    {
+            "user": "Aleczd",
+            "link": "https://www.youtube.com/watch?v=aPsBIehJvVc&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=20",
+            "percent": 100,
+            "hz": 280
+},
+        {
+            "user": "ItzElectrix",
+            "link": "https://youtu.be/CtnB2bR6uQM",
+            "percent": 100,
+            "hz": 240
+}
+    ]
 }

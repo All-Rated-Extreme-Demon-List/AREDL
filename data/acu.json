@@ -720,13 +720,6 @@
             "hz": 60
 },
         {
-            "user": "DrJones",
-            "link": "https://www.youtube.com/watch?v=41zXw5s0kes&t=5s",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-},
-        {
             "user": "ShadowMyth",
             "link": "https://youtu.be/912U2rMImlw",
             "percent": 100,
@@ -773,13 +766,6 @@
             "link": "https://www.youtube.com/watch?v=_lN5EatED90",
             "percent": 100,
             "hz": 288
-},
-        {
-            "user": "btlisp",
-            "link": "https://www.youtube.com/watch?v=7n4bHDKvb64&pp=ygUPYWN1IGxpc3AgbW9iaWxl",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
 },
         {
             "user": "iiLogan",
@@ -1184,6 +1170,73 @@
         {
             "user": "TheyCallMeEvan",
             "link": "https://youtu.be/eYK81GWKFk4",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "ind",
+            "link": "https://youtube.com/watch?v=SkSUALd3D90&t=7s",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+},
+        {
+            "user": "mynameisjarv",
+            "link": "https://www.youtube.com/watch?v=0Kr8LPSI55g",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "thirtytwenty",
+            "link": "https://youtu.be/n7i4ussY-f4",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "DartHole",
+            "link": "https://youtu.be/kVHR059tDo4",
+            "percent": 100,
+            "hz": 144
+},
+        {
+            "user": "KJ3DRay",
+            "link": "https://youtu.be/3MPWvM28AbM",
+            "percent": 100,
+            "hz": 60
+},
+        {
+            "user": "Exomix",
+            "link": "https://www.youtube.com/watch?v=ckdbhgt0cZs",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "LinedriveGD",
+            "link": "https://www.youtube.com/watch?v=Xn6VOU6gf08",
+            "percent": 100,
+            "hz": 75
+},
+        {
+            "user": "MasterOfDonkeys",
+            "link": "https://youtu.be/VcebRhpFNEQ",
+            "percent": 100,
+            "hz": 144
+},
+        {
+            "user": "SwegTap",
+            "link": "https://youtu.be/oMzf4ZVwpfo",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "skycrab",
+            "link": "https://youtu.be/Dj_MqJkGuYQ",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Patrick61804",
+            "link": "https://youtu.be/_7iy2rPJB9I",
             "percent": 100,
             "hz": 240
 }

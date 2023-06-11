@@ -3,10 +3,16 @@
     "name": "Kuzureta",
     "author": "Teno",
     "creators": ["Realvet, River, DrCuber, Renn241, GhostVandalf, DiamondSkull, Zetalock, cxli, Genoxide, augi, SrKiwi, El3ctr0, Mystic, Nicor77, Kyhros, ARWooly, zGod, Teno, Cybertron"],
-    "verifier": "Teno",
-    "verification": "https://www.youtube.com/watch?v=Z7NLOIyjbhU",
+    "verifier": "Cursed",
+    "verification": "https://youtu.be/Q5LqZ9aKn78",
     "percentToQualify": 100,
     "records": [
+    {
+            "user": "Teno",
+            "link": "https://youtu.be/Z7NLOIyjbhU",
+            "percent": 100,
+            "hz": 240
+    },
     {
             "user": "Trees",
             "link": "https://www.youtube.com/watch?v=dLjdT2HLXGc&t=61s&ab_channel=Trees",

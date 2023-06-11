@@ -3,8 +3,8 @@
     "name": "Barbaros Finale",
     "author": "Moffe",
     "creators": [],
-    "verifier": "ItzElectrix",
-    "verification": "https://www.youtube.com/watch?v=oaZYk2gqfKQ",
+    "verifier": "Patrick61804",
+    "verification": "https://youtu.be/6R2j62V7UVw",
     "percentToQualify": 100,
     "password": "013004",
     "records": [
@@ -17,6 +17,12 @@
         {
             "user": "nei",
             "link": "https://youtu.be/RsKnC20CSKs",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "ItzElectrix",
+            "link": "https://www.youtube.com/watch?v=oaZYk2gqfKQ",
             "percent": 100,
             "hz": 360
 }

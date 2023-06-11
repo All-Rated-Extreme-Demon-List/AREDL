@@ -2,7 +2,7 @@
     "id": 58069223,
     "name": "Gunslinga Corridor",
     "author": "SoulwaxGD",
-    "creators": ["SoulwaxGD, FlameHimself, Rolopok, and more"],
+    "creators": ["SoulwaxGD, FlameHimself, Oreate, Shiangel, xSledgehammer, Rolopok"],
     "verifier": "Souly",
     "verification": "https://www.youtube.com/watch?v=wFtlsOSpxgI",
     "percentToQualify": 100,
@@ -205,6 +205,37 @@
             "link": "https://www.youtube.com/watch?v=zvUC8uqAGcQ",
             "percent": 100,
             "hz": 240
+},
+        {
+            "user": "Druttsky",
+            "link": "https://www.youtube.com/watch?v=2m0cLxzyA0k",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "SwegTap",
+            "link": "https://youtu.be/iT6K502gOqc",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "MasterOfDonkeys",
+            "link": "https://youtu.be/PsfDC7TsZm8",
+            "percent": 100,
+            "hz": 280
+},
+        {
+            "user": "Patrick61804",
+            "link": "https://youtu.be/esKvOd03MGg",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "LinedriveGD",
+            "link": "https://www.youtube.com/watch?v=0vq9bnE--xY",
+            "percent": 100,
+            "hz": 360
 }
+
     ]
 }

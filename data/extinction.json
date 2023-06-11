@@ -7,5 +7,18 @@
     "verification": "https://www.youtube.com/watch?v=IimtF_24Pq8",
     "percentToQualify": 100,
     "password": "180217",
-    "records": []
+    "records": [
+        {
+            "user": "LuckyNS",
+            "link": "https://youtu.be/bLi7QZc--MA",
+            "percent": 100,
+            "hz": 60
+},
+        {
+            "user": "LinedriveGD",
+            "link": "https://www.youtube.com/watch?v=oUcYznDbQkM",
+            "percent": 100,
+            "hz": 360
+}
+    ]
 }
