@@ -150,13 +150,13 @@
         "link": "link goes here"
     },
     {
-        "role": "dev",
-        "name": "Prometheus",
+        "role": "helper",
+        "name": "faulheitsmensch",
         "link": "https://www.youtube.com/c/PrometheusAlt"
     },
     {
-        "role": "helper",
-        "name": "faulheitsmensch",
+        "role": "dev",
+        "name": "Prometheus",
         "link": "https://www.youtube.com/c/PrometheusAlt"
     },
     {
