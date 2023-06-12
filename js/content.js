@@ -139,3 +139,13 @@ export async function fetchLeaderboard() {
     // Sort by total score
     return [res.sort((a, b) => b.total - a.total), errs];
 }
+
+export async function fetchPacks() {
+    try {
+        const packResult = await fetch(`${dir}/_packlist.json`);
+        const packsList = await packResult.json();
+        return packsList
+    } catch {
+        return null
+    }
+};
