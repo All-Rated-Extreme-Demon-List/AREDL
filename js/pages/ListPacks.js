@@ -6,10 +6,6 @@ export default {
     components: {
         Spinner,
     },
-    data: () => ({
-        packs: [],
-        loading: true,
-    }),
     template: `
         <main v-if="loading">
             <Spinner></Spinner>
@@ -23,15 +19,32 @@ export default {
             </div>
         </main>
     `,
-    computed: {
-    },
+    data: () => ({
+        packs: [],
+        errors: [],
+        loading: true,
+    }),
+    computed: {},
     async mounted() {
-        const packs = await fetchPacks();
-        this.packs = packs;
-        console.log(this.packs)
+        this.packs = await fetchList();
+
+        // Error handling
+        if (!this.list) {
+            this.errors = [
+                "Failed to load list. Retry in a few minutes or notify list staff.",
+            ];
+        } else {
+            this.errors.push(
+                ...this.list
+                    .filter(([_, err]) => err)
+                    .map(([_, err]) => {
+                        return `Failed to load level. (${err}.json)`;
+                    })
+            );
+        }
+
         // Hide loading spinner
         this.loading = false;
     },
-    methods: {
-    },
+    methods: {},
 };

@@ -149,3 +149,30 @@ export async function fetchPacks() {
         return null
     }
 };
+
+export async function fetchPackLevels(packname) {
+    const selectedPack = fetchPacks().find(pack => pack.name == packname);
+    try {
+        return await Promise.all(
+            selectedPack.levels.map(async (path, rank) => {
+                const levelResult = await fetch(`${dir}/${path}.json`);
+                try {
+                    const level = await levelResult.json();
+                    return [
+                        {
+                            ...level,
+                            path,
+                        },
+                        null,
+                    ];
+                } catch {
+                    console.error(`Failed to load level #${rank + 1} ${path}.`);
+                    return [null, path];
+                }
+            })
+        );
+    } catch {
+        console.error(`Failed to load list.`);
+        return null;
+    }
+}

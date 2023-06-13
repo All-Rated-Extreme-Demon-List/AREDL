@@ -99,7 +99,7 @@ export default {
                                 <p v-else>{{ editor.name }}</p>
                             </li>
                         </ol>
-                    </template>               
+                    </template>
                     <p>
                         WARNING: Records will take a while after the <a href="https://www.youtube.com/watch?v=Pr5uMhDn_8U" target="_blank">AeonAir Video</a>, please refer to the information below
                     </p>
@@ -209,14 +209,13 @@ export default {
         },
     },
     async mounted() {
-        // Hide loading spinner
         this.list = await fetchList();
         this.editors = await fetchEditors();
 
         // Error handling
         if (!this.list) {
             this.errors = [
-                'Failed to load list. Retry in a few minutes or notify list staff.',
+                "Failed to load list. Retry in a few minutes or notify list staff.",
             ];
         } else {
             this.errors.push(
@@ -224,13 +223,14 @@ export default {
                     .filter(([_, err]) => err)
                     .map(([_, err]) => {
                         return `Failed to load level. (${err}.json)`;
-                    }),
+                    })
             );
             if (!this.editors) {
-                this.errors.push('Failed to load list editors.');
+                this.errors.push("Failed to load list editors.");
             }
         }
 
+        // Hide loading spinner
         this.loading = false;
     },
     methods: {
