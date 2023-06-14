@@ -1380,6 +1380,25 @@
             "link": "https://youtu.be/KeT89gr03fA",
             "percent": 100,
             "hz": 240
+},
+       {
+            "user": "Sci_Dark",
+            "link": "https://www.youtube.com/watch?v=eTgK90Ta1_k",
+            "percent": 100,
+            "hz": 120
+},
+       {
+            "user": "JuicyOrange",
+            "link": "https://youtu.be/8URH5thf8vk",
+            "percent": 100,
+            "hz": 240
+},
+       {
+            "user": "BABA",
+            "link": "https://youtu.be/IuRegVMGjFM",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
 }
     ]
 }
