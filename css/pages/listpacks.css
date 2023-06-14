@@ -1,0 +1,24 @@
+.page-packs {
+    display: flex;
+    flex-direction: column;
+}
+
+.packs-nav {
+    display: flex;
+    background-color: black;
+}
+.packs-nav > button{
+    border-top-right-radius: 0.75em;
+    border-top-left-radius: 0.75em;
+}
+
+button {
+    border: none;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    text-align: start;
+    word-break: normal;
+    overflow-wrap: anywhere;
+    cursor: pointer;
+}

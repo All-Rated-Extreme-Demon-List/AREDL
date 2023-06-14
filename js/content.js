@@ -151,7 +151,9 @@ export async function fetchPacks() {
 };
 
 export async function fetchPackLevels(packname) {
-    const selectedPack = fetchPacks().find(pack => pack.name == packname);
+    const packResult = await fetch(`${dir}/_packlist.json`);
+    const packsList = await packResult.json();
+    const selectedPack = await packsList.find((pack) => pack.name == packname);
     try {
         return await Promise.all(
             selectedPack.levels.map(async (path, rank) => {
@@ -160,7 +162,7 @@ export async function fetchPackLevels(packname) {
                     const level = await levelResult.json();
                     return [
                         {
-                            ...level,
+                            level,
                             path,
                         },
                         null,
@@ -171,8 +173,8 @@ export async function fetchPackLevels(packname) {
                 }
             })
         );
-    } catch {
-        console.error(`Failed to load list.`);
+    } catch(e) {
+        console.error(`Failed to load packs.`, e);
         return null;
     }
 }

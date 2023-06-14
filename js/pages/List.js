@@ -205,6 +205,7 @@ export default {
     }),
     computed: {
         level() {
+            console.log(this.list[this.selected][0]);
             return this.list[this.selected][0];
         },
     },
