@@ -6,5 +6,12 @@
     "verifier": "Cersia",
     "verification": "https://youtu.be/rNBnwGBYI7o",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "TheyCallMeEvan",
+            "link": "https://youtu.be/qfeLS4EvvPs",
+            "percent": 100,
+            "hz": 240
+}
+    ]
 }
