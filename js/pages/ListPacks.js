@@ -1,10 +1,14 @@
 import { fetchPacks, fetchPackLevels } from "../content.js";
+import { getFontColour, embed } from "../util.js";
+import { score } from "../score.js";
 
 import Spinner from "../components/Spinner.js";
+import LevelAuthors from "../components/List/LevelAuthors.js";
 
 export default {
     components: {
         Spinner,
+        LevelAuthors,
     },
     template: `
         <main v-if="loading">
@@ -12,16 +16,73 @@ export default {
         </main>
         <main v-else class="page-packs">
             <div class="packs-nav">
-                <button @click="switchLevels(i)" v-for="(pack, i) in packs" :style="{backgroundColor: pack.colour}">
+                <button @click="switchLevels(i)" v-for="(pack, i) in packs" :style="{backgroundColor: pack.colour, color: getFontColour(pack.colour)}" class="type-label-lg">
                     {{pack.name}}
                 </button>
             </div>
-            <div v-if="loadingPack" class="levels-list">
-                <Spinner></Spinner>
-            </div>
-            <div v-else class="levels-list">
-                <div v-for="(level, i) in selectedPackLevels" :style="{backgroundColor: pack.colour}" class="pack-div">
-                    {{level[0].level.name}}
+            <div class="pack-list">
+                <div v-if="loadingPack">
+                    <Spinner></Spinner>
+                </div>
+                <div v-else class="list-container">
+                    <table class="list">
+                        <tr v-for="(level, i) in selectedPackLevels">
+                            <td class="rank">
+                                <p class="type-label-lg">#{{ i + 1 }}</p>
+                            </td>
+                            <td class="level" :class="{ 'active': selectedLevel == i, 'error': !level }">
+                                <button :style= "[selectedLevel == i ? {backgroundColor: pack.colour, color: getFontColour(pack.colour)} : {}]" @click="selectedLevel = i">
+                                    <span class="type-label-lg">{{ level[0].level.name || \`Error (\.json)\` }}</span>
+                                </button>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="level-container">
+                    <div class="level" v-if="selectedPackLevels[selectedLevel]">
+                        <h1>{{ selectedPackLevels[selectedLevel][0].level.name }}</h1>
+                        <LevelAuthors :author="selectedPackLevels[selectedLevel][0].level.author" :creators="selectedPackLevels[selectedLevel][0].level.creators" :verifier="selectedPackLevels[selectedLevel][0].level.verifier"></LevelAuthors>
+                        <div style="display:flex">
+                            <div v-for="pack in selectedPackLevels[selectedLevel][0].level.packs" class="tag" :style="{background:pack.colour, color:getFontColour(pack.colour)}">{{pack.name}}</div>
+                        </div>
+                        <iframe class="video" :src="embed(selectedPackLevels[selectedLevel][0].level.verification)" frameborder="0"></iframe>
+                        <ul class="stats">
+                            <li>
+                                <div class="type-title-sm">Points when completed</div>
+                                <p>{{ score(selected + 1, 100, selectedPackLevels[selectedLevel][0].level.percentToQualify) }}</p>
+                            </li>
+                            <li>
+                                <div class="type-title-sm">ID</div>
+                                <p>{{ selectedPackLevels[selectedLevel][0].level.id }}</p>
+                            </li>
+                            <li>
+                                <div class="type-title-sm">Password</div>
+                                <p>{{ selectedPackLevels[selectedLevel][0].level.password || 'Free to Copy' }}</p>
+                            </li>
+                        </ul>
+                        <h2>Records</h2>
+                        <p v-if="selected + 1 <= 150"><strong>{{ selectedPackLevels[selectedLevel][0].level.percentToQualify }}%</strong> or better to qualify</p>
+                        <p v-else>100% or better to qualify</p>
+                        <table class="records">
+                            <tr v-for="record in selectedPackLevels[selectedLevel][0].level.records" class="record">
+                                <td class="percent">
+                                    <p>{{ record.percent }}%</p>
+                                </td>
+                                <td class="user">
+                                    <a :href="record.link" target="_blank" class="type-label-lg">{{ record.user }}</a>
+                                </td>
+                                <td class="mobile">
+                                    <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
+                                </td>
+                                <td class="hz">
+                                    <p>{{ record.hz }}Hz</p>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div v-else class="level" style="height: 100%; justify-content: center; align-items: center;">
+                        <p>(ノಠ益ಠ)ノ彡┻━┻</p>
+                    </div>
                 </div>
             </div>
         </main>
@@ -30,6 +91,7 @@ export default {
         packs: [],
         errors: [],
         selected: 0,
+        selectedLevel: 0,
         selectedPackLevels: [],
         loading: true,
         loadingPack: true,
@@ -41,7 +103,9 @@ export default {
     },
     async mounted() {
         this.packs = await fetchPacks();
-        this.selectedPackLevels = await fetchPackLevels(this.packs[this.selected].name);
+        this.selectedPackLevels = await fetchPackLevels(
+            this.packs[this.selected].name
+        );
 
         // Error handling todo: make error handling
         // if (!this.packs) {
@@ -63,13 +127,20 @@ export default {
         this.loadingPack = false;
     },
     methods: {
-        async switchLevels(i){
-            this.loadingPack = true
+        async switchLevels(i) {
+            this.loadingPack = true;
 
-            this.selected = i
-            this.selectedPackLevels = await fetchPackLevels(this.packs[this.selected].name);
+            this.selected = i;
+            this.selectedLevel = 0;
+            this.selectedPackLevels = await fetchPackLevels(
+                this.packs[this.selected].name
+            );
+            console.log(this.selectedPackLevels[this.selectedLevel][0].level);
 
-            this.loadingPack = false
+            this.loadingPack = false;
         },
+        score,
+        embed,
+        getFontColour,
     },
 };

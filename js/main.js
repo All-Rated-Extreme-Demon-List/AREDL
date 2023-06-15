@@ -19,3 +19,5 @@ const router = VueRouter.createRouter({
 app.use(router);
 
 app.mount('#app');
+
+console.log("Shoutout wyzy")
