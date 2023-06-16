@@ -20,11 +20,11 @@ export default {
                     {{pack.name}}
                 </button>
             </div>
-            <div class="pack-list">
-                <div v-if="loadingPack">
-                    <Spinner></Spinner>
-                </div>
-                <div v-else class="list-container">
+            <div v-if="loadingPack">
+                <Spinner></Spinner>
+            </div>
+            <div v-else class="pack-list">
+                <div class="list-container">
                     <table class="list">
                         <tr v-for="(level, i) in selectedPackLevels">
                             <td class="rank">
