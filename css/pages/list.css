@@ -1,40 +1,26 @@
-.page-packs {
-    display: flex;
-    flex-direction: column;
-}
-
-.packs-nav {
-    min-height: 40px;
-    max-height: 40px;
-}
-
-.pack-list {
-    display: flex;
-}
-
-.pack-list .list-container,
-.pack-list .level-container,
-.pack-list .meta-container {
+.page-list .list-container,
+.page-list .level-container,
+.page-list .meta-container {
     padding-block: 2rem;
 }
-.pack-list .list-container {
+.page-list .list-container {
     padding-inline: 1rem;
 }
-.pack-list .meta-container {
+.page-list .meta-container {
     padding-right: 2rem;
 }
 
-.pack-list .list {
+.page-list .list {
     table-layout: auto;
 }
-.pack-list .list .rank {
+.page-list .list .rank {
     text-align: end;
     padding-right: 1rem;
 }
-.pack-list .list .level {
+.page-list .list .level {
     width: 100%;
 }
-.pack-list .list .level button {
+.page-list .list .level button {
     background-color: var(--color-background);
     color: var(--color-on-background);
     border: none;
@@ -45,99 +31,99 @@
     overflow-wrap: anywhere;
     cursor: pointer;
 }
-.pack-list .list .level.error button {
+.page-list .list .level.error button {
     color: var(--color-error);
     cursor: not-allowed;
     text-decoration: line-through;
 }
-.pack-list .list .level button:hover {
+.page-list .list .level button:hover {
     background-color: var(--color-background-hover);
     color: var(--color-on-background-hover);
 }
-.pack-list .list .level.active button {
+.page-list .list .level.active button {
     background-color: var(--color-primary);
     color: var(--color-on-primary);
 }
-.pack-list .level-container .level {
+.page-list .level-container .level {
     display: flex;
     flex-direction: column;
     gap: 2rem;
     padding-right: 2rem;
     max-width: 48rem;
 }
-.pack-list .level-container .level .level-authors {
+.page-list .level-container .level .level-authors {
     display: grid;
     grid-template-columns: max-content 1fr;
     grid-auto-rows: max-content;
     gap: 1rem;
 }
-.pack-list .level-container .level .video {
+.page-list .level-container .level .video {
     aspect-ratio: 16/9;
 }
-.pack-list .level-container .level .stats {
+.page-list .level-container .level .stats {
     display: flex;
     justify-content: space-evenly;
     text-align: center;
     gap: 2rem;
 }
-.pack-list .level-container .level .stats li {
+.page-list .level-container .level .stats li {
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 1rem;
 }
-.pack-list .level-container .level .records {
+.page-list .level-container .level .records {
     table-layout: fixed;
 }
-.pack-list .level-container .level .records tr td:not(:last-child) {
+.page-list .level-container .level .records tr td:not(:last-child) {
     padding-right: 1rem;
 }
-.pack-list .level-container .level .records .percent,
-.pack-list .level-container .level .records .user,
-.pack-list .level-container .level .records .hz {
+.page-list .level-container .level .records .percent,
+.page-list .level-container .level .records .user,
+.page-list .level-container .level .records .hz {
     padding-block: 1rem;
 }
-.pack-list .level-container .level .records .user {
+.page-list .level-container .level .records .user {
     width: 100%;
 }
-.pack-list .level-container .level .records .percent,
-.pack-list .level-container .level .records .hz {
+.page-list .level-container .level .records .percent,
+.page-list .level-container .level .records .hz {
     text-align: end;
 }
-.pack-list .meta-container .og a:hover,
-.pack-list .level-container .level .records a:hover {
+.page-list .meta-container .og a:hover,
+.page-list .level-container .level .records a:hover {
     text-decoration: underline;
 }
-.pack-list .meta {
+.page-list .meta {
     display: flex;
     flex-direction: column;
     gap: 2rem;
 }
-.pack-list .meta .errors {
+.page-list .meta .errors {
     display: flex;
     flex-direction: column;
     gap: 1rem;
 }
-.pack-list .meta .errors .error {
+.page-list .meta .errors .error {
     padding: 1rem;
     background-color: var(--color-error);
     color: var(--color-on-error);
     border-radius: 0.5rem;
 }
-.pack-list .meta .editors {
+.page-list .meta .editors {
     display: flex;
     flex-direction: column;
     gap: 0.75rem;
 }
-.pack-list .meta .editors li {
+.page-list .meta .editors li {
     display: flex;
     align-items: center;
     gap: 0.5rem;
 }
-.pack-list .meta .editors li img {
+.page-list .meta .editors li img {
     height: 1.25rem;
 }
-.pack-list .meta .editors li a:hover {
+.page-list .meta .editors li a:hover {
     text-decoration: underline;
 }
 .tag {
