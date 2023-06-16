@@ -1,6 +1,9 @@
 .packs-nav {
+    width: 100%;
+    position: absolute;
     display: flex;
-    background-color: black;
+    background-color: var(--color-background-hover);
+    height: 40px;
 }
 
 .packs-nav > button{
@@ -19,6 +22,7 @@
 .pack-list .list-container,
 .pack-list .level-container,
 .pack-list .meta-container {
+    margin-top: 40px;
     padding-block: 2rem;
 }
 .pack-list .list-container {

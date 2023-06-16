@@ -14,12 +14,12 @@ export default {
         <main v-if="loading">
             <Spinner></Spinner>
         </main>
-        <div class="packs-nav">
-            <button @click="switchLevels(i)" v-for="(pack, i) in packs" :style="{backgroundColor: pack.colour, color: getFontColour(pack.colour)}" class="type-label-lg">
-                {{pack.name}}
-            </button>
-        </div>
         <main v-else class="pack-list">
+            <div class="packs-nav">
+                <button @click="switchLevels(i)" v-for="(pack, i) in packs" :style="{backgroundColor: pack.colour, color: getFontColour(pack.colour)}" class="type-label-lg">
+                    {{pack.name}}
+                </button>
+            </div>
             <div class="list-container">
                 <table class="list" v-if="selectedPackLevels">
                     <tr v-for="(level, i) in selectedPackLevels">
