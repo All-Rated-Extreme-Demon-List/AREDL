@@ -16,9 +16,11 @@ export default {
         </main>
         <main v-else class="pack-list">
             <div class="packs-nav">
-                <button @click="switchLevels(i)" v-for="(pack, i) in packs" :style="{backgroundColor: pack.colour, color: getFontColour(pack.colour)}" class="type-label-lg">
-                    {{pack.name}}
-                </button>
+                <div>
+                    <button @click="switchLevels(i)" v-for="(pack, i) in packs" :style="{backgroundColor: pack.colour, color: getFontColour(pack.colour)}" class="type-label-lg">
+                        {{pack.name}}
+                    </button>
+                </div>
             </div>
             <div class="list-container">
                 <table class="list" v-if="selectedPackLevels">

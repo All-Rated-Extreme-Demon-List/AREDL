@@ -1,12 +1,14 @@
 .packs-nav {
-    width: 100%;
+    z-index: 1;
     position: absolute;
-    display: flex;
     background-color: var(--color-background-hover);
-    height: 40px;
+    height: 50px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    width: 100%;
 }
 
-.packs-nav > button{
+.packs-nav button{
     border-top-right-radius: 0.75em;
     border-top-left-radius: 0.75em;
     border: none;
@@ -17,12 +19,19 @@
     word-break: normal;
     overflow-wrap: anywhere;
     cursor: pointer;
+    flex-shrink: 0;
+    height: 100%;
+}
+
+.packs-nav > div {
+    height: 100%;
+    display: flex;
 }
 
 .pack-list .list-container,
 .pack-list .level-container,
 .pack-list .meta-container {
-    margin-top: 40px;
+    margin-top: 50px;
     padding-block: 2rem;
 }
 .pack-list .list-container {
