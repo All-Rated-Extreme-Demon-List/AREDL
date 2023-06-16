@@ -85,6 +85,12 @@
 .page-leaderboard .player .table .score p {
     text-align: end;
 }
+
+.page-leaderboard .player .packs {
+    display: flex;
+    gap: 0.4em;
+}
+
 .page-leaderboard .player .table .level {
     width: 100%;
 }
