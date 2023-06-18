@@ -7,5 +7,12 @@
     "verification": "https://www.twitch.tv/videos/1837297586",
     "percentToQualify": 100,
     "password": "210317",
-    "records": []
+    "records": [
+    {
+            "user": "Dylinator",
+            "link": "https://youtu.be/YbzQuQDUpaI",
+            "percent": 100,
+            "hz": 360
+}
+    ]
 }

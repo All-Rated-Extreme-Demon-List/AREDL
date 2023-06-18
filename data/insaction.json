@@ -3,8 +3,8 @@
     "name": "Insaction",
     "author": "ByBoy 11",
     "creators": ["Axdrel, Laser10, Diplow, Zafkiel, ByBoy 11, Chi, Enboy, M3llo, Dro3, Azos11, Chuchitodomin, NVATIUM, Aqours, JaxtilanX, xanN, ZadoxxZ, icotchy, DanielDLC, Abdula, TheBoringBoy, Zyplex, Lucalry, Mapex, DangerKat, Gathitho, IPersuit, Trudee Fabian, Blasting Ant, ItzStrill, Slip Ghost, llJoanll, Stamina"],
-    "verifier": "IIDustikII",
-    "verification": "https://www.youtube.com/watch?v=l-iqvbOB_Ks",
+    "verifier": "BiboxGD",
+    "verification": "https://youtu.be/vfvadYEj_k0",
     "percentToQualify": 100,
     "password": "282019",
     "records": [
@@ -55,6 +55,24 @@
             "link": "https://www.youtube.com/watch?v=gXshGMS7kSc",
             "percent": 100,
             "hz": 300
+},
+        {
+            "user": "DartHole",
+            "link": "https://youtu.be/hqCI9SJPTTE",
+            "percent": 100,
+            "hz": 144
+},
+        {
+            "user": "LuckyNS",
+            "link": "https://youtu.be/V7fYBySIO0E",
+            "percent": 100,
+            "hz": 60
+},
+        {
+            "user": "NiceCrunchy",
+            "link": "https://www.youtube.com/watch?v=R1ngXeNK7r8&t=2s",
+            "percent": 100,
+            "hz": 360
 }
     ]
 }

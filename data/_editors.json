@@ -11,6 +11,11 @@
     },
     {
         "role": "admin",
+        "name": "Robaleg9",
+        "link": "https://youtube.com/@Robaleg9"
+    },
+    {
+        "role": "admin",
         "name": "Willow",
         "link": "link goes here"
     },
@@ -36,8 +41,18 @@
     },
     {
         "role": "trial",
-        "name": "Robaleg9",
-        "link": "https://youtube.com/@Robaleg9"
+        "name": "Meep",
+        "link": "https://www.youtube.com/channel/UC3yoBkqkM0lw5a0llt69LxA"
+    },
+    {
+        "role": "trial",
+        "name": "Megu",
+        "link": "https://www.youtube.com/channel/UC0wJXER96_HVFXo2IT1fmHQ"
+    },
+    {
+        "role": "trial",
+        "name": "Padahk",
+        "link": "https://www.youtube.com/@Padahk"
     },
     {
         "role": "trial",
@@ -61,7 +76,7 @@
     },
     {
         "role": "helper",
-        "name": "Colizzion",
+        "name": "lunaa",
         "link": "link goes here"
     },
     {
@@ -86,23 +101,8 @@
     },
     {
         "role": "helper",
-        "name": "jOnel",
-        "link": "link goes here"
-    },
-    {
-        "role": "helper",
         "name": "GYT",
-        "link": "link goes here"
-    },
-    {
-        "role": "helper",
-        "name": "Meep",
-        "link": "https://www.youtube.com/channel/UC3yoBkqkM0lw5a0llt69LxA"
-    },
-    {
-        "role": "helper",
-        "name": "Megu",
-        "link": "https://www.youtube.com/channel/UC0wJXER96_HVFXo2IT1fmHQ"
+        "link": "https://www.youtube.com/channel/UCK7D8s2I-VXMnDP5z82qjcQ"
     },
     {
         "role": "helper",
@@ -113,11 +113,6 @@
         "role": "helper",
         "name": "NUwUxuz",
         "link": "link goes here"
-    },
-    {
-        "role": "helper",
-        "name": "Padahk",
-        "link": "https://www.youtube.com/@Padahk"
     },
     {
         "role": "helper",
@@ -153,6 +148,11 @@
         "role": "helper",
         "name": "zoidy",
         "link": "link goes here"
+    },
+    {
+        "role": "helper",
+        "name": "faulheitsmensch",
+        "link": "https://www.youtube.com/@faulheitsmensch6537"
     },
     {
         "role": "dev",

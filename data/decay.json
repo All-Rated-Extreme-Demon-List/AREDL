@@ -72,6 +72,31 @@
             "link": "https://youtu.be/N3ZhZsIO07c",
             "percent": 100,
             "hz": 360
+},
+        {
+            "user": "Enfur",
+            "link": "https://www.youtube.com/watch?v=FZztdkX9Abc",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "Domesz",
+            "link": "https://www.youtube.com/watch?v=va-VNG5dt6o",
+            "percent": 100,
+            "hz": 360
+},
+{
+            "user": "Urbyn",
+            "link": "https://youtu.be/0KK0wA82e64",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Stoicism",
+            "link": "https://youtu.be/uFpauYG8fJE",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
 }
     ]
 }

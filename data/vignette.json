@@ -2,7 +2,7 @@
     "id": 70132215,
     "name": "Vignette",
     "author": "fCrouley",
-    "creators": ["Cherry Team"],
+    "creators": ["Dirinoc, Buragoz, Crouley, Maitnery, Deadlox, Deron"],
     "verifier": "Retrograde",
     "verification": "https://www.youtube.com/watch?v=2BBq8_81cjc",
     "percentToQualify": 100,
@@ -24,6 +24,12 @@
             "link": "https://youtu.be/N9AGwxm-yWk",
             "percent": 100,
             "hz": 360
+},
+        {
+            "user": "NateFH",
+            "link": "https://www.youtube.com/watch?v=uIAeVCcoR_I&t=3s",
+            "percent": 100,
+            "hz": 60
 }
     ]
 }

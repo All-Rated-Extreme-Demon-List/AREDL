@@ -3,8 +3,8 @@
     "name": "Carcano",
     "author": "Asuith",
     "creators": ["Asuith, TomsoN"],
-    "verifier": "Kapinapi",
-    "verification": "https://www.youtube.com/watch?v=jQPCXcekS-Y",
+    "verifier": "kvvv",
+    "verification": "https://youtu.be/vqhitBHhsTo",
     "percentToQualify": 100,
     "records": [
     {
@@ -166,6 +166,49 @@
         {
             "user": "ItzElectrix",
             "link": "https://youtu.be/6Wm6ItrHsXg",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "LuckyNS",
+            "link": "https://youtu.be/FOZD46Uqh0E",
+            "percent": 100,
+            "hz": 60
+},
+        {
+            "user": "Hynamite",
+            "link": "https://www.youtube.com/watch?v=vQs7IOoHFW4",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+},
+        {
+            "user": "Jedwint",
+            "link": "https://youtu.be/UeXCYMsHbQA",
+            "percent": 100,
+            "hz": 144
+},
+        {
+            "user": "Dylinator",
+            "link": "https://youtu.be/PvqDWzcnHA0",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Detrezo",
+            "link": "https://www.youtube.com/watch?v=HRxgkxffU2M&ab_channel=Detrezo",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "NiceCrunchy",
+            "link": "https://www.youtube.com/watch?v=m95GnR440M8&t=53s",
+            "percent": 100,
+            "hz": 144
+},
+        {
+            "user": "BANA1411",
+            "link": "https://youtu.be/zw9iw8PrBV8",
             "percent": 100,
             "hz": 240
 }

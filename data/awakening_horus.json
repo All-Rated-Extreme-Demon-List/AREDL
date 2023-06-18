@@ -224,6 +224,31 @@
             "link": "https://www.youtube.com/watch?v=8VlSIRFhetA",
             "percent": 100,
             "hz": 288
+},
+        {
+            "user": "Eggxd",
+            "link": "https://www.youtube.com/watch?v=I2_nkyTh_3c",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "DeltaPhantom1",
+            "link": "https://youtu.be/y2KLY3zPI30",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Hynamite",
+            "link": "https://www.youtube.com/watch?v=bbFWSglc_kI",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+},
+        {
+            "user": "BANA1411",
+            "link": "https://youtu.be/DN3NJUEyHXU",
+            "percent": 100,
+            "hz": 240
 }
     ]
 }
