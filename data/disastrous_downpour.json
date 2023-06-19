@@ -6,5 +6,12 @@
     "verifier": "LunarSpark",
     "verification": "https://youtu.be/qnSbGOeFD2M",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "Lia",
+            "link": "https://www.youtube.com/watch?v=AHdeW6hpJ_M",
+            "percent": 100,
+            "hz": 360
+}
+    ]
 }
