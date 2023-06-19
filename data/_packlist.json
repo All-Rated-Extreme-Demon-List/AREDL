@@ -6,7 +6,7 @@
             "avernus",
             "silent_clubstep"
         ],
-        "colour": "#D90016"
+        "colour": "#ad1d1d"
     },
     {
         "name": "Sonic Wave Pack",
@@ -17,15 +17,51 @@
             "sonic_wave",
             "auditory_breaker"
         ],
+        "colour": "#1438d9"
+    },
+    {
+        "name": "Vortex Series",
+        "levels": [
+            "balengu_vortex",
+            "bausha_vortex",
+            "friday_vortex"
+        ],
+        "colour": "#9600db"
+    },
+    {
+        "name": "Tech Series",
+        "levels": [
+            "artificial_ascent",
+            "digital_descent",
+            "cybernetic_crescent"
+        ],
+        "colour": "#14de39"
+    },
+    {
+        "name": "Sonic Series",
+        "levels": [
+            "hypersonic",
+            "panasonic",
+            "subsonic"
+        ],
+        "colour": "#0ea8ad"
+    },
+    {
+        "name": "Quantum Series",
+        "levels": [
+            "quantum_processing",
+            "quantum_dynamix",
+            "quantum_theory"
+        ],
         "colour": "#161AFA"
     },
     {
-        "name": "theworldofme's pack",
+        "name": "The A.S.S Trilogy",
         "levels": [
-            "oblivion",
-            "verdant_landscape",
-            "lotus_flower"
+            "sakupen_circles",
+            "slaughterhouse",
+            "abyss_of_darkness"
         ],
-        "colour": "#d9d9d9"
+        "colour": "#d60000"
     }
 ]
