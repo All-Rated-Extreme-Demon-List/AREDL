@@ -63,5 +63,14 @@
             "abyss_of_darkness"
         ],
         "colour": "#d60000"
-    }
+    },
+    {
+        "name": "Apocalyptic Trilogy",
+        "levels": [
+            "cataclysm",
+            "bloodbath",
+            "aftermath"
+        ],
+        "colour": "#ab0009"
+    },
 ]
