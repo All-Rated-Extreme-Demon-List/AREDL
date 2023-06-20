@@ -73,11 +73,18 @@
             "percent": 100,
             "hz": 240
 },
-{
-    "user": "Simolater",
-    "link": "https://www.youtube.com/watch?v=pHfwlqpa-OU",
-    "percent": 100,
-    "hz": 360
+        {
+            "user": "Simolater",
+            "link": "https://www.youtube.com/watch?v=pHfwlqpa-OU",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Detrezo",
+            "link": "https://www.youtube.com/watch?v=9rBMURMxeKM&ab_channel=Detrezo",
+            "percent": 100,
+            "hz": 360
 }
+        
     ]
 }
