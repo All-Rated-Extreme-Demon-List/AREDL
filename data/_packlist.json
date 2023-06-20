@@ -73,4 +73,22 @@
         ],
         "colour": "#ab0009"
     },
+    {
+        "name": "Memory Pack I",
+        "levels": [
+            "maybe_possibly_thing",
+            "triple_six",
+            "killbot"
+        ],
+        "colour": "#cd00db"
+    },
+    {
+        "name": "Memory Pack II",
+        "levels": [
+            "super_probably_level",
+            "requiem",
+            "goner"
+        ],
+        "colour": "#a200ad"
+    },
 ]
