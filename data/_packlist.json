@@ -120,5 +120,15 @@
             "the_antimatter"
         ],
         "colour": "#993fd9"
+    },
+    {
+        "name": "Breaking Bad Pack",
+        "levels": [
+            "gustavo_fring",
+            "jesse_pinkman",
+            "walter_white",
+            "saul_goodman"
+        ],
+        "colour": "#d9933f"
     }
 ]
