@@ -351,12 +351,18 @@
             "percent": 100,
             "hz": 180
 },
+{
+    "user": "LuigiDB",
+    "link": "https://www.youtube.com/watch?v=bi38Gq_f6NQ",
+    "percent": 100,
+    "hz": 144
+},
         {
             "user": "Chubs Dubs",
             "link": "https://www.youtube.com/watch?v=ZlqEaGEQVOM&list=PL-NVoF9O1eL32_sDluVvJ_CBFqhj8D3fU&index=12",
             "percent": 100,
             "hz": 60,
-            "mobile": true
+            "mobile": true 
 }
     ]
 }
