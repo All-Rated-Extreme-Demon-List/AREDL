@@ -20,6 +20,11 @@
         "link": "link goes here"
     },
     {
+        "role": "admin",
+        "name": "YraX",
+        "link": "link goes here"
+    },
+    {
         "role": "trial",
         "name": "Bobbyp02",
         "link": "link goes here"
@@ -58,11 +63,6 @@
         "role": "trial",
         "name": "faulheitsmensch",
         "link": "https://www.youtube.com/@faulheitsmensch6537"
-    },
-    {
-        "role": "trial",
-        "name": "YraX",
-        "link": "link goes here"
     },
     {
         "role": "helper",
@@ -107,11 +107,6 @@
     {
         "role": "helper",
         "name": "Potato",
-        "link": "link goes here"
-    },
-    {
-        "role": "helper",
-        "name": "rose;",
         "link": "link goes here"
     },
     {
