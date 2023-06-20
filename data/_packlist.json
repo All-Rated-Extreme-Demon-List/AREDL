@@ -230,6 +230,88 @@
 
         ],
         "colour": "#ab0000"
+    },
+    {
+        "name": "Greek Letter Trilogy",
+        "levels": [
+            "gamma",
+            "sigma",
+            "omega"
+        ],
+        "colour": "#8a60fc"
+    },
+    {
+        "name": "Greek Interface Trilogy",
+        "levels": [
+            "delta_interface",
+            "sigma_interface",
+            "omega_interface"
+        ],
+        "colour": "#262626"
+    },
+    {
+        "name": "Top 1 Pack",
+        "levels": [
+            "acheron",
+            "slaughterhouse",
+            "abyss_of_darkness",
+            "sakupen_circles",
+            "firework",
+            "tartarus",
+            "the_golden",
+            "zodiac",
+            "bloodlust",
+            "plasma_pulse_finale",
+            "yatagarasu",
+            "erebus",
+            "sonic_wave",
+            "digital_descent",
+            "stalemate_redux",
+            "crimson_planet",
+            "artificial_ascent",
+            "sakupen_hell",
+            "athanatos",
+            "bloodbath",
+            "cataclysm"
+        ],
+        "colour": "#000000"
+    },
+    {
+        "name": "Anime Pack",
+        "levels": [
+            "shukketsu",
+            "wasureta",
+            "kowareta",
+            "kuzureta"
+        ],
+        "colour": "#ff78e6"
+    },
+    {
+        "name": "Cognition Pack",
+        "levels": [
+            "carcano",
+            "cognition",
+            "oblivion"
+        ],
+        "colour": "#8c8c8c"
+    },
+    {
+        "name": "RGB Pack",
+        "levels": [
+            "yatagarasu",
+            "erebus",
+            "sonic_wave"
+        ],
+        "colour": "#ff0000"
+    },
+    {
+        "name": "New RGB Pack",
+        "levels": [
+            "tartarus",
+            "the_golden",
+            "sonic_wave_infinity"
+        ],
+        "colour": "#ff0000"
     }
     
 ]
