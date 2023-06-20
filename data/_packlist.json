@@ -101,4 +101,14 @@
         ],
         "colour": "#919191"
     },
+    {
+        "name": "Fish Pack",
+        "levels": [
+            "fish_fish_godmode",
+            "prismatic_haze",
+            "lodin_da_fish_washer",
+            "le_fishe"
+        ],
+        "colour": "#3f7fd9"
+    },
 ]
