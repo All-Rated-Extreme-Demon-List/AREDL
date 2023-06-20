@@ -91,4 +91,14 @@
         ],
         "colour": "#a200ad"
     },
+    {
+        "name": "Silent Pack",
+        "levels": [
+            "silent_clubstep",
+            "silent_club",
+            "silentium_gradas",
+            "silentium_clavas"
+        ],
+        "colour": "#919191"
+    },
 ]
