@@ -128,11 +128,17 @@
             "percent": 100,
             "hz": 120
 },
-{
-    "user": "GD_Basti",
-    "link": "https://www.youtube.com/watch?v=JOAcTIHPYjY",
-    "percent": 100,
-    "hz": 240
+        {
+            "user": "GD_Basti",
+            "link": "https://www.youtube.com/watch?v=JOAcTIHPYjY",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "Trostonn",
+            "link": "https://youtu.be/QOXYD5E9jvc",
+            "percent": 100,
+            "hz": 360
 }
     ]
 }
