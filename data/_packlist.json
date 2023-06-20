@@ -102,6 +102,16 @@
         "colour": "#919191"
     },
     {
+        "name": "Breaking Bad Pack",
+        "levels": [
+            "saul_goodman",
+            "walter_white",
+            "jesse_pinkman",
+            "gustavo_fring"
+        ],
+        "colour": "#024a09"
+    },
+    {
         "name": "Fish Pack",
         "levels": [
             "fish_fish_godmode",
@@ -109,35 +119,117 @@
             "lodin_da_fish_washer",
             "le_fishe"
         ],
-        "colour": "#3f7fd9"
+        "colour": "#008fdb"
     },
     {
-        "name": "Fuck You Bianox",
+        "name": "Dorami Pack I",
         "levels": [
-            "cyclone",
-            "hurricane",
-            "tornado",
-            "the_antimatter"
+            "violently_x",
+            "firepower_mrlorenzo",
+            "elliptic_curve",
+            "empanadas_fugaces"
         ],
-        "colour": "#993fd9"
+        "colour": "#e454f7"
     },
     {
-        "name": "Fuck You Bianox: The Second Coming",
+        "name": "Dorami Pack II",
         "levels": [
-            "dimension_breaker",
-            "singularity",
-            "zodiac"
+            "azure_fiesta",
+            "snowfall_fiesta",
+            "delebit_oblivio",
+            "the_yandere"
         ],
-        "colour": "#b03fd9"
+        "colour": "#ffffff"
     },
     {
-        "name": "Breaking Bad Pack",
+        "name": "Beginner Pack",
         "levels": [
-            "gustavo_fring",
-            "jesse_pinkman",
-            "walter_white",
-            "saul_goodman"
+            "acu",
+            "troll_level",
+            "cataclysm"
         ],
-        "colour": "#d9933f"
+        "colour": "#00ff6a"
+    },
+    {
+        "name": "Outer Space Pack",
+        "levels": [
+            "phobos",
+            "deimos",
+            "keres"
+        ],
+        "colour": "#0a0812"
+    },
+    {
+        "name": "KrmaL Pack I",
+        "levels": [
+            "conical_depression",
+            "elite_z_rebirth",
+            "heartbeat",
+            "falling_up"
+        ],
+        "colour": "#ff0000"
+    },
+    {
+        "name": "KrmaL Pack II",
+        "levels": [
+            "black_blizzard",
+            "low_death",
+            "xo"
+        ],
+        "colour": "#ffffff"
+    },
+    {
+        "name": "hell",
+        "levels": [
+            "acheron",
+            "avernus",
+            "slaughterhouse",
+            "limbo",
+            "arcturus",
+            "tartarus",
+            "kenos",
+            "promethean",
+            "superhatemeworld",
+            "crimson_planet",
+            "bloodlust",
+            "molten_core",
+            "dedohexdragon",
+            "necromancer",
+            "yatagarasu",
+            "misfire",
+            "the_hell_nutz",
+            "the_hell_dignity",
+            "the_hell_origin",
+            "the_hell_world",
+            "the_hell_inferno",
+            "the_hell_zone",
+            "the_hell_field",
+            "the_hell_factory",
+            "the_hell_bird",
+            "devil_vortex",
+            "step_to_hell",
+            "nightmare_chasm",
+            "bass_cave",
+            "sinister_incision",
+            "pandemonium",
+            "infernal_abyss",
+            "asmodeus",
+            "sakupen_hell",
+            "bloodbath",
+            "under_lavaland",
+            "hateful_reflection",
+            "gang_plank_hell",
+            "aftermath",
+            "triple_six",
+            "reverence",
+            "acrozis",
+            "necropolix",
+            "the_flawless",
+            "pulsation",
+            "cataclysm"
+
+        ],
+        "colour": "#ab0000"
     }
+    
 ]
