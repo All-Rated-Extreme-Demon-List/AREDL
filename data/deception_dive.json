@@ -301,6 +301,19 @@
             "link": "https://www.youtube.com/watch?v=h-gpFSnVpq0&t=3s",
             "percent": 100,
             "hz": 360
+},
+        {
+            "user": "Chubs Dubs",
+            "link": "https://www.youtube.com/watch?v=FaPI7lvpuww&list=PL-NVoF9O1eL32_sDluVvJ_CBFqhj8D3fU&index=14",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+},
+        {
+            "user": "NexoProTC",
+            "link": "https://youtu.be/M2WroZZ8oOc",
+            "percent": 100,
+            "hz": 240
 }
     ]
 }

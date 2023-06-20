@@ -31,11 +31,17 @@
             "percent": 100,
             "hz": 60
 },
-{
-    "user": "Simolater",
-    "link": "https://www.youtube.com/watch?v=lcE5Re61Ar4",
-    "percent": 100,
-    "hz": 240
+        {
+            "user": "Simolater",
+            "link": "https://www.youtube.com/watch?v=lcE5Re61Ar4",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "NexoProTC",
+            "link": "https://youtu.be/LFVyaELWSXc",
+            "percent": 100,
+            "hz": 240
 }
     ]
 }

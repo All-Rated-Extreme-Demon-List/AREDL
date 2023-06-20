@@ -283,11 +283,17 @@
             "percent": 100,
             "hz": 240
 },
-{
-    "user": "falloostic",
-    "link": "https://www.youtube.com/watch?v=ru94lNsJ6Pk",
-    "percent": 100,
-    "hz": 360
+        {
+            "user": "falloostic",
+            "link": "https://www.youtube.com/watch?v=ru94lNsJ6Pk",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "NexoProTC",
+            "link": "https://youtu.be/oW5QyLcyHSg",
+            "percent": 100,
+            "hz": 240
 }
     ]
 }
