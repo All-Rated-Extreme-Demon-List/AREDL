@@ -20,7 +20,7 @@
             "percent": 100,
             "hz": 240
 },
-{
+        {
             "user": "BrowarKedawar",
             "link": "https://youtu.be/oNtPTgXa9S8",
             "percent": 100,
@@ -32,11 +32,17 @@
             "percent": 100,
             "hz": 360
 },
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=sd-336vxU7s",
-    "percent": 100,
-    "hz": 144
+        {
+            "user": "LuigiDB",
+            "link": "https://www.youtube.com/watch?v=sd-336vxU7s",
+            "percent": 100,
+            "hz": 144
+},
+        {
+            "user": "TheyCallMeEvan",
+            "link": "https://youtu.be/Nt-cUXlNLdU",
+            "percent": 100,
+            "hz": 240
 }
     ]
 }
