@@ -391,11 +391,11 @@
             "percent": 100,
             "hz": 360
 },
-{
-    "user": "falloostic",
-    "link": "https://www.youtube.com/watch?v=G2bSyrfYhbU",
-    "percent": 100,
-    "hz": 360
+        {
+            "user": "falloostic",
+            "link": "https://www.youtube.com/watch?v=G2bSyrfYhbU",
+            "percent": 100,
+            "hz": 360
 },
         {
             "user": "ChocolitoTilin",
@@ -412,6 +412,12 @@
         {
             "user": "hummie",
             "link": "https://youtu.be/ZwFpsaIis3o",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "0spears",
+            "link": "https://youtu.be/nwuiK-l4i2E",
             "percent": 100,
             "hz": 360
 }
