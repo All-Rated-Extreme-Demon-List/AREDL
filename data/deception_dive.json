@@ -265,6 +265,67 @@
             "link": "https://www.youtube.com/watch?v=1J26ueTq42Y",
             "percent": 100,
             "hz": 144
+},
+        {
+            "user": "StarXV",
+            "link": "https://youtu.be/7KHF1NKigy8",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "DJ1482",
+            "link": "https://youtu.be/nbNaC3GtPSY",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "Blathers",
+            "link": "https://www.twitch.tv/videos/1735816271",
+            "percent": 100,
+            "hz": 60
+},
+        {
+            "user": "lumi",
+            "link": "https://youtu.be/KiXbd0srcuo",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "alienxs",
+            "link": "https://www.youtube.com/watch?v=E9yQ7g1hN-4&ab_channel=alienxs",
+            "percent": 100,
+            "hz": 255
+},
+        {
+            "user": "Trostonn",
+            "link": "https://www.youtube.com/watch?v=h-gpFSnVpq0&t=3s",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Chubs Dubs",
+            "link": "https://www.youtube.com/watch?v=FaPI7lvpuww&list=PL-NVoF9O1eL32_sDluVvJ_CBFqhj8D3fU&index=14",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+},
+        {
+            "user": "NexoProTC",
+            "link": "https://youtu.be/M2WroZZ8oOc",
+            "percent": 100,
+            "hz": 240
+},
+{
+    "user": "WhiteSalmon",
+    "link": "https://www.youtube.com/watch?v=8RMr67y-PEw&list=PLYulNPgsOPnAozOHFfssrdFpO2_8oDdsd&index=9&ab_channel=WhiteSalmon%5BGD%5D",
+    "percent": 100,
+    "hz": 144
+},
+        {
+            "user": "JoRayBeast11",
+            "link": "https://youtu.be/BB3Lm0NxynI?t=315",
+            "percent": 100,
+            "hz": 360
 }
     ]
 }

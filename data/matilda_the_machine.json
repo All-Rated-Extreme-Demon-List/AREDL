@@ -80,6 +80,37 @@
             "link": "https://www.youtube.com/watch?v=YFH5AW0zGko",
             "percent": 100,
             "hz": 240
+},
+        {
+            "user": "ItzElectrix",
+            "link": "https://youtu.be/P6SxoqhhyP0",
+            "percent": 100,
+            "hz": 144
+},
+        {
+            "user": "GJosh2",
+            "link": "https://www.youtube.com/watch?v=eLJ0Apj0lGI",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+},
+        {
+            "user": "Dan2D",
+            "link": "https://youtu.be/Ng2RdM_7SjA",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "lumi",
+            "link": "https://youtu.be/OfQPPBBap7g",
+            "percent": 100,
+            "hz": 288
+},
+        {
+            "user": "LuigiDB",
+            "link": "https://www.youtube.com/watch?v=55KC0ze-fJE",
+            "percent": 100,
+            "hz": 144
 }
     ]
 }

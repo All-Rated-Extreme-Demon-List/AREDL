@@ -6,10 +6,18 @@
     "verifier": "s3batr0nic",
     "verification": "https://www.youtube.com/watch?v=1YWMdhPOw60",
     "percentToQualify": 100,
-    "records": [{
+    "records": [
+        {
             "user": "Lia",
             "link": "https://youtu.be/hkgdn2fI1BA",
             "percent": 100,
             "hz": 240
-}]
+},
+                {
+            "user": "ItzElectrix",
+            "link": "https://www.youtube.com/watch?v=-U54NloHBJw",
+            "percent": 100,
+            "hz": 360
+}
+               ]
 }

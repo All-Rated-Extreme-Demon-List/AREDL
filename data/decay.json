@@ -97,6 +97,36 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+},
+        {
+            "user": "Blathers",
+            "link": "https://youtu.be/jjiHcnXti1I",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "ijacek_cz",
+            "link": "https://youtu.be/HhFAwPXITh0?t=232",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "NexoProTC",
+            "link": "https://youtu.be/20dNKvcPeVM",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "LuigiDB",
+            "link": "https://www.youtube.com/watch?v=BJtMLEq2qFE",
+            "percent": 100,
+            "hz": 144
+},
+        {
+            "user": "Alex_",
+            "link": "https://youtu.be/m_U8Ge97MyM",
+            "percent": 100,
+            "hz": 240
 }
     ]
 }

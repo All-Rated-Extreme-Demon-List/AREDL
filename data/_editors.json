@@ -20,6 +20,11 @@
         "link": "link goes here"
     },
     {
+        "role": "admin",
+        "name": "YraX",
+        "link": "link goes here"
+    },
+    {
         "role": "trial",
         "name": "Bobbyp02",
         "link": "link goes here"
@@ -51,18 +56,13 @@
     },
     {
         "role": "trial",
-        "name": "Padahk",
+        "name": "TheyCallMeEvan",
         "link": "https://www.youtube.com/@Padahk"
     },
     {
         "role": "trial",
-        "name": "Trehoeje",
-        "link": "https://youtube.com/@trehoeje3785"
-    },
-    {
-        "role": "trial",
-        "name": "YraX",
-        "link": "link goes here"
+        "name": "faulheitsmensch",
+        "link": "https://www.youtube.com/@faulheitsmensch6537"
     },
     {
         "role": "helper",
@@ -91,16 +91,6 @@
     },
     {
         "role": "helper",
-        "name": "Iron",
-        "link": "link goes here"
-    },
-    {
-        "role": "helper",
-        "name": "jesse's evil twin",
-        "link": "link goes here"
-    },
-    {
-        "role": "helper",
         "name": "GYT",
         "link": "https://www.youtube.com/channel/UCK7D8s2I-VXMnDP5z82qjcQ"
     },
@@ -121,17 +111,7 @@
     },
     {
         "role": "helper",
-        "name": "rose;",
-        "link": "link goes here"
-    },
-    {
-        "role": "helper",
         "name": "Shadow",
-        "link": "link goes here"
-    },
-    {
-        "role": "helper",
-        "name": "TheyCallMeEvan",
         "link": "link goes here"
     },
     {
@@ -151,8 +131,8 @@
     },
     {
         "role": "helper",
-        "name": "faulheitsmensch",
-        "link": "https://www.youtube.com/@faulheitsmensch6537"
+        "name": "Padahk",
+        "link": "link goes here"
     },
     {
         "role": "dev",

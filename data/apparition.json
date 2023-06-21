@@ -6,5 +6,24 @@
     "verifier": "JustANacGod",
     "verification": "https://youtu.be/zrfzFgSdS3A",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "TheyCallMeEvan",
+            "link": "https://youtu.be/fvWFRj2BVx4",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "Lia",
+            "link": "https://www.youtube.com/watch?v=Nfpiak-5FU4",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "NexoProTC",
+            "link": "https://youtu.be/HhRtTNDZ6_s",
+            "percent": 100,
+            "hz": 240
+}
+    ]
 }

@@ -7,5 +7,18 @@
     "verification": "https://www.youtube.com/watch?v=cHEGAqOgddA",
     "percentToQualify": 100,
     "password": "210317",
-    "records": []
+    "records": [
+    {
+            "user": "skycrab",
+            "link": "https://youtu.be/_GDkf-XSpW4",
+            "percent": 100,
+            "hz": 360
+},
+{
+    "user": "LuigiDB",
+    "link": "https://www.youtube.com/watch?v=JX_lQ8mpJMA",
+    "percent": 100,
+    "hz": 144
+}
+    ]
 }

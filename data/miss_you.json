@@ -2,10 +2,17 @@
     "id": 87768310,
     "name": "miss you",
     "author": "shmigels",
-    "creators": ["shmigels"],
+    "creators": [],
     "verifier": "shmigels",
     "verification": "https://www.youtube.com/watch?v=iV92wuFbxIg",
     "percentToQualify": 100,
     "password": "No Copy",
-    "records": []
+    "records": [
+        {
+            "user": "baechugimchi",
+            "link": "https://youtu.be/i2CFcEigkFg",
+            "percent": 100,
+            "hz": 60
+}
+    ]
 }

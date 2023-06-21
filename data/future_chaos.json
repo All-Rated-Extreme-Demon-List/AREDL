@@ -6,5 +6,12 @@
     "verifier": "neoraptor",
     "verification": "https://www.youtube.com/watch?v=RnqM-DsWvts",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "baechugimchi",
+            "link": "https://youtu.be/w0m9If9fdTA",
+            "percent": 100,
+            "hz": 360
+}
+    ]
 }

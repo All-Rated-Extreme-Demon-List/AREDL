@@ -67,6 +67,31 @@
             "link": "https://www.youtube.com/watch?v=hXMEFr94pwE&t=4s&ab_channel=Detrezo",
             "percent": 100,
             "hz": 144
+},
+        {
+            "user": "alienxs",
+            "link": "https://www.youtube.com/watch?v=bUnWzfsw4ko&t=107s&ab_channel=alienxs",
+            "percent": 100,
+            "hz": 144
+},
+        {
+            "user": "kucouski",
+            "link": "https://youtu.be/GJ5f9yyfYJw",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
+},
+        {
+            "user": "lumi",
+            "link": "https://youtu.be/HtRa-Jr1MDg",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "Necrolyx",
+            "link": "https://youtu.be/judcqkFoFMU",
+            "percent": 100,
+            "hz": 360
 }
     ]
 }

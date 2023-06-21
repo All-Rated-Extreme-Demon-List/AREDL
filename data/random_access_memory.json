@@ -15,16 +15,34 @@
             "hz": 360
 },
         {
-    "user": "MasterOfDonkeys",
-    "link": "https://youtu.be/18nLNKhKtow",
-    "percent": 100,
-    "hz": 360
+            "user": "MasterOfDonkeys",
+            "link": "https://youtu.be/18nLNKhKtow",
+            "percent": 100,
+            "hz": 360
 },
         {
             "user": "meluwudy",
             "link": "https://www.youtube.com/watch?v=G7EtSlAI_zo",
             "percent": 100,
             "hz": 144
+},
+        {
+            "user": "BrowarKedawar",
+            "link": "https://youtu.be/_b0lO4BfO10",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "Hbg",
+            "link": "https://youtu.be/bv23UDUjfgY",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "lumi",
+            "link": "https://youtu.be/EaRYyJd-wXw",
+            "percent": 100,
+            "hz": 240
 }
     ]
 }
