@@ -127,11 +127,17 @@
             "percent": 100,
             "hz": 288
 },
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=YZ3EIzgYne0",
-    "percent": 100,
-    "hz": 144
+        {
+            "user": "LuigiDB",
+            "link": "https://www.youtube.com/watch?v=YZ3EIzgYne0",
+            "percent": 100,
+            "hz": 144
+},
+        {
+            "user": "Dylinator",
+            "link": "https://youtu.be/VMSprksjOJA",
+            "percent": 100,
+            "hz": 360
 }
         
     ]
