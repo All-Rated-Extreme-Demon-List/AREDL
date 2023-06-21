@@ -1,5 +1,5 @@
 import { fetchLeaderboard } from '../content.js';
-import { localize } from '../util.js';
+import { localize, getFontColour } from '../util.js';
 
 import Spinner from '../components/Spinner.js';
 
@@ -43,8 +43,16 @@ export default {
                 </div>
                 <div class="player-container">
                     <div class="player">
-                        <h1>#{{ selected + 1 }} {{ entry.user }}</h1>
-                        <h3>{{ entry.total }}</h3>
+                        <h2>#{{ selected + 1 }} {{ entry.user }} - {{ entry.verified.length + entry.completed.length }} demons</h2>
+                        <h3>{{ entry.total }} points</h3>
+                        <p>Packs Bonus: {{ entry.packBonus }} points</p>
+                        <div class="packs" v-if="entry.packs.length > 0">
+                            <div>
+                                <div v-for="pack in entry.packs" class="tag" :style="{background:pack.colour, color:getFontColour(pack.colour)}">
+                                    {{pack.name}}
+                                </div>
+                            </div>
+                        </div>
                         <h2 v-if="entry.verified.length > 0">Verified ({{ entry.verified.length}})</h2>
                         <table class="table">
                             <tr v-for="score in entry.verified">
@@ -106,5 +114,6 @@ export default {
     },
     methods: {
         localize,
+        getFontColour,
     },
 };
