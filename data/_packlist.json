@@ -312,6 +312,17 @@
             "sonic_wave_infinity"
         ],
         "colour": "#ff0000"
+    },
+    {
+        "name": "LIMBO",
+        "levels": [
+            "limbo",
+            "limbo",
+            "limbo",
+            "limbo",
+            "limbo"
+        ],
+        "colour": "#ff0000"
     }
 
 ]
