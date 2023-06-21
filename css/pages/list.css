@@ -126,3 +126,11 @@
 .page-list .meta .editors li a:hover {
     text-decoration: underline;
 }
+.tag {
+    font-family: "Lexend Deca", sans-serif;
+    display:block;
+    border-radius: 14px;
+    color: white;
+    background-color: #5d5d5d;
+    padding: 7px;
+}

@@ -14,15 +14,15 @@
         <link rel="stylesheet" type="text/css" href="/css/reset.css" />
         <link rel="stylesheet" type="text/css" href="/css/typography.css" />
         <link rel="stylesheet" type="text/css" href="/css/main.css" />
+
         <link rel="stylesheet" type="text/css" href="/css/pages/list.css" />
-        <link
-            rel="stylesheet"
-            type="text/css"
-            href="/css/pages/leaderboard.css"
-        />
+        <link rel="stylesheet" type="text/css" href="/css/pages/leaderboard.css"/>
         <link rel="stylesheet" type="text/css" href="/css/pages/roulette.css" />
+        <link rel="stylesheet" type="text/css" href="/css/pages/listpacks.css" />
+
         <link rel="stylesheet" type="text/css" href="/css/components/nav.css" />
         <link rel="stylesheet" type="text/css" href="/css/components/btn.css" />
+        <link rel="stylesheet" type="text/css" href="/css/components/tags.css" />
         <script src="https://unpkg.com/vue@3.2.31/dist/vue.global.js"></script>
         <script src="https://unpkg.com/vue-router@4.0.14/dist/vue-router.global.prod.js"></script>
         <script type="module" src="/js/main.js"></script>
@@ -43,6 +43,9 @@
                 <router-link class="nav__tab" to="/roulette">
                     <span class="type-label-lg">Roulette</span>
                 </router-link>
+                <router-link class="nav__tab" to="/list-packs">
+                    <span class="type-label-lg">Packs</span>
+                </router-link>
                 <div class="nav__actions">
                     <button
                         class="nav__icon"
@@ -60,7 +63,7 @@
                         class="nav__cta type-label-lg"
                         href="https://forms.gle/T9XwQaiwo1wYKu256"
                         target="_blank"
-                        >Submit Record</a 
+                        >Submit Record</a
                     >
                 </div>
             </nav>

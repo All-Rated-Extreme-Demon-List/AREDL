@@ -1,5 +1,5 @@
 import { store } from '../main.js';
-import { embed } from '../util.js';
+import { embed, getFontColour } from '../util.js';
 import { score } from '../score.js';
 import { fetchEditors, fetchList } from '../content.js';
 
@@ -34,12 +34,15 @@ export default {
                             </button>
                         </td>
                     </tr>
-                </div>
+                </table>
             </div>
             <div class="level-container">
                 <div class="level" v-if="level">
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
+                    <div style="display:flex">
+                        <div v-for="pack in level.packs" class="tag" :style="{background:pack.colour, color:getFontColour(pack.colour)}">{{pack.name}}</div>
+                    </div>
                     <iframe class="video" :src="embed(level.verification)" frameborder="0"></iframe>
                     <ul class="stats">
                         <li>
@@ -96,7 +99,7 @@ export default {
                                 <p v-else>{{ editor.name }}</p>
                             </li>
                         </ol>
-                    </template>               
+                    </template>
                     <p>
                         WARNING: Records will take a while after the <a href="https://www.youtube.com/watch?v=Pr5uMhDn_8U" target="_blank">AeonAir Video</a>, please refer to the information below
                     </p>
@@ -206,14 +209,13 @@ export default {
         },
     },
     async mounted() {
-        // Hide loading spinner
         this.list = await fetchList();
         this.editors = await fetchEditors();
 
         // Error handling
         if (!this.list) {
             this.errors = [
-                'Failed to load list. Retry in a few minutes or notify list staff.',
+                "Failed to load list. Retry in a few minutes or notify list staff.",
             ];
         } else {
             this.errors.push(
@@ -221,17 +223,19 @@ export default {
                     .filter(([_, err]) => err)
                     .map(([_, err]) => {
                         return `Failed to load level. (${err}.json)`;
-                    }),
+                    })
             );
             if (!this.editors) {
-                this.errors.push('Failed to load list editors.');
+                this.errors.push("Failed to load list editors.");
             }
         }
 
+        // Hide loading spinner
         this.loading = false;
     },
     methods: {
         embed,
         score,
+        getFontColour
     },
 };
