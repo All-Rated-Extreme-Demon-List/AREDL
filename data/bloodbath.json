@@ -801,9 +801,27 @@
             "percent": 100,
             "hz": 360
 },
-{
+        {
             "user": "LuigiDB",
             "link": "https://www.youtube.com/watch?v=5menBnlA9VE",
+            "percent": 100,
+            "hz": 144
+},
+        {
+            "user": "DeltaPhantom1",
+            "link": "https://youtu.be/hb1clr5_jew",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "MarutiGD",
+            "link": "https://www.youtube.com/watch?v=YeaRjlXmmRo",
+            "percent": 100,
+            "hz": 144
+},
+        {
+            "user": "Gap2003",
+            "link": "https://www.youtube.com/watch?v=cEnAYcmvRQ8",
             "percent": 100,
             "hz": 144
 }

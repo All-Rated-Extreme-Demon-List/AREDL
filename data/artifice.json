@@ -139,11 +139,17 @@
             "percent": 100,
             "hz": 240
 },
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=G7DRYIkMBjM",
-    "percent": 100,
-    "hz": 144
+        {
+            "user": "LuigiDB",
+            "link": "https://www.youtube.com/watch?v=G7DRYIkMBjM",
+            "percent": 100,
+            "hz": 144
+},
+        {
+            "user": "MarutiGD",
+            "link": "https://www.youtube.com/watch?v=DhpFX-hGE_A",
+            "percent": 100,
+            "hz": 144
 }
     ]
 }

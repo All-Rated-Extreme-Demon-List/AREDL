@@ -500,11 +500,17 @@
             "percent": 100,
             "hz": 240
 },
-{
-            "user": "SlightliFizzi",
-            "link": "https://youtu.be/_SJCrk8PrHk",
+        {
+                    "user": "SlightliFizzi",
+                    "link": "https://youtu.be/_SJCrk8PrHk",
+                    "percent": 100,
+                    "hz": 300
+},
+        {
+            "user": "MarutiGD",
+            "link": "https://www.youtube.com/watch?v=S1SSRe1kd4A",
             "percent": 100,
-            "hz": 300
+            "hz": 144
 }
     ]
 }

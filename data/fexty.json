@@ -92,11 +92,17 @@
             "percent": 100,
             "hz": 360
 },
-{
+        {
             "user": "LuigiDB",
             "link": "https://www.youtube.com/watch?v=_Et6jxw6ais",
             "percent": 100,
             "hz": 144
+},
+        {
+            "user": "DeltaPhantom1",
+            "link": "https://youtu.be/LH7str4K8Cw",
+            "percent": 100,
+            "hz": 240
 }
     ]
 }

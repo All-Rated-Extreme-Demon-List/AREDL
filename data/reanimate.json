@@ -56,11 +56,17 @@
             "percent": 100,
             "hz": 240
 },
-{
-    "user": "Simolater",
-    "link": "https://www.youtube.com/watch?v=WasOu76a7VA",
-    "percent": 100,
-    "hz": 360
+        {
+            "user": "Simolater",
+            "link": "https://www.youtube.com/watch?v=WasOu76a7VA",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Gap2003",
+            "link": "https://www.youtube.com/watch?v=QVen_ESdpcY",
+            "percent": 100,
+            "hz": 144
 }
     ]
 }

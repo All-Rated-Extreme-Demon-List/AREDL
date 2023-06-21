@@ -193,17 +193,23 @@
             "percent": 100,
             "hz": 288
 },
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=gCzAkSoAKVI",
-    "percent": 100,
-    "hz": 144
+        {
+            "user": "LuigiDB",
+            "link": "https://www.youtube.com/watch?v=gCzAkSoAKVI",
+            "percent": 100,
+            "hz": 144
 },
         {
             "user": "NexoProTC",
             "link": "https://youtu.be/VdMyA1k7cNw",
             "percent": 100,
             "hz": 240
+},
+        {
+            "user": "Gap2003",
+            "link": "https://www.youtube.com/watch?v=FNwhubh0eOY",
+            "percent": 100,
+            "hz": 144
 }
     ]
 }
