@@ -1,6 +1,5 @@
-# Note
+# Disclaimer
 
 ```
-This features unreleased and possibly broken features.
+I do not own nor is this associated with TSL
 ```
-
