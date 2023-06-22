@@ -93,10 +93,16 @@
             "hz": 360
 },
 {
-            "user": "LuigiDb",
+            "user": "LuigiDB",
             "link": "https://www.youtube.com/watch?v=kJfeyWzt7ro",
             "percent": 100,
             "hz": 144
+},
+{
+    "user": "ViperVenom95",
+    "link": "https://www.youtube.com/watch?v=3fR3e8XJFXw&ab_channel=ViperVenom95",
+    "percent": 100,
+    "hz": 60
 }
     ]
 }
