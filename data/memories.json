@@ -6,5 +6,12 @@
     "verifier": "Dan2D",
     "verification": "https://www.youtube.com/watch?v=oRZFFr9xGRI",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "piesy",
+            "link": "https://www.youtube.com/watch?v=2AGpXv8pzsw",
+            "percent": 100,
+            "hz": 240
+}
+    ]
 }
