@@ -72,6 +72,23 @@
     align-items: center;
     gap: 1rem;
 }
+.page-list .level-container .level .packs {
+    display: flex;
+    gap: 0.4em;
+    overflow-x: auto;
+    overflow-y: hidden;
+    width: 100%;
+}
+.page-list .level-container .level .packs > div {
+    height: 100%;
+    display: flex;
+    gap: 0.4em;
+}
+.page-list .level-container .level .packs .tag {
+    height: 100%;
+    display: flex;
+    flex-shrink: 0;
+}
 .page-list .level-container .level .records {
     table-layout: fixed;
 }
