@@ -2,13 +2,19 @@
     "id": 72941895,
     "name": "APEX",
     "author": "StarkyTheSalad",
-    "creators": [],
-    "verifier": "Exerity",
-    "verification": "https://www.youtube.com/watch?v=4qYv8l3i31k&pp=ygUPYXBleCBnZCBleGVyaXR5",
+    "creators": ["StarkyTheSalad, para, Marwec"],
+    "verifier": "Viewsonic",
+    "verification": "https://youtu.be/IQ6vsMiCCxc",
     "percentToQualify": 100,
     "password": "62404",
     "records": [
-    {
+        {
+            "user": "Exerity",
+            "link": "https://www.youtube.com/watch?v=4qYv8l3i31k&pp=ygUPYXBleCBnZCBleGVyaXR5",
+            "percent": 100,
+            "hz": 144
+},
+        {
             "user": "MasterOfDonkeys",
             "link": "https://youtu.be/XthN_nCg_fo",
             "percent": 100,
