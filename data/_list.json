@@ -412,6 +412,7 @@
     "mirage",
     "sigma_interface",
     "extinction",
+    "circuit_breaker",
     "esencia",
     "overtime",
     "wavebreaker",
