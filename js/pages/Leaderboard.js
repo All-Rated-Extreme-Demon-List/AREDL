@@ -47,10 +47,8 @@ export default {
                         <h3>{{ entry.total }} points</h3>
                         <p>Packs Bonus: {{ entry.packBonus }} points</p>
                         <div class="packs" v-if="entry.packs.length > 0">
-                            <div>
-                                <div v-for="pack in entry.packs" class="tag" :style="{background:pack.colour, color:getFontColour(pack.colour)}">
-                                    {{pack.name}}
-                                </div>
+                            <div v-for="pack in entry.packs" class="tag" :style="{background:pack.colour, color:getFontColour(pack.colour)}">
+                                {{pack.name}}
                             </div>
                         </div>
                         <h2 v-if="entry.verified.length > 0">Verified ({{ entry.verified.length}})</h2>

@@ -41,10 +41,8 @@ export default {
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
                     <div class="packs" v-if="level.packs.length > 0">
-                        <div>
-                            <div v-for="pack in level.packs" class="tag" :style="{background:pack.colour, color:getFontColour(pack.colour)}">
-                                {{pack.name}}
-                            </div>
+                        <div v-for="pack in level.packs" class="tag" :style="{background:pack.colour, color:getFontColour(pack.colour)}">
+                            {{pack.name}}
                         </div>
                     </div>
                     <iframe class="video" :src="embed(level.verification)" frameborder="0"></iframe>
@@ -95,26 +93,25 @@ export default {
                         <p class="type-label-md">Original List by <a href="https://tsl.pages.dev/#/" target="_blank">TheShittyList</a></p>
                     </div>
                     <template v-if="editors">
-                        <h3>List Editors</h3>
+                        <h3 align="center">List Editors</h3>
                         <ol class="editors">
-                            <li v-for="editor in editors">
-                                <img :src="\`/assets/\${roleIconMap[editor.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
-                                <a v-if="editor.link" class="type-label-lg link" target="_blank" :href="editor.link">{{ editor.name }}</a>
-                                <p v-else>{{ editor.name }}</p>
-                            </li>
+                            <ol class="rank" v-for="rank in editors">
+                                <li v-for="member in rank.members">
+                                    <img :src="\`/assets/\${roleIconMap[rank.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="rank.role">
+                                    <a v-if="member.link" class="type-label-lg link" target="_blank" :href="member.link">{{ member.name }}</a>
+                                    <p v-else>{{ member.name }}</p>
+                                </li>
+                            </ol>
                         </ol>
                     </template>
-                    <p>
-                        WARNING: Records will take a while after the <a href="https://www.youtube.com/watch?v=Pr5uMhDn_8U" target="_blank">AeonAir Video</a>, please refer to the information below
-                    </p>
-                    <h3>How to Submit Records</h3>
+                    <h3>> How to Submit Records</h3>
                     <p>
                         Join the discord, and  use /record submit
                     </p>
                     <p>
                         If your records hasn't accepted or denied after 1 week of submitting it, please resubmit the record again
                     </p>
-                    <h3>Why was my record denied?</h3>
+                    <h3>> Why was my record denied?</h3>
                     <p>
                         If you're record was denied, please check the following
                     </p>
@@ -136,7 +133,7 @@ export default {
                     <p>
                         If the record was wrongfully denied, please make a post in #support or DM SkeletalVirus#9604 on Discord
                     </p>
-                    <h3>Submission Requirements</h3>
+                    <h3>> Submission Requirements</h3>
                     <p>
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
                     </p>
@@ -156,7 +153,7 @@ export default {
                         Do not use Banned Hacks (<a href="https://docs.google.com/document/d/1AsQS0WH_OzPAzS7avtAB4e8rnYhoqWnFsV068Tcu5VU/edit?usp=sharing" target="_blank">Full List of Allowed / Banned hacks listed here</a>)
                     </p>
                      <p>
-                       <h3>Allowed Hacks / Modifications</h3>
+                       <h3>> Allowed Hacks / Modifications</h3>
                     </p>
                     <p>
                        - LDMs / ULDMs
@@ -171,7 +168,7 @@ export default {
                        - Speedhack above x1 Speed
                     </p>
                     <p>
-                       <h3>Banned Hacks</h3>
+                       <h3>> Banned Hacks</h3>
                     </p>
                     <p>
                        - Noclip

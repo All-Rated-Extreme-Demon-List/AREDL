@@ -88,18 +88,10 @@
 
 .page-leaderboard .player .packs {
     display: flex;
-    gap: 0.4em;
-    overflow-x: auto;
-    overflow-y: hidden;
-    width: 100%;
-}
-.page-leaderboard .player .packs > div {
-    height: 100%;
-    display: flex;
+    flex-wrap: wrap;
     gap: 0.4em;
 }
 .page-leaderboard .player .packs .tag {
-    height: 100%;
     display: flex;
     flex-shrink: 0;
 }
