@@ -231,18 +231,24 @@
             "percent": 100,
             "hz": 144
 },
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=BNMid6GZl9E&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 360
+        {
+            "user": "ViperVenom95",
+            "link": "https://www.youtube.com/watch?v=BNMid6GZl9E&ab_channel=ViperVenom95",
+            "percent": 100,
+            "hz": 360
 },
-{
+        {
             "user": "Bonezizdum",
             "link": "https://youtu.be/34KPXR5vDcU",
             "percent": 100,
             "hz": 60,
             "mobile": true
+},
+        {
+            "user": "SeanyBoy33",
+            "link": "https://youtu.be/wrSisqFDwTQ",
+            "percent": 100,
+            "hz": 60
 }
     ]
 }

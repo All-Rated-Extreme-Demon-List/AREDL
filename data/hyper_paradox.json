@@ -68,11 +68,17 @@
             "percent": 100,
             "hz": 240
 },
-{
-    "user": "Meep",
-    "link": "https://youtu.be/XmbitAHpJYk",
-    "percent": 100,
-    "hz": 360
+        {
+            "user": "Meep",
+            "link": "https://youtu.be/XmbitAHpJYk",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "couropsnov",
+            "link": "https://www.youtube.com/watch?v=wYrQsUtsKjY",
+            "percent": 100,
+            "hz": 360
 }
     ]
 }
