@@ -6,5 +6,12 @@
     "verifier": "efext",
     "verification": "https://youtu.be/zLJ50-WJeus",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Simolater",
+            "link": "https://youtu.be/R7Sh0D7Xvx4?t=10",
+            "percent": 100,
+            "hz": 360
+    }
+    ]
 }
