@@ -517,6 +517,20 @@
     "link": "https://www.youtube.com/watch?v=BEMt55viNvk",
     "percent": 100,
     "hz": 360
+<<<<<<< HEAD
+},
+{
+    "user": "DrakoAK",
+    "link": "https://youtube.com/watch?v=GK6M6qyaWUg&feature=share8",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "endstate",
+    "link": "https://www.youtube.com/watch?v=BEMt55viNvk",
+    "percent": 100,
+    "hz": 360
+=======
 },
 {
     "user": "Outense",
@@ -535,6 +549,7 @@
     "link": "https://youtu.be/jSxJifbi0g0",
     "percent": 100,
     "hz": 144
+
 }
-    ]
+         ]
 }
