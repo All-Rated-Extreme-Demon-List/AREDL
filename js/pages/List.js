@@ -131,7 +131,7 @@ export default {
                         Note: The record will say its been denied and the reason in #records, if it isn't accepted or denied after a week, the record will need to resubmitted
                     </p>
                     <p>
-                        If the record was wrongfully denied, please make a post in #support or DM SkeletalVirus#9604 on Discord
+                        If the record was wrongfully denied, please make a post in #support or DM any list staff on Discord
                     </p>
                     <h3>> Submission Requirements</h3>
                     <p>
