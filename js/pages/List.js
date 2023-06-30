@@ -119,7 +119,7 @@ export default {
                         Does the video follow the requirements? (Below)
                     </p>
                     <p>
-                        Is the level placed on the list? (#pending-placements)
+                        Is the level placed on the list? (#pending-changes)
                     </p>
                     <p>
                         Was the submission command filled out correctly?
