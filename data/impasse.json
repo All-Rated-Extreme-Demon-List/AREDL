@@ -6,5 +6,12 @@
     "verifier": "FlipR",
     "verification": "https://youtu.be/QeXQ7xsuXWA",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "HotNooB",
+            "link": "https://youtu.be/GXrN_0fD1GE",
+            "percent": 100,
+            "hz": 360
+    }
+    ]
 }
