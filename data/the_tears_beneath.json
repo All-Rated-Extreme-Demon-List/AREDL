@@ -6,5 +6,19 @@
     "verifier": "IFFFFFFFFFFFF",
     "verification": "https://youtu.be/-C0fct7Jc6Y",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Bonezizdum",
+            "link": "https://youtu.be/u8UJDt7Dyz0",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+    },
+            {
+                "user": "Shrixy",
+                "link": "https://youtu.be/IbT3TDIdrHo",
+                "percent": 100,
+                "hz": 288
+    }
+    ]
 }
