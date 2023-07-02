@@ -113,7 +113,7 @@ export default {
                     </p>
                     <h3>> Why was my record denied?</h3>
                     <p>
-                        If you're record was denied, please check the following
+                        If your record was denied, please check the following
                     </p>
                     <p>
                         Does the video follow the requirements? (Below)
