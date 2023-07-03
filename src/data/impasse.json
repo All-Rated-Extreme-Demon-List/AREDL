@@ -1,0 +1,23 @@
+{
+    "id": 70211427,
+    "name": "Impasse",
+    "author": "henryDS",
+    "creators": ["BoomBlox, Isane, burgz, Cersia, henryDS, Nezopi, GrenadeofTacos, Brighty, Jamby, TheLasaga, Kyder"],
+    "verifier": "FlipR",
+    "verification": "https://youtu.be/QeXQ7xsuXWA",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "HotNooB",
+            "link": "https://youtu.be/GXrN_0fD1GE",
+            "percent": 100,
+            "hz": 360
+    },
+    {
+        "user": "lunaa",
+        "link": "https://youtu.be/TrIIeeB23no",
+        "percent": 100,
+        "hz": 240
+}
+    ]
+}
