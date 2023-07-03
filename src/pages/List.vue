@@ -38,8 +38,10 @@ onMounted(async () => {
 	} else {
 		errors.value.push(
 			...list.value
-				.filter((err) => err)
-				.map((err) => {
+				// eslint-disable-next-line no-unused-vars
+				.filter(([_, err]) => err)
+				// eslint-disable-next-line no-unused-vars
+				.map(([_, err]) => {
 					return `Failed to load level. (${err}.json)`;
 				}),
 		);

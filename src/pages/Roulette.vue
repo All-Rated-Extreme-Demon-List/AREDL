@@ -53,7 +53,8 @@ const onStart = async () => {
 
 	const fullList = await fetchList();
 
-	if (fullList.filter((err) => err).length > 0) {
+	// eslint-disable-next-line no-unused-vars
+	if (fullList.filter(([_, err]) => err).length > 0) {
 		loading.value = false;
 		showToast.value(
 			"List is currently broken. Wait until it's fixed to start a roulette.",
@@ -61,7 +62,8 @@ const onStart = async () => {
 		return;
 	}
 
-	const fullListMapped = fullList.map((lvl, i) => ({
+	// eslint-disable-next-line no-unused-vars
+	const fullListMapped = fullList.map(([lvl, _], i) => ({
 		rank: i + 1,
 		id: lvl.id,
 		name: lvl.name,
