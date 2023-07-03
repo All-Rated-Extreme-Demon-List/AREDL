@@ -1,0 +1,12 @@
+{
+	"trailingComma": "all",
+	"useTabs": true,
+	"overrides": [
+		{
+			"files": "*.html",
+			"options": {
+				"parser": "html"
+			}
+		}
+	]
+}

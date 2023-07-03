@@ -1,0 +1,30 @@
+{
+    "id": 89201076,
+    "name": "Dismal Duststorm",
+    "author": "Multiverse55",
+    "creators": ["Multiverse55"],
+    "verifier": "Multiverse55",
+    "verification": "https://www.youtube.com/watch?v=l-hYBdrM0bc&t=19s",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "BreadGuyGD",
+            "link": "https://www.youtube.com/watch?v=7Z2m0A6RXS8",
+            "percent": 100,
+            "hz": 240
+    },
+    {
+        "user": "HotNooB",
+        "link": "https://youtu.be/jF7LLOdhuxA",
+        "percent": 100,
+        "hz": 360
+},
+{
+    "user": "JDemoX",
+    "link": "https://www.youtube.com/watch?v=jtvD1j3cu1E",
+    "percent": 100,
+    "hz": 144
+}
+    ]
+
+}

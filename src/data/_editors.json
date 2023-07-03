@@ -1,0 +1,139 @@
+[
+    {
+        "role": "owner",
+        "members": [
+            {
+                "name": "SkeletalVirus",
+                "link": "https://www.youtube.com/channel/UCVifLeNLVQe3mYwRW1IiNnA"
+            }
+        ]
+    },
+    {
+        "role": "admin",
+        "members": [
+            {
+                "name": "SEDTHEPRODIGY",
+                "link": "https://www.youtube.com/channel/UCDp8z5-vtUg8QJdDM5Yh-tg"
+            },
+            {
+                "name": "Robaleg9",
+                "link": "https://youtube.com/@Robaleg9"
+            },
+            {
+                "name": "Willow",
+                "link": "link goes here"
+            },
+            {
+                "name": "YraX",
+                "link": "link goes here"
+            }
+        ]
+    },
+    {
+        "role": "trial",
+        "members": [
+            {
+                "name": "Bobbyp02",
+                "link": "link goes here"
+            },
+            {
+                "name": "Chubby9000",
+                "link": "link goes here"
+            },
+            {
+                "name": "Flörian",
+                "link": "link goes here"
+            },
+            {
+                "name": "iiLogan",
+                "link": "https://www.youtube.com/@iiLogan"
+            },
+            {
+                "name": "Meep",
+                "link": "https://www.youtube.com/channel/UC3yoBkqkM0lw5a0llt69LxA"
+            },
+            {
+                "name": "Megu",
+                "link": "https://www.youtube.com/channel/UC0wJXER96_HVFXo2IT1fmHQ"
+            },
+            {
+                "name": "TheyCallMeEvan",
+                "link": "https://www.youtube.com/@Padahk"
+            },
+            {
+                "name": "faulheitsmensch",
+                "link": "https://www.youtube.com/@faulheitsmensch6537"
+            }
+        ]
+    },
+    {
+        "role": "helper",
+        "members": [
+            {
+                "name": "Alex_",
+                "link": "link goes here"
+            },
+            {
+                "name": "lunaa",
+                "link": "link goes here"
+            },
+            {
+                "name": "Denni",
+                "link": "https://www.youtube.com/channel/UCLSGb-2eIv4CnSUKT5QseNw"
+            },
+            {
+                "name": "Grilled",
+                "link": "link goes here"
+            },
+            {
+                "name": "GYT",
+                "link": "https://www.youtube.com/channel/UCK7D8s2I-VXMnDP5z82qjcQ"
+            },
+            {
+                "name": "NCK",
+                "link": "link goes here"
+            },
+            {
+                "name": "NUwUxuz",
+                "link": "link goes here"
+            },
+            {
+                "name": "Potato",
+                "link": "link goes here"
+            },
+            {
+                "name": "Shadow",
+                "link": "link goes here"
+            },
+            {
+                "name": "Wolvyy",
+                "link": "link goes here"
+            },
+            {
+                "name": "zoidy",
+                "link": "link goes here"
+            },
+            {
+                "name": "Padahk",
+                "link": "link goes here"
+            },
+            {
+                "name": "asmallsock",
+                "link": "https://www.youtube.com/channel/UCAgeGug7v1tFw__iVyLDr6Q"
+            }
+        ]
+    },
+    {
+        "role": "dev",
+        "members": [
+            {
+                "name": "Prometheus",
+                "link": "https://www.youtube.com/c/PrometheusAlt"
+            },
+            {
+                "name": "KrisGra",
+                "link": "https://youtube.com/@krisgra"
+            }
+        ]
+    }
+]
