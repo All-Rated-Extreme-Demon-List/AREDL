@@ -6,5 +6,12 @@
     "verifier": "schemanick",
     "verification": "https://youtu.be/cNwM5dUOe-w",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+        "user": "JustXSoos",
+        "link": "https://www.youtube.com/watch?v=ivja771vpb0",
+        "percent": 100,
+        "hz": 360
+}
+    ]
 }
