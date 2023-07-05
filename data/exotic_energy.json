@@ -32,10 +32,17 @@
             "hz": 360
 },
         {
-        "user": "HotNooB",
-        "link": "https://youtu.be/Q3iHgrJ4eyw",
-        "percent": 100,
-        "hz": 288
+            "user": "HotNooB",
+            "link": "https://youtu.be/Q3iHgrJ4eyw",
+            "percent": 100,
+            "hz": 288
+},
+        {
+            "user": "WhiteEmerald",
+            "link": "https://www.youtube.com/watch?v=qJ_Zok-eeYU",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
 }
     ]
 }

@@ -20,11 +20,18 @@
             "percent": 100,
             "hz": 360
 },
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/9MjU2rUiFUQ",
-    "percent": 100,
-    "hz": 240
+        {
+            "user": "lunaa",
+            "link": "https://youtu.be/9MjU2rUiFUQ",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "WhiteEmerald",
+            "link": "https://www.youtube.com/watch?v=mFwLl-sZ9kI",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
 }
     ]
 }

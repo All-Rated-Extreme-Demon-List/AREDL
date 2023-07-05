@@ -26,11 +26,18 @@
             "percent": 100,
             "hz": 300
 },
-{
-    "user": "NiceCrunchy",
-    "link": "https://www.youtube.com/watch?v=Ko-lUAJY3FY",
-    "percent": 100,
-    "hz": 360
+        {
+            "user": "NiceCrunchy",
+            "link": "https://www.youtube.com/watch?v=Ko-lUAJY3FY",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "WhiteEmerald",
+            "link": "https://www.youtube.com/watch?v=MfpPBMKKbbw",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
 }
     ]
 }
