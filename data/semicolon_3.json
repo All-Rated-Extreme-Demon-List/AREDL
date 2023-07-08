@@ -13,11 +13,18 @@
         "percent": 100,
         "hz": 360
 },
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/4WRtasBuPuE",
-    "percent": 100,
-    "hz": 360
+        {
+            "user": "HotNooB",
+            "link": "https://youtu.be/4WRtasBuPuE",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "SeaWolfMikes",
+            "link": "https://youtu.be/7AV7a9tyQQo",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
 }
     ]
 }
