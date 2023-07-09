@@ -6,5 +6,12 @@
     "verifier": "Noxiom",
     "verification": "https://youtu.be/j8gEngrc1bg",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "HotNooB",
+            "link": "https://youtu.be/isqKjIW9Kpg",
+            "percent": 100,
+            "hz": 360
+    }
+    ]
 }
