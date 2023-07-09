@@ -106,7 +106,7 @@ export default {
                     </template>
                     <h3>> How to Submit Records</h3>
                     <p>
-                        Join the discord, and  use /submit record
+                        Join the discord, and  use /record submit
                     </p>
                     <p>
                         If your records hasn't accepted or denied after 1 week of submitting it, please resubmit the record again
