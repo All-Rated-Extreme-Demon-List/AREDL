@@ -1,96 +1,96 @@
 {
-    "id": 59539361,
-    "name": "Eternal Moment",
-    "author": "Rainstorm",
-    "creators": ["Rainstorm","iEstia","TheCdPre","ZelLink"],
-    "verifier": "nSwish",
-    "verification": "https://www.youtube.com/watch?v=UxDCnBvZq3Q",
-    "percentToQualify": 100,
-    "password": "086400",
-    "records": [
-{
-            "user": "Trees",
-            "link": "https://www.youtube.com/watch?v=C6EmLcIaVXI&t=2s&ab_channel=Trees",
-            "percent": 100,
-            "hz": 360
-},
-{
-            "user": "iiLogan",
-            "link": "https://youtu.be/Thh18ms7Eyk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/9njiLGpYA1U",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "nei",
-            "link": "https://youtu.be/KrPdpM2F33k",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=w83oKdRD0VI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Fabricorn",
-            "link": "https://youtu.be/mPdsZiJCmmM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/W8mNrOuh-TU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Matter",
-            "link": "https://youtu.be/I8XDwM7_ggU",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/Oe576LtRS8A",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/gBQ4xrQsPwY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/ExTWzvvBtTE",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Ratio",
-            "link": "https://youtu.be/5mkH5SUW-ss",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/YdChGzzCzNM",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "thisisfcp",
-    "link": "https://www.youtube.com/watch?v=X9G-fUfgvvA",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 59539361,
+	"name": "Eternal Moment",
+	"author": "Rainstorm",
+	"creators": ["Rainstorm", "iEstia", "TheCdPre", "ZelLink"],
+	"verifier": "nSwish",
+	"verification": "https://www.youtube.com/watch?v=UxDCnBvZq3Q",
+	"percentToQualify": 100,
+	"password": "086400",
+	"records": [
+		{
+			"user": "Trees",
+			"link": "https://www.youtube.com/watch?v=C6EmLcIaVXI&t=2s&ab_channel=Trees",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "iiLogan",
+			"link": "https://youtu.be/Thh18ms7Eyk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/9njiLGpYA1U",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "nei",
+			"link": "https://youtu.be/KrPdpM2F33k",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=w83oKdRD0VI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Fabricorn",
+			"link": "https://youtu.be/mPdsZiJCmmM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/W8mNrOuh-TU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/I8XDwM7_ggU",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/Oe576LtRS8A",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/gBQ4xrQsPwY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/ExTWzvvBtTE",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Ratio",
+			"link": "https://youtu.be/5mkH5SUW-ss",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/YdChGzzCzNM",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "thisisfcp",
+			"link": "https://www.youtube.com/watch?v=X9G-fUfgvvA",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

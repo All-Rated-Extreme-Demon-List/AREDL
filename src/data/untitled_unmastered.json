@@ -1,23 +1,23 @@
 {
-    "id": 82217720,
-    "name": "untitled unmastered",
-    "author": "para",
-    "creators": [],
-    "verifier": "vinny",
-    "verification": "https://www.youtube.com/watch?v=zzPsYgyU4n4",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "nei",
-            "link": "https://youtu.be/DjKTjLJvbF0",
-            "percent": 100,
-            "hz": 360
-    },
-    {
-            "user": "Zoink",
-            "link": "https://youtu.be/gOX-YImeh-U",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+	"id": 82217720,
+	"name": "untitled unmastered",
+	"author": "para",
+	"creators": [],
+	"verifier": "vinny",
+	"verification": "https://www.youtube.com/watch?v=zzPsYgyU4n4",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "nei",
+			"link": "https://youtu.be/DjKTjLJvbF0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/gOX-YImeh-U",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

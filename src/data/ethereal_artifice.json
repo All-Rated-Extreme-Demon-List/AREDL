@@ -1,173 +1,175 @@
 {
-    "id": 58252259,
-    "name": "Ethereal Artifice",
-    "author": "Zeroya",
-    "creators": ["Spectral, Voltex, GDSpeed, Zeroya, Isane, HelpegasuS, Geo, Majkomar, Masu, Platnuu, Enixy, Xaren"],
-    "verifier": "Mycrafted",
-    "verification": "https://www.youtube.com/watch?v=RKbKYcS9aCU",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/iSamnNhn_GU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "taiga",
-            "link": "https://youtu.be/xPJZVGOrBxQ",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "sn0w",
-            "link": "https://youtu.be/_WTIQ3vkKqs",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=kq4r1FDcmrk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "GDNotAnAWPer2K",
-            "link": "https://youtu.be/ZA_pKa6qNew",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "NUwUxuz",
-            "link": "https://www.youtube.com/watch?v=ZdVF6JILui4",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/XX8D0ww6fDY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Didjimon",
-            "link": "https://youtu.be/9WxYXk75cPc",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/8yt971Pogr4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "shinn",
-            "link": "https://www.youtube.com/watch?v=3MbeNjeFzUM",
-            "percent": 100,
-            "hz": 216
-},
-        {
-            "user": "YTkerfuffles",
-            "link": "https://youtu.be/ONP2Li04c3w",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Matter",
-            "link": "https://youtu.be/i926bN4ENZQ",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "chickenborgor",
-            "link": "https://youtu.be/XlTCWYL5C10",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/tcrUC6B1yQo",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "Exomix",
-            "link": "https://www.youtube.com/watch?v=Dbved4QmaFA",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Chacks",
-            "link": "https://www.youtube.com/watch?v=JP0ZKE82G2Y",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Meep",
-            "link": "https://youtu.be/oUhW-CBYKOw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "clncrvl",
-            "link": "https://youtu.be/D9ktW5Dt1cE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "StarXV",
-            "link": "https://youtu.be/cmc-OHZlVLE",
-            "percent": 100,
-            "hz": 180
-},
-        {
-            "user": "DJ1482",
-            "link": "https://youtu.be/eLKULo1QQh4",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=YZ3EIzgYne0",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/VMSprksjOJA",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Gap2003",
-            "link": "https://www.youtube.com/watch?v=NYZkSnJ9DvU",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=Tr9BCp64EBQ&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 288
-},
-{
-            "user": "pcklkng",
-            "link": "https://www.youtube.com/watch?v=r2yMvFHRTco&ab_channel=pcklkng",
-            "percent": 100,
-            "hz": 280
-},
-{
-    "user": "NikVer",
-    "link": "https://youtu.be/SqQvc0RVbTA",
-    "percent": 100,
-    "hz": 360
-    },
-    {
-        "user": "Wyse",
-        "link": "https://youtu.be/2KjRBJiRNWg",
-        "percent": 100,
-        "hz": 240
-}
-    ]
+	"id": 58252259,
+	"name": "Ethereal Artifice",
+	"author": "Zeroya",
+	"creators": [
+		"Spectral, Voltex, GDSpeed, Zeroya, Isane, HelpegasuS, Geo, Majkomar, Masu, Platnuu, Enixy, Xaren"
+	],
+	"verifier": "Mycrafted",
+	"verification": "https://www.youtube.com/watch?v=RKbKYcS9aCU",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/iSamnNhn_GU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "taiga",
+			"link": "https://youtu.be/xPJZVGOrBxQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "sn0w",
+			"link": "https://youtu.be/_WTIQ3vkKqs",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=kq4r1FDcmrk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "GDNotAnAWPer2K",
+			"link": "https://youtu.be/ZA_pKa6qNew",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "NUwUxuz",
+			"link": "https://www.youtube.com/watch?v=ZdVF6JILui4",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/XX8D0ww6fDY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Didjimon",
+			"link": "https://youtu.be/9WxYXk75cPc",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/8yt971Pogr4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "shinn",
+			"link": "https://www.youtube.com/watch?v=3MbeNjeFzUM",
+			"percent": 100,
+			"hz": 216
+		},
+		{
+			"user": "YTkerfuffles",
+			"link": "https://youtu.be/ONP2Li04c3w",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/i926bN4ENZQ",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "chickenborgor",
+			"link": "https://youtu.be/XlTCWYL5C10",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/tcrUC6B1yQo",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "Exomix",
+			"link": "https://www.youtube.com/watch?v=Dbved4QmaFA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Chacks",
+			"link": "https://www.youtube.com/watch?v=JP0ZKE82G2Y",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Meep",
+			"link": "https://youtu.be/oUhW-CBYKOw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "clncrvl",
+			"link": "https://youtu.be/D9ktW5Dt1cE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "StarXV",
+			"link": "https://youtu.be/cmc-OHZlVLE",
+			"percent": 100,
+			"hz": 180
+		},
+		{
+			"user": "DJ1482",
+			"link": "https://youtu.be/eLKULo1QQh4",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=YZ3EIzgYne0",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/VMSprksjOJA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Gap2003",
+			"link": "https://www.youtube.com/watch?v=NYZkSnJ9DvU",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=Tr9BCp64EBQ&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "pcklkng",
+			"link": "https://www.youtube.com/watch?v=r2yMvFHRTco&ab_channel=pcklkng",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "NikVer",
+			"link": "https://youtu.be/SqQvc0RVbTA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/2KjRBJiRNWg",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

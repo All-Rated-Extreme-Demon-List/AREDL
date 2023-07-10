@@ -1,77 +1,79 @@
 {
-    "id": 27908448,
-    "name": "Artificial Ideology",
-    "author": "TeamN2",
-    "creators": ["Koreaqwer, Motu, Cyclic, Zelda, Minus, Miner, RedDragon, KSWgeo, ThorMode, dhk2725, Rabb2t, SatuM"],
-    "verifier": "knobbelboy",
-    "verification": "https://www.youtube.com/watch?v=WRfaroi9PpA",
-    "percentToQualify": 100,
-    "records": [
-{
-            "user": "Trehoeje",
-            "link": "https://youtu.be/th90wu-dZ1M",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "skycrab",
-            "link": "https://www.youtube.com/watch?v=xUFRqsBmo8k",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "YTkerfuffles",
-            "link": "https://youtu.be/rdb0t83fHLo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "SamtheFman",
-            "link": "https://www.youtube.com/watch?v=oEnx6J4lQWo",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "meluwudy",
-            "link": "https://www.youtube.com/watch?v=EY--ndw6X-g",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=aOUwOH7XtMQ",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "DeltaPhantom1",
-            "link": "https://youtu.be/fOAUXpXSHwg",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "GJosh2",
-            "link": "https://www.youtube.com/watch?v=0S1JSkLuZGw",
-            "percent": 100,
-            "hz": 144
-},
-{
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=Ki8ez62dYSE",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Razlan",
-            "link": "https://youtu.be/0babm9hd-qw",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "wadur",
-    "link": "https://youtu.be/zo6V6kga9Vw",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 27908448,
+	"name": "Artificial Ideology",
+	"author": "TeamN2",
+	"creators": [
+		"Koreaqwer, Motu, Cyclic, Zelda, Minus, Miner, RedDragon, KSWgeo, ThorMode, dhk2725, Rabb2t, SatuM"
+	],
+	"verifier": "knobbelboy",
+	"verification": "https://www.youtube.com/watch?v=WRfaroi9PpA",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Trehoeje",
+			"link": "https://youtu.be/th90wu-dZ1M",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "skycrab",
+			"link": "https://www.youtube.com/watch?v=xUFRqsBmo8k",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "YTkerfuffles",
+			"link": "https://youtu.be/rdb0t83fHLo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "SamtheFman",
+			"link": "https://www.youtube.com/watch?v=oEnx6J4lQWo",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "meluwudy",
+			"link": "https://www.youtube.com/watch?v=EY--ndw6X-g",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=aOUwOH7XtMQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DeltaPhantom1",
+			"link": "https://youtu.be/fOAUXpXSHwg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "GJosh2",
+			"link": "https://www.youtube.com/watch?v=0S1JSkLuZGw",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=Ki8ez62dYSE",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Razlan",
+			"link": "https://youtu.be/0babm9hd-qw",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "wadur",
+			"link": "https://youtu.be/zo6V6kga9Vw",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

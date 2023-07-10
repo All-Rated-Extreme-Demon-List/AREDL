@@ -1,35 +1,35 @@
 {
-    "id": 64766514,
-    "name": "Calamity",
-    "author": "Awedsy",
-    "creators": [],
-    "verifier": "Kurumi",
-    "verification": "https://www.youtube.com/watch?v=2u4xxNUtJLI",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Nik14K",
-            "link": "https://youtu.be/h4B6Iwswa2Y",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Magmeta",
-            "link": "https://youtu.be/56-FxrWJgfE",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "BANA1411",
-            "link": "https://youtu.be/6pq_bBay8Bc",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/pMm__Q133_0",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 64766514,
+	"name": "Calamity",
+	"author": "Awedsy",
+	"creators": [],
+	"verifier": "Kurumi",
+	"verification": "https://www.youtube.com/watch?v=2u4xxNUtJLI",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Nik14K",
+			"link": "https://youtu.be/h4B6Iwswa2Y",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Magmeta",
+			"link": "https://youtu.be/56-FxrWJgfE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "BANA1411",
+			"link": "https://youtu.be/6pq_bBay8Bc",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/pMm__Q133_0",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

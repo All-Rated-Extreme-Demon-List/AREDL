@@ -1,24 +1,24 @@
 {
-    "id": 88233955,
-    "name": "DIRECTIONS",
-    "author": "ryli06",
-    "creators": ["ryli06", "Nightning"],
-    "verifier": "SwordBx",
-    "verification": "https://www.youtube.com/watch?v=-SEgSgxpRxo",
-    "percentToQualify": 100,
-    "password": "1534",
-    "records": [
-    {
-            "user": "Zoink",
-            "link": "https://youtu.be/GSuWQU9ESQw",
-            "percent": 100,
-            "hz": 321
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=AGrKnHo15jQ&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 88233955,
+	"name": "DIRECTIONS",
+	"author": "ryli06",
+	"creators": ["ryli06", "Nightning"],
+	"verifier": "SwordBx",
+	"verification": "https://www.youtube.com/watch?v=-SEgSgxpRxo",
+	"percentToQualify": 100,
+	"password": "1534",
+	"records": [
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/GSuWQU9ESQw",
+			"percent": 100,
+			"hz": 321
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=AGrKnHo15jQ&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

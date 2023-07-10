@@ -1,95 +1,95 @@
 {
-    "id": 61997741,
-    "name": "Biohazard",
-    "author": "ARtu",
-    "creators": ["Ka1ns, Artumanka, guleshelt, silver, Andr1x, Maitnary"],
-    "verifier": "ARtu",
-    "verification": "https://www.youtube.com/watch?v=x2JOy3owBU8",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Hasik",
-            "link": "https://youtu.be/Q4ZAsZwApT0",
-            "percent": 100,
-            "hz": 360
-}, 
-        {
-            "user": "BreadGuyGD",
-            "link": "https://www.youtube.com/watch?v=iiu_bJtFFE8",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/a73wN1y6WGI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Wolvyy",
-            "link": "https://www.youtube.com/watch?v=Qk89QVIPcMg&list=PLU1NI3BRQCmo8EEJJV0CYtSUwAcKBPYGp&index=7&pp=gAQBiAQB",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Blitzer",
-            "link": "https://www.youtube.com/watch?v=O5fzPZ6dR50",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/dYLte-ilrPY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Matter",
-            "link": "https://youtu.be/g8OPnMXt45M",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "SamtheFman",
-            "link": "https://www.youtube.com/watch?v=lNzhSBPJrxs",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/jKSNUMB98BU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Jedwint",
-            "link": "https://www.youtube.com/watch?v=gFthM8uVfwI",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "N0ctaXI",
-            "link": "https://www.youtube.com/watch?v=X015i35ZxcY",
-            "percent": 100,
-            "hz": 144
-},
-        {
-    "user": "Davine_007",
-    "link": "https://youtu.be/BEJQxNiq-8U",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/g2n9pNWxAOE",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/Rerl-N1pvuo",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 61997741,
+	"name": "Biohazard",
+	"author": "ARtu",
+	"creators": ["Ka1ns, Artumanka, guleshelt, silver, Andr1x, Maitnary"],
+	"verifier": "ARtu",
+	"verification": "https://www.youtube.com/watch?v=x2JOy3owBU8",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Hasik",
+			"link": "https://youtu.be/Q4ZAsZwApT0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BreadGuyGD",
+			"link": "https://www.youtube.com/watch?v=iiu_bJtFFE8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/a73wN1y6WGI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Wolvyy",
+			"link": "https://www.youtube.com/watch?v=Qk89QVIPcMg&list=PLU1NI3BRQCmo8EEJJV0CYtSUwAcKBPYGp&index=7&pp=gAQBiAQB",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Blitzer",
+			"link": "https://www.youtube.com/watch?v=O5fzPZ6dR50",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/dYLte-ilrPY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/g8OPnMXt45M",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "SamtheFman",
+			"link": "https://www.youtube.com/watch?v=lNzhSBPJrxs",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/jKSNUMB98BU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Jedwint",
+			"link": "https://www.youtube.com/watch?v=gFthM8uVfwI",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "N0ctaXI",
+			"link": "https://www.youtube.com/watch?v=X015i35ZxcY",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Davine_007",
+			"link": "https://youtu.be/BEJQxNiq-8U",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/g2n9pNWxAOE",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/Rerl-N1pvuo",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

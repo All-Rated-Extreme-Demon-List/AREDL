@@ -1,24 +1,24 @@
 {
-    "id": 68323859,
-    "name": "i hate you",
-    "author": "AlrexX",
-    "creators": [],
-    "verifier": "Blitzer",
-    "verification": "https://www.youtube.com/watch?v=2JSaAWJWDPY",
-    "percentToQualify": 100,
-    "password": "189333",
-    "records": [
-    {
-            "user": "meluwudy",
-            "link": "https://www.youtube.com/watch?v=qLX6GqjODJU",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Clara",
-            "link": "https://youtu.be/E25rtkSurJo",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 68323859,
+	"name": "i hate you",
+	"author": "AlrexX",
+	"creators": [],
+	"verifier": "Blitzer",
+	"verification": "https://www.youtube.com/watch?v=2JSaAWJWDPY",
+	"percentToQualify": 100,
+	"password": "189333",
+	"records": [
+		{
+			"user": "meluwudy",
+			"link": "https://www.youtube.com/watch?v=qLX6GqjODJU",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Clara",
+			"link": "https://youtu.be/E25rtkSurJo",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

@@ -1,89 +1,89 @@
 {
-    "id": 79807331,
-    "name": "Cerebral Torment",
-    "author": "SirPotatOwO",
-    "creators": [],
-    "verifier": "SirPotato 32",
-    "verification": "https://www.youtube.com/watch?v=zQ1shKcIfQ8",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "SkeletalVirus",
-            "link": "https://youtu.be/gPxa4WE5ZCo",
-            "percent": 100,
-            "hz": 360
-        },
-{
-            "user": "Zenta",
-            "link": "https://www.youtube.com/watch?v=9JdyFJrOHZo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Shrixy",
-            "link": "https://youtu.be/7u2XJROe57M",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Gecko",
-            "link": "https://youtu.be/gPLc-2y0e8c",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Seic",
-            "link": "https://www.youtube.com/watch?v=zIClGBHGA-E",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MobileBot",
-            "link": "https://youtu.be/vVMr_bKejHo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Wolvyy",
-            "link": "https://www.youtube.com/watch?v=ujgMBZRfsSk&list=PLU1NI3BRQCmo8EEJJV0CYtSUwAcKBPYGp&index=39&pp=gAQBiAQB",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Patrick61804",
-            "link": "https://youtu.be/zKxwMSTlfVk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Alex_",
-            "link": "https://youtu.be/GH4IrpZcpB8",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Enfur",
-            "link": "https://www.youtube.com/watch?v=DBHzpVegFMA",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Lia",
-            "link": "https://www.youtube.com/watch?v=i1IwaYFNoA8",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtube.com/watch?v=4oMa2sln3eU&feature=share7",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/rpv3mlIh2Vg",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 79807331,
+	"name": "Cerebral Torment",
+	"author": "SirPotatOwO",
+	"creators": [],
+	"verifier": "SirPotato 32",
+	"verification": "https://www.youtube.com/watch?v=zQ1shKcIfQ8",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "SkeletalVirus",
+			"link": "https://youtu.be/gPxa4WE5ZCo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Zenta",
+			"link": "https://www.youtube.com/watch?v=9JdyFJrOHZo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Shrixy",
+			"link": "https://youtu.be/7u2XJROe57M",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Gecko",
+			"link": "https://youtu.be/gPLc-2y0e8c",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Seic",
+			"link": "https://www.youtube.com/watch?v=zIClGBHGA-E",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MobileBot",
+			"link": "https://youtu.be/vVMr_bKejHo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Wolvyy",
+			"link": "https://www.youtube.com/watch?v=ujgMBZRfsSk&list=PLU1NI3BRQCmo8EEJJV0CYtSUwAcKBPYGp&index=39&pp=gAQBiAQB",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Patrick61804",
+			"link": "https://youtu.be/zKxwMSTlfVk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Alex_",
+			"link": "https://youtu.be/GH4IrpZcpB8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Enfur",
+			"link": "https://www.youtube.com/watch?v=DBHzpVegFMA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Lia",
+			"link": "https://www.youtube.com/watch?v=i1IwaYFNoA8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtube.com/watch?v=4oMa2sln3eU&feature=share7",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/rpv3mlIh2Vg",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

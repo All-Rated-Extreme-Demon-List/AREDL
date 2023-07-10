@@ -1,47 +1,47 @@
 {
-    "id": 54833498,
-    "name": "Grill Kill",
-    "author": "MikeWheelerFan",
-    "creators": [],
-    "verifier": "Kapinapi",
-    "verification": "https://www.youtube.com/watch?v=kVzmcHGMcpY",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "SlightliFizzi",
-            "link": "https://youtu.be/-QHhtffe6Qs",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Clara",
-            "link": "https://www.youtube.com/watch?v=xf7qG8E-16Y",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=16q0IepmoEE",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "LocNil",
-            "link": "https://www.youtube.com/watch?v=BiPuXcXxy7Y",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/8HTd9hsTY5w",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/X7yRP9rOmtQ",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 54833498,
+	"name": "Grill Kill",
+	"author": "MikeWheelerFan",
+	"creators": [],
+	"verifier": "Kapinapi",
+	"verification": "https://www.youtube.com/watch?v=kVzmcHGMcpY",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "SlightliFizzi",
+			"link": "https://youtu.be/-QHhtffe6Qs",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Clara",
+			"link": "https://www.youtube.com/watch?v=xf7qG8E-16Y",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=16q0IepmoEE",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "LocNil",
+			"link": "https://www.youtube.com/watch?v=BiPuXcXxy7Y",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/8HTd9hsTY5w",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/X7yRP9rOmtQ",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

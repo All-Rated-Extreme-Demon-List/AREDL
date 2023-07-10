@@ -1,108 +1,110 @@
 {
-    "id": 47237400,
-    "name": "Celestial Force",
-    "author": "MindCap",
-    "creators": ["GaidenHertuny, HelpegasuS, GeometryTom, MrLorenzo, JustBasic, Auntex, Xyriak, MindCap, Soulax, Djoxy, Elayad, Manheadrambo, Stormy97, Hoshikido, Wless, Jihn, Zafkiel"],
-    "verifier": "a n t",
-    "verification": "https://www.youtube.com/watch?v=bW8JOt8s7CI",
-    "percentToQualify": 100,
-    "password": "772002",
-    "records": [
-    {
-            "user": "Bamvie",
-            "link": "https://youtu.be/60jgF62lPF4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Clara",
-            "link": "https://www.youtube.com/watch?v=mgZgfk1F9IQ",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Locked",
-            "link": "https://youtu.be/9V9dcrAOKXY",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Fabricorn",
-            "link": "https://youtu.be/PMa-1OB9skY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "iRaily",
-            "link": "https://youtu.be/By1LLuow1CI",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Matter",
-            "link": "https://youtu.be/flGafZZ1yjE",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/NgabgO0JdlE",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/dFsbJ6Txxvw",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Aleczd",
-            "link": "https://www.youtube.com/watch?v=PEr--GxeSJE&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=18",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Lia",
-            "link": "https://www.youtube.com/watch?v=b78251fm8O8",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Meep",
-            "link": "https://youtu.be/M0-lzjN_O90",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "StarXV",
-            "link": "https://youtu.be/VTwYZbg4F7o",
-            "percent": 100,
-            "hz": 180
-},
-{
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=K8vEZu-AefM",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "WhiteSalmon",
-            "link": "https://youtu.be/RNv9sxllvmA",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=R1-ukn2ads4&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 60
-},
-{
-            "user": "Fizzy",
-            "link": "https://www.youtube.com/watch?v=-sOXOeOnDHw&t=133s",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 47237400,
+	"name": "Celestial Force",
+	"author": "MindCap",
+	"creators": [
+		"GaidenHertuny, HelpegasuS, GeometryTom, MrLorenzo, JustBasic, Auntex, Xyriak, MindCap, Soulax, Djoxy, Elayad, Manheadrambo, Stormy97, Hoshikido, Wless, Jihn, Zafkiel"
+	],
+	"verifier": "a n t",
+	"verification": "https://www.youtube.com/watch?v=bW8JOt8s7CI",
+	"percentToQualify": 100,
+	"password": "772002",
+	"records": [
+		{
+			"user": "Bamvie",
+			"link": "https://youtu.be/60jgF62lPF4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Clara",
+			"link": "https://www.youtube.com/watch?v=mgZgfk1F9IQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Locked",
+			"link": "https://youtu.be/9V9dcrAOKXY",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Fabricorn",
+			"link": "https://youtu.be/PMa-1OB9skY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "iRaily",
+			"link": "https://youtu.be/By1LLuow1CI",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/flGafZZ1yjE",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/NgabgO0JdlE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/dFsbJ6Txxvw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Aleczd",
+			"link": "https://www.youtube.com/watch?v=PEr--GxeSJE&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=18",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Lia",
+			"link": "https://www.youtube.com/watch?v=b78251fm8O8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Meep",
+			"link": "https://youtu.be/M0-lzjN_O90",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "StarXV",
+			"link": "https://youtu.be/VTwYZbg4F7o",
+			"percent": 100,
+			"hz": 180
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=K8vEZu-AefM",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "WhiteSalmon",
+			"link": "https://youtu.be/RNv9sxllvmA",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=R1-ukn2ads4&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Fizzy",
+			"link": "https://www.youtube.com/watch?v=-sOXOeOnDHw&t=133s",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

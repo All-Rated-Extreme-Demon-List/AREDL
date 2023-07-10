@@ -1,24 +1,24 @@
 {
-    "id": 81429222,
-    "name": "Raisins",
-    "author": "Airzyy",
-    "creators": [],
-    "verifier": "5shine",
-    "verification": "https://www.youtube.com/watch?v=c3-ee3fTVtA",
-    "percentToQualify": 100,
-    "password": "555555",
-    "records": [
-    {
-            "user": "nei",
-            "link": "https://youtu.be/Esi3C5GnPqA",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BrowarKedawar",
-            "link": "https://youtu.be/anHJ3PpJQ00",
-            "percent": 100,
-            "hz": 240
-}
-    ]
+	"id": 81429222,
+	"name": "Raisins",
+	"author": "Airzyy",
+	"creators": [],
+	"verifier": "5shine",
+	"verification": "https://www.youtube.com/watch?v=c3-ee3fTVtA",
+	"percentToQualify": 100,
+	"password": "555555",
+	"records": [
+		{
+			"user": "nei",
+			"link": "https://youtu.be/Esi3C5GnPqA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BrowarKedawar",
+			"link": "https://youtu.be/anHJ3PpJQ00",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

@@ -1,48 +1,48 @@
 {
-    "id": 38765979,
-    "name": "Mujigae",
-    "author": "YGYoshi",
-    "creators": [],
-    "verifier": "Hotball1",
-    "verification": "https://www.youtube.com/watch?v=H2-uD1jNZCw",
-    "percentToQualify": 100,
-    "password": "758942",
-    "records": [
-    {
-            "user": "Fruitsalad",
-            "link": "https://www.youtube.com/watch?v=6tKAJHgfW3Y",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=zzYsRqIkdRo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/lr88AMtJVII",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/W47ba4cseTg",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Detrezo",
-            "link": "https://www.youtube.com/watch?v=OnlQCfsh2pY&ab_channel=Detrezo",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "Meep",
-    "link": "https://youtu.be/LnQqd2BLD0Y",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 38765979,
+	"name": "Mujigae",
+	"author": "YGYoshi",
+	"creators": [],
+	"verifier": "Hotball1",
+	"verification": "https://www.youtube.com/watch?v=H2-uD1jNZCw",
+	"percentToQualify": 100,
+	"password": "758942",
+	"records": [
+		{
+			"user": "Fruitsalad",
+			"link": "https://www.youtube.com/watch?v=6tKAJHgfW3Y",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=zzYsRqIkdRo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/lr88AMtJVII",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/W47ba4cseTg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Detrezo",
+			"link": "https://www.youtube.com/watch?v=OnlQCfsh2pY&ab_channel=Detrezo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Meep",
+			"link": "https://youtu.be/LnQqd2BLD0Y",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

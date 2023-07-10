@@ -1,18 +1,26 @@
 {
-    "id": 27690100,
-    "name": "Slaughterhouse ",
-    "author": "icedcave",
-    "creators": ["Endlevel","icedcave","GD Iris","Brittank88","DrCuber","River","CDMusic"],
-    "verifier": "Doggie",
-    "verification": "https://www.youtube.com/watch?v=kpcF1-QAHQc",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records": [
-    {
-            "user": "Zoink",
-            "link": "https://youtu.be/KaA6csT7Zo8",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 27690100,
+	"name": "Slaughterhouse ",
+	"author": "icedcave",
+	"creators": [
+		"Endlevel",
+		"icedcave",
+		"GD Iris",
+		"Brittank88",
+		"DrCuber",
+		"River",
+		"CDMusic"
+	],
+	"verifier": "Doggie",
+	"verification": "https://www.youtube.com/watch?v=kpcF1-QAHQc",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/KaA6csT7Zo8",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

@@ -1,24 +1,26 @@
 {
-    "id": 90451473,
-    "name": "CHALLUNGA FINALE",
-    "author": "rafabirds",
-    "creators": ["rafabirds, CalaramGD, Vidash, Classic10, Y3llow, Samauka, Nazzer, and FlapGD"],
-    "verifier": "rafabirds",
-    "verification": "https://youtu.be/fFiIamH3Qxs",
-    "percentToQualify": 100,
-    "password": "696969",
-    "records": [
-{
-            "user": "spectryl",
-            "link": "https://youtu.be/aqAozGkIHdc",
-            "percent": 100,
-            "hz": 288
-},
-{
-    "user": "SkeletalVirus",
-    "link": "https://www.youtube.com/watch?v=rcuYO71_fxA&t=77s",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 90451473,
+	"name": "CHALLUNGA FINALE",
+	"author": "rafabirds",
+	"creators": [
+		"rafabirds, CalaramGD, Vidash, Classic10, Y3llow, Samauka, Nazzer, and FlapGD"
+	],
+	"verifier": "rafabirds",
+	"verification": "https://youtu.be/fFiIamH3Qxs",
+	"percentToQualify": 100,
+	"password": "696969",
+	"records": [
+		{
+			"user": "spectryl",
+			"link": "https://youtu.be/aqAozGkIHdc",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "SkeletalVirus",
+			"link": "https://www.youtube.com/watch?v=rcuYO71_fxA&t=77s",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

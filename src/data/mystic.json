@@ -1,30 +1,32 @@
 {
-    "id": 35738539,
-    "name": "Mystic",
-    "author": "Endlevel",
-    "creators": ["Hexhammer, KrmaL, jdfr03, MrSleepy, ZielGD, Megaman9, CreatorForce, Cypher, Igno, Zendayo, Dysfunctional, Endlevel, JonathanGD"],
-    "verifier": "DiamondSplash",
-    "verification": "https://www.youtube.com/watch?v=tl8WTSyvQz8",
-    "percentToQualify": 100,
-    "password": "769874",
-    "records": [
-    {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=T42uZlUudys",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=WGpmOUwGFP4",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/W4QcI1VV3gs",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 35738539,
+	"name": "Mystic",
+	"author": "Endlevel",
+	"creators": [
+		"Hexhammer, KrmaL, jdfr03, MrSleepy, ZielGD, Megaman9, CreatorForce, Cypher, Igno, Zendayo, Dysfunctional, Endlevel, JonathanGD"
+	],
+	"verifier": "DiamondSplash",
+	"verification": "https://www.youtube.com/watch?v=tl8WTSyvQz8",
+	"percentToQualify": 100,
+	"password": "769874",
+	"records": [
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=T42uZlUudys",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=WGpmOUwGFP4",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/W4QcI1VV3gs",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

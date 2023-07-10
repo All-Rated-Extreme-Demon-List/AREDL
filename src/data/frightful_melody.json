@@ -1,72 +1,72 @@
 {
-    "id": 51311699,
-    "name": "Frightful Melody",
-    "author": "RadiationV2",
-    "creators": [],
-    "verifier": "FarzzZinjj",
-    "verification": "https://www.youtube.com/watch?v=nKIaF44YZ_k",
-    "percentToQualify": 100,
-    "password": "544554",
-    "records": [
-    {
-            "user": "Zenta",
-            "link": "https://www.youtube.com/watch?v=ztYOfVHIeFc",
-            "percent": 100,
-            "hz": 360
-    },
-    {
-            "user": "Lia",
-            "link": "https://youtu.be/S9I-Y89GThg",
-            "percent": 100,
-            "hz": 360
-    },
-        {
-            "user": "YTkerfuffles",
-            "link": "https://youtu.be/rrHFT3IxxG8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "SamtheFman",
-            "link": "https://www.youtube.com/watch?v=wFu6z1BzYIg",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Snivestheidot",
-            "link": "https://youtu.be/Z8pWY7UpvjM",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/UoTyMdbBTlk",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=V_Z5NdKt0bI",
-            "percent": 100,
-            "hz": 360
-},
-{
-        "user": "ViperVenom95",
-        "link": "https://www.youtube.com/watch?v=UlE719tW9Zg&ab_channel=ViperVenom95",
-        "percent": 100,
-        "hz": 60
-},
-{
-        "user": "Wyse",
-        "link": "https://youtu.be/aEvcgziReXI",
-        "percent": 100,
-        "hz": 240
-},
-{
-        "user": "HotNooB",
-        "link": "https://youtu.be/IiLTBzPnWfI",
-        "percent": 100,
-        "hz": 288
-}
-   ]
+	"id": 51311699,
+	"name": "Frightful Melody",
+	"author": "RadiationV2",
+	"creators": [],
+	"verifier": "FarzzZinjj",
+	"verification": "https://www.youtube.com/watch?v=nKIaF44YZ_k",
+	"percentToQualify": 100,
+	"password": "544554",
+	"records": [
+		{
+			"user": "Zenta",
+			"link": "https://www.youtube.com/watch?v=ztYOfVHIeFc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/S9I-Y89GThg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "YTkerfuffles",
+			"link": "https://youtu.be/rrHFT3IxxG8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "SamtheFman",
+			"link": "https://www.youtube.com/watch?v=wFu6z1BzYIg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Snivestheidot",
+			"link": "https://youtu.be/Z8pWY7UpvjM",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/UoTyMdbBTlk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=V_Z5NdKt0bI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=UlE719tW9Zg&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/aEvcgziReXI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/IiLTBzPnWfI",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

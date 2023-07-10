@@ -1,29 +1,29 @@
 {
-    "id": 71734488,
-    "name": "Falling Maze",
-    "author": "YoReid",
-    "creators": [],
-    "verifier": "YoReid",
-    "verification": "https://www.youtube.com/watch?v=Fkcbov91M44",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Lia",
-            "link": "https://youtu.be/s6II0U6rmgg",
-            "percent": 100,
-            "hz": 75
-},
-        {
-            "user": "Zork",
-            "link": "https://youtu.be/MYpJd_xQEKE",
-            "percent": 100,
-            "hz": 60
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtube.com/watch?v=Ko0UKYmIf30&feature=share7",
-    "percent": 100,
-    "hz": 60
-}
-    ]
+	"id": 71734488,
+	"name": "Falling Maze",
+	"author": "YoReid",
+	"creators": [],
+	"verifier": "YoReid",
+	"verification": "https://www.youtube.com/watch?v=Fkcbov91M44",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/s6II0U6rmgg",
+			"percent": 100,
+			"hz": 75
+		},
+		{
+			"user": "Zork",
+			"link": "https://youtu.be/MYpJd_xQEKE",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtube.com/watch?v=Ko0UKYmIf30&feature=share7",
+			"percent": 100,
+			"hz": 60
+		}
+	]
 }

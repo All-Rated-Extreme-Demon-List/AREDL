@@ -1,89 +1,89 @@
 {
-    "id": 64239577,
-    "name": "Ferrum Frenzy",
-    "author": "XinpA",
-    "creators": [],
-    "verifier": "Miro",
-    "verification": "https://www.youtube.com/watch?v=Qt6EVbWC8uA",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Kublinek2006",
-            "link": "https://www.youtube.com/watch?v=R3OBzq_K2qA&list=PLnDUyLVdLmMAR-4orU4TBmZuMsO-odH_1&index=13",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "NateFH",
-            "link": "https://www.youtube.com/watch?v=CRiWp5ZxBcU",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/YQMFh1QrAHI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "meluwudy",
-            "link": "https://www.youtube.com/watch?v=v7LYjJXj234",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "BreadGuyGD",
-            "link": "https://www.youtube.com/watch?v=oE3FIelv1aw",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/ppS4kgnwmv4",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "NiceCrunchy",
-            "link": "https://www.youtube.com/watch?v=KcLs3C0FrvA",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "clncrvl",
-            "link": "https://youtu.be/Euj1EzNQvUU",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=MMunuFQ6cB0",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=BNMid6GZl9E&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 360
-},
-        {
-        "user": "HotNooB",
-        "link": "https://youtu.be/Fu-USUub4S4",
-        "percent": 100,
-        "hz": 288
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/K7b0gOemkGw",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/0XzqAZByf58",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 64239577,
+	"name": "Ferrum Frenzy",
+	"author": "XinpA",
+	"creators": [],
+	"verifier": "Miro",
+	"verification": "https://www.youtube.com/watch?v=Qt6EVbWC8uA",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Kublinek2006",
+			"link": "https://www.youtube.com/watch?v=R3OBzq_K2qA&list=PLnDUyLVdLmMAR-4orU4TBmZuMsO-odH_1&index=13",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "NateFH",
+			"link": "https://www.youtube.com/watch?v=CRiWp5ZxBcU",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/YQMFh1QrAHI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "meluwudy",
+			"link": "https://www.youtube.com/watch?v=v7LYjJXj234",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "BreadGuyGD",
+			"link": "https://www.youtube.com/watch?v=oE3FIelv1aw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/ppS4kgnwmv4",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "NiceCrunchy",
+			"link": "https://www.youtube.com/watch?v=KcLs3C0FrvA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "clncrvl",
+			"link": "https://youtu.be/Euj1EzNQvUU",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=MMunuFQ6cB0",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=BNMid6GZl9E&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/Fu-USUub4S4",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/K7b0gOemkGw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/0XzqAZByf58",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

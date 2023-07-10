@@ -1,59 +1,86 @@
 {
-    "id": 76653933,
-    "name": "Storming Summit",
-    "author": "Nimbus",
-    "creators": ["Colorbolt","Nimbus","zYuko","Kiba","Endevvor","Studt","Aleph","notlsa","ML500","BlowMyPooh","matty2003","xoanon","Gabs","Yoonsr","Wesp","rynoxious","YakobNugget","Syndrome","BlueLite","Grax","plaz","Hypno","Belonzik","BlazeRol","Reunomi","Geo"],
-    "verifier": "Ozzy",
-    "verification": "https://www.youtube.com/watch?v=ymmMnZLpfQU",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Blathers",
-            "link": "https://youtu.be/1j4vklvAOBI",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "ActionninjaT",
-            "link": "https://youtu.be/1vmHxtiPsO0",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "nei",
-            "link": "https://youtu.be/URM7brZeY68",
-            "percent": 100,
-            "hz": 289
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/dvUxEzuFyII",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/KQLPN1Dc7Xo",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=-yNy1o4t1qM",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=QC5GmD2qj44&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "DoGGy",
-    "link": "https://www.youtube.com/watch?v=kJ_wsvuINLg",
-    "percent": 100,
-    "hz": 280
-}
-    ]
+	"id": 76653933,
+	"name": "Storming Summit",
+	"author": "Nimbus",
+	"creators": [
+		"Colorbolt",
+		"Nimbus",
+		"zYuko",
+		"Kiba",
+		"Endevvor",
+		"Studt",
+		"Aleph",
+		"notlsa",
+		"ML500",
+		"BlowMyPooh",
+		"matty2003",
+		"xoanon",
+		"Gabs",
+		"Yoonsr",
+		"Wesp",
+		"rynoxious",
+		"YakobNugget",
+		"Syndrome",
+		"BlueLite",
+		"Grax",
+		"plaz",
+		"Hypno",
+		"Belonzik",
+		"BlazeRol",
+		"Reunomi",
+		"Geo"
+	],
+	"verifier": "Ozzy",
+	"verification": "https://www.youtube.com/watch?v=ymmMnZLpfQU",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Blathers",
+			"link": "https://youtu.be/1j4vklvAOBI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "ActionninjaT",
+			"link": "https://youtu.be/1vmHxtiPsO0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "nei",
+			"link": "https://youtu.be/URM7brZeY68",
+			"percent": 100,
+			"hz": 289
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/dvUxEzuFyII",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/KQLPN1Dc7Xo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=-yNy1o4t1qM",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=QC5GmD2qj44&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "DoGGy",
+			"link": "https://www.youtube.com/watch?v=kJ_wsvuINLg",
+			"percent": 100,
+			"hz": 280
+		}
+	]
 }

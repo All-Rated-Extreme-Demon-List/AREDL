@@ -1,36 +1,38 @@
 {
-    "id": 60698989,
-    "name": "Altered Ascent",
-    "author": "Prism",
-    "creators": ["Genericqueso, xNocturne, Shocksidian, Juhou, Ryder, Gs Craig, Drak, Eclipsed, Nico99, Pennutoh, Eggnog, TH04, Straw, Sminx, Bianox, Voltex, Logic, Prism, Lieb"],
-    "verifier": "Doggie",
-    "verification": "https://www.youtube.com/watch?v=A5Q7u2EDVe0",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records": [
-    {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/4PkKb7APBWU",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Meep",
-            "link": "https://youtu.be/XuO_s0MW85U",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=yfr6n4RCPHY",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "Kr1p7iX",
-    "link": "https://www.youtube.com/watch?v=HllQ9nzmgdg",
-    "percent": 100,
-    "hz": 300
-    }
-    ]
+	"id": 60698989,
+	"name": "Altered Ascent",
+	"author": "Prism",
+	"creators": [
+		"Genericqueso, xNocturne, Shocksidian, Juhou, Ryder, Gs Craig, Drak, Eclipsed, Nico99, Pennutoh, Eggnog, TH04, Straw, Sminx, Bianox, Voltex, Logic, Prism, Lieb"
+	],
+	"verifier": "Doggie",
+	"verification": "https://www.youtube.com/watch?v=A5Q7u2EDVe0",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/4PkKb7APBWU",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Meep",
+			"link": "https://youtu.be/XuO_s0MW85U",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=yfr6n4RCPHY",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Kr1p7iX",
+			"link": "https://www.youtube.com/watch?v=HllQ9nzmgdg",
+			"percent": 100,
+			"hz": 300
+		}
+	]
 }

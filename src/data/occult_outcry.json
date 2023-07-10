@@ -1,18 +1,20 @@
 {
-    "id": 62119245,
-    "name": "Occult Outcry",
-    "author": "Havok",
-    "creators": ["Havok, Lumpy, Eggnog, Flash, Genericqueso, nwolc, Lqah, Tricks33"],
-    "verifier": "AeonAir",
-    "verification": "https://www.youtube.com/watch?v=W9sksrVcH-c",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records": [
-        {
-            "user": "Blathers",
-            "link": "https://youtu.be/D9pO8tsbQO0",
-            "percent": 100,
-            "hz": 288
-}
-    ]
+	"id": 62119245,
+	"name": "Occult Outcry",
+	"author": "Havok",
+	"creators": [
+		"Havok, Lumpy, Eggnog, Flash, Genericqueso, nwolc, Lqah, Tricks33"
+	],
+	"verifier": "AeonAir",
+	"verification": "https://www.youtube.com/watch?v=W9sksrVcH-c",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "Blathers",
+			"link": "https://youtu.be/D9pO8tsbQO0",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

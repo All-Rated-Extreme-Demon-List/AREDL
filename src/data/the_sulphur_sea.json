@@ -1,17 +1,17 @@
 {
-    "id": 81548163,
-    "name": "The Sulphur Sea",
-    "author": "YoReid",
-    "creators": [],
-    "verifier": "YoReid",
-    "verification": "https://www.youtube.com/watch?v=hpcJFK6iSvM&t=1s",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Detrezo",
-            "link": "https://www.youtube.com/watch?v=-l6eRWqW6dA&t=39s&ab_channel=Detrezo",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 81548163,
+	"name": "The Sulphur Sea",
+	"author": "YoReid",
+	"creators": [],
+	"verifier": "YoReid",
+	"verification": "https://www.youtube.com/watch?v=hpcJFK6iSvM&t=1s",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Detrezo",
+			"link": "https://www.youtube.com/watch?v=-l6eRWqW6dA&t=39s&ab_channel=Detrezo",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

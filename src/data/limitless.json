@@ -1,35 +1,35 @@
 {
-    "id": 56321709,
-    "name": "limitless",
-    "author": "Konsi",
-    "creators": [],
-    "verifier": "Syndrome GMD",
-    "verification": "https://www.youtube.com/watch?v=QjoMS3mpJUE",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "YTkerfuffles",
-            "link": "https://youtu.be/gtbK7w2vifE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=FX_K1FzN-PE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/2z2zl8mJydU",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/_5zufzmrRAQ",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 56321709,
+	"name": "limitless",
+	"author": "Konsi",
+	"creators": [],
+	"verifier": "Syndrome GMD",
+	"verification": "https://www.youtube.com/watch?v=QjoMS3mpJUE",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "YTkerfuffles",
+			"link": "https://youtu.be/gtbK7w2vifE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=FX_K1FzN-PE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/2z2zl8mJydU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/_5zufzmrRAQ",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

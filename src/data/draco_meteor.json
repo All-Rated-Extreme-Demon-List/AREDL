@@ -1,77 +1,77 @@
 {
-    "id": 78653808,
-    "name": "Draco Meteor",
-    "author": "AgarOther",
-    "creators": [],
-    "verifier": "YoshiL",
-    "verification": "https://www.youtube.com/watch?v=s-IqcToxu2s",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Whacka",
-            "link": "https://youtu.be/fRBDHeU3Xao",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/u0GoCticrdk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "nei",
-            "link": "https://youtu.be/Ufsry8LD2Rw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/DTlXHRMwW3M",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "Patrick61804",
-            "link": "https://youtu.be/QLeK-9Ta7fU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Jedwint",
-            "link": "https://www.youtube.com/watch?v=_zRLWIMynAI",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "BANA1411",
-            "link": "https://youtu.be/xUwKptQg6nQ",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Stainsley",
-            "link": "https://youtu.be/6J5USOEKFGQ",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "NiceCrunchy",
-    "link": "https://www.youtube.com/watch?v=zO85ux6czV8",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/AQJii7blYEc",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/csg4mz14k3c",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 78653808,
+	"name": "Draco Meteor",
+	"author": "AgarOther",
+	"creators": [],
+	"verifier": "YoshiL",
+	"verification": "https://www.youtube.com/watch?v=s-IqcToxu2s",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Whacka",
+			"link": "https://youtu.be/fRBDHeU3Xao",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/u0GoCticrdk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "nei",
+			"link": "https://youtu.be/Ufsry8LD2Rw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/DTlXHRMwW3M",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "Patrick61804",
+			"link": "https://youtu.be/QLeK-9Ta7fU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Jedwint",
+			"link": "https://www.youtube.com/watch?v=_zRLWIMynAI",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "BANA1411",
+			"link": "https://youtu.be/xUwKptQg6nQ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Stainsley",
+			"link": "https://youtu.be/6J5USOEKFGQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "NiceCrunchy",
+			"link": "https://www.youtube.com/watch?v=zO85ux6czV8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/AQJii7blYEc",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/csg4mz14k3c",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

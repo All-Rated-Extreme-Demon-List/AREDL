@@ -1,107 +1,107 @@
 {
-    "id": 23328970,
-    "name": "Hate War",
-    "author": "Stormfly",
-    "creators": ["S1l3nce, saRy, Stormfly"],
-    "verifier": "Stormfly",
-    "verification": "https://www.youtube.com/watch?v=CPfmyR1oegE",
-    "percentToQualify": 100,
-    "records": [
-{
-            "user": "Zenta",
-            "link": "https://www.youtube.com/watch?v=9JdyFJrOHZo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "xRiver007",
-            "link": "https://www.youtube.com/watch?v=3ycDY0peuYc&t=2s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "meluwudy",
-            "link": "https://www.youtube.com/watch?v=9AwTXRevNsU",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/oJStPUOb8Bs",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=7WOKNjlnjJc&ab_channel=Bleamer",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Fluffy Duckling",
-            "link": "https://www.youtube.com/watch?v=HxBa7Sed16c",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/Kh_OhGM_mSo",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/1HY-2A9VDzY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=KHBHwyMsNEE",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/5XCj8dFCIkQ",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "DeltaPhantom1",
-            "link": "https://youtu.be/QxYfEnFQvDk",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "Brat",
-    "link": "https://youtu.be/WAqf_Ntwdak",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/EMtnYhfoQmY",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "BigBGaming",
-    "link": "https://youtu.be/eZraG7H1ofI",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/TrIIeeB23no",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "mac",
-    "link": "https://www.youtube.com/watch?v=LXfonQFy_Tg&list=PLrdT23GnwtbhfgWoZcjnLO2ypfY9MJJj2&index=23&pp=gAQBiAQB",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 23328970,
+	"name": "Hate War",
+	"author": "Stormfly",
+	"creators": ["S1l3nce, saRy, Stormfly"],
+	"verifier": "Stormfly",
+	"verification": "https://www.youtube.com/watch?v=CPfmyR1oegE",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Zenta",
+			"link": "https://www.youtube.com/watch?v=9JdyFJrOHZo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "xRiver007",
+			"link": "https://www.youtube.com/watch?v=3ycDY0peuYc&t=2s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "meluwudy",
+			"link": "https://www.youtube.com/watch?v=9AwTXRevNsU",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/oJStPUOb8Bs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=7WOKNjlnjJc&ab_channel=Bleamer",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Fluffy Duckling",
+			"link": "https://www.youtube.com/watch?v=HxBa7Sed16c",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/Kh_OhGM_mSo",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/1HY-2A9VDzY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=KHBHwyMsNEE",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/5XCj8dFCIkQ",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "DeltaPhantom1",
+			"link": "https://youtu.be/QxYfEnFQvDk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Brat",
+			"link": "https://youtu.be/WAqf_Ntwdak",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/EMtnYhfoQmY",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "BigBGaming",
+			"link": "https://youtu.be/eZraG7H1ofI",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/TrIIeeB23no",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "mac",
+			"link": "https://www.youtube.com/watch?v=LXfonQFy_Tg&list=PLrdT23GnwtbhfgWoZcjnLO2ypfY9MJJj2&index=23&pp=gAQBiAQB",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

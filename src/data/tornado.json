@@ -1,119 +1,121 @@
 {
-    "id": 83098728,
-    "name": "TORNADO",
-    "author": "Bianox",
-    "creators": ["SAUZZETH, MARWEC, GRINDEX,BURAGOZ, BUCKENDOOF, MARWEC, JENKINS, SCRUMPY, PARA, BIANOX, FERDEFUNKY, MARWEC, WOOM, ARTU, E.0.T.S, KOOLBOOM, ZEROSR, THOMARTIN, VLACC, TCHKE"],
-    "verifier": "SpeedyMuffin",
-    "verification": "https://www.youtube.com/watch?v=xC8Emqk5t18",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "ASBCHazel",
-            "link": "https://www.youtube.com/watch?v=lgjtq5x9xQk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Karisame",
-            "link": "https://youtu.be/-ZWbzrAOn1Y",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Gecko",
-            "link": "https://youtu.be/GRLywVou3E8",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/1alVclHJTXM",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "nei",
-            "link": "https://youtu.be/FiTkEAeNsFY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/_3JakDTYmvk",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=lNljOsCgpos",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Enfur",
-            "link": "https://www.youtube.com/watch?v=aadkhOS4abk",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/kIYIex8F5ik",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "XW0T",
-            "link": "https://www.youtube.com/watch?v=ZyCoAosu5sQ",
-            "percent": 100,
-            "hz": 244
-},
-        {
-            "user": "BANA1411",
-            "link": "https://youtu.be/rCJSjCq9LWk",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=eC9jKoVw8lM",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "WhiteSalmon",
-            "link": "https://www.youtube.com/watch?v=zEUAAZfMCtg&list=PLYulNPgsOPnAozOHFfssrdFpO2_8oDdsd&index=15&ab_channel=WhiteSalmon%5BGD%5D",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Gap2003",
-            "link": "https://www.youtube.com/watch?v=XrikqF4qn4s",
-            "percent": 100,
-            "hz": 144
-},
-        {
-    "user": "envyixy",
-    "link": "https://www.youtube.com/watch?v=u0w0MM9PkYI",
-    "percent": 100,
-    "hz": 240
-},
-        {
-    "user": "TheyCallMeEvan",
-    "link": "https://youtu.be/uaBFiyVGbgs",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/Xq_APnsXOCg",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/_QjGLNzO_Wk",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 83098728,
+	"name": "TORNADO",
+	"author": "Bianox",
+	"creators": [
+		"SAUZZETH, MARWEC, GRINDEX,BURAGOZ, BUCKENDOOF, MARWEC, JENKINS, SCRUMPY, PARA, BIANOX, FERDEFUNKY, MARWEC, WOOM, ARTU, E.0.T.S, KOOLBOOM, ZEROSR, THOMARTIN, VLACC, TCHKE"
+	],
+	"verifier": "SpeedyMuffin",
+	"verification": "https://www.youtube.com/watch?v=xC8Emqk5t18",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "ASBCHazel",
+			"link": "https://www.youtube.com/watch?v=lgjtq5x9xQk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Karisame",
+			"link": "https://youtu.be/-ZWbzrAOn1Y",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Gecko",
+			"link": "https://youtu.be/GRLywVou3E8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/1alVclHJTXM",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "nei",
+			"link": "https://youtu.be/FiTkEAeNsFY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/_3JakDTYmvk",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=lNljOsCgpos",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Enfur",
+			"link": "https://www.youtube.com/watch?v=aadkhOS4abk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/kIYIex8F5ik",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "XW0T",
+			"link": "https://www.youtube.com/watch?v=ZyCoAosu5sQ",
+			"percent": 100,
+			"hz": 244
+		},
+		{
+			"user": "BANA1411",
+			"link": "https://youtu.be/rCJSjCq9LWk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=eC9jKoVw8lM",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "WhiteSalmon",
+			"link": "https://www.youtube.com/watch?v=zEUAAZfMCtg&list=PLYulNPgsOPnAozOHFfssrdFpO2_8oDdsd&index=15&ab_channel=WhiteSalmon%5BGD%5D",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Gap2003",
+			"link": "https://www.youtube.com/watch?v=XrikqF4qn4s",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "envyixy",
+			"link": "https://www.youtube.com/watch?v=u0w0MM9PkYI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/uaBFiyVGbgs",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/Xq_APnsXOCg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/_QjGLNzO_Wk",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

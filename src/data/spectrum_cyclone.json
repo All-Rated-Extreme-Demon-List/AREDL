@@ -1,113 +1,113 @@
 {
-    "id": 59209010,
-    "name": "Spectrum Cyclone",
-    "author": "Temp",
-    "creators": [],
-    "verifier": "Temp",
-    "verification": "https://www.youtube.com/watch?v=IN0XeMo2SmM",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Blathers",
-            "link": "https://youtu.be/RvCM1aiCkJw",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "clncrvl",
-            "link": "https://youtu.be/SRmoIEyJklc",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "KubeczekTV",
-            "link": "https://www.youtube.com/watch?v=y1tAs8E5QIQ",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Hasik",
-            "link": "https://youtu.be/2_ucAYtIFxA",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/-2JENbVpOII",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Magmeta",
-            "link": "https://youtu.be/bnn_fap_TtA",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=tLPWyzenGdc&",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Dep96",
-            "link": "https://www.youtube.com/watch?v=Ygdr3hhF6sE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Fabricorn",
-            "link": "https://youtu.be/2qlfvxxfG10",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Matter",
-            "link": "https://youtu.be/Gi9REks8u9g",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Aleczd",
-            "link": "https://www.youtube.com/watch?v=H2tvaWm4XBM&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=8",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Meep",
-            "link": "https://youtu.be/IDVJ6OtsdZ4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BANA1411",
-            "link": "https://youtu.be/AjUowg4Z4dw",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "alienxs",
-            "link": "https://www.youtube.com/watch?v=ZSc7C47ulTQ&ab_channel=alienxs",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "DJ1482",
-            "link": "https://youtu.be/_OeTzzsjo1w",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/-UdluCJA_KA",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=Fh23nQO2GOM&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 144
-}
-    ]
+	"id": 59209010,
+	"name": "Spectrum Cyclone",
+	"author": "Temp",
+	"creators": [],
+	"verifier": "Temp",
+	"verification": "https://www.youtube.com/watch?v=IN0XeMo2SmM",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Blathers",
+			"link": "https://youtu.be/RvCM1aiCkJw",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "clncrvl",
+			"link": "https://youtu.be/SRmoIEyJklc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "KubeczekTV",
+			"link": "https://www.youtube.com/watch?v=y1tAs8E5QIQ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Hasik",
+			"link": "https://youtu.be/2_ucAYtIFxA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/-2JENbVpOII",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Magmeta",
+			"link": "https://youtu.be/bnn_fap_TtA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=tLPWyzenGdc&",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Dep96",
+			"link": "https://www.youtube.com/watch?v=Ygdr3hhF6sE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Fabricorn",
+			"link": "https://youtu.be/2qlfvxxfG10",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/Gi9REks8u9g",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Aleczd",
+			"link": "https://www.youtube.com/watch?v=H2tvaWm4XBM&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Meep",
+			"link": "https://youtu.be/IDVJ6OtsdZ4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BANA1411",
+			"link": "https://youtu.be/AjUowg4Z4dw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "alienxs",
+			"link": "https://www.youtube.com/watch?v=ZSc7C47ulTQ&ab_channel=alienxs",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "DJ1482",
+			"link": "https://youtu.be/_OeTzzsjo1w",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/-UdluCJA_KA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=Fh23nQO2GOM&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

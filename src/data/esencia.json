@@ -1,91 +1,92 @@
 {
-    "id": 54988894,
-    "name": "Esencia",
-    "author": "Zafkiel7",
-    "creators": ["FarDreamer, Fufafac, Lunarstep11, Laser10, Bluh, xSeiun, ShawDowBoy, Zero, Chanel6, MonsieurEcho, Morfito, Slusheer, Nolex, Byboy, Equisde, Teddy, Mixer, Azasuh, MatthewMW, Diplow, Zent, Apple, Cultrix, iMasu, Erick101, SonicJr, Kadex, ZkullGD, Hoolyduck"],
-    "verifier": "Dorami",
-    "verification": "https://www.youtube.com/watch?v=xr__MN_5k5Q",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "ilyasgamesgd",
-            "link": "https://youtu.be/PsimG_y8C04",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Bamvie",
-            "link": "https://youtu.be/Xj5x_92dIOs",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Haze",
-            "link": "https://youtu.be/niVoZNrih2Y",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "NateFH",
-            "link": "https://www.youtube.com/watch?v=Jz-ZAXAV8OA",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=bfTTMPk36g8",
-            "percent": 100,
-            "hz": 60
-},
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/SFGzmmstHDE",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Blathers",
-            "link": "https://youtu.be/B9OLcGYqaDQ",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "StarXV",
-            "link": "https://youtu.be/h93wjN49dcw",
-            "percent": 100,
-            "hz": 180
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/lKp-BGO3UuE",
-            "percent": 100,
-            "hz": 240
-},
+	"id": 54988894,
+	"name": "Esencia",
+	"author": "Zafkiel7",
+	"creators": [
+		"FarDreamer, Fufafac, Lunarstep11, Laser10, Bluh, xSeiun, ShawDowBoy, Zero, Chanel6, MonsieurEcho, Morfito, Slusheer, Nolex, Byboy, Equisde, Teddy, Mixer, Azasuh, MatthewMW, Diplow, Zent, Apple, Cultrix, iMasu, Erick101, SonicJr, Kadex, ZkullGD, Hoolyduck"
+	],
+	"verifier": "Dorami",
+	"verification": "https://www.youtube.com/watch?v=xr__MN_5k5Q",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "ilyasgamesgd",
+			"link": "https://youtu.be/PsimG_y8C04",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bamvie",
+			"link": "https://youtu.be/Xj5x_92dIOs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Haze",
+			"link": "https://youtu.be/niVoZNrih2Y",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "NateFH",
+			"link": "https://www.youtube.com/watch?v=Jz-ZAXAV8OA",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=bfTTMPk36g8",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/SFGzmmstHDE",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Blathers",
+			"link": "https://youtu.be/B9OLcGYqaDQ",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "StarXV",
+			"link": "https://youtu.be/h93wjN49dcw",
+			"percent": 100,
+			"hz": 180
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/lKp-BGO3UuE",
+			"percent": 100,
+			"hz": 240
+		},
 
-        {
-            "user": "Simolater",
-            "link": "https://www.youtube.com/watch?v=bGZDYZAM2DU",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Hasik",
-            "link": "https://youtu.be/f8KC_lwUurs",
-            "percent": 100,
-            "hz": 165
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=XJAik92k_JE",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/rhhOgZEo8CQ",
-    "percent": 100,
-    "hz": 144
-}
-
-    ]
+		{
+			"user": "Simolater",
+			"link": "https://www.youtube.com/watch?v=bGZDYZAM2DU",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Hasik",
+			"link": "https://youtu.be/f8KC_lwUurs",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=XJAik92k_JE",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/rhhOgZEo8CQ",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

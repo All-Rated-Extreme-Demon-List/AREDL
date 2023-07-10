@@ -1,47 +1,47 @@
 {
-    "id": 81906166,
-    "name": "Retention Rush",
-    "author": "TheBlackHell",
-    "creators": [],
-    "verifier": "Dark Angel",
-    "verification": "https://www.youtube.com/watch?v=SPn1wsc9J9M",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "clncrvl",
-            "link": "https://youtu.be/QSmtnkk8bvQ",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Draconyx",
-            "link": "https://youtu.be/Gch6cfRbLkY",
-            "percent": 100,
-            "hz": 330
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/-I74f1a7yA4",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=n1HRNP3gosA",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BrowarKedawar",
-            "link": "https://youtu.be/pkx4kDwPHwc",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/b9Y3F4JR0pk",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 81906166,
+	"name": "Retention Rush",
+	"author": "TheBlackHell",
+	"creators": [],
+	"verifier": "Dark Angel",
+	"verification": "https://www.youtube.com/watch?v=SPn1wsc9J9M",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "clncrvl",
+			"link": "https://youtu.be/QSmtnkk8bvQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Draconyx",
+			"link": "https://youtu.be/Gch6cfRbLkY",
+			"percent": 100,
+			"hz": 330
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/-I74f1a7yA4",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=n1HRNP3gosA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BrowarKedawar",
+			"link": "https://youtu.be/pkx4kDwPHwc",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/b9Y3F4JR0pk",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

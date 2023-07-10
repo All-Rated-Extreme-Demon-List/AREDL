@@ -1,49 +1,50 @@
 {
-    "id": 68894921,
-    "name": "The Reaper",
-    "author": "Kyhros",
-    "creators": ["xoanon, nPyro, Dirinoc, iBrah78, Kyuu, Vinty, Zetalock, Jayy, AirSavage, Kakemancool, NASHII, BySelling, Netaren, Sauzzeth, CuaeR, Dilw0nk, cxli, Bentai, Kyhros, Realvet, Deadlox, Doop, River"],
-    "verifier": "Teno",
-    "verification": "https://www.youtube.com/watch?v=DKJ82-LThkM",
-    "percentToQualify": 100,
-    "password": "030607",
-    "records": [
-        {
-            "user": "nei",
-            "link": "https://youtu.be/YlGrvm4xuuw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Clara",
-            "link": "https://www.youtube.com/watch?v=UFdbBUBQiTI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "ShadowMyth",
-            "link": "https://youtu.be/3wAnK9LZMts",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "shinn",
-            "link": "https://www.youtube.com/watch?v=s1D1JsI3Qd8",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/Pky-qC-6FA8",
-            "percent": 100,
-            "hz": 288
-},
-{
-    "user": "lunaa",
-    "link": "https://drive.google.com/file/d/1WCEsu2cJ_J8DUD7-JL3niW0Ucwi-0ryk/view?usp=drive_link",
-    "percent": 100,
-    "hz": 360
-}
-
-    ]
+	"id": 68894921,
+	"name": "The Reaper",
+	"author": "Kyhros",
+	"creators": [
+		"xoanon, nPyro, Dirinoc, iBrah78, Kyuu, Vinty, Zetalock, Jayy, AirSavage, Kakemancool, NASHII, BySelling, Netaren, Sauzzeth, CuaeR, Dilw0nk, cxli, Bentai, Kyhros, Realvet, Deadlox, Doop, River"
+	],
+	"verifier": "Teno",
+	"verification": "https://www.youtube.com/watch?v=DKJ82-LThkM",
+	"percentToQualify": 100,
+	"password": "030607",
+	"records": [
+		{
+			"user": "nei",
+			"link": "https://youtu.be/YlGrvm4xuuw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Clara",
+			"link": "https://www.youtube.com/watch?v=UFdbBUBQiTI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ShadowMyth",
+			"link": "https://youtu.be/3wAnK9LZMts",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "shinn",
+			"link": "https://www.youtube.com/watch?v=s1D1JsI3Qd8",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/Pky-qC-6FA8",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lunaa",
+			"link": "https://drive.google.com/file/d/1WCEsu2cJ_J8DUD7-JL3niW0Ucwi-0ryk/view?usp=drive_link",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

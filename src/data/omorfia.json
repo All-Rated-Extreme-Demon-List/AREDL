@@ -1,48 +1,48 @@
 {
-    "id": 63559860,
-    "name": "Omorfia",
-    "author": "HHyper",
-    "creators": [],
-    "verifier": "Floppy",
-    "verification": "https://www.youtube.com/watch?v=2c5p4K80Axg",
-    "percentToQualify": 100,
-    "password": "030731",
-    "records": [
-    {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/i8YqLMrxOT4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Mist",
-            "link": "https://www.youtube.com/watch?v=8yL8feNi-BY",
-            "percent": 100,
-            "hz": 60
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=TteScIFP1cM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/ItDhJ0q_nxg",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "iRaily",
-            "link": "https://youtu.be/M6U-jkhIqys",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Armani",
-            "link": "https://youtu.be/3vGrnpjMW1o",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 63559860,
+	"name": "Omorfia",
+	"author": "HHyper",
+	"creators": [],
+	"verifier": "Floppy",
+	"verification": "https://www.youtube.com/watch?v=2c5p4K80Axg",
+	"percentToQualify": 100,
+	"password": "030731",
+	"records": [
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/i8YqLMrxOT4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Mist",
+			"link": "https://www.youtube.com/watch?v=8yL8feNi-BY",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=TteScIFP1cM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/ItDhJ0q_nxg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "iRaily",
+			"link": "https://youtu.be/M6U-jkhIqys",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Armani",
+			"link": "https://youtu.be/3vGrnpjMW1o",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

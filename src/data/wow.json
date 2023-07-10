@@ -1,23 +1,25 @@
 {
-    "id": 49291867,
-    "name": "WOW",
-    "author": "TrusTa",
-    "creators": ["TrusTa, Pennutoh, ChaSe, Disp, Eggnog, SlimJim, Marwec, Splash"],
-    "verifier": "Dragoon",
-    "verification": "https://www.youtube.com/watch?v=uLiCEb4QP4E",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=ba6lBhoEaCc",
-            "percent": 100,
-            "hz": 360
-    },
-    {
-            "user": "Zoink",
-            "link": "https://youtu.be/ZDLbALQyvfM",
-            "percent": 100,
-            "hz": 144
-}
-    ]
+	"id": 49291867,
+	"name": "WOW",
+	"author": "TrusTa",
+	"creators": [
+		"TrusTa, Pennutoh, ChaSe, Disp, Eggnog, SlimJim, Marwec, Splash"
+	],
+	"verifier": "Dragoon",
+	"verification": "https://www.youtube.com/watch?v=uLiCEb4QP4E",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=ba6lBhoEaCc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/ZDLbALQyvfM",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

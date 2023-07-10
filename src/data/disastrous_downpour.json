@@ -1,53 +1,55 @@
 {
-    "id": 77205012,
-    "name": "Disastrous Downpour",
-    "author": "kodex360",
-    "creators": ["kodex360, Handexx, Sparkle224, Micr9n, Khelado, ILNM, LordeQuacc, Nekotik, Splinter25, Preezee, Mangosteen, Lamellae, Gmoney03, Tahsen"],
-    "verifier": "LunarSpark",
-    "verification": "https://youtu.be/qnSbGOeFD2M",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Lia",
-            "link": "https://www.youtube.com/watch?v=AHdeW6hpJ_M",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/lK9vcRCIS04",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "NiceCrunchy",
-            "link": "https://www.youtube.com/watch?v=wDLzVDmmwxk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "NexoProTC",
-            "link": "https://youtu.be/TKTwVvdyfsg",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/HQMltS4AjUY",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "Wolvyy",
-    "link": "https://youtu.be/_P1aCrYTqT8",
-    "percent": 100,
-    "hz": 280
-},
-        {
-        "user": "NikVer",
-        "link": "https://youtu.be/0prH_1AzKZA",
-        "percent": 100,
-        "hz": 360
-}
-    ]
+	"id": 77205012,
+	"name": "Disastrous Downpour",
+	"author": "kodex360",
+	"creators": [
+		"kodex360, Handexx, Sparkle224, Micr9n, Khelado, ILNM, LordeQuacc, Nekotik, Splinter25, Preezee, Mangosteen, Lamellae, Gmoney03, Tahsen"
+	],
+	"verifier": "LunarSpark",
+	"verification": "https://youtu.be/qnSbGOeFD2M",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Lia",
+			"link": "https://www.youtube.com/watch?v=AHdeW6hpJ_M",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/lK9vcRCIS04",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "NiceCrunchy",
+			"link": "https://www.youtube.com/watch?v=wDLzVDmmwxk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "NexoProTC",
+			"link": "https://youtu.be/TKTwVvdyfsg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/HQMltS4AjUY",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Wolvyy",
+			"link": "https://youtu.be/_P1aCrYTqT8",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "NikVer",
+			"link": "https://youtu.be/0prH_1AzKZA",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

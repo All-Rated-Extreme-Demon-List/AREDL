@@ -1,83 +1,83 @@
 {
-    "id": 33748382,
-    "name": "Novalis",
-    "author": "Gryllex",
-    "creators": [],
-    "verifier": "Gryllex",
-    "verification": "https://www.youtube.com/watch?v=ecuAlcs3dIw",
-    "percentToQualify": 100,
-    "records": [
-            {
-            "user": "Jeremyiscool",
-            "link": "https://www.youtube.com/watch?v=EJBkXaul4cs",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Willow",
-            "link": "https://youtu.be/y8D3F9rBL8U",
-            "percent": 100,
-            "hz": 120
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/cgOW_p99UCw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BreadGuyGD",
-            "link": "https://www.youtube.com/watch?v=nVyIKtok1Js",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "SamtheFman",
-            "link": "https://www.youtube.com/watch?v=i81jLS926dM",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/K_6-1leKfh0",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/52wLehHJ8ng",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=DsQKe9lVhNs",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Jedwint",
-            "link": "https://www.youtube.com/watch?v=d4Ys7G8mSRI",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "eliooenver",
-            "link": "https://www.youtube.com/watch?v=xBl0DLrznjA",
-            "percent": 100,
-            "hz": 360
-},
-{
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=gGNMUZRmqP4",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/2DK0SiShI2M",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 33748382,
+	"name": "Novalis",
+	"author": "Gryllex",
+	"creators": [],
+	"verifier": "Gryllex",
+	"verification": "https://www.youtube.com/watch?v=ecuAlcs3dIw",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Jeremyiscool",
+			"link": "https://www.youtube.com/watch?v=EJBkXaul4cs",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Willow",
+			"link": "https://youtu.be/y8D3F9rBL8U",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/cgOW_p99UCw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BreadGuyGD",
+			"link": "https://www.youtube.com/watch?v=nVyIKtok1Js",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "SamtheFman",
+			"link": "https://www.youtube.com/watch?v=i81jLS926dM",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/K_6-1leKfh0",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/52wLehHJ8ng",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=DsQKe9lVhNs",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Jedwint",
+			"link": "https://www.youtube.com/watch?v=d4Ys7G8mSRI",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "eliooenver",
+			"link": "https://www.youtube.com/watch?v=xBl0DLrznjA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=gGNMUZRmqP4",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/2DK0SiShI2M",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

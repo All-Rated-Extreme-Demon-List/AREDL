@@ -1,73 +1,75 @@
 {
-    "id": 60512120,
-    "name": "PLUS ULTRA",
-    "author": "Ilrell",
-    "creators": ["RekindL, HotoCot, Reunomi, PrismDash, iZapper, 8BitFudge, CastriX, AlFas, M3nhHu3, Echonox, GeometryTom, _Cancel, Charky, Dudex, Platnuu, SirHadoken, Kips, xenoteric, OSIRIS GD, Xyanide"],
-    "verifier": "Stormfly",
-    "verification": "https://www.youtube.com/watch?v=kqsaJ-MEzSs&t=2s",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/kfeOSTtEWRg",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/cZghhRemyqE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Mist",
-            "link": "https://www.youtube.com/watch?v=0z3gDqOKsJ0&t=122s",
-            "percent": 100,
-            "hz": 60
-},
-        {
-            "user": "Patrick61804",
-            "link": "https://youtu.be/6njTzVOeln8",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=OjhH51HYrAc",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "NexoProTC",
-            "link": "https://youtu.be/464XmKkSkQI",
-            "percent": 100,
-            "hz": 240
-},
-{
-            "user": "Bonezizdum",
-            "link": "https://youtu.be/530C_XynI-8",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/kQEvhyVI9_w",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "UsualKhaos",
-    "link": "https://youtu.be/FUVy47nJMr4",
-    "percent": 100,
-    "hz": 60,
-    "mobile": true
-},
-{
-    "user": "WhiteSalmon",
-    "link": "https://youtu.be/Xl0rHw_WnxI",
-    "percent": 100,
-    "hz": 144
-}
-]
+	"id": 60512120,
+	"name": "PLUS ULTRA",
+	"author": "Ilrell",
+	"creators": [
+		"RekindL, HotoCot, Reunomi, PrismDash, iZapper, 8BitFudge, CastriX, AlFas, M3nhHu3, Echonox, GeometryTom, _Cancel, Charky, Dudex, Platnuu, SirHadoken, Kips, xenoteric, OSIRIS GD, Xyanide"
+	],
+	"verifier": "Stormfly",
+	"verification": "https://www.youtube.com/watch?v=kqsaJ-MEzSs&t=2s",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/kfeOSTtEWRg",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/cZghhRemyqE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Mist",
+			"link": "https://www.youtube.com/watch?v=0z3gDqOKsJ0&t=122s",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Patrick61804",
+			"link": "https://youtu.be/6njTzVOeln8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=OjhH51HYrAc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "NexoProTC",
+			"link": "https://youtu.be/464XmKkSkQI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Bonezizdum",
+			"link": "https://youtu.be/530C_XynI-8",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/kQEvhyVI9_w",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "UsualKhaos",
+			"link": "https://youtu.be/FUVy47nJMr4",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "WhiteSalmon",
+			"link": "https://youtu.be/Xl0rHw_WnxI",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

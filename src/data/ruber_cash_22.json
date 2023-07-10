@@ -1,23 +1,23 @@
 {
-    "id": 78007735,
-    "name": "ruber cash 22",
-    "author": "koko43",
-    "creators": [],
-    "verifier": "Butter Fish",
-    "verification": "https://www.youtube.com/watch?v=SKqOHoAWguU&pp=ygUWcnViZXIgY2FzaCAyMiB2ZXJpZmllZA%3D%3D",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "qKitti",
-            "link": "https://youtu.be/ho18yKWlZqg",
-            "percent": 100,
-            "hz": 120
-},
-        {
-            "user": "baechugimchi",
-            "link": "https://youtu.be/D1WeO0iBmtI",
-            "percent": 100,
-            "hz": 240
-}
-    ]
+	"id": 78007735,
+	"name": "ruber cash 22",
+	"author": "koko43",
+	"creators": [],
+	"verifier": "Butter Fish",
+	"verification": "https://www.youtube.com/watch?v=SKqOHoAWguU&pp=ygUWcnViZXIgY2FzaCAyMiB2ZXJpZmllZA%3D%3D",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "qKitti",
+			"link": "https://youtu.be/ho18yKWlZqg",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "baechugimchi",
+			"link": "https://youtu.be/D1WeO0iBmtI",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

@@ -1,119 +1,121 @@
 {
-    "id": 71216292,
-    "name": "Kuzureta",
-    "author": "Teno",
-    "creators": ["Realvet, River, DrCuber, Renn241, GhostVandalf, DiamondSkull, Zetalock, cxli, Genoxide, augi, SrKiwi, El3ctr0, Mystic, Nicor77, Kyhros, ARWooly, zGod, Teno, Cybertron"],
-    "verifier": "Cursed",
-    "verification": "https://youtu.be/Q5LqZ9aKn78",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Teno",
-            "link": "https://youtu.be/Z7NLOIyjbhU",
-            "percent": 100,
-            "hz": 240
-    },
-    {
-            "user": "Trees",
-            "link": "https://www.youtube.com/watch?v=dLjdT2HLXGc&t=61s&ab_channel=Trees",
-            "percent": 100,
-            "hz": 360
-},
-{
-            "user": "VexPlayzGD",
-            "link": "https://www.youtube.com/watch?v=Gx7ywyzJzJI&t=11s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "KubeczekTV",
-            "link": "https://www.youtube.com/watch?v=f9Db4HHhrIk&t=10s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "xRiver007",
-            "link": "https://www.youtube.com/watch?v=ya-0FaXbtQk&t=1s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/pEr3HhENbWE",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Rapid",
-            "link": "https://www.youtube.com/watch?v=X_zx02P8W6I",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "nei",
-            "link": "https://youtu.be/f6lpc8ZUVf4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Litro6666",
-            "link": "https://youtu.be/n3U1FAcm9CM",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Rayaleg8",
-            "link": "https://youtu.be/NWM398nF1pI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Oceliveth",
-            "link": "https://youtu.be/b-PZbu__6tM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "StarXV",
-            "link": "https://youtu.be/58L2ICQIMdg",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "ActionninjaT",
-            "link": "https://youtu.be/35iaELqXPBI",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "baechugimchi",
-    "link": "https://youtu.be/-FSXGbBfCVc",
-    "percent": 100,
-    "hz": 240
-},
-        {
-            "user": "DrakoAK",
-            "link": "https://youtu.be/TDg7P9BYpDE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "foocii",
-            "link": "https://youtu.be/haLu5Cboprg",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "DoGGy",
-    "link": "https://www.youtube.com/watch?v=UGrn7ZFsCm4",
-    "percent": 100,
-    "hz": 280
-},
-{
-    "user": "thisisfcp",
-    "link": "https://www.youtube.com/watch?v=kvHduN4CVLM&t=1s",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 71216292,
+	"name": "Kuzureta",
+	"author": "Teno",
+	"creators": [
+		"Realvet, River, DrCuber, Renn241, GhostVandalf, DiamondSkull, Zetalock, cxli, Genoxide, augi, SrKiwi, El3ctr0, Mystic, Nicor77, Kyhros, ARWooly, zGod, Teno, Cybertron"
+	],
+	"verifier": "Cursed",
+	"verification": "https://youtu.be/Q5LqZ9aKn78",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Teno",
+			"link": "https://youtu.be/Z7NLOIyjbhU",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Trees",
+			"link": "https://www.youtube.com/watch?v=dLjdT2HLXGc&t=61s&ab_channel=Trees",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "VexPlayzGD",
+			"link": "https://www.youtube.com/watch?v=Gx7ywyzJzJI&t=11s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "KubeczekTV",
+			"link": "https://www.youtube.com/watch?v=f9Db4HHhrIk&t=10s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "xRiver007",
+			"link": "https://www.youtube.com/watch?v=ya-0FaXbtQk&t=1s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/pEr3HhENbWE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Rapid",
+			"link": "https://www.youtube.com/watch?v=X_zx02P8W6I",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "nei",
+			"link": "https://youtu.be/f6lpc8ZUVf4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Litro6666",
+			"link": "https://youtu.be/n3U1FAcm9CM",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Rayaleg8",
+			"link": "https://youtu.be/NWM398nF1pI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Oceliveth",
+			"link": "https://youtu.be/b-PZbu__6tM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "StarXV",
+			"link": "https://youtu.be/58L2ICQIMdg",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "ActionninjaT",
+			"link": "https://youtu.be/35iaELqXPBI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "baechugimchi",
+			"link": "https://youtu.be/-FSXGbBfCVc",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "DrakoAK",
+			"link": "https://youtu.be/TDg7P9BYpDE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "foocii",
+			"link": "https://youtu.be/haLu5Cboprg",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "DoGGy",
+			"link": "https://www.youtube.com/watch?v=UGrn7ZFsCm4",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "thisisfcp",
+			"link": "https://www.youtube.com/watch?v=kvHduN4CVLM&t=1s",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

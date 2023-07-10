@@ -1,41 +1,43 @@
 {
-    "id": 62463489,
-    "name": "Virtual Collapse",
-    "author": "TeamUprising",
-    "creators": ["Mooshhh, Marcel, crashpancake2, akinawoo, RyzleSalt, Elliptic4l, Vyuu, HyperBlastz, MinusX, Sagascius, NogZ, Lexoop, MiniWheatDuo, OasisX, Tahsen, kakemancool, Nell, EyeOfTheStorm, Convie, Xenomorphs, Dominuus, Gizbro, BlasterRobotz, AirSavage, BySelling, ToastLord, BelonziK"],
-    "verifier": "Floppy",
-    "verification": "https://www.youtube.com/watch?v=38o9tSrPxn0",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Lia",
-            "link": "https://youtu.be/rr-AdKQRgr8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/GidTP_8h46k",
-            "percent": 100,
-            "hz": 120
-},
-        {
-            "user": "Salstorm19",
-            "link": "https://www.youtube.com/watch?v=YEZ-WdkmWFo",
-            "percent": 100,
-            "hz": 165
-},
-        {
-            "user": "Alex_",
-            "link": "https://youtu.be/CrtncgO_SCY",
-            "percent": 100,
-            "hz": 240
-},
-        {
-        "user": "HotNooB",
-        "link": "https://youtu.be/ASppOVYu-Qw",
-        "percent": 100,
-        "hz": 288
-}
-    ]
+	"id": 62463489,
+	"name": "Virtual Collapse",
+	"author": "TeamUprising",
+	"creators": [
+		"Mooshhh, Marcel, crashpancake2, akinawoo, RyzleSalt, Elliptic4l, Vyuu, HyperBlastz, MinusX, Sagascius, NogZ, Lexoop, MiniWheatDuo, OasisX, Tahsen, kakemancool, Nell, EyeOfTheStorm, Convie, Xenomorphs, Dominuus, Gizbro, BlasterRobotz, AirSavage, BySelling, ToastLord, BelonziK"
+	],
+	"verifier": "Floppy",
+	"verification": "https://www.youtube.com/watch?v=38o9tSrPxn0",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/rr-AdKQRgr8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/GidTP_8h46k",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Salstorm19",
+			"link": "https://www.youtube.com/watch?v=YEZ-WdkmWFo",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "Alex_",
+			"link": "https://youtu.be/CrtncgO_SCY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/ASppOVYu-Qw",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

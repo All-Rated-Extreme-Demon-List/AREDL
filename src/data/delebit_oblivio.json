@@ -1,30 +1,32 @@
 {
-    "id": 59134257,
-    "name": "Delebit Oblivio",
-    "author": "TeamSmokeWeed",
-    "creators": ["Olympic, Stubbypinata, G4lvatron, Soulsand, SpadeKilla17, Ticky, chaosxstream, K4ruta, Systile, KeiAs, Zhander, Mulpan, Sogogi, LioLeo, MDGFroid, Quitora"],
-    "verifier": "Dorami",
-    "verification": "https://www.youtube.com/watch?v=0qQkhSNIIaY",
-    "percentToQualify": 100,
-    "password": "697469",
-    "records": [
-    {
-            "user": "Hasik",
-            "link": "https://youtu.be/P8pGSJzCFv0",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/H4wkIZFY-Yk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BrowarKedawar",
-            "link": "https://youtu.be/7oBPAB0rdvg",
-            "percent": 100,
-            "hz": 240
-}
-    ]
+	"id": 59134257,
+	"name": "Delebit Oblivio",
+	"author": "TeamSmokeWeed",
+	"creators": [
+		"Olympic, Stubbypinata, G4lvatron, Soulsand, SpadeKilla17, Ticky, chaosxstream, K4ruta, Systile, KeiAs, Zhander, Mulpan, Sogogi, LioLeo, MDGFroid, Quitora"
+	],
+	"verifier": "Dorami",
+	"verification": "https://www.youtube.com/watch?v=0qQkhSNIIaY",
+	"percentToQualify": 100,
+	"password": "697469",
+	"records": [
+		{
+			"user": "Hasik",
+			"link": "https://youtu.be/P8pGSJzCFv0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/H4wkIZFY-Yk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BrowarKedawar",
+			"link": "https://youtu.be/7oBPAB0rdvg",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

@@ -1,113 +1,115 @@
 {
-    "id": 48843446,
-    "name": "Epsilon",
-    "author": "Team Proxima",
-    "creators": ["Drift, Eggnog, leo32601, Pennutoh, Bianox, Cosmicsabre, MaxiKD, SlimJim, Splash, Juhou, Lqah, SirHadoken, Hynaedon, Matterz, Vulcan, sqrl, Cybronaut, LeoCreatorX, Balloons, Jozhii"],
-    "verifier": "DiamondSplash",
-    "verification": "https://www.youtube.com/watch?v=LDVNlSVh2rw",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/io9DLm8r_bg",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=Q2hxDywa5tU&t=",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "KubeczekTV",
-            "link": "https://www.youtube.com/watch?v=tjFWrWkDzDc",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "meluwudy",
-            "link": "https://www.youtube.com/watch?v=AYw-qhpI-vU",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Fabricorn",
-            "link": "https://youtu.be/38lAH20qm0o",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BreadGuyGD",
-            "link": "https://www.youtube.com/watch?v=D03ZzBdjOHc",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/B2zKDqth-hU",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/GHyK5X4OsVM",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Locked",
-            "link": "https://youtu.be/AkSKTieU3D8",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Blathers",
-            "link": "https://youtu.be/l6eviR5LyKQ",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "StarXV",
-            "link": "https://youtu.be/kXvfQWWt2yI",
-            "percent": 100,
-            "hz": 180
-},
-        {
-            "user": "DJ1482",
-            "link": "https://youtu.be/tLBbEQKFJGM",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Keyoes",
-            "link": "https://youtu.be/3SqmDqPJK-M",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=dnacvavhPCA",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Gap2003",
-            "link": "https://www.youtube.com/watch?v=ojlkMkIwSJg",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=d6agk039R_E&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 60
-},
-{
-    "user": "Mamu Games",
-    "link": "https://youtu.be/Tdz04HrnEvk",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 48843446,
+	"name": "Epsilon",
+	"author": "Team Proxima",
+	"creators": [
+		"Drift, Eggnog, leo32601, Pennutoh, Bianox, Cosmicsabre, MaxiKD, SlimJim, Splash, Juhou, Lqah, SirHadoken, Hynaedon, Matterz, Vulcan, sqrl, Cybronaut, LeoCreatorX, Balloons, Jozhii"
+	],
+	"verifier": "DiamondSplash",
+	"verification": "https://www.youtube.com/watch?v=LDVNlSVh2rw",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/io9DLm8r_bg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=Q2hxDywa5tU&t=",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "KubeczekTV",
+			"link": "https://www.youtube.com/watch?v=tjFWrWkDzDc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "meluwudy",
+			"link": "https://www.youtube.com/watch?v=AYw-qhpI-vU",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Fabricorn",
+			"link": "https://youtu.be/38lAH20qm0o",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BreadGuyGD",
+			"link": "https://www.youtube.com/watch?v=D03ZzBdjOHc",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/B2zKDqth-hU",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/GHyK5X4OsVM",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Locked",
+			"link": "https://youtu.be/AkSKTieU3D8",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Blathers",
+			"link": "https://youtu.be/l6eviR5LyKQ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "StarXV",
+			"link": "https://youtu.be/kXvfQWWt2yI",
+			"percent": 100,
+			"hz": 180
+		},
+		{
+			"user": "DJ1482",
+			"link": "https://youtu.be/tLBbEQKFJGM",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Keyoes",
+			"link": "https://youtu.be/3SqmDqPJK-M",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=dnacvavhPCA",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Gap2003",
+			"link": "https://www.youtube.com/watch?v=ojlkMkIwSJg",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=d6agk039R_E&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Mamu Games",
+			"link": "https://youtu.be/Tdz04HrnEvk",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

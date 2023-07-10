@@ -1,35 +1,37 @@
 {
-    "id": 44472956,
-    "name": "Mecha Mayhem",
-    "author": "DreamEater",
-    "creators": ["DreamEater, DiscJoker, Pennutoh, Zanna83, nico99, Bianox, Altin, NotSucc, Poccottini, AvaKai, ISanEGFW, DryBones"],
-    "verifier": "BrianTheBurger",
-    "verification": "https://youtu.be/0lmLkpc-7Jo",
-    "percentToQualify": 100,
-    "records": [
-        {
-        "user": "TheyCallMeEvan",
-        "link": "https://youtu.be/JoiMd2AHgdU",
-        "percent": 100,
-        "hz": 240
-},
-{
-    "user": "BreadGuyGD",
-    "link": "https://www.youtube.com/watch?v=RusnhzrZ7YI",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "MobileBot",
-    "link": "https://youtu.be/O0zDBRwr4N0",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/5sUzN0rQh8c",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 44472956,
+	"name": "Mecha Mayhem",
+	"author": "DreamEater",
+	"creators": [
+		"DreamEater, DiscJoker, Pennutoh, Zanna83, nico99, Bianox, Altin, NotSucc, Poccottini, AvaKai, ISanEGFW, DryBones"
+	],
+	"verifier": "BrianTheBurger",
+	"verification": "https://youtu.be/0lmLkpc-7Jo",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/JoiMd2AHgdU",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "BreadGuyGD",
+			"link": "https://www.youtube.com/watch?v=RusnhzrZ7YI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "MobileBot",
+			"link": "https://youtu.be/O0zDBRwr4N0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/5sUzN0rQh8c",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

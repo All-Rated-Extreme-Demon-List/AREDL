@@ -1,17 +1,27 @@
 {
-    "id": 82544060,
-    "name": "Mayhem",
-    "author": "LordVadercraft",
-    "creators": ["Vernam","vit12","Synd","Konsi","DMSD","Sauzzeth","Enely","Thrasher","Vitchrose"],
-    "verifier": "LordVadercraft",
-    "verification": "https://www.youtube.com/watch?v=U6e6DD32noM",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Zoink",
-            "link": "https://youtu.be/QdUPwiwZqq0",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+	"id": 82544060,
+	"name": "Mayhem",
+	"author": "LordVadercraft",
+	"creators": [
+		"Vernam",
+		"vit12",
+		"Synd",
+		"Konsi",
+		"DMSD",
+		"Sauzzeth",
+		"Enely",
+		"Thrasher",
+		"Vitchrose"
+	],
+	"verifier": "LordVadercraft",
+	"verification": "https://www.youtube.com/watch?v=U6e6DD32noM",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/QdUPwiwZqq0",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

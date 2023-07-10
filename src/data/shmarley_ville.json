@@ -1,114 +1,114 @@
 {
-    "id": 81535535,
-    "name": "Shmarley Ville",
-    "author": "Renn241",
-    "creators": ["GhostVandalf, DrCuber, Renn241"],
-    "verifier": "Zipi",
-    "verification": "https://www.youtube.com/watch?v=a2SMT-dapYE",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records": [
-    {
-            "user": "Trees",
-            "link": "https://www.youtube.com/watch?v=NULPT2PoBwk&t=1s&ab_channel=Trees",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Didjimon",
-            "link": "https://youtu.be/K0OZ2zBdVRA",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Gecko",
-            "link": "https://youtu.be/IBi0RNuULl4",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Neir",
-            "link": "https://youtu.be/j2adxNLJbFU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "nei",
-            "link": "https://youtu.be/MCNGb-2AwTc",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=gqjIka545tA",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Nik14K",
-            "link": "https://youtu.be/xAhDdN1v8aA",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Wolvyy",
-            "link": "https://youtu.be/lImVuIvQ61A",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/TZhbi6XSCtA",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=OpblrTd6chA",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Hbg",
-            "link": "https://youtu.be/u2bkF6W1JA8",
-            "percent": 100,
-            "hz": 360
-},
-       {
-            "user": "lumi",
-            "link": "https://youtu.be/dzT6tSJwHIM",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Armani",
-            "link": "https://youtu.be/-HI5CxHGobI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "penpenliddy",
-            "link": "https://youtu.be/NmxfpUb7iCw",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "Robotic",
-            "link": "https://www.youtube.com/watch?v=ebXkNEQkrww&t",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "DoGGy",
-    "link": "https://www.youtube.com/watch?v=QpsNNg86XVE",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "lunaa",
-    "link": "https://drive.google.com/file/d/16K9yBhf-n_BGMSEh6J0cm-KsTSmGwZ8P/view?usp=drive_link",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 81535535,
+	"name": "Shmarley Ville",
+	"author": "Renn241",
+	"creators": ["GhostVandalf, DrCuber, Renn241"],
+	"verifier": "Zipi",
+	"verification": "https://www.youtube.com/watch?v=a2SMT-dapYE",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "Trees",
+			"link": "https://www.youtube.com/watch?v=NULPT2PoBwk&t=1s&ab_channel=Trees",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Didjimon",
+			"link": "https://youtu.be/K0OZ2zBdVRA",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Gecko",
+			"link": "https://youtu.be/IBi0RNuULl4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Neir",
+			"link": "https://youtu.be/j2adxNLJbFU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "nei",
+			"link": "https://youtu.be/MCNGb-2AwTc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=gqjIka545tA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Nik14K",
+			"link": "https://youtu.be/xAhDdN1v8aA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Wolvyy",
+			"link": "https://youtu.be/lImVuIvQ61A",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/TZhbi6XSCtA",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=OpblrTd6chA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Hbg",
+			"link": "https://youtu.be/u2bkF6W1JA8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/dzT6tSJwHIM",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Armani",
+			"link": "https://youtu.be/-HI5CxHGobI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "penpenliddy",
+			"link": "https://youtu.be/NmxfpUb7iCw",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "Robotic",
+			"link": "https://www.youtube.com/watch?v=ebXkNEQkrww&t",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DoGGy",
+			"link": "https://www.youtube.com/watch?v=QpsNNg86XVE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lunaa",
+			"link": "https://drive.google.com/file/d/16K9yBhf-n_BGMSEh6J0cm-KsTSmGwZ8P/view?usp=drive_link",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

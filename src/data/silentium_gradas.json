@@ -1,60 +1,62 @@
 {
-    "id": 45626173,
-    "name": "Silentium Gradas",
-    "author": "Stormfly",
-    "creators": ["Metalface221, Kugelblitz, Zhander, noice, Shocksidian, Aquatias, KaotikJumper, Blaireswip"],
-    "verifier": "Stormfly",
-    "verification": "https://www.youtube.com/watch?v=pu4m4mpRlhI",
-    "percentToQualify": 100,
-    "password": "180511",
-    "records": [
-    {
-            "user": "Bamvie",
-            "link": "https://youtu.be/-oUVLH_r8S8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Gecko",
-            "link": "https://youtu.be/tUT8plUkoLs",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/KLXG1BStXW8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BreadGuyGD",
-            "link": "https://www.youtube.com/watch?v=GlZvN5OJBWg",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/3TfXrVLRai8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "N0ctaXI",
-            "link": "https://www.youtube.com/watch?v=z6Q5yRbaX8o",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "clnrvl",
-            "link": "https://youtu.be/BhAGsNA85oE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-        "user": "woi",
-        "link": "https://www.youtube.com/watch?v=QEr0a71zUa4&t=104s&ab_channel=woi",
-        "percent": 100,
-        "hz": 360
-}
-    ]
+	"id": 45626173,
+	"name": "Silentium Gradas",
+	"author": "Stormfly",
+	"creators": [
+		"Metalface221, Kugelblitz, Zhander, noice, Shocksidian, Aquatias, KaotikJumper, Blaireswip"
+	],
+	"verifier": "Stormfly",
+	"verification": "https://www.youtube.com/watch?v=pu4m4mpRlhI",
+	"percentToQualify": 100,
+	"password": "180511",
+	"records": [
+		{
+			"user": "Bamvie",
+			"link": "https://youtu.be/-oUVLH_r8S8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Gecko",
+			"link": "https://youtu.be/tUT8plUkoLs",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/KLXG1BStXW8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BreadGuyGD",
+			"link": "https://www.youtube.com/watch?v=GlZvN5OJBWg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/3TfXrVLRai8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "N0ctaXI",
+			"link": "https://www.youtube.com/watch?v=z6Q5yRbaX8o",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "clnrvl",
+			"link": "https://youtu.be/BhAGsNA85oE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "woi",
+			"link": "https://www.youtube.com/watch?v=QEr0a71zUa4&t=104s&ab_channel=woi",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

@@ -1,29 +1,54 @@
 {
-    "id": 69685815,
-    "name": "Sonic Wave Infinity",
-    "author": "APTeamOfficial",
-    "creators": ["Zimnior12","Salamander","playerwombat","Luisluigi","Lilium11","Brittank88","Reunomi","Incakola","Destez","Cynik","Nahuel","Pocke","Cybronaut","Zerosr","Creeper4","ViPriN","Cyclic","Tribar","GD Endy","Davphla","Nickalopogas","Requiem","TeslaX","Days of Thunder"],
-    "verifier": "Xanii",
-    "verification": "https://www.youtube.com/watch?v=C3-l_fFikpQ",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Zoink",
-            "link": "https://youtu.be/rE07Vb7iQjc",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/33FiAyjtQwM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Dan2D",
-            "link": "https://www.twitch.tv/videos/1538995925",
-            "percent": 100,
-            "hz": 240
-}
-    ]
+	"id": 69685815,
+	"name": "Sonic Wave Infinity",
+	"author": "APTeamOfficial",
+	"creators": [
+		"Zimnior12",
+		"Salamander",
+		"playerwombat",
+		"Luisluigi",
+		"Lilium11",
+		"Brittank88",
+		"Reunomi",
+		"Incakola",
+		"Destez",
+		"Cynik",
+		"Nahuel",
+		"Pocke",
+		"Cybronaut",
+		"Zerosr",
+		"Creeper4",
+		"ViPriN",
+		"Cyclic",
+		"Tribar",
+		"GD Endy",
+		"Davphla",
+		"Nickalopogas",
+		"Requiem",
+		"TeslaX",
+		"Days of Thunder"
+	],
+	"verifier": "Xanii",
+	"verification": "https://www.youtube.com/watch?v=C3-l_fFikpQ",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/rE07Vb7iQjc",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/33FiAyjtQwM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Dan2D",
+			"link": "https://www.twitch.tv/videos/1538995925",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

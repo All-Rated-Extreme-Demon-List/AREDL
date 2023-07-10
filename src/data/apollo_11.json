@@ -1,41 +1,41 @@
 {
-    "id": 83164497,
-    "name": "Apollo 11",
-    "author": "nasgubb",
-    "creators": [],
-    "verifier": "Floppy",
-    "verification": "https://www.youtube.com/watch?v=r9SkrrOecpY",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Didjimon",
-            "link": "https://youtu.be/ka40MxUYh3c",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Wolvyy",
-            "link": "https://www.youtube.com/watch?v=onjnE-dHvAM&list=PLU1NI3BRQCmo8EEJJV0CYtSUwAcKBPYGp&index=29&pp=gAQBiAQB",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Draconyx",
-            "link": "https://youtu.be/yW5v1svw3rM",
-            "percent": 100,
-            "hz": 165
-},
-        {
-            "user": "BrowarKedawar",
-            "link": "https://youtu.be/vaCawIjoGHc",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=YPxGidnh49U",
-    "percent": 100,
-    "hz": 144
-}
-    ]
+	"id": 83164497,
+	"name": "Apollo 11",
+	"author": "nasgubb",
+	"creators": [],
+	"verifier": "Floppy",
+	"verification": "https://www.youtube.com/watch?v=r9SkrrOecpY",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Didjimon",
+			"link": "https://youtu.be/ka40MxUYh3c",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Wolvyy",
+			"link": "https://www.youtube.com/watch?v=onjnE-dHvAM&list=PLU1NI3BRQCmo8EEJJV0CYtSUwAcKBPYGp&index=29&pp=gAQBiAQB",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Draconyx",
+			"link": "https://youtu.be/yW5v1svw3rM",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "BrowarKedawar",
+			"link": "https://youtu.be/vaCawIjoGHc",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=YPxGidnh49U",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

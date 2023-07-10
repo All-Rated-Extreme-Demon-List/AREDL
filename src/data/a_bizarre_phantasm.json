@@ -1,78 +1,80 @@
 {
-    "id": 16023141,
-    "name": "A Bizarre Phantasm",
-    "author": "TeamN2",
-    "creators": ["Aeidux, Koreaqwer, Motu, WOOGI1411, ZenthicAlpha, Zelda, Ryan LC, Luneth, Minus, Reple, Miner, Hermes, RedDragon"],
-    "verifier": "GoodSmile",
-    "verification": "https://www.youtube.com/watch?v=ivC0NJVPAwo",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records": [
-    {
-            "user": "Fruitsalad",
-            "link": "https://www.youtube.com/watch?v=7ETKzpi54iM",
-            "percent": 100,
-            "hz": 144
-},
-{
-            "user": "Willow",
-            "link": "https://youtu.be/1gc3e4bfkgs",
-            "percent": 100,
-            "hz": 144
-},
-{
-            "user": "Trehoeje",
-            "link": "https://youtu.be/Xh6sUl1f2CE",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "ThePastaNebula",
-            "link": "https://youtu.be/68g5q6oadb4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/VDpbC2i5Zo0",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=hfjyWoI4U2g&ab_channel=Bleamer",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Blitzer",
-            "link": "https://www.youtube.com/watch?v=Txbzf8T0ECE",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Aleczd",
-            "link": "https://www.youtube.com/watch?v=4DvgpFswWbo&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=35",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "StrangematterGD",
-    "link": "https://youtu.be/BKYoYf1O3Y4",
-    "percent": 100,
-    "hz": 360
-},
-        {
-            "user": "haxolotl",
-            "link": "https://www.youtube.com/watch?v=0MkxLbewRS8",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "xRac30x",
-    "link": "https://youtu.be/gENXi14A1eQ",
-    "percent": 100,
-    "hz": 300
-}
-    ]
+	"id": 16023141,
+	"name": "A Bizarre Phantasm",
+	"author": "TeamN2",
+	"creators": [
+		"Aeidux, Koreaqwer, Motu, WOOGI1411, ZenthicAlpha, Zelda, Ryan LC, Luneth, Minus, Reple, Miner, Hermes, RedDragon"
+	],
+	"verifier": "GoodSmile",
+	"verification": "https://www.youtube.com/watch?v=ivC0NJVPAwo",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "Fruitsalad",
+			"link": "https://www.youtube.com/watch?v=7ETKzpi54iM",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Willow",
+			"link": "https://youtu.be/1gc3e4bfkgs",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Trehoeje",
+			"link": "https://youtu.be/Xh6sUl1f2CE",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "ThePastaNebula",
+			"link": "https://youtu.be/68g5q6oadb4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/VDpbC2i5Zo0",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=hfjyWoI4U2g&ab_channel=Bleamer",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Blitzer",
+			"link": "https://www.youtube.com/watch?v=Txbzf8T0ECE",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Aleczd",
+			"link": "https://www.youtube.com/watch?v=4DvgpFswWbo&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=35",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "StrangematterGD",
+			"link": "https://youtu.be/BKYoYf1O3Y4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "haxolotl",
+			"link": "https://www.youtube.com/watch?v=0MkxLbewRS8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "xRac30x",
+			"link": "https://youtu.be/gENXi14A1eQ",
+			"percent": 100,
+			"hz": 300
+		}
+	]
 }

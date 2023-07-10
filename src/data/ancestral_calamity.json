@@ -1,29 +1,31 @@
 {
-    "id": 48591102,
-    "name": "Ancestral Calamity",
-    "author": "MrSpaghetti",
-    "creators": ["Davphla, knobbelboy, Gabs, MrSpaghetti, ZephiroX, Mezzo, Yakimaru, Tartofrez, Rapace, Isane, F5Night, Verbet, Ross12344, Lujian, Nosi, Ji, Refruck, Wolfsmen, GiaMMix, Amateurre, V3xer, Kena, DarkStyle, Arcania"],
-    "verifier": "MrSpaghetti",
-    "verification": "https://www.youtube.com/watch?v=L2cyjYUYeXM",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=TOlQcvaNL_E",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/MJTyr3fC_ig",
-            "percent": 100,
-            "hz": 300
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=EA-T2cr76V4",
-    "percent": 100,
-    "hz": 144
-}
-    ]
+	"id": 48591102,
+	"name": "Ancestral Calamity",
+	"author": "MrSpaghetti",
+	"creators": [
+		"Davphla, knobbelboy, Gabs, MrSpaghetti, ZephiroX, Mezzo, Yakimaru, Tartofrez, Rapace, Isane, F5Night, Verbet, Ross12344, Lujian, Nosi, Ji, Refruck, Wolfsmen, GiaMMix, Amateurre, V3xer, Kena, DarkStyle, Arcania"
+	],
+	"verifier": "MrSpaghetti",
+	"verification": "https://www.youtube.com/watch?v=L2cyjYUYeXM",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=TOlQcvaNL_E",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/MJTyr3fC_ig",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=EA-T2cr76V4",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

@@ -1,77 +1,77 @@
 {
-    "id": 56782662,
-    "name": "Macabre",
-    "author": "ZephiroX",
-    "creators": ["ZephiroX","Requiem"],
-    "verifier": "MrSpaghetti",
-    "verification": "https://www.youtube.com/watch?v=b2kGqEY8E1Q",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/wlOXxIrOLck",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Bamvie",
-            "link": "https://youtu.be/ndrvl_FfJBo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "nei",
-            "link": "https://youtu.be/GW-2S7zbT40",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=VtiB06dFpVc",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/q4lF31q8Tk8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/twsaktERDR4",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/cTFsi1NSJO8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Oceliveth",
-            "link": "https://youtu.be/BAoH5moMvq4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Hbg",
-            "link": "https://youtu.be/JHhWCR3Aneg",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Dan2D",
-            "link": "https://youtu.be/E2mHZfx3SXE",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "ImOneOfThem",
-            "link": "https://youtu.be/TF-i8jRXyxQ",
-            "percent": 100,
-            "hz": 300
-}
-    ]
+	"id": 56782662,
+	"name": "Macabre",
+	"author": "ZephiroX",
+	"creators": ["ZephiroX", "Requiem"],
+	"verifier": "MrSpaghetti",
+	"verification": "https://www.youtube.com/watch?v=b2kGqEY8E1Q",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/wlOXxIrOLck",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bamvie",
+			"link": "https://youtu.be/ndrvl_FfJBo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "nei",
+			"link": "https://youtu.be/GW-2S7zbT40",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=VtiB06dFpVc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/q4lF31q8Tk8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/twsaktERDR4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/cTFsi1NSJO8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Oceliveth",
+			"link": "https://youtu.be/BAoH5moMvq4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Hbg",
+			"link": "https://youtu.be/JHhWCR3Aneg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Dan2D",
+			"link": "https://youtu.be/E2mHZfx3SXE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "ImOneOfThem",
+			"link": "https://youtu.be/TF-i8jRXyxQ",
+			"percent": 100,
+			"hz": 300
+		}
+	]
 }

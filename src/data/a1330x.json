@@ -1,71 +1,71 @@
 {
-    "id": 78374157,
-    "name": "1330X",
-    "author": "ewop",
-    "creators": ["ewop, GrenadeOfTacos, and more"],
-    "verifier": "knoeppel",
-    "verification": "https://www.youtube.com/watch?v=cLodtmmgm8g",
-    "percentToQualify": 100,
-    "records": [
-     {
-            "user": "Zenta",
-            "link": "https://www.youtube.com/watch?v=CbVpM5X6tHk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "DarkMatt",
-            "link": "https://www.youtube.com/watch?v=5Lwk_6KDlAI&t=6s&ab_channel=DarkMatt",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "SamtheFman",
-            "link": "https://www.youtube.com/watch?v=L016tBumMPY",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/D0t1N11-BZg",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/fdaEWEkqCQw",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=W-hXYyGPNqw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/7N6oaXljb5E",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "NiceCrunchy",
-            "link": "https://www.youtube.com/watch?v=mlqovBxIRXE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-        "user": "HotNooB",
-        "link": "https://youtu.be/ZgZhw3Xh76A",
-        "percent": 100,
-        "hz": 288
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/TrIIeeB23no",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 78374157,
+	"name": "1330X",
+	"author": "ewop",
+	"creators": ["ewop, GrenadeOfTacos, and more"],
+	"verifier": "knoeppel",
+	"verification": "https://www.youtube.com/watch?v=cLodtmmgm8g",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Zenta",
+			"link": "https://www.youtube.com/watch?v=CbVpM5X6tHk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DarkMatt",
+			"link": "https://www.youtube.com/watch?v=5Lwk_6KDlAI&t=6s&ab_channel=DarkMatt",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "SamtheFman",
+			"link": "https://www.youtube.com/watch?v=L016tBumMPY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/D0t1N11-BZg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/fdaEWEkqCQw",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=W-hXYyGPNqw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/7N6oaXljb5E",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "NiceCrunchy",
+			"link": "https://www.youtube.com/watch?v=mlqovBxIRXE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/ZgZhw3Xh76A",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/TrIIeeB23no",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

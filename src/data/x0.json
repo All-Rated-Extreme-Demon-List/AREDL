@@ -1,23 +1,23 @@
 {
-    "id": 86795510,
-    "name": "X0",
-    "author": "Mulpan",
-    "creators": ["Mulpan, InterChange"],
-    "verifier": "MinYong",
-    "verification": "https://www.youtube.com/watch?v=zIcbuseHUlY",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/nHO6DE39_C4",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/u0dSj-NVAHc",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 86795510,
+	"name": "X0",
+	"author": "Mulpan",
+	"creators": ["Mulpan, InterChange"],
+	"verifier": "MinYong",
+	"verification": "https://www.youtube.com/watch?v=zIcbuseHUlY",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/nHO6DE39_C4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/u0dSj-NVAHc",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

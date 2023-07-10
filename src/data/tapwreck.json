@@ -1,23 +1,23 @@
 {
-    "id": 58306889,
-    "name": "Tapwreck",
-    "author": "MrLorenzo",
-    "creators": [],
-    "verifier": "Kapinapi",
-    "verification": "https://www.youtube.com/watch?v=w5qI2iukPzI",
-    "percentToQualify": 100,
-    "records": [
-{
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/9zwI6_L9Goc",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "Blathers",
-            "link": "https://youtu.be/0ac-3Bo6AR8",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 58306889,
+	"name": "Tapwreck",
+	"author": "MrLorenzo",
+	"creators": [],
+	"verifier": "Kapinapi",
+	"verification": "https://www.youtube.com/watch?v=w5qI2iukPzI",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/9zwI6_L9Goc",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "Blathers",
+			"link": "https://youtu.be/0ac-3Bo6AR8",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

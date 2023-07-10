@@ -1,162 +1,161 @@
 {
-    "id": 68688849,
-    "name": "Sonic Wave Rebirth",
-    "author": "Serponge",
-    "creators": ["Funnygame","Cyclic","Serponge"],
-    "verifier": "Moosh",
-    "verification": "https://www.youtube.com/watch?v=wXxPNaqTZKU",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "skyv",
-            "link": "https://youtu.be/d-V3FfrzAVA",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "KubeczekTV",
-            "link": "https://www.youtube.com/watch?v=uGx2xSkac4w",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=y47OzeWKyXY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "xRiver007",
-            "link": "https://www.youtube.com/watch?v=hd1EUz1eJzs",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Magmeta",
-            "link": "https://youtu.be/yKuapdv9PDY",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Rapid",
-            "link": "https://www.youtube.com/watch?v=uU5mYqcq2sY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "mastern",
-            "link": "https://youtu.be/E5lYcV_ODuY",
-            "percent": 100,
-            "hz": 180
-},
-        {
-            "user": "N0ctaXI",
-            "link": "https://www.youtube.com/watch?v=N5op5-cu3SU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "darkmatt",
-            "link": "https://www.youtube.com/watch?v=dieGagDahgU&ab_channel=DarkMatt",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/2YtwvxZbDNg",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "nei",
-            "link": "https://youtu.be/enHnLmZMAjU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/Z8m9gjfgHwo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Denni",
-            "link": "https://www.youtube.com/watch?v=Ny1Qn7WKu6c",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/5OPSYf2uV6k",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Abr4h4M",
-            "link": "https://youtu.be/PcjgqcsWinA",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/zM5Mf5s5nD4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/yCOWGqisRxg",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BANA1411",
-            "link": "https://youtu.be/V3W3zjjtJO4",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "psychotix",
-            "link": "https://www.youtube.com/watch?v=8tD6HDImXNY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "alienxs",
-            "link": "https://www.youtube.com/watch?v=YYdUpuwSrTU&t=129s&ab_channel=alienxs",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "woi",
-            "link": "https://www.youtube.com/watch?v=ymKrj9RNe0s&t=20s&ab_channel=woi",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Dan2D",
-            "link": "https://youtu.be/kJZa5dJ-GJg",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Razlan",
-            "link": "https://youtu.be/TtBxftUTsWI",
-            "percent": 100,
-            "hz": 288
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/oh8ES1zmhMA",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "mac",
-    "link": "https://www.youtube.com/watch?v=Y-gtM3HdGAw&list=PLrdT23GnwtbhfgWoZcjnLO2ypfY9MJJj2&index=7&pp=gAQBiAQB",
-    "percent": 100,
-    "hz": 360
-}
-
-    ]
+	"id": 68688849,
+	"name": "Sonic Wave Rebirth",
+	"author": "Serponge",
+	"creators": ["Funnygame", "Cyclic", "Serponge"],
+	"verifier": "Moosh",
+	"verification": "https://www.youtube.com/watch?v=wXxPNaqTZKU",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "skyv",
+			"link": "https://youtu.be/d-V3FfrzAVA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "KubeczekTV",
+			"link": "https://www.youtube.com/watch?v=uGx2xSkac4w",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=y47OzeWKyXY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "xRiver007",
+			"link": "https://www.youtube.com/watch?v=hd1EUz1eJzs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Magmeta",
+			"link": "https://youtu.be/yKuapdv9PDY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Rapid",
+			"link": "https://www.youtube.com/watch?v=uU5mYqcq2sY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "mastern",
+			"link": "https://youtu.be/E5lYcV_ODuY",
+			"percent": 100,
+			"hz": 180
+		},
+		{
+			"user": "N0ctaXI",
+			"link": "https://www.youtube.com/watch?v=N5op5-cu3SU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "darkmatt",
+			"link": "https://www.youtube.com/watch?v=dieGagDahgU&ab_channel=DarkMatt",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/2YtwvxZbDNg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "nei",
+			"link": "https://youtu.be/enHnLmZMAjU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/Z8m9gjfgHwo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Denni",
+			"link": "https://www.youtube.com/watch?v=Ny1Qn7WKu6c",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/5OPSYf2uV6k",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Abr4h4M",
+			"link": "https://youtu.be/PcjgqcsWinA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/zM5Mf5s5nD4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/yCOWGqisRxg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BANA1411",
+			"link": "https://youtu.be/V3W3zjjtJO4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "psychotix",
+			"link": "https://www.youtube.com/watch?v=8tD6HDImXNY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "alienxs",
+			"link": "https://www.youtube.com/watch?v=YYdUpuwSrTU&t=129s&ab_channel=alienxs",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "woi",
+			"link": "https://www.youtube.com/watch?v=ymKrj9RNe0s&t=20s&ab_channel=woi",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Dan2D",
+			"link": "https://youtu.be/kJZa5dJ-GJg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Razlan",
+			"link": "https://youtu.be/TtBxftUTsWI",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/oh8ES1zmhMA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "mac",
+			"link": "https://www.youtube.com/watch?v=Y-gtM3HdGAw&list=PLrdT23GnwtbhfgWoZcjnLO2ypfY9MJJj2&index=7&pp=gAQBiAQB",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

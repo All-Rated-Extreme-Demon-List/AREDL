@@ -1,29 +1,29 @@
 {
-    "id": 80252396,
-    "name": "OneAttempt",
-    "author": "TheRealXFuture",
-    "creators": [],
-    "verifier": "mbed",
-    "verification": "https://www.youtube.com/watch?v=RrniFwaxYO0",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "Seic",
-            "link": "https://www.youtube.com/watch?v=G8EemtcnW5U",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "saalt",
-            "link": "https://www.youtube.com/watch?v=0W139jby_hY",
-            "percent": 100,
-            "hz": 150
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=3l1MuWj19x8",
-            "percent": 100,
-            "hz": 240
-}
-    ]
+	"id": 80252396,
+	"name": "OneAttempt",
+	"author": "TheRealXFuture",
+	"creators": [],
+	"verifier": "mbed",
+	"verification": "https://www.youtube.com/watch?v=RrniFwaxYO0",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Seic",
+			"link": "https://www.youtube.com/watch?v=G8EemtcnW5U",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "saalt",
+			"link": "https://www.youtube.com/watch?v=0W139jby_hY",
+			"percent": 100,
+			"hz": 150
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=3l1MuWj19x8",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

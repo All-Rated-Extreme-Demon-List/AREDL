@@ -1,41 +1,41 @@
 {
-    "id": 78164953,
-    "name": "Shutdown",
-    "author": "OliSW",
-    "creators": [],
-    "verifier": "MiniShoey",
-    "verification": "https://www.youtube.com/watch?v=A-A6_ybDY2I",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "clncrvl",
-            "link": "https://youtu.be/YFhhQRFqKBI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/q1j1SlzOabI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "penpenliddy",
-            "link": "https://youtu.be/ePsjdMpYy3I",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "Oceliveth",
-            "link": "https://youtube.com/watch?v=u4Ov1dUWRrE&feature=share8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "ActionninjaT",
-            "link": "https://youtu.be/ReFhX0uGMPI",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 78164953,
+	"name": "Shutdown",
+	"author": "OliSW",
+	"creators": [],
+	"verifier": "MiniShoey",
+	"verification": "https://www.youtube.com/watch?v=A-A6_ybDY2I",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "clncrvl",
+			"link": "https://youtu.be/YFhhQRFqKBI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/q1j1SlzOabI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "penpenliddy",
+			"link": "https://youtu.be/ePsjdMpYy3I",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "Oceliveth",
+			"link": "https://youtube.com/watch?v=u4Ov1dUWRrE&feature=share8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ActionninjaT",
+			"link": "https://youtu.be/ReFhX0uGMPI",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

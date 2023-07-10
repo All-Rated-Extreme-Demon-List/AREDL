@@ -1,18 +1,18 @@
 {
-    "id": 59270436,
-    "name": "Tempered Steel",
-    "author": "ItsHybrid",
-    "creators": [],
-    "verifier": "Rainstorm",
-    "verification": "https://www.youtube.com/watch?v=hnLrZ_vRJUM",
-    "percentToQualify": 100,
-    "password": "251326",
-    "records": [
-        {
-            "user": "Seic",
-            "link": "https://www.youtube.com/watch?v=Kcg9hGS5-jc&list=PLiG4gb2hm-gJNfg3fwVAKA0upBU9UHKbT",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 59270436,
+	"name": "Tempered Steel",
+	"author": "ItsHybrid",
+	"creators": [],
+	"verifier": "Rainstorm",
+	"verification": "https://www.youtube.com/watch?v=hnLrZ_vRJUM",
+	"percentToQualify": 100,
+	"password": "251326",
+	"records": [
+		{
+			"user": "Seic",
+			"link": "https://www.youtube.com/watch?v=Kcg9hGS5-jc&list=PLiG4gb2hm-gJNfg3fwVAKA0upBU9UHKbT",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

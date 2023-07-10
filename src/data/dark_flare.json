@@ -1,65 +1,67 @@
 {
-    "id": 48942548,
-    "name": "Dark Flare",
-    "author": "KeiAs",
-    "creators": ["Mulpan, InterChange, DarkBoshy, CrePusCule, Nisha, DreamerZ, Molds, Kurai Yonaka, DarkEvan, DEMN, Soulwinds, KeiAs, MDGFroid, Estachi, Trolla, Dominator, CowMeat, Quitora, Moonfox, Soulsand, Buddy365, Ticky, Cenos, Sikatsuka, ArinGD"],
-    "verifier": "Plusxenon",
-    "verification": "https://www.youtube.com/watch?v=Pb8GVDjiiQQ",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=1Cw3frK7Y94&list=PLFWp6-KM8S5qeHamheZVigLPJt5XORUcN&index=15",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "iRaily",
-            "link": "https://youtu.be/K7bkCRJdnxs",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=qhi7PE_9PL0",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Clara",
-            "link": "https://www.youtube.com/watch?v=onH3LN35YGU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/QQKdvdi8CcI",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/M5o3tGtF-4w",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=ayJRIgKa9kw",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/sF65J3S-BHU",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/jK077amnDOU",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 48942548,
+	"name": "Dark Flare",
+	"author": "KeiAs",
+	"creators": [
+		"Mulpan, InterChange, DarkBoshy, CrePusCule, Nisha, DreamerZ, Molds, Kurai Yonaka, DarkEvan, DEMN, Soulwinds, KeiAs, MDGFroid, Estachi, Trolla, Dominator, CowMeat, Quitora, Moonfox, Soulsand, Buddy365, Ticky, Cenos, Sikatsuka, ArinGD"
+	],
+	"verifier": "Plusxenon",
+	"verification": "https://www.youtube.com/watch?v=Pb8GVDjiiQQ",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=1Cw3frK7Y94&list=PLFWp6-KM8S5qeHamheZVigLPJt5XORUcN&index=15",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "iRaily",
+			"link": "https://youtu.be/K7bkCRJdnxs",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=qhi7PE_9PL0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Clara",
+			"link": "https://www.youtube.com/watch?v=onH3LN35YGU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/QQKdvdi8CcI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/M5o3tGtF-4w",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=ayJRIgKa9kw",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/sF65J3S-BHU",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/jK077amnDOU",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

@@ -1,29 +1,45 @@
 {
-    "id": 58673581,
-    "name": "Kenos",
-    "author": "npesta",
-    "creators": ["Spectex","Pennutoh","Bianox","Lqah","Krampux","Terron","Splash","Salaxium","nikroplays","Zimnior12","Eclipsed","SlimJim","ChiefFlurry","Endlevel","Noobas"],
-    "verifier": "npesta",
-    "verification": "https://www.youtube.com/watch?v=Bs1kVySdUtI",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Zoink",
-            "link": "https://youtu.be/xvAZYXr5Epk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "piesy",
-            "link": "https://www.youtube.com/watch?v=zBhDazSr9gw",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=HX4_SHSh4xw&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 58673581,
+	"name": "Kenos",
+	"author": "npesta",
+	"creators": [
+		"Spectex",
+		"Pennutoh",
+		"Bianox",
+		"Lqah",
+		"Krampux",
+		"Terron",
+		"Splash",
+		"Salaxium",
+		"nikroplays",
+		"Zimnior12",
+		"Eclipsed",
+		"SlimJim",
+		"ChiefFlurry",
+		"Endlevel",
+		"Noobas"
+	],
+	"verifier": "npesta",
+	"verification": "https://www.youtube.com/watch?v=Bs1kVySdUtI",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/xvAZYXr5Epk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "piesy",
+			"link": "https://www.youtube.com/watch?v=zBhDazSr9gw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=HX4_SHSh4xw&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

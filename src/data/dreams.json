@@ -1,17 +1,17 @@
 {
-    "id": 85052828,
-    "name": "Dreams",
-    "author": "Kapycta999",
-    "creators": [],
-    "verifier": "Almohadaless",
-    "verification": "https://www.youtube.com/watch?v=ekBKOmjk0E4",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=dSeMMwF1Sb0",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 85052828,
+	"name": "Dreams",
+	"author": "Kapycta999",
+	"creators": [],
+	"verifier": "Almohadaless",
+	"verification": "https://www.youtube.com/watch?v=ekBKOmjk0E4",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=dSeMMwF1Sb0",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

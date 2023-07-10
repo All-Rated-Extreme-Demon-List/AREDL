@@ -1,35 +1,58 @@
 {
-    "id": 58355141,
-    "name": "Calculator Core",
-    "author": "Walroose",
-    "creators": ["CairoX","CrankytheHuman","Sheep","HelpegasuS","Cytokinesis","Zero","Sedgehog","Isane","Chuckgamer1","Realvet","Spectex","Yoonsr","Xaren","Walroose","tolstyh","Brittank88","Zest","Voltrix","Zylenox","StarkytheSalad","Cryo","Acnologia"],
-    "verifier": "swiborg",
-    "verification": "https://www.youtube.com/watch?v=YzjsxJtS2pE",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Fabricorn",
-            "link": "https://youtu.be/CLRwYeQmObY",
-            "percent": 100,
-            "hz": 360
-    },
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/mXvQzu1YR6Y",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=SNJ1VgN44M8",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=m88AgLux9Eo&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 58355141,
+	"name": "Calculator Core",
+	"author": "Walroose",
+	"creators": [
+		"CairoX",
+		"CrankytheHuman",
+		"Sheep",
+		"HelpegasuS",
+		"Cytokinesis",
+		"Zero",
+		"Sedgehog",
+		"Isane",
+		"Chuckgamer1",
+		"Realvet",
+		"Spectex",
+		"Yoonsr",
+		"Xaren",
+		"Walroose",
+		"tolstyh",
+		"Brittank88",
+		"Zest",
+		"Voltrix",
+		"Zylenox",
+		"StarkytheSalad",
+		"Cryo",
+		"Acnologia"
+	],
+	"verifier": "swiborg",
+	"verification": "https://www.youtube.com/watch?v=YzjsxJtS2pE",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Fabricorn",
+			"link": "https://youtu.be/CLRwYeQmObY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/mXvQzu1YR6Y",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=SNJ1VgN44M8",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=m88AgLux9Eo&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

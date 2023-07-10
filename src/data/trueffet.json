@@ -1,36 +1,36 @@
 {
-    "id": 71434979,
-    "name": "Trueffet",
-    "author": "SyQual",
-    "creators": ["SyQual","Rainstorm"],
-    "verifier": "Baeru",
-    "verification": "https://www.youtube.com/watch?v=yHESkazVD4Q",
-    "percentToQualify": 100,
-    "password": "210716",
-    "records": [
-    {
-            "user": "Ktunn",
-            "link": "https://youtu.be/rQH8fzZUmEU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Denni",
-            "link": "https://youtu.be/O_3zNmZQpHw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/yE3K46m7gI4",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=QvUM3RFwGxw&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 71434979,
+	"name": "Trueffet",
+	"author": "SyQual",
+	"creators": ["SyQual", "Rainstorm"],
+	"verifier": "Baeru",
+	"verification": "https://www.youtube.com/watch?v=yHESkazVD4Q",
+	"percentToQualify": 100,
+	"password": "210716",
+	"records": [
+		{
+			"user": "Ktunn",
+			"link": "https://youtu.be/rQH8fzZUmEU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Denni",
+			"link": "https://youtu.be/O_3zNmZQpHw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/yE3K46m7gI4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=QvUM3RFwGxw&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

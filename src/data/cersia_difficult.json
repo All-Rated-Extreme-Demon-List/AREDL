@@ -1,41 +1,41 @@
 {
-    "id": 74840882,
-    "name": "Cersia Difficult",
-    "author": "Cersia",
-    "creators": ["kyder, Cersia"],
-    "verifier": "Cersia",
-    "verification": "https://www.youtube.com/watch?v=8Vi_wD2wp-w",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "iiLogan",
-            "link": "https://youtu.be/VHnx56VA2Q4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Neir",
-            "link": "https://youtu.be/D9dZe4r0C2Q",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/ayqMr-PDRdY",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Draconyx",
-            "link": "https://youtu.be/rFgKlndLng4",
-            "percent": 100,
-            "hz": 330
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/C5CZ1OrXj7E",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 74840882,
+	"name": "Cersia Difficult",
+	"author": "Cersia",
+	"creators": ["kyder, Cersia"],
+	"verifier": "Cersia",
+	"verification": "https://www.youtube.com/watch?v=8Vi_wD2wp-w",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "iiLogan",
+			"link": "https://youtu.be/VHnx56VA2Q4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Neir",
+			"link": "https://youtu.be/D9dZe4r0C2Q",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/ayqMr-PDRdY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Draconyx",
+			"link": "https://youtu.be/rFgKlndLng4",
+			"percent": 100,
+			"hz": 330
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/C5CZ1OrXj7E",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

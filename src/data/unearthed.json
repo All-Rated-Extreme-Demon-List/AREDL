@@ -1,84 +1,86 @@
 {
-    "id": 50833396,
-    "name": "Unearthed",
-    "author": "YakobNugget",
-    "creators": ["JacobRoso, YakobNugget, Luisluigi, MaxiKD, Tartofrez, Onnikonna, JaoDay, iNubble, TheTrueEclipse, GDSkele, Syberian, Alecast, Sequex, Lipz, Arceus4, Konsi, PotatoBaby, Voltex, Wolfking47"],
-    "verifier": "npesta",
-    "verification": "https://www.youtube.com/watch?v=yvR454BuffE",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Whacka",
-            "link": "https://youtu.be/ahl-bONiCGU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "raco",
-            "link": "https://www.youtube.com/watch?v=mqQfa1ncc4w&ab_channel=raco",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "GYT",
-            "link": "https://www.youtube.com/watch?v=-pHXQYK6ANw&t=228s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/uQzYBTrOHQ4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "FuzzyStorm23",
-            "link": "https://www.youtube.com/watch?v=_7jhgG6TOGc&t=10s",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=a0qnjgtIarg",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Blathers",
-            "link": "https://www.twitch.tv/videos/513744452",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=BGVXgH_5y4M",
-    "percent": 100,
-    "hz": 144
-},
-        {
-            "user": "Bonezizdum",
-            "link": "https://youtu.be/HbhwX9oNBmo",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-},
-{
-    "user": "DoGGy",
-    "link": "https://www.youtube.com/watch?v=WeGR6ME5OCA",
-    "percent": 100,
-    "hz": 280
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/9Y0qb9oSzJw",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/BNkJBp66SfA",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 50833396,
+	"name": "Unearthed",
+	"author": "YakobNugget",
+	"creators": [
+		"JacobRoso, YakobNugget, Luisluigi, MaxiKD, Tartofrez, Onnikonna, JaoDay, iNubble, TheTrueEclipse, GDSkele, Syberian, Alecast, Sequex, Lipz, Arceus4, Konsi, PotatoBaby, Voltex, Wolfking47"
+	],
+	"verifier": "npesta",
+	"verification": "https://www.youtube.com/watch?v=yvR454BuffE",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Whacka",
+			"link": "https://youtu.be/ahl-bONiCGU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "raco",
+			"link": "https://www.youtube.com/watch?v=mqQfa1ncc4w&ab_channel=raco",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "GYT",
+			"link": "https://www.youtube.com/watch?v=-pHXQYK6ANw&t=228s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/uQzYBTrOHQ4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "FuzzyStorm23",
+			"link": "https://www.youtube.com/watch?v=_7jhgG6TOGc&t=10s",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=a0qnjgtIarg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Blathers",
+			"link": "https://www.twitch.tv/videos/513744452",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=BGVXgH_5y4M",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Bonezizdum",
+			"link": "https://youtu.be/HbhwX9oNBmo",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "DoGGy",
+			"link": "https://www.youtube.com/watch?v=WeGR6ME5OCA",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/9Y0qb9oSzJw",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/BNkJBp66SfA",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

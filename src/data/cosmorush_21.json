@@ -1,78 +1,78 @@
 {
-    "id": 21604884,
-    "name": "Cosmorush 21",
-    "author": "Pennutoh",
-    "creators": [],
-    "verifier": "Sebquero11",
-    "verification": "https://www.youtube.com/watch?v=rSqPsxx3TGE",
-    "percentToQualify": 100,
-    "password": "170217",
-    "records": [
-    {
-            "user": "Crypto12131",
-            "link": "https://youtu.be/fK5DMfY7FrE",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/grUZrx7nmss",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=b5-WDIEwq44&ab_channel=Bleamer",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=efkbsOdaebU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/1aPu5FAgVDg",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "DeltaPhantom1",
-            "link": "https://youtu.be/HZ0YDA2Xj6U",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "BANA1411",
-            "link": "https://youtu.be/EsGpd1NrVoQ",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "GJosh2",
-            "link": "https://www.youtube.com/watch?v=zfpuRS7NSOM",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/cPoPSTRcQI8",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/h_Aq-R96dXo",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/setLrwJYAhI",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 21604884,
+	"name": "Cosmorush 21",
+	"author": "Pennutoh",
+	"creators": [],
+	"verifier": "Sebquero11",
+	"verification": "https://www.youtube.com/watch?v=rSqPsxx3TGE",
+	"percentToQualify": 100,
+	"password": "170217",
+	"records": [
+		{
+			"user": "Crypto12131",
+			"link": "https://youtu.be/fK5DMfY7FrE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/grUZrx7nmss",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=b5-WDIEwq44&ab_channel=Bleamer",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=efkbsOdaebU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/1aPu5FAgVDg",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "DeltaPhantom1",
+			"link": "https://youtu.be/HZ0YDA2Xj6U",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "BANA1411",
+			"link": "https://youtu.be/EsGpd1NrVoQ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "GJosh2",
+			"link": "https://www.youtube.com/watch?v=zfpuRS7NSOM",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/cPoPSTRcQI8",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/h_Aq-R96dXo",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/setLrwJYAhI",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

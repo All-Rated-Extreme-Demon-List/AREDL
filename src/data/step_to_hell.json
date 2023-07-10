@@ -1,23 +1,25 @@
 {
-    "id": 34489220,
-    "name": "Step To Hell",
-    "author": "LaZye",
-    "creators": ["LaZye, Nico99, Bloodshot, CompleXx, VooDoo89, Eggnog, ChaSe, Poccottini, Skullkid, Sxap, Pennutoh, Rustam, xKstrol, Zimnior12"],
-    "verifier": "BoldStep",
-    "verification": "https://www.youtube.com/watch?v=mQ7zvkT99Qc",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "shinn",
-            "link": "https://www.youtube.com/watch?v=CjQkecpivpg",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/81fX3an1Bt0",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 34489220,
+	"name": "Step To Hell",
+	"author": "LaZye",
+	"creators": [
+		"LaZye, Nico99, Bloodshot, CompleXx, VooDoo89, Eggnog, ChaSe, Poccottini, Skullkid, Sxap, Pennutoh, Rustam, xKstrol, Zimnior12"
+	],
+	"verifier": "BoldStep",
+	"verification": "https://www.youtube.com/watch?v=mQ7zvkT99Qc",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "shinn",
+			"link": "https://www.youtube.com/watch?v=CjQkecpivpg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/81fX3an1Bt0",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

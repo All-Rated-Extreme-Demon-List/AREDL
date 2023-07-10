@@ -1,17 +1,17 @@
 {
-    "id": 90853661,
-    "name": "Fog",
-    "author": "notesxd",
-    "creators": ["notesxd", "pixll1", "slayerkirb"],
-    "verifier": "slayerkirb",
-    "verification": "https://youtu.be/n3dIaFHT-fI",
-    "percentToQualify": 100,
-    "records": [
-{
-            "user": "nei",
-            "link": "https://youtu.be/QBCMiynxL2c",
-            "percent": 100,
-            "hz": 321
-    }
-    ]
+	"id": 90853661,
+	"name": "Fog",
+	"author": "notesxd",
+	"creators": ["notesxd", "pixll1", "slayerkirb"],
+	"verifier": "slayerkirb",
+	"verification": "https://youtu.be/n3dIaFHT-fI",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "nei",
+			"link": "https://youtu.be/QBCMiynxL2c",
+			"percent": 100,
+			"hz": 321
+		}
+	]
 }

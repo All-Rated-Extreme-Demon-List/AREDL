@@ -1,48 +1,50 @@
 {
-    "id": 59620684,
-    "name": "Void Wave",
-    "author": "CherryBT",
-    "creators": ["Buragoz, Kiba, Nahuel2998, Enzore, Convie, Konsi, Voltex, Crouley, 00Zero, Desumari, Acnologia, SirZaiss, Apollone, MrClyde, Lilium11, Itami, Gr, Omega"],
-    "verifier": "Dorami",
-    "verification": "https://www.youtube.com/watch?v=wxfNGETjTnU",
-    "percentToQualify": 100,
-    "password": "001441",
-    "records": [
-    {
-            "user": "Didjimon",
-            "link": "https://youtu.be/XtACnqUUgzM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BANA1411",
-            "link": "https://youtu.be/LmOJyUY-Be0",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "iRaily",
-            "link": "https://youtu.be/ELL2clI43kU",
-            "percent": 100,
-            "hz": 288
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=zzW8dNcnR1w",
-    "percent": 100,
-    "hz": 144
-},
-        {
-    "user": "NikVer",
-    "link": "https://youtu.be/U3-xdPYaX-g",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/PpSbPgntDLo",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 59620684,
+	"name": "Void Wave",
+	"author": "CherryBT",
+	"creators": [
+		"Buragoz, Kiba, Nahuel2998, Enzore, Convie, Konsi, Voltex, Crouley, 00Zero, Desumari, Acnologia, SirZaiss, Apollone, MrClyde, Lilium11, Itami, Gr, Omega"
+	],
+	"verifier": "Dorami",
+	"verification": "https://www.youtube.com/watch?v=wxfNGETjTnU",
+	"percentToQualify": 100,
+	"password": "001441",
+	"records": [
+		{
+			"user": "Didjimon",
+			"link": "https://youtu.be/XtACnqUUgzM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BANA1411",
+			"link": "https://youtu.be/LmOJyUY-Be0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "iRaily",
+			"link": "https://youtu.be/ELL2clI43kU",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=zzW8dNcnR1w",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "NikVer",
+			"link": "https://youtu.be/U3-xdPYaX-g",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/PpSbPgntDLo",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

@@ -1,83 +1,83 @@
 {
-    "id": 56889568,
-    "name": "Explosion",
-    "author": "EternaSwipVMAX",
-    "creators": ["SrGuillester, EternaSwipVMAX"],
-    "verifier": "SrGuillester",
-    "verification": "https://www.youtube.com/watch?v=YP4erq-a4A4",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Zenta",
-            "link": "https://www.youtube.com/watch?v=9JdyFJrOHZo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/_upHjH1fbBM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "theworldofme",
-            "link": "https://youtu.be/Q9XqXobYhKo?t=371",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Fabricorn",
-            "link": "https://youtu.be/rowHf0Qle1Y",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=SctVVX7kPEc",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/mhXkbSFgKhs",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/Lezn_LqSxik",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/XfOBDaRIJPA",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "iiLogan",
-            "link": "https://youtu.be/SRTxn5g2bio",
-            "percent": 100,
-            "hz": 321
-},
-{
-    "user": "JustXSoos",
-    "link": "https://www.youtube.com/watch?v=hVUyj3e1U9E",
-    "percent": 100,
-    "hz": 360
-},
-        {
-        "user": "HotNooB",
-        "link": "https://youtu.be/fLaGaPkn9rQ",
-        "percent": 100,
-        "hz": 288
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/d-vfGIzitZk",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 56889568,
+	"name": "Explosion",
+	"author": "EternaSwipVMAX",
+	"creators": ["SrGuillester, EternaSwipVMAX"],
+	"verifier": "SrGuillester",
+	"verification": "https://www.youtube.com/watch?v=YP4erq-a4A4",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Zenta",
+			"link": "https://www.youtube.com/watch?v=9JdyFJrOHZo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/_upHjH1fbBM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://youtu.be/Q9XqXobYhKo?t=371",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Fabricorn",
+			"link": "https://youtu.be/rowHf0Qle1Y",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=SctVVX7kPEc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/mhXkbSFgKhs",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/Lezn_LqSxik",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/XfOBDaRIJPA",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "iiLogan",
+			"link": "https://youtu.be/SRTxn5g2bio",
+			"percent": 100,
+			"hz": 321
+		},
+		{
+			"user": "JustXSoos",
+			"link": "https://www.youtube.com/watch?v=hVUyj3e1U9E",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/fLaGaPkn9rQ",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/d-vfGIzitZk",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

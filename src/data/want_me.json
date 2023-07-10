@@ -1,35 +1,35 @@
 {
-    "id": 63068474,
-    "name": "Want Me",
-    "author": "para",
-    "creators": [],
-    "verifier": "rSteel",
-    "verification": "https://www.youtube.com/watch?v=QYg68LaAxdc&pp=ygUVd2FudCBtZSB2ZXJpZmllZCBwYXJh",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "Jedwint",
-            "link": "https://www.youtube.com/watch?v=VrrFlESVYXk",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "baechugimchi",
-    "link": "https://youtu.be/h1YUSSADaBw",
-    "percent": 100,
-    "hz": 240
-},
-        {
-    "user": "Davine_007",
-    "link": "https://youtu.be/BeYKm3VK_r0",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/rZ1_-qJTn4Y",
-    "percent": 100,
-    "hz": 360
-}
-               ]
+	"id": 63068474,
+	"name": "Want Me",
+	"author": "para",
+	"creators": [],
+	"verifier": "rSteel",
+	"verification": "https://www.youtube.com/watch?v=QYg68LaAxdc&pp=ygUVd2FudCBtZSB2ZXJpZmllZCBwYXJh",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Jedwint",
+			"link": "https://www.youtube.com/watch?v=VrrFlESVYXk",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "baechugimchi",
+			"link": "https://youtu.be/h1YUSSADaBw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Davine_007",
+			"link": "https://youtu.be/BeYKm3VK_r0",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/rZ1_-qJTn4Y",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

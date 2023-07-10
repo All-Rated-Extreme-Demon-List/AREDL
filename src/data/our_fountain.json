@@ -1,89 +1,89 @@
 {
-    "id": 58023558,
-    "name": "Our Fountain",
-    "author": "LP44",
-    "creators": [],
-    "verifier": "Rynoxious",
-    "verification": "https://www.youtube.com/watch?v=2y3WyRJtiSE",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Lia",
-            "link": "https://youtu.be/HF0I3sLUvQ8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/WD2ItpEENdg",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/nVZPo1JLtM8",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=aWB3MlxxOGU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BreadGuyGD",
-            "link": "https://www.youtube.com/watch?v=D3XwQoagEJ4",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "haxolotl",
-            "link": "https://www.youtube.com/watch?v=FxoOxf21OyQ",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=x5mKtqnQTcM",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Armani",
-            "link": "https://youtu.be/1Dz6dsLK-HY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Jegorkar0",
-            "link": "https://youtu.be/A1vNvvIRKXw",
-            "percent": 100,
-            "hz": 120
-},
-        {
-            "user": "MobileBot",
-            "link": "https://youtu.be/JXz3Ej2DCIk",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "baechugimchi",
-    "link": "https://youtu.be/dAl2yJCYVMM",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Simolater",
-    "link": "https://www.youtube.com/watch?v=VgjA24rGDj8",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/OtV86e_W50k",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 58023558,
+	"name": "Our Fountain",
+	"author": "LP44",
+	"creators": [],
+	"verifier": "Rynoxious",
+	"verification": "https://www.youtube.com/watch?v=2y3WyRJtiSE",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/HF0I3sLUvQ8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/WD2ItpEENdg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/nVZPo1JLtM8",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=aWB3MlxxOGU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BreadGuyGD",
+			"link": "https://www.youtube.com/watch?v=D3XwQoagEJ4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "haxolotl",
+			"link": "https://www.youtube.com/watch?v=FxoOxf21OyQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=x5mKtqnQTcM",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Armani",
+			"link": "https://youtu.be/1Dz6dsLK-HY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Jegorkar0",
+			"link": "https://youtu.be/A1vNvvIRKXw",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "MobileBot",
+			"link": "https://youtu.be/JXz3Ej2DCIk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "baechugimchi",
+			"link": "https://youtu.be/dAl2yJCYVMM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Simolater",
+			"link": "https://www.youtube.com/watch?v=VgjA24rGDj8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/OtV86e_W50k",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

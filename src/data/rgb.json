@@ -1,17 +1,17 @@
 {
-    "id": 74343352,
-    "name": "RGB",
-    "author": "SleyGD",
-    "creators": [],
-    "verifier": "Blitzer",
-    "verification": "https://www.youtube.com/watch?v=-6iVjktmVo0",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "Draconyx",
-            "link": "https://youtu.be/LvddvxjqOKU",
-            "percent": 100,
-            "hz": 165
-}
-    ]
+	"id": 74343352,
+	"name": "RGB",
+	"author": "SleyGD",
+	"creators": [],
+	"verifier": "Blitzer",
+	"verification": "https://www.youtube.com/watch?v=-6iVjktmVo0",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Draconyx",
+			"link": "https://youtu.be/LvddvxjqOKU",
+			"percent": 100,
+			"hz": 165
+		}
+	]
 }

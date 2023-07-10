@@ -1,115 +1,117 @@
 {
-    "id": 20937583,
-    "name": "SUBVERSIVE",
-    "author": "Snowr33de",
-    "creators": ["MUFF1N, Namtar, Snowr33de, Disp, Disappear, UltimateGuy, Vird, Sl@v.ik, Sightorld, XCore, RespectVG, ChaSe"],
-    "verifier": "Snowr33de",
-    "verification": "https://www.youtube.com/watch?v=9sxy51MfUKU",
-    "percentToQualify": 100,
-    "password": "410610",
-    "records": [
-    {
-            "user": "R3XX3R",
-            "link": "https://youtu.be/pJiD9uDRvto",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=CiMQfLEQ7Kg&ab_channel=Bleamer",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "ultracauaHD",
-            "link": "https://www.youtube.com/watch?v=zLEpqwJpPZQ",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Lia",
-            "link": "https://www.youtube.com/watch?v=Msyhn5IvzmA",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "YTkerfuffles",
-            "link": "https://youtu.be/YvNV5p8HOfE",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Creig",
-            "link": "https://youtu.be/MSk37y-wCNs",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/myz7AoadJGw",
-            "percent": 100,
-            "hz": 120
-},
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/kdJDN2CxCXg",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=f_tBZvLmo9c",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "KayZee",
-            "link": "https://youtu.be/-dcZTuIeMUM",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "ViperVenom95",
-            "link": "https://www.youtube.com/watch?v=529XpRr6mzQ&ab_channel=ViperVenom95",
-            "percent": 100,
-            "hz": 60
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=d3iVZSkVCyk",
-    "percent": 100,
-    "hz": 144
-},
-        {
-    "user": "NikVer",
-    "link": "https://youtu.be/pUe1A1kikXg",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/DohUwqx4FyU",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/82C4BTXjJZg",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "Truly4Square",
-    "link": "https://youtu.be/v1Vua3c53d4",
-    "percent": 100,
-    "hz": 120,
-    "mobile": true
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/TrIIeeB23no",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 20937583,
+	"name": "SUBVERSIVE",
+	"author": "Snowr33de",
+	"creators": [
+		"MUFF1N, Namtar, Snowr33de, Disp, Disappear, UltimateGuy, Vird, Sl@v.ik, Sightorld, XCore, RespectVG, ChaSe"
+	],
+	"verifier": "Snowr33de",
+	"verification": "https://www.youtube.com/watch?v=9sxy51MfUKU",
+	"percentToQualify": 100,
+	"password": "410610",
+	"records": [
+		{
+			"user": "R3XX3R",
+			"link": "https://youtu.be/pJiD9uDRvto",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=CiMQfLEQ7Kg&ab_channel=Bleamer",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ultracauaHD",
+			"link": "https://www.youtube.com/watch?v=zLEpqwJpPZQ",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Lia",
+			"link": "https://www.youtube.com/watch?v=Msyhn5IvzmA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "YTkerfuffles",
+			"link": "https://youtu.be/YvNV5p8HOfE",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Creig",
+			"link": "https://youtu.be/MSk37y-wCNs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/myz7AoadJGw",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/kdJDN2CxCXg",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=f_tBZvLmo9c",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "KayZee",
+			"link": "https://youtu.be/-dcZTuIeMUM",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=529XpRr6mzQ&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=d3iVZSkVCyk",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "NikVer",
+			"link": "https://youtu.be/pUe1A1kikXg",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/DohUwqx4FyU",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/82C4BTXjJZg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Truly4Square",
+			"link": "https://youtu.be/v1Vua3c53d4",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/TrIIeeB23no",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

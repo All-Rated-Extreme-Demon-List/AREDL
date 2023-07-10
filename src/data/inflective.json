@@ -1,53 +1,55 @@
 {
-    "id": 61591522,
-    "name": "Inflective",
-    "author": "Mojitoz",
-    "creators": ["Texic, ViralDl, Vex01, Mojitoz, Picaaaa, Sting871, Electro543, Df0rDie, Endevvor, Netaren, Leynar, Hir0shi, N3moProd, Alkatreize"],
-    "verifier": "Vorgogne",
-    "verification": "https://www.youtube.com/watch?v=JR2Y8jIwLNk",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "Blitzer",
-            "link": "https://www.youtube.com/watch?v=FyTxiG6yXG4",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Rayaleg8",
-            "link": "https://youtu.be/2rR-SHuFRVc",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/aWfbKR3Phx0",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/1PwrM2dsnWc",
-            "percent": 100,
-            "hz": 120
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=hhiobnvf3QM",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Gap2003",
-            "link": "https://www.youtube.com/watch?v=7M-92nhMYBE",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/JDdd7SGXf2k",
-            "percent": 100,
-            "hz": 240
-}
-    ]
+	"id": 61591522,
+	"name": "Inflective",
+	"author": "Mojitoz",
+	"creators": [
+		"Texic, ViralDl, Vex01, Mojitoz, Picaaaa, Sting871, Electro543, Df0rDie, Endevvor, Netaren, Leynar, Hir0shi, N3moProd, Alkatreize"
+	],
+	"verifier": "Vorgogne",
+	"verification": "https://www.youtube.com/watch?v=JR2Y8jIwLNk",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Blitzer",
+			"link": "https://www.youtube.com/watch?v=FyTxiG6yXG4",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Rayaleg8",
+			"link": "https://youtu.be/2rR-SHuFRVc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/aWfbKR3Phx0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/1PwrM2dsnWc",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=hhiobnvf3QM",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Gap2003",
+			"link": "https://www.youtube.com/watch?v=7M-92nhMYBE",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/JDdd7SGXf2k",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

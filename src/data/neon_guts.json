@@ -1,72 +1,72 @@
 {
-    "id": 89192645,
-    "name": "Neon Guts",
-    "author": "doneitboye",
-    "creators": [],
-    "verifier": "Ballcat",
-    "verification": "https://www.youtube.com/watch?v=EzbrXoN79u4&pp=ygUSbmVvbiBndXRzIHZlcmlmaWVk",
-    "percentToQualify": 100,
-    "password": "140104",
-    "records": [
-    {
-            "user": "nico27",
-            "link": "https://youtu.be/Q2w76HMzHt4",
-            "percent": 100,
-            "hz": 60
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/u2fybGPnC9A",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/aPQw52EB8t0",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "Patrick61804",
-            "link": "https://youtu.be/a8LGFVtzI9E",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Aleczd",
-            "link": "https://www.youtube.com/watch?v=IjU3nJT-T_k&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=67",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "NiceCrunchy",
-            "link": "https://www.youtube.com/watch?v=CcXm74lPapU",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "qBluestar",
-            "link": "https://www.youtube.com/watch?v=uBjn8_hqz_o",
-            "percent": 100,
-            "hz": 288
-},
-{
-    "user": "JustXSoos",
-    "link": "https://www.youtube.com/watch?v=FdRHKQ0J69s",
-    "percent": 100,
-    "hz": 360
-},
-        {
-            "user": "Alex_",
-            "link": "https://youtu.be/W26dfZcoqcc",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/y6dVa-4M0U8",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 89192645,
+	"name": "Neon Guts",
+	"author": "doneitboye",
+	"creators": [],
+	"verifier": "Ballcat",
+	"verification": "https://www.youtube.com/watch?v=EzbrXoN79u4&pp=ygUSbmVvbiBndXRzIHZlcmlmaWVk",
+	"percentToQualify": 100,
+	"password": "140104",
+	"records": [
+		{
+			"user": "nico27",
+			"link": "https://youtu.be/Q2w76HMzHt4",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/u2fybGPnC9A",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/aPQw52EB8t0",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "Patrick61804",
+			"link": "https://youtu.be/a8LGFVtzI9E",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Aleczd",
+			"link": "https://www.youtube.com/watch?v=IjU3nJT-T_k&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=67",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "NiceCrunchy",
+			"link": "https://www.youtube.com/watch?v=CcXm74lPapU",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "qBluestar",
+			"link": "https://www.youtube.com/watch?v=uBjn8_hqz_o",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "JustXSoos",
+			"link": "https://www.youtube.com/watch?v=FdRHKQ0J69s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Alex_",
+			"link": "https://youtu.be/W26dfZcoqcc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/y6dVa-4M0U8",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

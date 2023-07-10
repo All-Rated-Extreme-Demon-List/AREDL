@@ -1,54 +1,67 @@
 {
-    "id": 39832454,
-    "name": "Gamma",
-    "author": "MindCap",
-    "creators": ["MindCap","Angryboy","Lemons","Metalface221","Pennutoh","Mactanow","Lithifusion","Djoxy","HequinoX","MichealH","iNighti","Ferox242"],
-    "verifier": "Technical",
-    "verification": "https://www.youtube.com/watch?v=HTXRWzS2aw8",
-    "percentToQualify": 100,
-    "password": "772002",
-    "records": [
-    {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/A5I9KdJeWRY",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=VU0xgkuMDSs",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/W3zQScQmrtw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/ZLnF19qETXw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/UWY09reJxxE",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=J-gudiqxlhw",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=pyKcjNBnnPk&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 144
-}
-    ]
+	"id": 39832454,
+	"name": "Gamma",
+	"author": "MindCap",
+	"creators": [
+		"MindCap",
+		"Angryboy",
+		"Lemons",
+		"Metalface221",
+		"Pennutoh",
+		"Mactanow",
+		"Lithifusion",
+		"Djoxy",
+		"HequinoX",
+		"MichealH",
+		"iNighti",
+		"Ferox242"
+	],
+	"verifier": "Technical",
+	"verification": "https://www.youtube.com/watch?v=HTXRWzS2aw8",
+	"percentToQualify": 100,
+	"password": "772002",
+	"records": [
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/A5I9KdJeWRY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=VU0xgkuMDSs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/W3zQScQmrtw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/ZLnF19qETXw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/UWY09reJxxE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=J-gudiqxlhw",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=pyKcjNBnnPk&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

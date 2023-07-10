@@ -1,37 +1,37 @@
 {
-    "id": 62497003,
-    "name": "Light Travel",
-    "author": "dongchi",
-    "creators": [],
-    "verifier": "dongchi",
-    "verification": "https://www.youtube.com/watch?v=bgoQtx-iwW0&pp=ygUdbGlnaHQgdHJhdmVsIHZlcmlmaWVkIGRvbmdjaGk%3D",
-    "percentToQualify": 100,
-    "password": "200630",
-    "records": [
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/RuYWelDaf_I",
-            "percent": 100,
-            "hz": 239
-},
-        {
-            "user": "Megu",
-            "link": "https://youtu.be/D3jT_-T_AFY",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtube.com/watch?v=tl9QAuT_4lE&feature=share7",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "vkrz",
-    "link": "https://youtu.be/k_MP_zwnkks",
-    "percent": 100,
-    "hz": 60,
-    "mobile": true
-}
-    ]
+	"id": 62497003,
+	"name": "Light Travel",
+	"author": "dongchi",
+	"creators": [],
+	"verifier": "dongchi",
+	"verification": "https://www.youtube.com/watch?v=bgoQtx-iwW0&pp=ygUdbGlnaHQgdHJhdmVsIHZlcmlmaWVkIGRvbmdjaGk%3D",
+	"percentToQualify": 100,
+	"password": "200630",
+	"records": [
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/RuYWelDaf_I",
+			"percent": 100,
+			"hz": 239
+		},
+		{
+			"user": "Megu",
+			"link": "https://youtu.be/D3jT_-T_AFY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtube.com/watch?v=tl9QAuT_4lE&feature=share7",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "vkrz",
+			"link": "https://youtu.be/k_MP_zwnkks",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		}
+	]
 }

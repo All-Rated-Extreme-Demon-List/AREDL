@@ -1,17 +1,17 @@
 {
-    "id": 85317764,
-    "name": "The Cellar Path",
-    "author": "JamAttack",
-    "creators": [],
-    "verifier": "JamAttack",
-    "verification": "https://www.youtube.com/watch?v=Fc2i7wugagI",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=RxLgfaCSSgI",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 85317764,
+	"name": "The Cellar Path",
+	"author": "JamAttack",
+	"creators": [],
+	"verifier": "JamAttack",
+	"verification": "https://www.youtube.com/watch?v=Fc2i7wugagI",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=RxLgfaCSSgI",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

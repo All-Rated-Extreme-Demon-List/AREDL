@@ -1,84 +1,94 @@
 {
-    "id": 81373023,
-    "name": "Loochiverse",
-    "author": "Nerhy",
-    "creators": ["twister","DTDom","Hypno","Koopazu","Wahffle","Nerhy","Azuvy","GiggsRH","Looch"],
-    "verifier": "DTDom",
-    "verification": "https://www.youtube.com/watch?v=W3dCHPubwvE",
-    "percentToQualify": 100,
-    "password": "080085",
-    "records": [
-    {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/1daOmLo-Jro",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Nik14K",
-            "link": "https://youtu.be/9UpmedsKa8Q",
-            "percent": 100,
-            "hz": 240
-}, 
-        {
-            "user": "nei",
-            "link": "https://youtu.be/r1w56qSTgBM",
-            "percent": 100,
-            "hz": 358
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=CpOa7sBgKnY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/PTlTNbQb92o",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "Glungus",
-            "link": "https://www.youtube.com/watch?v=h0o-LbgVKAU&ab_channel=Glungus",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Creig",
-            "link": "https://youtu.be/NHzWkDOQfWE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/mwqPQpybJvM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Aleczd",
-            "link": "https://www.youtube.com/watch?v=2FuJxDtYPik&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=11",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Blathers",
-            "link": "https://youtu.be/n3fpFVStaSo",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/oraut3m4mKo",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "lunaa",
-    "link": "https://drive.google.com/file/d/1tGVFW_Ot2DGMi1PEJH7yeOvttWOpR9ec/view?usp=sharing",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 81373023,
+	"name": "Loochiverse",
+	"author": "Nerhy",
+	"creators": [
+		"twister",
+		"DTDom",
+		"Hypno",
+		"Koopazu",
+		"Wahffle",
+		"Nerhy",
+		"Azuvy",
+		"GiggsRH",
+		"Looch"
+	],
+	"verifier": "DTDom",
+	"verification": "https://www.youtube.com/watch?v=W3dCHPubwvE",
+	"percentToQualify": 100,
+	"password": "080085",
+	"records": [
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/1daOmLo-Jro",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Nik14K",
+			"link": "https://youtu.be/9UpmedsKa8Q",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "nei",
+			"link": "https://youtu.be/r1w56qSTgBM",
+			"percent": 100,
+			"hz": 358
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=CpOa7sBgKnY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/PTlTNbQb92o",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "Glungus",
+			"link": "https://www.youtube.com/watch?v=h0o-LbgVKAU&ab_channel=Glungus",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Creig",
+			"link": "https://youtu.be/NHzWkDOQfWE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/mwqPQpybJvM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Aleczd",
+			"link": "https://www.youtube.com/watch?v=2FuJxDtYPik&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=11",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Blathers",
+			"link": "https://youtu.be/n3fpFVStaSo",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/oraut3m4mKo",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lunaa",
+			"link": "https://drive.google.com/file/d/1tGVFW_Ot2DGMi1PEJH7yeOvttWOpR9ec/view?usp=sharing",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

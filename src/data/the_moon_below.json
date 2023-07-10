@@ -1,29 +1,29 @@
 {
-    "id": 79484035,
-    "name": "The Moon Below",
-    "author": "Onvil",
-    "creators": [],
-    "verifier": "maxis044",
-    "verification": "https://www.youtube.com/watch?v=Gs5mRmoLh7g",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Darkhonix",
-            "link": "https://youtu.be/czqWQ66ukDg",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Hbg",
-            "link": "https://youtu.be/4DLGTz2bbmQ",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "DrakoAK",
-    "link": "https://youtube.com/watch?v=B6iShCKW3W0&feature=share8",
-    "percent": 100,
-    "hz": 360
-}
-]
+	"id": 79484035,
+	"name": "The Moon Below",
+	"author": "Onvil",
+	"creators": [],
+	"verifier": "maxis044",
+	"verification": "https://www.youtube.com/watch?v=Gs5mRmoLh7g",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Darkhonix",
+			"link": "https://youtu.be/czqWQ66ukDg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Hbg",
+			"link": "https://youtu.be/4DLGTz2bbmQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DrakoAK",
+			"link": "https://youtube.com/watch?v=B6iShCKW3W0&feature=share8",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

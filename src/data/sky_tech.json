@@ -1,79 +1,79 @@
 {
-    "id": 38047229,
-    "name": "Sky tech",
-    "author": "Giron",
-    "creators": ["Giron, Licentious"],
-    "verifier": "Giron",
-    "verification": "https://www.youtube.com/watch?v=NtP9QXV96G8",
-    "percentToQualify": 100,
-    "password": "121212",
-    "records": [
-    {
-            "user": "Lia",
-            "link": "https://youtu.be/ZUhk7ZUAgpM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "theworldofme",
-            "link": "https://youtu.be/Q9XqXobYhKo?t=231",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/APBJdJTxgAs",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=IINfPxEoMpo",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "Hynamite",
-            "link": "https://www.youtube.com/watch?v=qxhyVuF_zG4",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=nmFe39RtglM&ab_channel=Bleamer",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BrowarKedawar",
-            "link": "https://youtu.be/2fsqfbaMGh4",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "ActionninjaT",
-            "link": "https://youtu.be/t_3FSqrXf2A",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "BreadGuyGD",
-    "link": "https://www.youtube.com/watch?v=N4Oqvc8CQic",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/3X30kLtv9yI",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/itEyQ0Wab30",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 38047229,
+	"name": "Sky tech",
+	"author": "Giron",
+	"creators": ["Giron, Licentious"],
+	"verifier": "Giron",
+	"verification": "https://www.youtube.com/watch?v=NtP9QXV96G8",
+	"percentToQualify": 100,
+	"password": "121212",
+	"records": [
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/ZUhk7ZUAgpM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://youtu.be/Q9XqXobYhKo?t=231",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/APBJdJTxgAs",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=IINfPxEoMpo",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "Hynamite",
+			"link": "https://www.youtube.com/watch?v=qxhyVuF_zG4",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=nmFe39RtglM&ab_channel=Bleamer",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BrowarKedawar",
+			"link": "https://youtu.be/2fsqfbaMGh4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "ActionninjaT",
+			"link": "https://youtu.be/t_3FSqrXf2A",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BreadGuyGD",
+			"link": "https://www.youtube.com/watch?v=N4Oqvc8CQic",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/3X30kLtv9yI",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/itEyQ0Wab30",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

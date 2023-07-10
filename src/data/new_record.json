@@ -1,71 +1,73 @@
 {
-    "id": 76760593,
-    "name": "New Record",
-    "author": "Temp",
-    "creators": ["Temp, Escetity, Isane, ItsHybrid, Noah, Eots, Zafkiel7, ViralDl, KWMS, Lipz, Elegy, Sminx, Masu, HJfod, Helpegasus, PokeChatt, Yoonsr, Zeptoz, Mzero"],
-    "verifier": "Temp",
-    "verification": "https://www.youtube.com/watch?v=zM4FDeiFdoQ",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=m7dG_gVZ_P4&t",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Hasik",
-            "link": "https://youtu.be/3eOwYUx0KQc",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Clara",
-            "link": "https://www.youtube.com/watch?v=xHNZxsF8NYQ",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/IguO8eEeijs",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Matter",
-            "link": "https://youtu.be/lRbEK8KIT98",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/ALk613b9u9A",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/Hg_10s-_i34",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "StarXV",
-            "link": "https://youtu.be/sqsWb7pUhmQ",
-            "percent": 100,
-            "hz": 180
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=w535T_hDNiE",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/-YTky7YYDSc",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 76760593,
+	"name": "New Record",
+	"author": "Temp",
+	"creators": [
+		"Temp, Escetity, Isane, ItsHybrid, Noah, Eots, Zafkiel7, ViralDl, KWMS, Lipz, Elegy, Sminx, Masu, HJfod, Helpegasus, PokeChatt, Yoonsr, Zeptoz, Mzero"
+	],
+	"verifier": "Temp",
+	"verification": "https://www.youtube.com/watch?v=zM4FDeiFdoQ",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=m7dG_gVZ_P4&t",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Hasik",
+			"link": "https://youtu.be/3eOwYUx0KQc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Clara",
+			"link": "https://www.youtube.com/watch?v=xHNZxsF8NYQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/IguO8eEeijs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/lRbEK8KIT98",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/ALk613b9u9A",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/Hg_10s-_i34",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "StarXV",
+			"link": "https://youtu.be/sqsWb7pUhmQ",
+			"percent": 100,
+			"hz": 180
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=w535T_hDNiE",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/-YTky7YYDSc",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

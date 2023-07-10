@@ -1,29 +1,29 @@
 {
-    "id": 79997992,
-    "name": "Shardscapes",
-    "author": "Kiba",
-    "creators": [],
-    "verifier": "eiruni",
-    "verification": "https://www.youtube.com/watch?v=prAX7gnKrkU",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=aANjbrkEcrQ",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/bhiOImBaJE4",
-            "percent": 100,
-            "hz": 240
-},
-{
-            "user": "Trees",
-            "link": "https://youtu.be/5uE0E3uUIC4",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 79997992,
+	"name": "Shardscapes",
+	"author": "Kiba",
+	"creators": [],
+	"verifier": "eiruni",
+	"verification": "https://www.youtube.com/watch?v=prAX7gnKrkU",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=aANjbrkEcrQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/bhiOImBaJE4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Trees",
+			"link": "https://youtu.be/5uE0E3uUIC4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

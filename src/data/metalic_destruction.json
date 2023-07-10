@@ -1,18 +1,18 @@
 {
-    "id": 44916254,
-    "name": "Metalic Destruction",
-    "author": "Akunakunn",
-    "creators": ["Akunakunn, GDVee"],
-    "verifier": "Dorami",
-    "verification": "https://www.youtube.com/watch?v=BLOxSuBTFrI",
-    "percentToQualify": 100,
-    "password": "654321",
-    "records": [
-        {
-            "user": "HotNooB",
-            "link": "https://youtu.be/EByCD96GdKg",
-            "percent": 100,
-            "hz": 288
-    }
-    ]
+	"id": 44916254,
+	"name": "Metalic Destruction",
+	"author": "Akunakunn",
+	"creators": ["Akunakunn, GDVee"],
+	"verifier": "Dorami",
+	"verification": "https://www.youtube.com/watch?v=BLOxSuBTFrI",
+	"percentToQualify": 100,
+	"password": "654321",
+	"records": [
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/EByCD96GdKg",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

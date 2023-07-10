@@ -1,60 +1,60 @@
 {
-    "id": 37792861,
-    "name": "Factory Realm X",
-    "author": "HelpegasuS",
-    "creators": [],
-    "verifier": "Enzeux",
-    "verification": "https://www.youtube.com/watch?v=bkreo_jag3E",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records": [
-    {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/iZOxTxH0LAQ",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=R9jCDaRXiXI&list=PLFWp6-KM8S5qeHamheZVigLPJt5XORUcN&index=16",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Matter",
-            "link": "https://youtu.be/j2gt4YQQcrE",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "iRaily",
-            "link": "https://youtu.be/kTSnffsfOEI",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Abr4h4M",
-            "link": "https://youtu.be/GV7-h6BX7do",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/yzpZxI9uV0I",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=h3k7gstBMts",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/AX2k7PZA8zU",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 37792861,
+	"name": "Factory Realm X",
+	"author": "HelpegasuS",
+	"creators": [],
+	"verifier": "Enzeux",
+	"verification": "https://www.youtube.com/watch?v=bkreo_jag3E",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/iZOxTxH0LAQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=R9jCDaRXiXI&list=PLFWp6-KM8S5qeHamheZVigLPJt5XORUcN&index=16",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/j2gt4YQQcrE",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "iRaily",
+			"link": "https://youtu.be/kTSnffsfOEI",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Abr4h4M",
+			"link": "https://youtu.be/GV7-h6BX7do",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/yzpZxI9uV0I",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=h3k7gstBMts",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/AX2k7PZA8zU",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

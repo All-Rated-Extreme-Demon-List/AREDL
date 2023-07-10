@@ -1,36 +1,38 @@
 {
-    "id": 60952893,
-    "name": "Tempest Tornado",
-    "author": "Colorbolt",
-    "creators": ["Zanna83, Moosh, BlazeRol, Colorbolt, MatthewMW, Levin, IvanPercie, Skrypto, Yuko, Hypno, XLSpiral, ItsMeJhemyson, Wesp, Infinistyle, xoanon, Undying, Siv"],
-    "verifier": "Nimbus",
-    "verification": "https://www.youtube.com/watch?v=R1o650eNd7g",
-    "percentToQualify": 100,
-    "password": "090219",
-    "records": [
-    {
-            "user": "SlightliFizzi",
-            "link": "https://youtu.be/FOclCZ_pmYQ",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "DJ1482",
-            "link": "https://youtu.be/V-OhIEwaPKM",
-            "percent": 100,
-            "hz": 288
-},
-{
-            "user": "SlightliFizzi",
-            "link": "https://youtu.be/FOclCZ_pmYQ",
-            "percent": 100,
-            "hz": 300
-},
-{
-    "user": "NiceCrunchy",
-    "link": "https://www.youtube.com/watch?v=Ko-lUAJY3FY",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 60952893,
+	"name": "Tempest Tornado",
+	"author": "Colorbolt",
+	"creators": [
+		"Zanna83, Moosh, BlazeRol, Colorbolt, MatthewMW, Levin, IvanPercie, Skrypto, Yuko, Hypno, XLSpiral, ItsMeJhemyson, Wesp, Infinistyle, xoanon, Undying, Siv"
+	],
+	"verifier": "Nimbus",
+	"verification": "https://www.youtube.com/watch?v=R1o650eNd7g",
+	"percentToQualify": 100,
+	"password": "090219",
+	"records": [
+		{
+			"user": "SlightliFizzi",
+			"link": "https://youtu.be/FOclCZ_pmYQ",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "DJ1482",
+			"link": "https://youtu.be/V-OhIEwaPKM",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "SlightliFizzi",
+			"link": "https://youtu.be/FOclCZ_pmYQ",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "NiceCrunchy",
+			"link": "https://www.youtube.com/watch?v=Ko-lUAJY3FY",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

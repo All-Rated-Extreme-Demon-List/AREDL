@@ -1,18 +1,18 @@
 {
-    "id": 90193093,
-    "name": "Twilight",
-    "author": "zYuko",
-    "creators": ["zYuko"],
-    "verifier": "nei",
-    "verification": "https://youtu.be/5bZ3RQP7fjs",
-    "percentToQualify": 100,
-    "password": "",
-    "records": [
-        {
-            "user": "Capamari",
-            "link": "https://youtu.be/tEpIsK-2_xw",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+	"id": 90193093,
+	"name": "Twilight",
+	"author": "zYuko",
+	"creators": ["zYuko"],
+	"verifier": "nei",
+	"verification": "https://youtu.be/5bZ3RQP7fjs",
+	"percentToQualify": 100,
+	"password": "",
+	"records": [
+		{
+			"user": "Capamari",
+			"link": "https://youtu.be/tEpIsK-2_xw",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

@@ -1,24 +1,34 @@
 {
-    "id": 82606722,
-    "name": "The Art of the Blade",
-    "author": "mbed",
-    "creators": ["sink","mbed","kr1t","Toomis","Subwoofer","Zoroa","SpKale","Toomis","talia"],
-    "verifier": "kyoto",
-    "verification": "https://www.youtube.com/watch?v=KSJl4A9eUW4",
-    "percentToQualify": 100,
-    "password": "003417",
-    "records": [
-                {
-            "user": "skycrab",
-            "link": "https://youtu.be/9Hu4cUiCt7U",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/2NIKA_6Zvak",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 82606722,
+	"name": "The Art of the Blade",
+	"author": "mbed",
+	"creators": [
+		"sink",
+		"mbed",
+		"kr1t",
+		"Toomis",
+		"Subwoofer",
+		"Zoroa",
+		"SpKale",
+		"Toomis",
+		"talia"
+	],
+	"verifier": "kyoto",
+	"verification": "https://www.youtube.com/watch?v=KSJl4A9eUW4",
+	"percentToQualify": 100,
+	"password": "003417",
+	"records": [
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/9Hu4cUiCt7U",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/2NIKA_6Zvak",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

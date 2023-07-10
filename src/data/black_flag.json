@@ -1,53 +1,55 @@
 {
-    "id": 79006927,
-    "name": "Black Flag",
-    "author": "NekonGames",
-    "creators": ["Viper, Sauzzeth, RedlixHD, ARWooly, Arax, Hugus, NekonGames, Asuith, AirSavage, SeokSo, Andr1x, Avati, Supris, Nidroo, Shant, Maplegaegosu, JuzGiew, Nau, Liu, BeClan, Zubwill, Loolycat, Lax33, Nekotik, Reunomi, Culuc, DiamondSkull, HellPhire, Gokill, Isane, Lagnugg, ChoGath, Electro543, Just a GD player"],
-    "verifier": "Asuith",
-    "verification": "https://www.youtube.com/watch?v=5SGD-4sxgS8",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Gecko",
-            "link": "https://youtu.be/z2-uxNrfO4U",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Didjimon",
-            "link": "https://youtu.be/oypQI8mv1A0",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/KlXySbKX5GY",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "nei",
-            "link": "https://youtu.be/g9ze08KV16M",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "N0ctaXI",
-            "link": "https://www.youtube.com/watch?v=k9-b6xBtH7U",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "BANA1411",
-            "link": "https://youtu.be/qzBpy2H_60w",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "Zephronox",
-    "link": "https://youtu.be/z2Gv61A4ag8?t=1688",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 79006927,
+	"name": "Black Flag",
+	"author": "NekonGames",
+	"creators": [
+		"Viper, Sauzzeth, RedlixHD, ARWooly, Arax, Hugus, NekonGames, Asuith, AirSavage, SeokSo, Andr1x, Avati, Supris, Nidroo, Shant, Maplegaegosu, JuzGiew, Nau, Liu, BeClan, Zubwill, Loolycat, Lax33, Nekotik, Reunomi, Culuc, DiamondSkull, HellPhire, Gokill, Isane, Lagnugg, ChoGath, Electro543, Just a GD player"
+	],
+	"verifier": "Asuith",
+	"verification": "https://www.youtube.com/watch?v=5SGD-4sxgS8",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Gecko",
+			"link": "https://youtu.be/z2-uxNrfO4U",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Didjimon",
+			"link": "https://youtu.be/oypQI8mv1A0",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/KlXySbKX5GY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "nei",
+			"link": "https://youtu.be/g9ze08KV16M",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "N0ctaXI",
+			"link": "https://www.youtube.com/watch?v=k9-b6xBtH7U",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "BANA1411",
+			"link": "https://youtu.be/qzBpy2H_60w",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Zephronox",
+			"link": "https://youtu.be/z2Gv61A4ag8?t=1688",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

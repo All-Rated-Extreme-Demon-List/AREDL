@@ -1,84 +1,84 @@
 {
-    "id": 70484097,
-    "name": "Endless Dream",
-    "author": "DreamTide",
-    "creators": [],
-    "verifier": "DreamTide",
-    "verification": "https://www.youtube.com/watch?v=byjnOPX6s2k",
-    "percentToQualify": 100,
-    "password": "002019",
-    "records": [
-    {
-            "user": "iiLogan",
-            "link": "https://youtu.be/xZBs9ZwLrlw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BreadGuyGD",
-            "link": "https://www.youtube.com/watch?v=koAJkUKFf4g",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Rayaleg8",
-            "link": "https://youtu.be/n_2BxvVUjhI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/waOKAngnO7o",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Exomix",
-            "link": "https://www.youtube.com/watch?v=7E6xNo4xR1s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/2x9ZWJezCKo",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "chickenborgor",
-            "link": "https://youtu.be/pMOe_voVuWs",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "DJ1482",
-            "link": "https://youtu.be/1HkIogm9o24",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/2Ghw1cVlp2k",
-            "percent": 100,
-            "hz": 288
-},
-{
-    "user": "yoshi1712",
-    "link": "https://youtu.be/cWe0rklT0OQ",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/ANTrYnFA4yk",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/4-OCUZkUXVU",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 70484097,
+	"name": "Endless Dream",
+	"author": "DreamTide",
+	"creators": [],
+	"verifier": "DreamTide",
+	"verification": "https://www.youtube.com/watch?v=byjnOPX6s2k",
+	"percentToQualify": 100,
+	"password": "002019",
+	"records": [
+		{
+			"user": "iiLogan",
+			"link": "https://youtu.be/xZBs9ZwLrlw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BreadGuyGD",
+			"link": "https://www.youtube.com/watch?v=koAJkUKFf4g",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Rayaleg8",
+			"link": "https://youtu.be/n_2BxvVUjhI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/waOKAngnO7o",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Exomix",
+			"link": "https://www.youtube.com/watch?v=7E6xNo4xR1s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/2x9ZWJezCKo",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "chickenborgor",
+			"link": "https://youtu.be/pMOe_voVuWs",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "DJ1482",
+			"link": "https://youtu.be/1HkIogm9o24",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/2Ghw1cVlp2k",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "yoshi1712",
+			"link": "https://youtu.be/cWe0rklT0OQ",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/ANTrYnFA4yk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/4-OCUZkUXVU",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

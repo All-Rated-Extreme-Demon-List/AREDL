@@ -1,47 +1,47 @@
 {
-    "id": 86830933,
-    "name": "XxXxXxXxXxX",
-    "author": "Awesomeme360",
-    "creators": [],
-    "verifier": "MasterOfDonkeys",
-    "verification": "https://www.youtube.com/watch?v=FcZQJTIZHm8&pp=ygUUWHhYeFh4WHhYeFggdmVyaWZpZWQ%3D",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "caaaaaaaandyman",
-            "link": "https://youtu.be/jJ4d_Qobwk4",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Airez",
-            "link": "https://youtu.be/Ni21SSciFjI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Patrick61804",
-            "link": "https://youtu.be/VM1H49qmBxg",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/lmn2qthrAu4",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/RWK9OIi_vmU",
-    "percent": 100,
-    "hz": 360
-},
-{
-        "user": "Baxeliin",
-        "link": "https://www.youtube.com/watch?v=e1X3mNlGuEQ&t=19s",
-        "percent": 100,
-        "hz": 360
-}
-    ]
+	"id": 86830933,
+	"name": "XxXxXxXxXxX",
+	"author": "Awesomeme360",
+	"creators": [],
+	"verifier": "MasterOfDonkeys",
+	"verification": "https://www.youtube.com/watch?v=FcZQJTIZHm8&pp=ygUUWHhYeFh4WHhYeFggdmVyaWZpZWQ%3D",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "caaaaaaaandyman",
+			"link": "https://youtu.be/jJ4d_Qobwk4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Airez",
+			"link": "https://youtu.be/Ni21SSciFjI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Patrick61804",
+			"link": "https://youtu.be/VM1H49qmBxg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/lmn2qthrAu4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/RWK9OIi_vmU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Baxeliin",
+			"link": "https://www.youtube.com/watch?v=e1X3mNlGuEQ&t=19s",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

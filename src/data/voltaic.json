@@ -1,41 +1,41 @@
 {
-    "id": 73529215,
-    "name": "Voltaic",
-    "author": "AAAAAlex",
-    "creators": [],
-    "verifier": "GMDomy",
-    "verification": "https://youtu.be/_Nve5nTOT7c",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/ev6mWSEB1dE",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/RR2mE0VlZXI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "NexoProTC",
-            "link": "https://youtu.be/5K--wlFvh-w",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "Shrixy",
-    "link": "https://youtu.be/cCjwiKKhSj4",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/IqZOZZ5B8lk",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 73529215,
+	"name": "Voltaic",
+	"author": "AAAAAlex",
+	"creators": [],
+	"verifier": "GMDomy",
+	"verification": "https://youtu.be/_Nve5nTOT7c",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/ev6mWSEB1dE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/RR2mE0VlZXI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "NexoProTC",
+			"link": "https://youtu.be/5K--wlFvh-w",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Shrixy",
+			"link": "https://youtu.be/cCjwiKKhSj4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/IqZOZZ5B8lk",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

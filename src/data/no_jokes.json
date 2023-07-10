@@ -1,41 +1,41 @@
 {
-    "id": 84507862,
-    "name": "no jokes",
-    "author": "TheParadoxTeam",
-    "creators": ["TyakyoFyai, Nexi, FlashWings576, Quicklen, Aqualime"],
-    "verifier": "Zeronium",
-    "verification": "https://www.youtube.com/watch?v=oVhGYiQ8fBc",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=cPh6MYR1C3o",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "nei",
-            "link": "https://youtu.be/Utg4OSpl100",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Vink",
-            "link": "https://youtu.be/tGAHgpiwPpo",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/eNxFBxSHCG4",
-            "percent": 100,
-            "hz": 321
-},
-        {
-            "user": "DJ1482",
-            "link": "https://www.youtube.com/watch?v=I8QCLGYOjz0",
-            "percent": 100,
-            "hz": 288
-}
-    ]
+	"id": 84507862,
+	"name": "no jokes",
+	"author": "TheParadoxTeam",
+	"creators": ["TyakyoFyai, Nexi, FlashWings576, Quicklen, Aqualime"],
+	"verifier": "Zeronium",
+	"verification": "https://www.youtube.com/watch?v=oVhGYiQ8fBc",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=cPh6MYR1C3o",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "nei",
+			"link": "https://youtu.be/Utg4OSpl100",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Vink",
+			"link": "https://youtu.be/tGAHgpiwPpo",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/eNxFBxSHCG4",
+			"percent": 100,
+			"hz": 321
+		},
+		{
+			"user": "DJ1482",
+			"link": "https://www.youtube.com/watch?v=I8QCLGYOjz0",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

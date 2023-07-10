@@ -1,156 +1,158 @@
 {
-    "id": 56779294,
-    "name": "WaveBreaker",
-    "author": "Lemons",
-    "creators": ["Dorami, Angryboy, Lemons, DanZmeN, Chlorines, Bransilver, Osiris GD, MarEng, Quacduc, MrKoolTrix"],
-    "verifier": "Golden",
-    "verification": "https://www.youtube.com/watch?v=Uky3BixaaDc",
-    "percentToQualify": 100,
-    "password": "040400",
-    "records": [
-    {
-            "user": "Shrixy",
-            "link": "https://youtu.be/10xP70gjWP4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Archanee",
-            "link": "https://www.twitch.tv/videos/1836011725",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=wapxUIvbrgk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/DWd5PoEmXc0",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=uhtgajo-a0A&t=&ab_channel=Bleamer",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "ultracauaHD",
-            "link": "https://www.youtube.com/watch?v=V1g2_z25x2Q",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "SamtheFman",
-            "link": "https://www.youtube.com/watch?v=4la3sRhgltw",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/LW37Gwaegrw",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/rF-y__pyWUo",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Patrick61804",
-            "link": "https://youtu.be/O_Zk8adr2Vk",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=Z20AAyywE14",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "shinn",
-            "link": "https://www.youtube.com/watch?v=RusZmd8IWng",
-            "percent": 100,
-            "hz": 216
-},
-        {
-            "user": "LocNil",
-            "link": "https://www.youtube.com/watch?v=HSfeln35qAw",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Blathers",
-            "link": "https://youtu.be/7uXejLcHrQI",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "BANA1411",
-            "link": "https://youtu.be/A_MulYMBHKM",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "psychotix",
-            "link": "https://www.youtube.com/watch?v=9VWrbr5PwZU&list=PL9JaiMITBLQ2fPhdu2hTPnWVyroa5hHFR&index=18",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/Wrarakg-n1c",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "harrisongamez",
-            "link": "https://youtu.be/PRzvsYhfwe0",
-            "percent": 100,
-            "hz": 300
-},
-{
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=vimQ2qOAkho",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Tamelnv",
-            "link": "https://www.youtube.com/watch?v=gBIGsIE0wmM",
-            "percent": 100,
-            "hz": 60
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=Pkjx5dVUXq0&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 60
-},
-        {
-        "user": "HotNooB",
-        "link": "https://youtu.be/pZ-LUU8spEI",
-        "percent": 100,
-        "hz": 288
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/qGnsKZC8O_A",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/PXPRPZsiJ_Q",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 56779294,
+	"name": "WaveBreaker",
+	"author": "Lemons",
+	"creators": [
+		"Dorami, Angryboy, Lemons, DanZmeN, Chlorines, Bransilver, Osiris GD, MarEng, Quacduc, MrKoolTrix"
+	],
+	"verifier": "Golden",
+	"verification": "https://www.youtube.com/watch?v=Uky3BixaaDc",
+	"percentToQualify": 100,
+	"password": "040400",
+	"records": [
+		{
+			"user": "Shrixy",
+			"link": "https://youtu.be/10xP70gjWP4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Archanee",
+			"link": "https://www.twitch.tv/videos/1836011725",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=wapxUIvbrgk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/DWd5PoEmXc0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=uhtgajo-a0A&t=&ab_channel=Bleamer",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ultracauaHD",
+			"link": "https://www.youtube.com/watch?v=V1g2_z25x2Q",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "SamtheFman",
+			"link": "https://www.youtube.com/watch?v=4la3sRhgltw",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/LW37Gwaegrw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/rF-y__pyWUo",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Patrick61804",
+			"link": "https://youtu.be/O_Zk8adr2Vk",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=Z20AAyywE14",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "shinn",
+			"link": "https://www.youtube.com/watch?v=RusZmd8IWng",
+			"percent": 100,
+			"hz": 216
+		},
+		{
+			"user": "LocNil",
+			"link": "https://www.youtube.com/watch?v=HSfeln35qAw",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Blathers",
+			"link": "https://youtu.be/7uXejLcHrQI",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "BANA1411",
+			"link": "https://youtu.be/A_MulYMBHKM",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "psychotix",
+			"link": "https://www.youtube.com/watch?v=9VWrbr5PwZU&list=PL9JaiMITBLQ2fPhdu2hTPnWVyroa5hHFR&index=18",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/Wrarakg-n1c",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "harrisongamez",
+			"link": "https://youtu.be/PRzvsYhfwe0",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=vimQ2qOAkho",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Tamelnv",
+			"link": "https://www.youtube.com/watch?v=gBIGsIE0wmM",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=Pkjx5dVUXq0&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/pZ-LUU8spEI",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/qGnsKZC8O_A",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/PXPRPZsiJ_Q",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

@@ -1,35 +1,35 @@
 {
-    "id": 68668045,
-    "name": "Congregation",
-    "author": "Presta",
-    "creators": [],
-    "verifier": "Floofle",
-    "verification": "https://www.youtube.com/watch?v=KVlcdvGYcj0",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "Nik14K",
-            "link": "https://youtu.be/r1v-XxCaJcQ",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/foKbgeip5Bg",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Draconyx",
-            "link": "https://youtu.be/-rMjO20_zNE",
-            "percent": 100,
-            "hz": 165
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/QMZ7LN-TcQs",
-            "percent": 100,
-            "hz": 290
-}
-    ]
+	"id": 68668045,
+	"name": "Congregation",
+	"author": "Presta",
+	"creators": [],
+	"verifier": "Floofle",
+	"verification": "https://www.youtube.com/watch?v=KVlcdvGYcj0",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Nik14K",
+			"link": "https://youtu.be/r1v-XxCaJcQ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/foKbgeip5Bg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Draconyx",
+			"link": "https://youtu.be/-rMjO20_zNE",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/QMZ7LN-TcQs",
+			"percent": 100,
+			"hz": 290
+		}
+	]
 }

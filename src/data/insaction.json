@@ -1,96 +1,98 @@
 {
-    "id": 57084298,
-    "name": "Insaction",
-    "author": "ByBoy 11",
-    "creators": ["Axdrel, Laser10, Diplow, Zafkiel, ByBoy 11, Chi, Enboy, M3llo, Dro3, Azos11, Chuchitodomin, NVATIUM, Aqours, JaxtilanX, xanN, ZadoxxZ, icotchy, DanielDLC, Abdula, TheBoringBoy, Zyplex, Lucalry, Mapex, DangerKat, Gathitho, IPersuit, Trudee Fabian, Blasting Ant, ItzStrill, Slip Ghost, llJoanll, Stamina"],
-    "verifier": "BiboxGD",
-    "verification": "https://youtu.be/vfvadYEj_k0",
-    "percentToQualify": 100,
-    "password": "282019",
-    "records": [
-    {
-            "user": "SEDTHEPRODIGY",
-            "link": "https://youtu.be/QL7CQXhAvw0",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Zenta",
-            "link": "https://www.youtube.com/watch?v=9JdyFJrOHZo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "mrperson",
-            "link": "https://youtu.be/_OKi3YcRDkQ",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/kMqzcxuwanY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=GCbkUBXAPzU&ab_channel=Bleamer",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "thetitanking999",
-            "link": "https://www.youtube.com/watch?v=GZnQPHGTYm0&t=2s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Patrick61804",
-            "link": "https://youtu.be/Hl66E0GZgXw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=gXshGMS7kSc",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/hqCI9SJPTTE",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "LuckyNS",
-            "link": "https://youtu.be/V7fYBySIO0E",
-            "percent": 100,
-            "hz": 60
-},
-        {
-            "user": "NiceCrunchy",
-            "link": "https://www.youtube.com/watch?v=R1ngXeNK7r8&t=2s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "ASBCHazel",
-            "link": "https://www.youtube.com/watch?v=zxVT0_3IyUo",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/_eb4KMzgBh4",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/TrIIeeB23no",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 57084298,
+	"name": "Insaction",
+	"author": "ByBoy 11",
+	"creators": [
+		"Axdrel, Laser10, Diplow, Zafkiel, ByBoy 11, Chi, Enboy, M3llo, Dro3, Azos11, Chuchitodomin, NVATIUM, Aqours, JaxtilanX, xanN, ZadoxxZ, icotchy, DanielDLC, Abdula, TheBoringBoy, Zyplex, Lucalry, Mapex, DangerKat, Gathitho, IPersuit, Trudee Fabian, Blasting Ant, ItzStrill, Slip Ghost, llJoanll, Stamina"
+	],
+	"verifier": "BiboxGD",
+	"verification": "https://youtu.be/vfvadYEj_k0",
+	"percentToQualify": 100,
+	"password": "282019",
+	"records": [
+		{
+			"user": "SEDTHEPRODIGY",
+			"link": "https://youtu.be/QL7CQXhAvw0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Zenta",
+			"link": "https://www.youtube.com/watch?v=9JdyFJrOHZo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "mrperson",
+			"link": "https://youtu.be/_OKi3YcRDkQ",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/kMqzcxuwanY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=GCbkUBXAPzU&ab_channel=Bleamer",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "thetitanking999",
+			"link": "https://www.youtube.com/watch?v=GZnQPHGTYm0&t=2s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Patrick61804",
+			"link": "https://youtu.be/Hl66E0GZgXw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=gXshGMS7kSc",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/hqCI9SJPTTE",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "LuckyNS",
+			"link": "https://youtu.be/V7fYBySIO0E",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "NiceCrunchy",
+			"link": "https://www.youtube.com/watch?v=R1ngXeNK7r8&t=2s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ASBCHazel",
+			"link": "https://www.youtube.com/watch?v=zxVT0_3IyUo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/_eb4KMzgBh4",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/TrIIeeB23no",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

@@ -1,66 +1,68 @@
 {
-    "id": 59585590,
-    "name": "FinKor",
-    "author": "Mulpan",
-    "creators": ["Blitzmister, Paristo, Worz, ItZmintjelly, gvyjjjh, HJfod, Worfy, Juhou, PLo, Chrolin, R3ul, Unerve, Temp, Lime0037, JHdash77, saywoo, UlbomE, GDHEAVY, FlaksY, LuX, MirQ, Kant, Lazor, CloudX9, Duffz, Mulpan, ZelLink, WhitePythor, iPororo7, chamchi, ItzJeqXy, Luc4style, BeCruX, ilusGD, NetFlix, Arkki, sharcat, KireiMirai, Rainstorm, MaJackO, VoTcHi, sikatsuka, Plusxenon, Miikkem, Jiikoo"],
-    "verifier": "Kainite",
-    "verification": "https://www.youtube.com/watch?v=kzuRlDkvRpM",
-    "percentToQualify": 100,
-    "password": "100000",
-    "records": [
-    {
-            "user": "Zenta",
-            "link": "https://www.youtube.com/watch?v=CERntX5_71Q",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Bamvie",
-            "link": "https://youtu.be/Hw3VTd33nLU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/Ol91u6nwZww",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/-MsuW9i4fy0",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Patrick61804",
-            "link": "https://youtu.be/INnX1LO2hAk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-        "user": "HotNooB",
-        "link": "https://youtu.be/sZcKN-nhSOw",
-        "percent": 100,
-        "hz": 288
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/bnAzA632Fu8",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "mrperson",
-    "link": "https://youtu.be/pcZcRTA_Ajc",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/WVXfMoJmBwU",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 59585590,
+	"name": "FinKor",
+	"author": "Mulpan",
+	"creators": [
+		"Blitzmister, Paristo, Worz, ItZmintjelly, gvyjjjh, HJfod, Worfy, Juhou, PLo, Chrolin, R3ul, Unerve, Temp, Lime0037, JHdash77, saywoo, UlbomE, GDHEAVY, FlaksY, LuX, MirQ, Kant, Lazor, CloudX9, Duffz, Mulpan, ZelLink, WhitePythor, iPororo7, chamchi, ItzJeqXy, Luc4style, BeCruX, ilusGD, NetFlix, Arkki, sharcat, KireiMirai, Rainstorm, MaJackO, VoTcHi, sikatsuka, Plusxenon, Miikkem, Jiikoo"
+	],
+	"verifier": "Kainite",
+	"verification": "https://www.youtube.com/watch?v=kzuRlDkvRpM",
+	"percentToQualify": 100,
+	"password": "100000",
+	"records": [
+		{
+			"user": "Zenta",
+			"link": "https://www.youtube.com/watch?v=CERntX5_71Q",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bamvie",
+			"link": "https://youtu.be/Hw3VTd33nLU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/Ol91u6nwZww",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/-MsuW9i4fy0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Patrick61804",
+			"link": "https://youtu.be/INnX1LO2hAk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/sZcKN-nhSOw",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/bnAzA632Fu8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "mrperson",
+			"link": "https://youtu.be/pcZcRTA_Ajc",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/WVXfMoJmBwU",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

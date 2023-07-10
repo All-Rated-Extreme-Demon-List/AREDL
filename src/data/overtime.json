@@ -1,120 +1,122 @@
 {
-    "id": 83825373,
-    "name": "Overtime",
-    "author": "KlaurosssS",
-    "creators": ["N3mo, KlaurosssS, LaserSword33, ISSLOL, Retro Head, Airtime [GD], WaRiox, Ellisha, Ji., AbysS, Hir0Shi, UltraS4, Vyzion, rZary_"],
-    "verifier": "Dorami",
-    "verification": "https://www.youtube.com/watch?v=7sUqs0NjjHM",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "NCKPlayZ",
-            "link": "https://youtu.be/DJ6337YRYog",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "baconmonke",
-            "link": "https://youtu.be/9XDQW2VrLSE",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Didjimon",
-            "link": "https://youtu.be/qpQf_C9FDo0",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Colizzion",
-            "link": "https://youtu.be/pksB-2_9EGk",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Gecko",
-            "link": "https://youtu.be/1cuqzYz4EOo",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "nei",
-            "link": "https://youtu.be/Y5U0dOKMX4Q",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/lYziWrG7_rA",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Quaxzar",
-            "link": "https://youtu.be/biFhUcH_uRA",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Aleczd",
-            "link": "https://www.youtube.com/watch?v=_6Nc8IP2jl0&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=34",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/hdF9owGOl94",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "NiceCrunchy",
-            "link": "https://www.youtube.com/watch?v=arLdnnH_IM8",
-            "percent": 100,
-            "hz": 240
-},
-      {
-            "user": "mr123j",
-            "link": "https://youtu.be/fIxssBiCCNE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "alienxs",
-            "link": "https://www.youtube.com/watch?v=CApb0Q08xYk&ab_channel=alienxs",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/IJ_MrPb80-I",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "JDemoX",
-            "link": "https://www.youtube.com/watch?v=P0l-QZiW9gY",
-            "percent": 100,
-            "hz": 144
-},
-{
-            "user": "SarielFuentesYT",
-            "link": "https://youtu.be/i1YVTtlNfa4",
-            "percent": 100,
-            "hz": 120,
-            "mobile": true
-},
-        {
-    "user": "NikVer",
-    "link": "https://youtu.be/cjFHH8qe5z0",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/ox1Eqnf_m7Q",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 83825373,
+	"name": "Overtime",
+	"author": "KlaurosssS",
+	"creators": [
+		"N3mo, KlaurosssS, LaserSword33, ISSLOL, Retro Head, Airtime [GD], WaRiox, Ellisha, Ji., AbysS, Hir0Shi, UltraS4, Vyzion, rZary_"
+	],
+	"verifier": "Dorami",
+	"verification": "https://www.youtube.com/watch?v=7sUqs0NjjHM",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "NCKPlayZ",
+			"link": "https://youtu.be/DJ6337YRYog",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "baconmonke",
+			"link": "https://youtu.be/9XDQW2VrLSE",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Didjimon",
+			"link": "https://youtu.be/qpQf_C9FDo0",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Colizzion",
+			"link": "https://youtu.be/pksB-2_9EGk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Gecko",
+			"link": "https://youtu.be/1cuqzYz4EOo",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "nei",
+			"link": "https://youtu.be/Y5U0dOKMX4Q",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/lYziWrG7_rA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Quaxzar",
+			"link": "https://youtu.be/biFhUcH_uRA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Aleczd",
+			"link": "https://www.youtube.com/watch?v=_6Nc8IP2jl0&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=34",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/hdF9owGOl94",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "NiceCrunchy",
+			"link": "https://www.youtube.com/watch?v=arLdnnH_IM8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "mr123j",
+			"link": "https://youtu.be/fIxssBiCCNE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "alienxs",
+			"link": "https://www.youtube.com/watch?v=CApb0Q08xYk&ab_channel=alienxs",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/IJ_MrPb80-I",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "JDemoX",
+			"link": "https://www.youtube.com/watch?v=P0l-QZiW9gY",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "SarielFuentesYT",
+			"link": "https://youtu.be/i1YVTtlNfa4",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
+		},
+		{
+			"user": "NikVer",
+			"link": "https://youtu.be/cjFHH8qe5z0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/ox1Eqnf_m7Q",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

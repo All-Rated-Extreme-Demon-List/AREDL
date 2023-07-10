@@ -1,60 +1,62 @@
 {
-    "id": 40902405,
-    "name": "CholeriX",
-    "author": "Shaggy23",
-    "creators": ["Dasilio, Shaggy23, Rock3ro, Zeithex, JeffryNeko, IHellRaiser, Colombia Dash, Fr3mite"],
-    "verifier": "GK Allium",
-    "verification": "https://www.youtube.com/watch?v=V5m3SEDNen0",
-    "percentToQualify": 100,
-    "password": "090118",
-    "records": [
-    {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=als200MKrEc",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/tXQiKfE0E_U",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "BrowarKedawar",
-            "link": "https://youtu.be/oNtPTgXa9S8",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "8MB",
-            "link": "https://youtu.be/uUZManKui8g",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=sd-336vxU7s",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/Nt-cUXlNLdU",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/8cup3XbavMg",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/PKcdQVxmvQc",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 40902405,
+	"name": "CholeriX",
+	"author": "Shaggy23",
+	"creators": [
+		"Dasilio, Shaggy23, Rock3ro, Zeithex, JeffryNeko, IHellRaiser, Colombia Dash, Fr3mite"
+	],
+	"verifier": "GK Allium",
+	"verification": "https://www.youtube.com/watch?v=V5m3SEDNen0",
+	"percentToQualify": 100,
+	"password": "090118",
+	"records": [
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=als200MKrEc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/tXQiKfE0E_U",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "BrowarKedawar",
+			"link": "https://youtu.be/oNtPTgXa9S8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "8MB",
+			"link": "https://youtu.be/uUZManKui8g",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=sd-336vxU7s",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/Nt-cUXlNLdU",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/8cup3XbavMg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/PKcdQVxmvQc",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

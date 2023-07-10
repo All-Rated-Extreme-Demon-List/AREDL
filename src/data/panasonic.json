@@ -1,42 +1,44 @@
 {
-    "id": 33364327,
-    "name": "PanaSonic",
-    "author": "TheShadowRealm",
-    "creators": ["ChiefFlurry, [REDACTED], Lucasyecla99, StarShipGD, IAres, Fillipsmen, Elayad, Rock3ro, BitZel, AlexTheGood, NeoGamer, JamesGrosso, Angryboy, Zafkiel7"],
-    "verifier": "Nisha",
-    "verification": "https://www.youtube.com/watch?v=yXPA9Vjrrpk",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records": [
-        {
-            "user": "ultracauaHD",
-            "link": "https://www.youtube.com/watch?v=n_nu_xESTyw",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/L9L05FRYOtc",
-            "percent": 100,
-            "hz": 144
-    },
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/IwFc3Ym8gWs",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Airez",
-            "link": "https://youtu.be/IqX9heAWOWc",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=epeYtw6emuY",
-            "percent": 100,
-            "hz": 144
-}
-  ]
+	"id": 33364327,
+	"name": "PanaSonic",
+	"author": "TheShadowRealm",
+	"creators": [
+		"ChiefFlurry, [REDACTED], Lucasyecla99, StarShipGD, IAres, Fillipsmen, Elayad, Rock3ro, BitZel, AlexTheGood, NeoGamer, JamesGrosso, Angryboy, Zafkiel7"
+	],
+	"verifier": "Nisha",
+	"verification": "https://www.youtube.com/watch?v=yXPA9Vjrrpk",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "ultracauaHD",
+			"link": "https://www.youtube.com/watch?v=n_nu_xESTyw",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/L9L05FRYOtc",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/IwFc3Ym8gWs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Airez",
+			"link": "https://youtu.be/IqX9heAWOWc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=epeYtw6emuY",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

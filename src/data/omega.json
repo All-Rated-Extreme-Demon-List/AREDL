@@ -1,48 +1,80 @@
 {
-    "id": 59706883,
-    "name": "Omega",
-    "author": "MindCap",
-    "creators": ["MindCap","Pennutoh","Temp","HelpegasuS","Thomartin","GDSean","TehTactiq","Zero","Mactanow","Sogogi","Ryder","Giron","Lemons","Shocksidian","Molds","RadiationV2","Scrumpy","knobbelboy","Fufafac","koolboom","Vlacc","Metalface221","Arb","Vismuth","Zeroya","Kllnex","Masu","Xaren","Darwin","HJfod","Mezzo"],
-    "verifier": "xander",
-    "verification": "https://www.youtube.com/watch?v=VqOMZLoiwAs",
-    "percentToQualify": 100,
-    "password": "772002",
-    "records": [
-    {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/W5tFEZzngyQ",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "raco",
-            "link": "https://www.youtube.com/watch?v=oitZ0PD7Hts&t=24s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=WaQmJnl87EQ",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/d52sETF7Qfc",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=C2hjOR6WpU8",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=LheJi_zgQlw&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 144
-}
-    ]
+	"id": 59706883,
+	"name": "Omega",
+	"author": "MindCap",
+	"creators": [
+		"MindCap",
+		"Pennutoh",
+		"Temp",
+		"HelpegasuS",
+		"Thomartin",
+		"GDSean",
+		"TehTactiq",
+		"Zero",
+		"Mactanow",
+		"Sogogi",
+		"Ryder",
+		"Giron",
+		"Lemons",
+		"Shocksidian",
+		"Molds",
+		"RadiationV2",
+		"Scrumpy",
+		"knobbelboy",
+		"Fufafac",
+		"koolboom",
+		"Vlacc",
+		"Metalface221",
+		"Arb",
+		"Vismuth",
+		"Zeroya",
+		"Kllnex",
+		"Masu",
+		"Xaren",
+		"Darwin",
+		"HJfod",
+		"Mezzo"
+	],
+	"verifier": "xander",
+	"verification": "https://www.youtube.com/watch?v=VqOMZLoiwAs",
+	"percentToQualify": 100,
+	"password": "772002",
+	"records": [
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/W5tFEZzngyQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "raco",
+			"link": "https://www.youtube.com/watch?v=oitZ0PD7Hts&t=24s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=WaQmJnl87EQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/d52sETF7Qfc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=C2hjOR6WpU8",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=LheJi_zgQlw&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

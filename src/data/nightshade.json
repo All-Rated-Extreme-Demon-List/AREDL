@@ -1,35 +1,37 @@
 {
-    "id": 83107375,
-    "name": "Nightshade",
-    "author": "YakobNugget",
-    "creators": ["Parallax, James, Toughfey, GrenadeofTacos, Gradientxxd, Avakai, iNubble, YoReid, notlsa, OliSW, Rawin, Lyraki, overdefo, RoyalP, Zeptoz, YakobNugget, scowlerxgrasher, Destriv, GDSkele, SleyGD, WhirL, ScorchVX, loltad, Empika, RNBW, TriStorm"],
-    "verifier": "YakobNugget",
-    "verification": "https://www.youtube.com/watch?v=1RiB0qmwE4A",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Lia",
-            "link": "https://youtu.be/IYclV0ARYkk",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "BrowarKedawar",
-            "link": "https://youtu.be/TP_j_uDPQs4",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "DJ1482",
-            "link": "https://youtu.be/nrsAqGl8xAc",
-            "percent": 100,
-            "hz": 288
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=jqVSECqn0HQ",
-    "percent": 100,
-    "hz": 144
-}
-    ]
+	"id": 83107375,
+	"name": "Nightshade",
+	"author": "YakobNugget",
+	"creators": [
+		"Parallax, James, Toughfey, GrenadeofTacos, Gradientxxd, Avakai, iNubble, YoReid, notlsa, OliSW, Rawin, Lyraki, overdefo, RoyalP, Zeptoz, YakobNugget, scowlerxgrasher, Destriv, GDSkele, SleyGD, WhirL, ScorchVX, loltad, Empika, RNBW, TriStorm"
+	],
+	"verifier": "YakobNugget",
+	"verification": "https://www.youtube.com/watch?v=1RiB0qmwE4A",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/IYclV0ARYkk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "BrowarKedawar",
+			"link": "https://youtu.be/TP_j_uDPQs4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "DJ1482",
+			"link": "https://youtu.be/nrsAqGl8xAc",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=jqVSECqn0HQ",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

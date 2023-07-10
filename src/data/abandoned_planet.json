@@ -1,24 +1,24 @@
 {
-    "id": 46249401,
-    "name": "Abandoned Planet",
-    "author": "Metalface221",
-    "creators": [],
-    "verifier": "Metalface221",
-    "verification": "https://www.youtube.com/watch?v=Pa95HKNXPpY",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records": [
-    {
-            "user": "Magmeta",
-            "link": "https://youtu.be/RypCuvERuw4",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=vGHrpaw-cvc",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 46249401,
+	"name": "Abandoned Planet",
+	"author": "Metalface221",
+	"creators": [],
+	"verifier": "Metalface221",
+	"verification": "https://www.youtube.com/watch?v=Pa95HKNXPpY",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "Magmeta",
+			"link": "https://youtu.be/RypCuvERuw4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=vGHrpaw-cvc",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

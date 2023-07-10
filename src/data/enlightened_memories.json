@@ -1,53 +1,53 @@
 {
-    "id": 78011370,
-    "name": "Enlightened Memories",
-    "author": "Nyseoul",
-    "creators": [],
-    "verifier": "AbraXas96",
-    "verification": "https://www.youtube.com/watch?v=-k_sp_Fhp_I",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Lia",
-            "link": "https://youtu.be/qgFTD2ie7Zo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/fREbGaqXbMI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/OAdKuy7vPKg",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=OqPlP8ZBF1Y",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BANA1411",
-            "link": "https://youtu.be/JbhV-Ik7YhA",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/89r20ZrnFNw",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/Zh6sxKCa4ng",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 78011370,
+	"name": "Enlightened Memories",
+	"author": "Nyseoul",
+	"creators": [],
+	"verifier": "AbraXas96",
+	"verification": "https://www.youtube.com/watch?v=-k_sp_Fhp_I",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/qgFTD2ie7Zo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/fREbGaqXbMI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/OAdKuy7vPKg",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=OqPlP8ZBF1Y",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BANA1411",
+			"link": "https://youtu.be/JbhV-Ik7YhA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/89r20ZrnFNw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/Zh6sxKCa4ng",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

@@ -1,107 +1,109 @@
 {
-    "id": 66085306,
-    "name": "DARKENED",
-    "author": "Bianox",
-    "creators": ["Ryder, Bianox, Shocksidian, Uneskladovae, Desticy, EyeOfTheStorm"],
-    "verifier": "Yoshikawa",
-    "verification": "https://www.youtube.com/watch?v=xL7qdf33iVI",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Trehoeje",
-            "link": "https://youtu.be/22aF4qcAZf8",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Kublinek2006",
-            "link": "https://www.youtube.com/watch?v=AgwU0AZXQC4",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "BreadGuyGD",
-            "link": "https://www.youtube.com/watch?v=2y8X0tbo1c4",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "meluwudy",
-            "link": "https://www.youtube.com/watch?v=MivovgZ4FJI",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "ShadowMyth",
-            "link": "https://youtu.be/0ONN5iu__q4",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Darkhonix",
-            "link": "https://youtu.be/ocb_ILHNYp0",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/xfIpzi9igRo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Rayaleg8",
-            "link": "https://youtu.be/JTWLfMKQ_hg",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/laItX6bV6b8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Glungus",
-            "link": "https://www.youtube.com/watch?v=Oz4IQuE_5UM&ab_channel=Glungus",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Glungus",
-            "link": "https://www.youtube.com/watch?v=Oz4IQuE_5UM&ab_channel=Glungus",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/n1GRne8xw6k",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/o2aFVUF_wHA",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=whfmh_Tzm_k",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "od te coffy",
-            "link": "https://www.youtube.com/watch?v=VZTvIAfzDvs&ab_channel=odtecoffy",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "MarutiGD",
-            "link": "https://youtu.be/dOMkEf_PUJA",
-            "percent": 100,
-            "hz": 144
-}
-    ]
+	"id": 66085306,
+	"name": "DARKENED",
+	"author": "Bianox",
+	"creators": [
+		"Ryder, Bianox, Shocksidian, Uneskladovae, Desticy, EyeOfTheStorm"
+	],
+	"verifier": "Yoshikawa",
+	"verification": "https://www.youtube.com/watch?v=xL7qdf33iVI",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Trehoeje",
+			"link": "https://youtu.be/22aF4qcAZf8",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Kublinek2006",
+			"link": "https://www.youtube.com/watch?v=AgwU0AZXQC4",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "BreadGuyGD",
+			"link": "https://www.youtube.com/watch?v=2y8X0tbo1c4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "meluwudy",
+			"link": "https://www.youtube.com/watch?v=MivovgZ4FJI",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ShadowMyth",
+			"link": "https://youtu.be/0ONN5iu__q4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Darkhonix",
+			"link": "https://youtu.be/ocb_ILHNYp0",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/xfIpzi9igRo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Rayaleg8",
+			"link": "https://youtu.be/JTWLfMKQ_hg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/laItX6bV6b8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Glungus",
+			"link": "https://www.youtube.com/watch?v=Oz4IQuE_5UM&ab_channel=Glungus",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Glungus",
+			"link": "https://www.youtube.com/watch?v=Oz4IQuE_5UM&ab_channel=Glungus",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/n1GRne8xw6k",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/o2aFVUF_wHA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=whfmh_Tzm_k",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "od te coffy",
+			"link": "https://www.youtube.com/watch?v=VZTvIAfzDvs&ab_channel=odtecoffy",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "MarutiGD",
+			"link": "https://youtu.be/dOMkEf_PUJA",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

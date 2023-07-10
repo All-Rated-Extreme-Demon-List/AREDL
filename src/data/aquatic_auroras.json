@@ -1,78 +1,78 @@
 {
-    "id": 60740290,
-    "name": "Aquatic Auroras",
-    "author": "Endlevel",
-    "creators": ["El3ctr0","Endlevel","LimeTime313"],
-    "verifier": "kyoto",
-    "verification": "https://www.youtube.com/watch?v=cD0zZ9OJkBE",
-    "percentToQualify": 100,
-    "password": "789123",
-    "records": [
-    {
-            "user": "Magmeta",
-            "link": "https://youtu.be/cbcFQ8_t_uw",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=HryXcd8-nr0",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "DarkMatt",
-            "link": "https://www.youtube.com/watch?v=fxF3C__oyek&t=18s&ab_channel=DarkMatt",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/K1QxVDHBBec",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Denni",
-            "link": "https://www.youtube.com/watch?v=I-HEga-zwrI&t=4s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/NROOEeFdjuw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/28ZQ0aeowYQ",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/4PgN805LdW8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Detrezo",
-            "link": "https://www.youtube.com/watch?v=BFn1D31QDgU&ab_channel=Detrezo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "woi",
-            "link": "https://www.youtube.com/watch?v=m3HjWS8kPnM&ab_channel=woi",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "Ratio",
-            "link": "https://youtu.be/4kTujR7zXDI",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 60740290,
+	"name": "Aquatic Auroras",
+	"author": "Endlevel",
+	"creators": ["El3ctr0", "Endlevel", "LimeTime313"],
+	"verifier": "kyoto",
+	"verification": "https://www.youtube.com/watch?v=cD0zZ9OJkBE",
+	"percentToQualify": 100,
+	"password": "789123",
+	"records": [
+		{
+			"user": "Magmeta",
+			"link": "https://youtu.be/cbcFQ8_t_uw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=HryXcd8-nr0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DarkMatt",
+			"link": "https://www.youtube.com/watch?v=fxF3C__oyek&t=18s&ab_channel=DarkMatt",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/K1QxVDHBBec",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Denni",
+			"link": "https://www.youtube.com/watch?v=I-HEga-zwrI&t=4s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/NROOEeFdjuw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/28ZQ0aeowYQ",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/4PgN805LdW8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Detrezo",
+			"link": "https://www.youtube.com/watch?v=BFn1D31QDgU&ab_channel=Detrezo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "woi",
+			"link": "https://www.youtube.com/watch?v=m3HjWS8kPnM&ab_channel=woi",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "Ratio",
+			"link": "https://youtu.be/4kTujR7zXDI",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

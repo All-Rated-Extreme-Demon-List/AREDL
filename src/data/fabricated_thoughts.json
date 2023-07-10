@@ -1,36 +1,36 @@
 {
-    "id": 61151935,
-    "name": "Fabricated Thoughts",
-    "author": "MaxiKD",
-    "creators": [],
-    "verifier": "YakobNugget",
-    "verification": "https://www.youtube.com/watch?v=Uzfzgf51Xww",
-    "percentToQualify": 100,
-    "password": "000102",
-    "records": [
-    {
-            "user": "ThePastaNebula",
-            "link": "https://youtu.be/mxOhGYmgwW4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=DNIiY8lKtJw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "eg600",
-            "link": "https://youtu.be/zCcC2X2nbS0",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Gap2003",
-            "link": "https://www.youtube.com/watch?v=m8GLTQYFdic",
-            "percent": 100,
-            "hz": 144
-}
-    ]
+	"id": 61151935,
+	"name": "Fabricated Thoughts",
+	"author": "MaxiKD",
+	"creators": [],
+	"verifier": "YakobNugget",
+	"verification": "https://www.youtube.com/watch?v=Uzfzgf51Xww",
+	"percentToQualify": 100,
+	"password": "000102",
+	"records": [
+		{
+			"user": "ThePastaNebula",
+			"link": "https://youtu.be/mxOhGYmgwW4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=DNIiY8lKtJw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "eg600",
+			"link": "https://youtu.be/zCcC2X2nbS0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Gap2003",
+			"link": "https://www.youtube.com/watch?v=m8GLTQYFdic",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

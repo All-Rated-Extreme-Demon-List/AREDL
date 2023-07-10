@@ -1,121 +1,121 @@
 {
-    "id": 48008831,
-    "name": "Annihilation Nation",
-    "author": "Zylenox",
-    "creators": [],
-    "verifier": "Zylenox",
-    "verification": "https://www.youtube.com/watch?v=6WiRsUbg2MQ",
-    "percentToQualify": 100,
-    "password": "666666",
-    "records": [
-    {
-            "user": "GhostPepper",
-            "link": "https://youtu.be/SaESJBDv-7o",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Willow",
-            "link": "https://youtu.be/29CmvqfmvlU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "iiLogan",
-            "link": "https://youtu.be/uEZMLpd6AMs",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "Trehoeje",
-            "link": "https://youtu.be/WeVR3occBzU",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "SeaWolfMikes",
-            "link": "https://youtu.be/8SQ9iechKzA",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-},
-        {
-            "user": "Magmeta",
-            "link": "https://youtu.be/Vru8cyv1Ztg",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/-eyiMKbOc-s",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "geomaniac",
-            "link": "https://www.youtube.com/watch?v=cMfmC7GKHyo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "JoinMolten",
-            "link": "https://www.youtube.com/watch?v=yd7DXQsh1s0",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "DarkMatt",
-            "link": "https://www.youtube.com/watch?v=wt_cZWAdG9Y&ab_channel=DarkMatt",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/QVJH6l4klAQ",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=SIVEh2wOr08",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/2OiHnbq2EPs",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Detrezo",
-            "link": "https://www.youtube.com/watch?v=4bHAbTgXAL4&ab_channel=Detrezo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Blathers",
-            "link": "https://youtu.be/ISHyBzdYEc8",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "BrowarKedawar",
-            "link": "https://youtu.be/LiKDPz1OrhY",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "foocii",
-            "link": "https://www.youtube.com/watch?v=dEMnpUOLdUk&ab_channel=Itsfoocii",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/opcEi8gJUks",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 48008831,
+	"name": "Annihilation Nation",
+	"author": "Zylenox",
+	"creators": [],
+	"verifier": "Zylenox",
+	"verification": "https://www.youtube.com/watch?v=6WiRsUbg2MQ",
+	"percentToQualify": 100,
+	"password": "666666",
+	"records": [
+		{
+			"user": "GhostPepper",
+			"link": "https://youtu.be/SaESJBDv-7o",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Willow",
+			"link": "https://youtu.be/29CmvqfmvlU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "iiLogan",
+			"link": "https://youtu.be/uEZMLpd6AMs",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "Trehoeje",
+			"link": "https://youtu.be/WeVR3occBzU",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "SeaWolfMikes",
+			"link": "https://youtu.be/8SQ9iechKzA",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "Magmeta",
+			"link": "https://youtu.be/Vru8cyv1Ztg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/-eyiMKbOc-s",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "geomaniac",
+			"link": "https://www.youtube.com/watch?v=cMfmC7GKHyo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "JoinMolten",
+			"link": "https://www.youtube.com/watch?v=yd7DXQsh1s0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DarkMatt",
+			"link": "https://www.youtube.com/watch?v=wt_cZWAdG9Y&ab_channel=DarkMatt",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/QVJH6l4klAQ",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=SIVEh2wOr08",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/2OiHnbq2EPs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Detrezo",
+			"link": "https://www.youtube.com/watch?v=4bHAbTgXAL4&ab_channel=Detrezo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Blathers",
+			"link": "https://youtu.be/ISHyBzdYEc8",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "BrowarKedawar",
+			"link": "https://youtu.be/LiKDPz1OrhY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "foocii",
+			"link": "https://www.youtube.com/watch?v=dEMnpUOLdUk&ab_channel=Itsfoocii",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/opcEi8gJUks",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

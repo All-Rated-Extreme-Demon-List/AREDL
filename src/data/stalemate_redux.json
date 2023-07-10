@@ -1,114 +1,114 @@
 {
-    "id": 37398911,
-    "name": "Stalemate Redux",
-    "author": "TehTactiq",
-    "creators": ["TehTactiq, TheFrozenTide"],
-    "verifier": "Zephal",
-    "verification": "https://www.youtube.com/watch?v=t9XP1lhMrPo",
-    "percentToQualify": 100,
-    "password": "115911",
-    "records": [
-    {
-            "user": "Chubby9000",
-            "link": "https://youtu.be/ldpiR5ZLKw0 ",
-            "percent": 100,
-            "hz": 165
-        },
-        {
-            "user": "Trees",
-            "link": "https://www.youtube.com/watch?v=JgGEmA-eCdc&ab_channel=Trees",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "scarreer",
-            "link": "https://youtu.be/8c50jWDowJM",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/7oYd9llUYlY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "KubeczekTV",
-            "link": "https://www.youtube.com/watch?v=fFhwDcG7lws",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/YKLn94MUFbY",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "NUwUxuz",
-            "link": "https://www.youtube.com/watch?v=fOrpdM-fX7Q",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "tylor",
-            "link": "https://youtu.be/sIW2x9AQ5no",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/Vo7YQQ8EIBE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Mixer",
-            "link": "https://www.youtube.com/watch?v=0VhG90nUb5o",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Blathers",
-            "link": "https://youtu.be/u2qPpQwBD1g",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "psychotix",
-            "link": "https://www.youtube.com/watch?v=SZwDO6V4Im4&list=PL9JaiMITBLQ2fPhdu2hTPnWVyroa5hHFR",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Meep",
-            "link": "https://youtu.be/rM_eyevzLC4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "clncrvl",
-            "link": "https://youtu.be/8ejc3A6auYY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/_ISmtbx-fpI",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=8cCV8J5izyg",
-    "percent": 100,
-    "hz": 144
-},
-{
-            "user": "nWine",
-            "link": "https://youtu.be/NIReQVCfWjM",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 37398911,
+	"name": "Stalemate Redux",
+	"author": "TehTactiq",
+	"creators": ["TehTactiq, TheFrozenTide"],
+	"verifier": "Zephal",
+	"verification": "https://www.youtube.com/watch?v=t9XP1lhMrPo",
+	"percentToQualify": 100,
+	"password": "115911",
+	"records": [
+		{
+			"user": "Chubby9000",
+			"link": "https://youtu.be/ldpiR5ZLKw0 ",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "Trees",
+			"link": "https://www.youtube.com/watch?v=JgGEmA-eCdc&ab_channel=Trees",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "scarreer",
+			"link": "https://youtu.be/8c50jWDowJM",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/7oYd9llUYlY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "KubeczekTV",
+			"link": "https://www.youtube.com/watch?v=fFhwDcG7lws",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/YKLn94MUFbY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "NUwUxuz",
+			"link": "https://www.youtube.com/watch?v=fOrpdM-fX7Q",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "tylor",
+			"link": "https://youtu.be/sIW2x9AQ5no",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/Vo7YQQ8EIBE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Mixer",
+			"link": "https://www.youtube.com/watch?v=0VhG90nUb5o",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Blathers",
+			"link": "https://youtu.be/u2qPpQwBD1g",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "psychotix",
+			"link": "https://www.youtube.com/watch?v=SZwDO6V4Im4&list=PL9JaiMITBLQ2fPhdu2hTPnWVyroa5hHFR",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Meep",
+			"link": "https://youtu.be/rM_eyevzLC4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "clncrvl",
+			"link": "https://youtu.be/8ejc3A6auYY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/_ISmtbx-fpI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=8cCV8J5izyg",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "nWine",
+			"link": "https://youtu.be/NIReQVCfWjM",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

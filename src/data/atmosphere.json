@@ -1,30 +1,32 @@
 {
-    "id": 42664144,
-    "name": "Atmosphere",
-    "author": "VoidSquad",
-    "creators": ["Hexhammer, Mactanow, Wombat, zhawker, GaidenHertuny, Aqwuh, Djoxy, KINGTONY, Manheadrambo, Bermard, Oasiz, Squared, SpadeKilla17, Kazia, Cyber Orion, Optation, Straw, FozaeKitty"],
-    "verifier": "BrianTheBurger",
-    "verification": "https://www.youtube.com/watch?v=yV8jA9yU-JM",
-    "percentToQualify": 100,
-    "password": "221901",
-    "records": [
-    {
-            "user": "Coromy",
-            "link": "https://www.youtube.com/watch?v=iouv6vXmBPQ&t=145s",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Parra",
-            "link": "https://www.youtube.com/watch?v=Tq9o6uyd7K4",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/j6U1whaVETM",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 42664144,
+	"name": "Atmosphere",
+	"author": "VoidSquad",
+	"creators": [
+		"Hexhammer, Mactanow, Wombat, zhawker, GaidenHertuny, Aqwuh, Djoxy, KINGTONY, Manheadrambo, Bermard, Oasiz, Squared, SpadeKilla17, Kazia, Cyber Orion, Optation, Straw, FozaeKitty"
+	],
+	"verifier": "BrianTheBurger",
+	"verification": "https://www.youtube.com/watch?v=yV8jA9yU-JM",
+	"percentToQualify": 100,
+	"password": "221901",
+	"records": [
+		{
+			"user": "Coromy",
+			"link": "https://www.youtube.com/watch?v=iouv6vXmBPQ&t=145s",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Parra",
+			"link": "https://www.youtube.com/watch?v=Tq9o6uyd7K4",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/j6U1whaVETM",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

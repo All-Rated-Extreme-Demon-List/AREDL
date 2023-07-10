@@ -1,30 +1,30 @@
 {
-    "id": 63996127,
-    "name": "Cold Sweat",
-    "author": "para",
-    "creators": ["para","Sminx","Wulzy"],
-    "verifier": "Kapinapi",
-    "verification": "https://www.youtube.com/watch?v=tBpEPXGhQug",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "SeaWolfMikes",
-            "link": "https://youtu.be/TNqFHVrt2ng",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-},
-        {
-            "user": "nei",
-            "link": "https://youtu.be/UftzkPg5X7E",
-            "percent": 100,
-            "hz": 360
-        },
-             {
-            "user": "Zoink",
-            "link": "https://www.youtube.com/watch?v=CKc01So0xvk",
-            "percent": 100,
-            "hz": 240
-}
-    ]
+	"id": 63996127,
+	"name": "Cold Sweat",
+	"author": "para",
+	"creators": ["para", "Sminx", "Wulzy"],
+	"verifier": "Kapinapi",
+	"verification": "https://www.youtube.com/watch?v=tBpEPXGhQug",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "SeaWolfMikes",
+			"link": "https://youtu.be/TNqFHVrt2ng",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "nei",
+			"link": "https://youtu.be/UftzkPg5X7E",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Zoink",
+			"link": "https://www.youtube.com/watch?v=CKc01So0xvk",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

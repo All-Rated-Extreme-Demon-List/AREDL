@@ -1,23 +1,23 @@
 {
-    "id": 88017017,
-    "name": "Snowdrift",
-    "author": "Bratki",
-    "creators": [],
-    "verifier": "luminovsky",
-    "verification": "https://www.youtube.com/watch?v=Wu5mZGKQE98&pp=ygUSc25vd2RyaWZ0IHZlcmlmaWVk",
-    "percentToQualify": 100,
-    "records": [
-{
-            "user": "KingOfGods",
-            "link": "https://www.youtube.com/watch?v=VYNKKP6Ch6o",
-            "percent": 100,
-            "hz": 360
-    },
-    {
-    "user": "HotNooB",
-    "link": "https://youtu.be/nvhYpGpnIvc",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 88017017,
+	"name": "Snowdrift",
+	"author": "Bratki",
+	"creators": [],
+	"verifier": "luminovsky",
+	"verification": "https://www.youtube.com/watch?v=Wu5mZGKQE98&pp=ygUSc25vd2RyaWZ0IHZlcmlmaWVk",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "KingOfGods",
+			"link": "https://www.youtube.com/watch?v=VYNKKP6Ch6o",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/nvhYpGpnIvc",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

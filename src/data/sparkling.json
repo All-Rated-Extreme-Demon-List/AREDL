@@ -1,47 +1,47 @@
 {
-    "id": 77765367,
-    "name": "Sparkling",
-    "author": "MzeroGD",
-    "creators": ["Mzero","Snikz","Surge","PokeChatt","Mia"],
-    "verifier": "Johnfree",
-    "verification": "https://www.youtube.com/watch?v=4r9hkMxpiQw",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "nei",
-            "link": "https://youtu.be/Obiss7ISMzM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=PSYJ5D7_uLg",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Clara",
-            "link": "https://youtu.be/noEQiZ9LgN0",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Fabricorn",
-            "link": "https://youtu.be/PuFC5qBq6gE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Matter",
-            "link": "https://youtu.be/vxWTT2DxFIQ",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/jUGlQACwRX8",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 77765367,
+	"name": "Sparkling",
+	"author": "MzeroGD",
+	"creators": ["Mzero", "Snikz", "Surge", "PokeChatt", "Mia"],
+	"verifier": "Johnfree",
+	"verification": "https://www.youtube.com/watch?v=4r9hkMxpiQw",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "nei",
+			"link": "https://youtu.be/Obiss7ISMzM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=PSYJ5D7_uLg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Clara",
+			"link": "https://youtu.be/noEQiZ9LgN0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Fabricorn",
+			"link": "https://youtu.be/PuFC5qBq6gE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/vxWTT2DxFIQ",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/jUGlQACwRX8",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

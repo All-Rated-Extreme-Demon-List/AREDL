@@ -1,30 +1,30 @@
 {
-    "id": 79242390,
-    "name": "vaenstep",
-    "author": "vaen",
-    "creators": ["Renn241"],
-    "verifier": "vaen",
-    "verification": "https://www.youtube.com/watch?v=NWG7IDhzNlc",
-    "percentToQualify": 100,
-    "password": "800850",
-    "records": [
-    {
-            "user": "Nik14K",
-            "link": "https://youtu.be/fLacJuZDreg",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "chickenborgor",
-            "link": "https://youtu.be/hqwLAPGvZO4",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Didjimon",
-            "link": "https://youtu.be/PxQUZ1aDuU0",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 79242390,
+	"name": "vaenstep",
+	"author": "vaen",
+	"creators": ["Renn241"],
+	"verifier": "vaen",
+	"verification": "https://www.youtube.com/watch?v=NWG7IDhzNlc",
+	"percentToQualify": 100,
+	"password": "800850",
+	"records": [
+		{
+			"user": "Nik14K",
+			"link": "https://youtu.be/fLacJuZDreg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "chickenborgor",
+			"link": "https://youtu.be/hqwLAPGvZO4",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Didjimon",
+			"link": "https://youtu.be/PxQUZ1aDuU0",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

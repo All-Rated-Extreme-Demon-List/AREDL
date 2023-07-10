@@ -1,23 +1,23 @@
 {
-    "id": 55962849,
-    "name": "Ancient Travel",
-    "author": "Metalface221",
-    "creators": ["Herozombie80, Metalface221"],
-    "verifier": "WormFodder",
-    "verification": "https://www.youtube.com/watch?v=G-2Z2y42M-8",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/l0vyNXFMIGk",
-            "percent": 100,
-            "hz": 280
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/ZX0Wt32DGLk",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 55962849,
+	"name": "Ancient Travel",
+	"author": "Metalface221",
+	"creators": ["Herozombie80, Metalface221"],
+	"verifier": "WormFodder",
+	"verification": "https://www.youtube.com/watch?v=G-2Z2y42M-8",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/l0vyNXFMIGk",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/ZX0Wt32DGLk",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

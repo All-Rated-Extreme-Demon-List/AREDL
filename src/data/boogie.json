@@ -1,113 +1,115 @@
 {
-    "id": 72873416,
-    "name": "Boogie",
-    "author": "DigitalZero",
-    "creators": ["Nell, MiniWheatDuo, Gizbro, Brittank88, Sequex, TheGalaxyCat, SaturnV7, Wahffle, AlrexX, Syn, Awedsy, DigitalZero, Delrasshial, LuX, CDMusic, Zincate, starry, eXomin, Crispybag, Marcel, DashyBois, TheYeasoN, Holy, v0ltGD, LekuGD, Heso, Bedrock, Pyrox, Bigmac, M3mber, PaintingOrange, Walghani, EDoosh, Nexorous, Ezys5, ArFace, MegalynX, Rebix, Daycore, LockedDBZ, Stevokoriko, Noobiestskill"],
-    "verifier": "GPC Ashe",
-    "verification": "https://www.youtube.com/watch?v=2LAJVMiB214",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "Zenta",
-            "link": "https://www.youtube.com/watch?v=bJ69bY2Lb3I",
-            "percent": 100,
-            "hz": 360
-        },
-         {
-            "user": "Nova",
-            "link": "https://www.youtube.com/watch?v=-fSUBLWprAQ",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "pcklkng",
-            "link": "https://youtu.be/jqC1Vbom704",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Alex_",
-            "link": "https://youtu.be/Bm6aB26dWMY",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "NUwUxuz",
-            "link": "https://www.youtube.com/watch?v=3R9vgkEQCK0",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/JeHCOuBPQPU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "YTkerfuffles",
-            "link": "https://youtu.be/ppDkE9JPoeE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/A4mkq0lbsn4",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/r_RtIUXjw7s",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "Blathers",
-            "link": "https://youtu.be/5GAwFSRuTbI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Valerugo12",
-            "link": "https://youtu.be/IptufPqPZ7U",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=JO285i9gV9Q",
-    "percent": 100,
-    "hz": 144
-},
-        {
-            "user": "Bamvie",
-            "link": "https://youtu.be/Y7cPU4mns2o****",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "HotNooB",
-            "link": "https://youtu.be/QKuUu-doiFw",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "lunaa",
-            "link": "https://youtu.be/setLrwJYAhI",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "K3NNYY0",
-            "link": "https://www.youtube.com/watch?v=9GYjL08FhjM&t=98s",
-            "percent": 100,
-            "hz": 144
-},
-        {
-        "user": "YraX",
-        "link": "https://youtu.be/ftnZiEDOMv4",
-        "percent": 100,
-        "hz": 360
-}
-     ]
+	"id": 72873416,
+	"name": "Boogie",
+	"author": "DigitalZero",
+	"creators": [
+		"Nell, MiniWheatDuo, Gizbro, Brittank88, Sequex, TheGalaxyCat, SaturnV7, Wahffle, AlrexX, Syn, Awedsy, DigitalZero, Delrasshial, LuX, CDMusic, Zincate, starry, eXomin, Crispybag, Marcel, DashyBois, TheYeasoN, Holy, v0ltGD, LekuGD, Heso, Bedrock, Pyrox, Bigmac, M3mber, PaintingOrange, Walghani, EDoosh, Nexorous, Ezys5, ArFace, MegalynX, Rebix, Daycore, LockedDBZ, Stevokoriko, Noobiestskill"
+	],
+	"verifier": "GPC Ashe",
+	"verification": "https://www.youtube.com/watch?v=2LAJVMiB214",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Zenta",
+			"link": "https://www.youtube.com/watch?v=bJ69bY2Lb3I",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Nova",
+			"link": "https://www.youtube.com/watch?v=-fSUBLWprAQ",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "pcklkng",
+			"link": "https://youtu.be/jqC1Vbom704",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Alex_",
+			"link": "https://youtu.be/Bm6aB26dWMY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "NUwUxuz",
+			"link": "https://www.youtube.com/watch?v=3R9vgkEQCK0",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/JeHCOuBPQPU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "YTkerfuffles",
+			"link": "https://youtu.be/ppDkE9JPoeE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/A4mkq0lbsn4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/r_RtIUXjw7s",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "Blathers",
+			"link": "https://youtu.be/5GAwFSRuTbI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Valerugo12",
+			"link": "https://youtu.be/IptufPqPZ7U",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=JO285i9gV9Q",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Bamvie",
+			"link": "https://youtu.be/Y7cPU4mns2o****",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/QKuUu-doiFw",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/setLrwJYAhI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "K3NNYY0",
+			"link": "https://www.youtube.com/watch?v=9GYjL08FhjM&t=98s",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "YraX",
+			"link": "https://youtu.be/ftnZiEDOMv4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

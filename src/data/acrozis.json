@@ -1,30 +1,32 @@
 {
-    "id": 71136146,
-    "name": "Acrozis",
-    "author": "Renedi",
-    "creators": ["Handexx, Laxoutz, Supris, Renedi, Crowlley, Damianos Kabanos, Dami, Cylix"],
-    "verifier": "Gokill",
-    "verification": "https://www.youtube.com/watch?v=ya29CmmNbH0",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records": [
-    {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/AuUHvNJ-x64",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/VD_QiQKr7P0",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/siYOMLXWMB0",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 71136146,
+	"name": "Acrozis",
+	"author": "Renedi",
+	"creators": [
+		"Handexx, Laxoutz, Supris, Renedi, Crowlley, Damianos Kabanos, Dami, Cylix"
+	],
+	"verifier": "Gokill",
+	"verification": "https://www.youtube.com/watch?v=ya29CmmNbH0",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/AuUHvNJ-x64",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/VD_QiQKr7P0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/siYOMLXWMB0",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

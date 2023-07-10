@@ -1,29 +1,31 @@
 {
-    "id": 75718490,
-    "name": "Freedom19",
-    "author": "GrenadeOfTacos",
-    "creators": ["Awedsy, Hsam, AeverMess, terron , Peton, orphizn, Karyl, Brighty, G-Force, Allison, aleph, Lasaga,yuuchouze, c034, GrenadeofTacos, SigRp, Cersia, Squared,  Theorical, Burgz, Graded, Nezopi, MrSpaghetti , zmx, kyurime, unnn, Arca, ennutoh , Rulls, Hubbubble, maxfs, Intensa, Isane, Fitatfi, Sillow, Artos, Zylsia, Carminius"],
-    "verifier": "ARtu",
-    "verification": "https://www.youtube.com/watch?v=UoAmpeLfHfg",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "DartHole",
-            "link": "https://youtu.be/6xLLsTCmonA",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "StarXV",
-            "link": "https://youtu.be/R0hZXGBiHds",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "JDemoX",
-            "link": "https://www.youtube.com/watch?v=XLNLjCDljiM",
-            "percent": 100,
-            "hz": 144
-}
-    ]
+	"id": 75718490,
+	"name": "Freedom19",
+	"author": "GrenadeOfTacos",
+	"creators": [
+		"Awedsy, Hsam, AeverMess, terron , Peton, orphizn, Karyl, Brighty, G-Force, Allison, aleph, Lasaga,yuuchouze, c034, GrenadeofTacos, SigRp, Cersia, Squared,  Theorical, Burgz, Graded, Nezopi, MrSpaghetti , zmx, kyurime, unnn, Arca, ennutoh , Rulls, Hubbubble, maxfs, Intensa, Isane, Fitatfi, Sillow, Artos, Zylsia, Carminius"
+	],
+	"verifier": "ARtu",
+	"verification": "https://www.youtube.com/watch?v=UoAmpeLfHfg",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/6xLLsTCmonA",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "StarXV",
+			"link": "https://youtu.be/R0hZXGBiHds",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "JDemoX",
+			"link": "https://www.youtube.com/watch?v=XLNLjCDljiM",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

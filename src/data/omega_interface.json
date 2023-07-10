@@ -1,108 +1,108 @@
 {
-    "id": 68654380,
-    "name": "Omega Interface",
-    "author": "Platnuu",
-    "creators": ["Platnuu","Zipixbox"],
-    "verifier": "RG",
-    "verification": "https://www.youtube.com/watch?v=sVngEgj0who",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "iiLogan",
-            "link": "https://youtu.be/1_KLWSdzryo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Blathers",
-            "link": "https://youtu.be/XH08en578uU",
-            "percent": 100,
-            "hz": 360
-},
-        
-        {
-            "user": "AleczD",
-            "link": "https://www.youtube.com/watch?v=GBAxBQMacM0",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Magmeta",
-            "link": "https://youtu.be/YMEJvFbe9Fk",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "nei",
-            "link": "https://youtu.be/Xbknfe9flKI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "ktunn",
-            "link": "https://youtu.be/OQv_mzqPfJA",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Fabricorn",
-            "link": "https://youtu.be/x3CmB10xk_k",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/o8shxkBrl3k",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Sam1yd",
-            "link": "https://www.youtube.com/watch?v=TtNvZsb6UU8&ab_channel=Sam1yd",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/3zEfj9e6p4s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/Cel8Wy-KhCU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=hrSL35zFZ2c",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Ratio",
-            "link": "https://youtu.be/bnV3_2jp2rM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Detrezo",
-            "link": "https://www.youtube.com/watch?v=J6CL2Q5a2TE&ab_channel=Detrezo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "woi",
-            "link": "https://www.youtube.com/watch?v=YR6ACzz2FRA&ab_channel=woi",
-            "percent": 100,
-            "hz": 360
-},
-{
-            "user": "Trees",
-            "link": "https://youtu.be/bbVV4xt9W_8",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 68654380,
+	"name": "Omega Interface",
+	"author": "Platnuu",
+	"creators": ["Platnuu", "Zipixbox"],
+	"verifier": "RG",
+	"verification": "https://www.youtube.com/watch?v=sVngEgj0who",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "iiLogan",
+			"link": "https://youtu.be/1_KLWSdzryo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Blathers",
+			"link": "https://youtu.be/XH08en578uU",
+			"percent": 100,
+			"hz": 360
+		},
+
+		{
+			"user": "AleczD",
+			"link": "https://www.youtube.com/watch?v=GBAxBQMacM0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Magmeta",
+			"link": "https://youtu.be/YMEJvFbe9Fk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "nei",
+			"link": "https://youtu.be/Xbknfe9flKI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ktunn",
+			"link": "https://youtu.be/OQv_mzqPfJA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Fabricorn",
+			"link": "https://youtu.be/x3CmB10xk_k",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/o8shxkBrl3k",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Sam1yd",
+			"link": "https://www.youtube.com/watch?v=TtNvZsb6UU8&ab_channel=Sam1yd",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/3zEfj9e6p4s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/Cel8Wy-KhCU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=hrSL35zFZ2c",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Ratio",
+			"link": "https://youtu.be/bnV3_2jp2rM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Detrezo",
+			"link": "https://www.youtube.com/watch?v=J6CL2Q5a2TE&ab_channel=Detrezo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "woi",
+			"link": "https://www.youtube.com/watch?v=YR6ACzz2FRA&ab_channel=woi",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Trees",
+			"link": "https://youtu.be/bbVV4xt9W_8",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

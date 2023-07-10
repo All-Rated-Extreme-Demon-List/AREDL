@@ -1,141 +1,141 @@
 {
-    "id": 30157581,
-    "name": "Matilda the Machine",
-    "author": "Jeyzor",
-    "creators": [],
-    "verifier": "Jeyzor",
-    "verification": "https://www.youtube.com/watch?v=_ICKNhOQ4Tw",
-    "percentToQualify": 100,
-    "password": "046885",
-    "records": [
-            {
-            "user": "Jeremyiscool",
-            "link": "https://www.youtube.com/watch?v=7MAp8rt3s4k",
-            "percent": 100,
-            "hz": 288
-        },
-          {
-            "user": "Chubby9000",
-            "link": "https://youtu.be/6WE9LMXkKqc",
-            "percent": 100,
-            "hz": 60
-        },
-{
-            "user": "Willow",
-            "link": "https://youtu.be/f59J-qbN084",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "EpicEver",
-            "link": "https://youtu.be/kXUJ-8pAgOg",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-},
-        {
-            "user": "ASBCHazel",
-            "link": "https://www.youtube.com/watch?v=tR2sdFAY3Wg&t=1305s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/-ElvxtT0T2c",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Matter",
-            "link": "https://youtu.be/0FJIWuq6_e4",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "ultracauaHD",
-            "link": "https://www.youtube.com/watch?v=LPIMeL_hyuc",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/eUb0Z_UBVQo",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/pla5SaC1BTE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=_lTTOoSzF6E",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Enfur",
-            "link": "https://www.youtube.com/watch?v=YFH5AW0zGko",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/P6SxoqhhyP0",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "GJosh2",
-            "link": "https://www.youtube.com/watch?v=eLJ0Apj0lGI",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-},
-        {
-            "user": "Dan2D",
-            "link": "https://youtu.be/Ng2RdM_7SjA",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/OfQPPBBap7g",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=55KC0ze-fJE",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Bonezizdum",
-            "link": "https://youtu.be/YIVVsridYuc",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/rZ_gNZh3p9c",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/MSS-TkzyjGM",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/TrIIeeB23no",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 30157581,
+	"name": "Matilda the Machine",
+	"author": "Jeyzor",
+	"creators": [],
+	"verifier": "Jeyzor",
+	"verification": "https://www.youtube.com/watch?v=_ICKNhOQ4Tw",
+	"percentToQualify": 100,
+	"password": "046885",
+	"records": [
+		{
+			"user": "Jeremyiscool",
+			"link": "https://www.youtube.com/watch?v=7MAp8rt3s4k",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Chubby9000",
+			"link": "https://youtu.be/6WE9LMXkKqc",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Willow",
+			"link": "https://youtu.be/f59J-qbN084",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "EpicEver",
+			"link": "https://youtu.be/kXUJ-8pAgOg",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "ASBCHazel",
+			"link": "https://www.youtube.com/watch?v=tR2sdFAY3Wg&t=1305s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/-ElvxtT0T2c",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/0FJIWuq6_e4",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ultracauaHD",
+			"link": "https://www.youtube.com/watch?v=LPIMeL_hyuc",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/eUb0Z_UBVQo",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/pla5SaC1BTE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=_lTTOoSzF6E",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Enfur",
+			"link": "https://www.youtube.com/watch?v=YFH5AW0zGko",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/P6SxoqhhyP0",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "GJosh2",
+			"link": "https://www.youtube.com/watch?v=eLJ0Apj0lGI",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "Dan2D",
+			"link": "https://youtu.be/Ng2RdM_7SjA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/OfQPPBBap7g",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=55KC0ze-fJE",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Bonezizdum",
+			"link": "https://youtu.be/YIVVsridYuc",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/rZ_gNZh3p9c",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/MSS-TkzyjGM",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/TrIIeeB23no",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

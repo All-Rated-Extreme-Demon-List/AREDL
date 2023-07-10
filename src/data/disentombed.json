@@ -1,36 +1,37 @@
-
 {
-    "id": 63354496,
-    "name": "Disentombed",
-    "author": "YakobNugget",
-    "creators": ["HelpegasuS, YakobNugget, Kiba, Mezzo, MaxiKD, CreatorSruj, CairoX, Isane, GiaMMix, Arcania, Uneskladovae, iNubble, Endlevel, Syberian, Sequex, Zafkiel, Reunomi, Duffz, Scrumpy, ItsHybrid, Xaren, Geo, Acnologia, DUBU, EyeOfTheStorm, BySelling, Hyenaedon, artherr, Klonex, TheShoot"],
-    "verifier": "Golden",
-    "verification": "https://www.youtube.com/watch?v=S2v-lgwzu1A",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "GYT",
-            "link": "https://www.youtube.com/watch?v=ILoCtMMUw2g",
-            "percent": 100,
-            "hz": 200
-},
-        {
-            "user": "Seic",
-            "link": "https://www.youtube.com/watch?v=WkBcOxwOvjY&list=PLiG4gb2hm-gJNfg3fwVAKA0upBU9UHKbT&index=4",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=mmOntMOVcvw",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/RdV12EZGX3w",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 63354496,
+	"name": "Disentombed",
+	"author": "YakobNugget",
+	"creators": [
+		"HelpegasuS, YakobNugget, Kiba, Mezzo, MaxiKD, CreatorSruj, CairoX, Isane, GiaMMix, Arcania, Uneskladovae, iNubble, Endlevel, Syberian, Sequex, Zafkiel, Reunomi, Duffz, Scrumpy, ItsHybrid, Xaren, Geo, Acnologia, DUBU, EyeOfTheStorm, BySelling, Hyenaedon, artherr, Klonex, TheShoot"
+	],
+	"verifier": "Golden",
+	"verification": "https://www.youtube.com/watch?v=S2v-lgwzu1A",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "GYT",
+			"link": "https://www.youtube.com/watch?v=ILoCtMMUw2g",
+			"percent": 100,
+			"hz": 200
+		},
+		{
+			"user": "Seic",
+			"link": "https://www.youtube.com/watch?v=WkBcOxwOvjY&list=PLiG4gb2hm-gJNfg3fwVAKA0upBU9UHKbT&index=4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=mmOntMOVcvw",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/RdV12EZGX3w",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

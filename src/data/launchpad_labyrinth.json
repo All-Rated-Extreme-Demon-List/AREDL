@@ -1,18 +1,18 @@
 {
-    "id": 85426437,
-    "name": "Launchpad Labyrinth",
-    "author": "Moffe",
-    "creators": [],
-    "verifier": "skzyl",
-    "verification": "https://youtu.be/iqWi98ZSTEE",
-    "percentToQualify": 100,
-    "password": "13004",
-    "records": [
-    {
-            "user": "Zoink",
-            "link": "https://youtu.be/axAK5y0yBfk",
-            "percent": 100,
-            "hz": 321
-}
-    ]
+	"id": 85426437,
+	"name": "Launchpad Labyrinth",
+	"author": "Moffe",
+	"creators": [],
+	"verifier": "skzyl",
+	"verification": "https://youtu.be/iqWi98ZSTEE",
+	"percentToQualify": 100,
+	"password": "13004",
+	"records": [
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/axAK5y0yBfk",
+			"percent": 100,
+			"hz": 321
+		}
+	]
 }

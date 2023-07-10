@@ -1,35 +1,35 @@
 {
-    "id": 59746010,
-    "name": "Fingerdash v3",
-    "author": "Noreiga",
-    "creators": [],
-    "verifier": "Noreiga",
-    "verification": "https://www.youtube.com/watch?v=IeKF2wU_41g&pp=ygUVZmluZ2VyZGFzaCB2MyBub3JpZWdh",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=EN41GNo2xDI",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "baechugimchi",
-    "link": "https://youtu.be/_nzLIPYpgaQ",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=z0I7FM3abrk",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/9vNOZmnLto8",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 59746010,
+	"name": "Fingerdash v3",
+	"author": "Noreiga",
+	"creators": [],
+	"verifier": "Noreiga",
+	"verification": "https://www.youtube.com/watch?v=IeKF2wU_41g&pp=ygUVZmluZ2VyZGFzaCB2MyBub3JpZWdh",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=EN41GNo2xDI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "baechugimchi",
+			"link": "https://youtu.be/_nzLIPYpgaQ",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=z0I7FM3abrk",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/9vNOZmnLto8",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

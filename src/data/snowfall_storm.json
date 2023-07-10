@@ -1,17 +1,17 @@
 {
-    "id": 68743944,
-    "name": "Snowfall Storm",
-    "author": "notGed",
-    "creators": [],
-    "verifier": "BreadDemon",
-    "verification": "https://www.youtube.com/watch?v=X0ucQ0kHROw&pp=ygUWc25vd2ZhbGwgc3Rvcm12ZXJpZmllZA%3D%3D",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "Villa",
-            "link": "https://youtu.be/HiXYtLwxza0",
-            "percent": 100,
-            "hz": 360
-    }
-    ]
+	"id": 68743944,
+	"name": "Snowfall Storm",
+	"author": "notGed",
+	"creators": [],
+	"verifier": "BreadDemon",
+	"verification": "https://www.youtube.com/watch?v=X0ucQ0kHROw&pp=ygUWc25vd2ZhbGwgc3Rvcm12ZXJpZmllZA%3D%3D",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Villa",
+			"link": "https://youtu.be/HiXYtLwxza0",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

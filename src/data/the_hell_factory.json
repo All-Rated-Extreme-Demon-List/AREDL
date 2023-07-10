@@ -1,73 +1,75 @@
 {
-    "id": 15265393,
-    "name": "The Hell Factory",
-    "author": "TeamN2",
-    "creators": ["Aeidux, Koreaqwer, WOOGI1411, Zelda, Ryan LC, Luneth, Minus, Reple, Miner, Hermes"],
-    "verifier": "Powerbomb",
-    "verification": "https://www.youtube.com/watch?v=MxzBAnBeZCE",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records": [
-    {
-            "user": "Trehoeje",
-            "link": "https://youtu.be/fnORj8ix474",
-            "percent": 100,
-            "hz": 288
-    },
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/QpT4kJgCRW0",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "faulheitsmensch",
-            "link": "https://www.youtube.com/watch?v=JNX-tlZSMAE&t=1s",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=SN4IM6ilbUE&ab_channel=Bleamer",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "meluwudy",
-            "link": "https://www.youtube.com/watch?v=sWGFfyhTTlY",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Exomix",
-            "link": "https://www.youtube.com/watch?v=saSKiVwbmqU",
-            "percent": 100,
-            "hz": 240
-},
-{
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=WFaLmA3Mfus",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "DeltaPhantom1",
-    "link": "https://youtu.be/bI5AUAk_5xo",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "awesomeme360",
-    "link": "https://youtu.be/soEGIRTKX-Q",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "Truly4Square",
-    "link": "https://youtu.be/PO09PleaacA",
-    "percent": 100,
-    "hz": 120,
-    "mobile": true
-}
-    ]
+	"id": 15265393,
+	"name": "The Hell Factory",
+	"author": "TeamN2",
+	"creators": [
+		"Aeidux, Koreaqwer, WOOGI1411, Zelda, Ryan LC, Luneth, Minus, Reple, Miner, Hermes"
+	],
+	"verifier": "Powerbomb",
+	"verification": "https://www.youtube.com/watch?v=MxzBAnBeZCE",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "Trehoeje",
+			"link": "https://youtu.be/fnORj8ix474",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/QpT4kJgCRW0",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "faulheitsmensch",
+			"link": "https://www.youtube.com/watch?v=JNX-tlZSMAE&t=1s",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=SN4IM6ilbUE&ab_channel=Bleamer",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "meluwudy",
+			"link": "https://www.youtube.com/watch?v=sWGFfyhTTlY",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Exomix",
+			"link": "https://www.youtube.com/watch?v=saSKiVwbmqU",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=WFaLmA3Mfus",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "DeltaPhantom1",
+			"link": "https://youtu.be/bI5AUAk_5xo",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "awesomeme360",
+			"link": "https://youtu.be/soEGIRTKX-Q",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Truly4Square",
+			"link": "https://youtu.be/PO09PleaacA",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
+		}
+	]
 }

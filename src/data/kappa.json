@@ -1,59 +1,79 @@
 {
-    "id": 59800588,
-    "name": "Kappa",
-    "author": "Armadeus",
-    "creators": ["Armadeus","nwolc","maxmur","Spectex","Yoonsr","Isane","Ferox","crumche","Levin","Vyu","ilp","XLSpiral","El3ctr0","Lime0037","tolstyh","Walroose","Extravagon","EyeOfTheStorm","Davphla"],
-    "verifier": "nSwish",
-    "verification": "https://www.youtube.com/watch?v=4CTcUqgkOZo",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=mbYrQon9pFU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=FhtBrXT9WEk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "nei",
-            "link": "https://youtu.be/XGHXpeRmJRM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/WxZWFI0DS4s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Matter",
-            "link": "https://youtu.be/gp9rvUvobRQ",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/0ggni2n4FPY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/mDq6-rLugo4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BANA1411",
-            "link": "https://youtu.be/dDMfZ_rAQNo",
-            "percent": 100,
-            "hz": 240
-}
-    ]
+	"id": 59800588,
+	"name": "Kappa",
+	"author": "Armadeus",
+	"creators": [
+		"Armadeus",
+		"nwolc",
+		"maxmur",
+		"Spectex",
+		"Yoonsr",
+		"Isane",
+		"Ferox",
+		"crumche",
+		"Levin",
+		"Vyu",
+		"ilp",
+		"XLSpiral",
+		"El3ctr0",
+		"Lime0037",
+		"tolstyh",
+		"Walroose",
+		"Extravagon",
+		"EyeOfTheStorm",
+		"Davphla"
+	],
+	"verifier": "nSwish",
+	"verification": "https://www.youtube.com/watch?v=4CTcUqgkOZo",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=mbYrQon9pFU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=FhtBrXT9WEk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "nei",
+			"link": "https://youtu.be/XGHXpeRmJRM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/WxZWFI0DS4s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/gp9rvUvobRQ",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/0ggni2n4FPY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/mDq6-rLugo4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BANA1411",
+			"link": "https://youtu.be/dDMfZ_rAQNo",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

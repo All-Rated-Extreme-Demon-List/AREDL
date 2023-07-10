@@ -1,42 +1,42 @@
 {
-    "id": 69333212,
-    "name": "Promethean",
-    "author": "Endlevel",
-    "creators": ["Endlevel","Realvet","River","Connected"],
-    "verifier": "RicoLP",
-    "verification": "https://www.youtube.com/watch?v=19kE_Yo8puE",
-    "percentToQualify": 100,
-    "password": "789123",
-    "records": [
-    {
-            "user": "circle",
-            "link": "https://youtu.be/lvVTmgnC6OQ",
-            "percent": 100,
-            "hz": 360
-    },
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/TNMaTEStBcM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/cDhSqNZ4f54",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Detrezo",
-            "link": "https://www.youtube.com/watch?v=9QOaWFHsWnc&ab_channel=Detrezo",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=-5krtJk98Cs&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 69333212,
+	"name": "Promethean",
+	"author": "Endlevel",
+	"creators": ["Endlevel", "Realvet", "River", "Connected"],
+	"verifier": "RicoLP",
+	"verification": "https://www.youtube.com/watch?v=19kE_Yo8puE",
+	"percentToQualify": 100,
+	"password": "789123",
+	"records": [
+		{
+			"user": "circle",
+			"link": "https://youtu.be/lvVTmgnC6OQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/TNMaTEStBcM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/cDhSqNZ4f54",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Detrezo",
+			"link": "https://www.youtube.com/watch?v=9QOaWFHsWnc&ab_channel=Detrezo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=-5krtJk98Cs&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

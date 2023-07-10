@@ -1,24 +1,24 @@
 {
-    "id": 41293157,
-    "name": "Kinetic Bypass",
-    "author": "Sminx",
-    "creators": [],
-    "verifier": "Luqualizer",
-    "verification": "https://www.youtube.com/watch?v=KEuFavVAl2Y",
-    "percentToQualify": 100,
-    "password": "301001",
-    "records": [
-    {
-            "user": "Matter",
-            "link": "https://youtu.be/NatIbzsd6Rc",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=V8TmP4rUlB0",
-            "percent": 100,
-            "hz": 240
-}
-    ]
+	"id": 41293157,
+	"name": "Kinetic Bypass",
+	"author": "Sminx",
+	"creators": [],
+	"verifier": "Luqualizer",
+	"verification": "https://www.youtube.com/watch?v=KEuFavVAl2Y",
+	"percentToQualify": 100,
+	"password": "301001",
+	"records": [
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/NatIbzsd6Rc",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=V8TmP4rUlB0",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

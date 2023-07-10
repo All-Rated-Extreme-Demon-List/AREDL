@@ -1,83 +1,85 @@
 {
-    "id": 63045458,
-    "name": "Mirage",
-    "author": "Golden",
-    "creators": ["Zanna83, Golden, HelpegasuS, Patchimator, Sminx, Yoshikawa, Temp, Tear Rai, V9lt, UltraCharge"],
-    "verifier": "Technical",
-    "verification": "https://www.youtube.com/watch?v=V36lGkRI3B8",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Zenta",
-            "link": "https://www.youtube.com/watch?v=9JdyFJrOHZo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Willow",
-            "link": "https://youtu.be/08rKlYAAsFc",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=_ZhpDC9wxN8&ab_channel=Bleamer",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "BreadGuyGD",
-            "link": "https://www.youtube.com/watch?v=lEURG2SEzKE",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "YTkerfuffles",
-            "link": "https://youtu.be/hl6kXONaeAo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=pp7BXwS8F0s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Nik14K",
-            "link": "https://youtu.be/7_V7KPkbs54",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/eWpvhrNThuY",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Simolater",
-            "link": "https://www.youtube.com/watch?v=tz3Qjg4WjxM",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=g7MUrQpXRxA",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Gap2003",
-            "link": "https://www.youtube.com/watch?v=6jJbOYlWYwI",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/YH9Fyq5j9sc",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 63045458,
+	"name": "Mirage",
+	"author": "Golden",
+	"creators": [
+		"Zanna83, Golden, HelpegasuS, Patchimator, Sminx, Yoshikawa, Temp, Tear Rai, V9lt, UltraCharge"
+	],
+	"verifier": "Technical",
+	"verification": "https://www.youtube.com/watch?v=V36lGkRI3B8",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Zenta",
+			"link": "https://www.youtube.com/watch?v=9JdyFJrOHZo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Willow",
+			"link": "https://youtu.be/08rKlYAAsFc",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=_ZhpDC9wxN8&ab_channel=Bleamer",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "BreadGuyGD",
+			"link": "https://www.youtube.com/watch?v=lEURG2SEzKE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "YTkerfuffles",
+			"link": "https://youtu.be/hl6kXONaeAo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=pp7BXwS8F0s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Nik14K",
+			"link": "https://youtu.be/7_V7KPkbs54",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/eWpvhrNThuY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Simolater",
+			"link": "https://www.youtube.com/watch?v=tz3Qjg4WjxM",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=g7MUrQpXRxA",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Gap2003",
+			"link": "https://www.youtube.com/watch?v=6jJbOYlWYwI",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/YH9Fyq5j9sc",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

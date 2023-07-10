@@ -1,72 +1,72 @@
 {
-    "id": 32969607,
-    "name": "Devil Vortex",
-    "author": "Rustam",
-    "creators": [],
-    "verifier": "ToshDeluxe",
-    "verification": "https://www.youtube.com/watch?v=ntCP1ao3ogI",
-    "percentToQualify": 100,
-    "password": "695314",
-    "records": [
-    {
-            "user": "Trees",
-            "link": "https://www.youtube.com/watch?v=mrKCN5v-ntU&t=69s&ab_channel=Trees",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "raco",
-            "link": "https://www.youtube.com/watch?v=57o6hQ6zfIQ&t=105s&ab_channel=raco",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "iiLogan",
-            "link": "https://youtu.be/0Lh9Avac-5c",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Draconyx",
-            "link": "https://youtu.be/dcUlDDSQX_g",
-            "percent": 100,
-            "hz": 330
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/tZiQziZmiSI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "alienxs",
-            "link": "https://www.youtube.com/watch?v=fUkUw6zSW-E&ab_channel=alienxs",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/SHyP1s-BAdE",
-            "percent": 100,
-            "hz": 240
-},
-{
-            "user": "SlightliFizzi",
-            "link": "https://youtu.be/E5WqrajxcIk",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/9KNzQ0DLzpU",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/L8U2kdjIaNc",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 32969607,
+	"name": "Devil Vortex",
+	"author": "Rustam",
+	"creators": [],
+	"verifier": "ToshDeluxe",
+	"verification": "https://www.youtube.com/watch?v=ntCP1ao3ogI",
+	"percentToQualify": 100,
+	"password": "695314",
+	"records": [
+		{
+			"user": "Trees",
+			"link": "https://www.youtube.com/watch?v=mrKCN5v-ntU&t=69s&ab_channel=Trees",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "raco",
+			"link": "https://www.youtube.com/watch?v=57o6hQ6zfIQ&t=105s&ab_channel=raco",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "iiLogan",
+			"link": "https://youtu.be/0Lh9Avac-5c",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Draconyx",
+			"link": "https://youtu.be/dcUlDDSQX_g",
+			"percent": 100,
+			"hz": 330
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/tZiQziZmiSI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "alienxs",
+			"link": "https://www.youtube.com/watch?v=fUkUw6zSW-E&ab_channel=alienxs",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/SHyP1s-BAdE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "SlightliFizzi",
+			"link": "https://youtu.be/E5WqrajxcIk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/9KNzQ0DLzpU",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/L8U2kdjIaNc",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

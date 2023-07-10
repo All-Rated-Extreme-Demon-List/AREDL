@@ -1,23 +1,23 @@
 {
-    "id": 89513590,
-    "name": "Dump",
-    "author": "GiggsRH",
-    "creators": ["Koopazu"],
-    "verifier": "ZeusGD",
-    "verification": "https://www.youtube.com/watch?v=UDrCb0rzuQo&t=2s",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=Gx9uSu1zoX4&",
-            "percent": 100,
-            "hz": 240
-    },
-    {
-            "user": "Zoink",
-            "link": "https://youtu.be/511vqJu8qDU",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 89513590,
+	"name": "Dump",
+	"author": "GiggsRH",
+	"creators": ["Koopazu"],
+	"verifier": "ZeusGD",
+	"verification": "https://www.youtube.com/watch?v=UDrCb0rzuQo&t=2s",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=Gx9uSu1zoX4&",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/511vqJu8qDU",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

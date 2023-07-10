@@ -1,30 +1,32 @@
 {
-    "id": 60620063,
-    "name": "Sephiroth",
-    "author": "Rainstorm",
-    "creators": ["KireiMirai, Rainstorm, SyQual, Kant, Temp, xoen, Yonaka, Sikatsuka, Isane, Mulpan, Molds, Zeta, Rainspade, BeCruX, iEstia, Ticky, Uriun, Xiko, Quitora"],
-    "verifier": "Rainstorm",
-    "verification": "https://www.youtube.com/watch?v=VZThVeKm7lI",
-    "percentToQualify": 100,
-    "password": "170000",
-    "records": [
-        {
-            "user": "nei",
-            "link": "https://youtu.be/vnelkiSutFU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=jVSRmWSSKjQ&",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/XhbzSng7sKg",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 60620063,
+	"name": "Sephiroth",
+	"author": "Rainstorm",
+	"creators": [
+		"KireiMirai, Rainstorm, SyQual, Kant, Temp, xoen, Yonaka, Sikatsuka, Isane, Mulpan, Molds, Zeta, Rainspade, BeCruX, iEstia, Ticky, Uriun, Xiko, Quitora"
+	],
+	"verifier": "Rainstorm",
+	"verification": "https://www.youtube.com/watch?v=VZThVeKm7lI",
+	"percentToQualify": 100,
+	"password": "170000",
+	"records": [
+		{
+			"user": "nei",
+			"link": "https://youtu.be/vnelkiSutFU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=jVSRmWSSKjQ&",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/XhbzSng7sKg",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

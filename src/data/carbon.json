@@ -1,29 +1,29 @@
 {
-    "id": 86754759,
-    "name": "Carbon",
-    "author": "Waffl3X",
-    "creators": [],
-    "verifier": "Jif",
-    "verification": "https://www.youtube.com/watch?v=cRyU4ixc1y4",
-    "percentToQualify": 100,
-    "records": [
-        {
-        "user": "falloostic",
-        "link": "https://www.youtube.com/watch?v=OhUL9NZx-gI",
-        "percent": 100,
-        "hz": 360
-},
-        {
-            "user": "Necrolyx",
-            "link": "https://youtu.be/SUd7x81lMuQ",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/ZXeQW0fMX3U",
-    "percent": 100,
-    "hz": 240
-}
-]
+	"id": 86754759,
+	"name": "Carbon",
+	"author": "Waffl3X",
+	"creators": [],
+	"verifier": "Jif",
+	"verification": "https://www.youtube.com/watch?v=cRyU4ixc1y4",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "falloostic",
+			"link": "https://www.youtube.com/watch?v=OhUL9NZx-gI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Necrolyx",
+			"link": "https://youtu.be/SUd7x81lMuQ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/ZXeQW0fMX3U",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

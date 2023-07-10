@@ -1,18 +1,18 @@
 {
-    "id": 79619086,
-    "name": "ConTroller",
-    "author": "DreamZoneGD",
-    "creators": [],
-    "verifier": "DreamZoneGD",
-    "verification": "https://www.youtube.com/watch?v=kXLBuSDagOE",
-    "percentToQualify": 100,
-    "password": "000603",
-    "records": [
-    {
-            "user": "copc",
-            "link": "https://youtu.be/s1OK2H2aJEQ",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 79619086,
+	"name": "ConTroller",
+	"author": "DreamZoneGD",
+	"creators": [],
+	"verifier": "DreamZoneGD",
+	"verification": "https://www.youtube.com/watch?v=kXLBuSDagOE",
+	"percentToQualify": 100,
+	"password": "000603",
+	"records": [
+		{
+			"user": "copc",
+			"link": "https://youtu.be/s1OK2H2aJEQ",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

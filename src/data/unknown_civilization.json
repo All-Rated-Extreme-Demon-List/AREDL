@@ -1,47 +1,47 @@
 {
-    "id": 88912081,
-    "name": "Unknown Civilization",
-    "author": "TheRealPeng",
-    "creators": [],
-    "verifier": "TheRealPeng",
-    "verification": "https://www.youtube.com/watch?v=duPwSnlqTzk&pp=ygUddW5rbm93biBjaXZpbGl6YXRpb24gdmVyaWZpZWQ%3D",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=7pnujlooB1E",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Patrick61804",
-            "link": "https://youtu.be/rlVEN9RvHFk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "GYT",
-            "link": "https://youtu.be/x7rWdhHAJwQ",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "NiceCrunchy",
-            "link": "https://www.youtube.com/watch?v=fhUSPAHz8ys",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "JustXSoos",
-    "link": "https://www.youtube.com/watch?v=ogfLhUs6-24",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/6vWosRoPjjM",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 88912081,
+	"name": "Unknown Civilization",
+	"author": "TheRealPeng",
+	"creators": [],
+	"verifier": "TheRealPeng",
+	"verification": "https://www.youtube.com/watch?v=duPwSnlqTzk&pp=ygUddW5rbm93biBjaXZpbGl6YXRpb24gdmVyaWZpZWQ%3D",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=7pnujlooB1E",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Patrick61804",
+			"link": "https://youtu.be/rlVEN9RvHFk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "GYT",
+			"link": "https://youtu.be/x7rWdhHAJwQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "NiceCrunchy",
+			"link": "https://www.youtube.com/watch?v=fhUSPAHz8ys",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "JustXSoos",
+			"link": "https://www.youtube.com/watch?v=ogfLhUs6-24",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/6vWosRoPjjM",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

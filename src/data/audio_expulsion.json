@@ -1,66 +1,68 @@
 {
-    "id": 48679353,
-    "name": "Audio Expulsion",
-    "author": "GoodSmile",
-    "creators": ["GoodSmile, Zenith, AbstractDark, Kugelblitz, Thomartin, Skullkid, JustBasic, Jghost217, Edge, Unigeny, Osiris GD"],
-    "verifier": "Luqualizer",
-    "verification": "https://www.youtube.com/watch?v=AZy1moiM6j0",
-    "percentToQualify": 100,
-    "password": "276943",
-    "records": [
-    {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/r5pbS6r80CE",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/Xn-elh5HSvM",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "shinn",
-            "link": "https://www.youtube.com/watch?v=qusdNedVoiA",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/E8J-3T5yTdE",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=ExZL-laCeiw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Blathers",
-            "link": "https://youtu.be/3Sj3-j0-uMA",
-            "percent": 100,
-            "hz": 288
-},
-{
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=PtcU9zyY3eo",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/WTae_QGm0tk",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/6i5TxqKd_1E",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 48679353,
+	"name": "Audio Expulsion",
+	"author": "GoodSmile",
+	"creators": [
+		"GoodSmile, Zenith, AbstractDark, Kugelblitz, Thomartin, Skullkid, JustBasic, Jghost217, Edge, Unigeny, Osiris GD"
+	],
+	"verifier": "Luqualizer",
+	"verification": "https://www.youtube.com/watch?v=AZy1moiM6j0",
+	"percentToQualify": 100,
+	"password": "276943",
+	"records": [
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/r5pbS6r80CE",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/Xn-elh5HSvM",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "shinn",
+			"link": "https://www.youtube.com/watch?v=qusdNedVoiA",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/E8J-3T5yTdE",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=ExZL-laCeiw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Blathers",
+			"link": "https://youtu.be/3Sj3-j0-uMA",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=PtcU9zyY3eo",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/WTae_QGm0tk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/6i5TxqKd_1E",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

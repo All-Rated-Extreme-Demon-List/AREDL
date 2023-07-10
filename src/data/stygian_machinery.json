@@ -1,23 +1,25 @@
 {
-    "id": 64554339,
-    "name": "Stygian Machinery",
-    "author": "TeamE12",
-    "creators": ["Sikatsuka, Molds, Ticky, Apostolus, Mapo, Temp, Dreaming, 3niv, SyQual, Rainstorm, Sepalum, gvyjjjh, Gau, JJin, An Gyung, Uriun"],
-    "verifier": "Jeller",
-    "verification": "https://www.youtube.com/watch?v=jUVsWYYeFpY",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=mB_AFiXEvOY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/2PtBRZLtWpM",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 64554339,
+	"name": "Stygian Machinery",
+	"author": "TeamE12",
+	"creators": [
+		"Sikatsuka, Molds, Ticky, Apostolus, Mapo, Temp, Dreaming, 3niv, SyQual, Rainstorm, Sepalum, gvyjjjh, Gau, JJin, An Gyung, Uriun"
+	],
+	"verifier": "Jeller",
+	"verification": "https://www.youtube.com/watch?v=jUVsWYYeFpY",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=mB_AFiXEvOY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/2PtBRZLtWpM",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

@@ -1,30 +1,30 @@
 {
-    "id": 82748921,
-    "name": "Framework",
-    "author": "Agat3",
-    "creators": ["Agat3, Amza"],
-    "verifier": "theworldofme",
-    "verification": "https://www.youtube.com/watch?v=jVo0g6DXAAg",
-    "percentToQualify": 100,
-    "password": "000000",
-    "records": [
-    {
-            "user": "nei",
-            "link": "https://youtu.be/DZjqw4gdxzE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=Z7Q1G7kxUXI",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/6byBPEe2lck",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 82748921,
+	"name": "Framework",
+	"author": "Agat3",
+	"creators": ["Agat3, Amza"],
+	"verifier": "theworldofme",
+	"verification": "https://www.youtube.com/watch?v=jVo0g6DXAAg",
+	"percentToQualify": 100,
+	"password": "000000",
+	"records": [
+		{
+			"user": "nei",
+			"link": "https://youtu.be/DZjqw4gdxzE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=Z7Q1G7kxUXI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/6byBPEe2lck",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

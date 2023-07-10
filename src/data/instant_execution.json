@@ -1,60 +1,62 @@
 {
-    "id": 29807508,
-    "name": "Instant Execution",
-    "author": "Plexidit",
-    "creators": ["Mactanow, RpgRaketti, Yendis, Doodloo, CheeseSlayer, Plexidit, TheGamerPiggy, Geocrafterz, cTRL, Arclight, Aqueous, TheRealIgno, omegaGMD, Albertalberto, Hunter5202, Erm4ck"],
-    "verifier": "HequinoX",
-    "verification": "https://www.youtube.com/watch?v=Knz2Arp0N5s",
-    "percentToQualify": 100,
-    "password": "764358",
-    "records": [
-    {
-            "user": "Thetitanking999",
-            "link": "https://www.youtube.com/watch?v=7g14ukUa_MU&t=116s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/84CjBpFgFBA",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LuckyNS",
-            "link": "https://youtu.be/06EOEj-vgqo",
-            "percent": 100,
-            "hz": 60
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=j2aaD9lncxo",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "DeltaPhantom1",
-            "link": "https://youtu.be/p2-1-jhwf0c",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/-plendbxYd8",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/gviO5lSdZBg",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "BigBGaming",
-    "link": "https://youtu.be/NOAHLh3ODT8",
-    "percent": 100,
-    "hz": 144
-}
-    ]
+	"id": 29807508,
+	"name": "Instant Execution",
+	"author": "Plexidit",
+	"creators": [
+		"Mactanow, RpgRaketti, Yendis, Doodloo, CheeseSlayer, Plexidit, TheGamerPiggy, Geocrafterz, cTRL, Arclight, Aqueous, TheRealIgno, omegaGMD, Albertalberto, Hunter5202, Erm4ck"
+	],
+	"verifier": "HequinoX",
+	"verification": "https://www.youtube.com/watch?v=Knz2Arp0N5s",
+	"percentToQualify": 100,
+	"password": "764358",
+	"records": [
+		{
+			"user": "Thetitanking999",
+			"link": "https://www.youtube.com/watch?v=7g14ukUa_MU&t=116s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/84CjBpFgFBA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LuckyNS",
+			"link": "https://youtu.be/06EOEj-vgqo",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=j2aaD9lncxo",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "DeltaPhantom1",
+			"link": "https://youtu.be/p2-1-jhwf0c",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/-plendbxYd8",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/gviO5lSdZBg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "BigBGaming",
+			"link": "https://youtu.be/NOAHLh3ODT8",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

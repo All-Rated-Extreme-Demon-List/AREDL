@@ -1,36 +1,36 @@
 {
-    "id": 57433866,
-    "name": "BuTiTi III",
-    "author": "JonathanGD",
-    "creators": [],
-    "verifier": "Nexus",
-    "verification": "https://www.youtube.com/watch?v=uOCLYZdvSxo",
-    "percentToQualify": 100,
-    "password": "684651",
-    "records": [
-    {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=BxvnITFGXQU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Aleczd",
-            "link": "https://www.youtube.com/watch?v=BtwiZJyzvz4&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=26",
-            "percent": 100,
-            "hz": 240
-},
-{
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=0r_t8Od5qZo",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=ylhr6m2tNxQ&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 57433866,
+	"name": "BuTiTi III",
+	"author": "JonathanGD",
+	"creators": [],
+	"verifier": "Nexus",
+	"verification": "https://www.youtube.com/watch?v=uOCLYZdvSxo",
+	"percentToQualify": 100,
+	"password": "684651",
+	"records": [
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=BxvnITFGXQU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Aleczd",
+			"link": "https://www.youtube.com/watch?v=BtwiZJyzvz4&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=26",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=0r_t8Od5qZo",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=ylhr6m2tNxQ&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

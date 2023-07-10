@@ -1,30 +1,30 @@
 {
-    "id": 37255449,
-    "name": "Cadrega City",
-    "author": "Pennutoh",
-    "creators": ["Berke423, Pennutoh"],
-    "verifier": "Sunix",
-    "verification": "https://www.youtube.com/watch?v=cHEGAqOgddA",
-    "percentToQualify": 100,
-    "password": "210317",
-    "records": [
-    {
-            "user": "skycrab",
-            "link": "https://youtu.be/_GDkf-XSpW4",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=JX_lQ8mpJMA",
-    "percent": 100,
-    "hz": 144
-},
-        {
-            "user": "piesy",
-            "link": "https://youtu.be/4mQiftM0FmU",
-            "percent": 100,
-            "hz": 240
-}
-    ]
+	"id": 37255449,
+	"name": "Cadrega City",
+	"author": "Pennutoh",
+	"creators": ["Berke423, Pennutoh"],
+	"verifier": "Sunix",
+	"verification": "https://www.youtube.com/watch?v=cHEGAqOgddA",
+	"percentToQualify": 100,
+	"password": "210317",
+	"records": [
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/_GDkf-XSpW4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=JX_lQ8mpJMA",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "piesy",
+			"link": "https://youtu.be/4mQiftM0FmU",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

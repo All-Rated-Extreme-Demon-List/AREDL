@@ -1,48 +1,48 @@
 {
-    "id": 52113279,
-    "name": "Removed Submission",
-    "author": "WHErwin",
-    "creators": [],
-    "verifier": "Gablor",
-    "verification": "https://www.youtube.com/watch?v=AAzRmUKMnOk",
-    "percentToQualify": 100,
-    "password": "474969",
-    "records": [
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/0qP2bLNdufo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Enfur",
-            "link": "https://www.youtube.com/watch?v=lwd-eH1bdF4",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "BANA1411",
-            "link": "https://youtu.be/bIRdLUtvXzg",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=F2QqfCPLFUs",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=SmshVwqqN78&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/u_Uk7IlVrO0",
-    "percent": 100,
-    "hz": 240
-} 
-    ]
+	"id": 52113279,
+	"name": "Removed Submission",
+	"author": "WHErwin",
+	"creators": [],
+	"verifier": "Gablor",
+	"verification": "https://www.youtube.com/watch?v=AAzRmUKMnOk",
+	"percentToQualify": 100,
+	"password": "474969",
+	"records": [
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/0qP2bLNdufo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Enfur",
+			"link": "https://www.youtube.com/watch?v=lwd-eH1bdF4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "BANA1411",
+			"link": "https://youtu.be/bIRdLUtvXzg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=F2QqfCPLFUs",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=SmshVwqqN78&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/u_Uk7IlVrO0",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

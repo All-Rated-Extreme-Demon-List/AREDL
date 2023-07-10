@@ -1,77 +1,77 @@
 {
-    "id": 56916170,
-    "name": "Bang Gang (2P)",
-    "author": "DanZmeN",
-    "creators": [],
-    "verifier": "CyToX",
-    "verification": "https://www.youtube.com/watch?v=LjPxEMgErFA",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Crypto12131",
-            "link": "https://youtu.be/pUzyqOp3JCI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BriXX",
-            "link": "https://youtu.be/pUzyqOp3JCI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Hasik",
-            "link": "https://youtu.be/drw1Jdvrc6A",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Hollin",
-            "link": "https://youtu.be/drw1Jdvrc6A",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/XQvoKp0ox34",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "iRaily",
-            "link": "https://youtu.be/NTDsZp7zoLk",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Bleamer",
-            "link": "https://youtu.be/SAG3og5lQw8",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Incoromi",
-            "link": "https://youtu.be/SAG3og5lQw8",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/euL_7lzyYAg",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "BrowarKedawar",
-            "link": "https://youtu.be/SyqTj162qJM",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtube.com/watch?v=2GU-j106Zb8&feature=share7",
-    "percent": 100,
-    "hz": 120
-}
-    ]
+	"id": 56916170,
+	"name": "Bang Gang (2P)",
+	"author": "DanZmeN",
+	"creators": [],
+	"verifier": "CyToX",
+	"verification": "https://www.youtube.com/watch?v=LjPxEMgErFA",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Crypto12131",
+			"link": "https://youtu.be/pUzyqOp3JCI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BriXX",
+			"link": "https://youtu.be/pUzyqOp3JCI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Hasik",
+			"link": "https://youtu.be/drw1Jdvrc6A",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Hollin",
+			"link": "https://youtu.be/drw1Jdvrc6A",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/XQvoKp0ox34",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "iRaily",
+			"link": "https://youtu.be/NTDsZp7zoLk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://youtu.be/SAG3og5lQw8",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Incoromi",
+			"link": "https://youtu.be/SAG3og5lQw8",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/euL_7lzyYAg",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "BrowarKedawar",
+			"link": "https://youtu.be/SyqTj162qJM",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtube.com/watch?v=2GU-j106Zb8&feature=share7",
+			"percent": 100,
+			"hz": 120
+		}
+	]
 }

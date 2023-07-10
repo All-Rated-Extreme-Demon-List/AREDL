@@ -1,17 +1,17 @@
 {
-    "id": 63858842,
-    "name": "Thunderzone",
-    "author": "Cersia",
-    "creators": ["Fruitsalad, henry500, Inside, awedy, Lasaga"],
-    "verifier": "Slithium",
-    "verification": "https://www.youtube.com/watch?v=bfo2atUb5aY",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Lia",
-            "link": "https://youtu.be/W9wi8W5Hryw",
-            "percent": 100,
-            "hz": 240
-}
-    ]
+	"id": 63858842,
+	"name": "Thunderzone",
+	"author": "Cersia",
+	"creators": ["Fruitsalad, henry500, Inside, awedy, Lasaga"],
+	"verifier": "Slithium",
+	"verification": "https://www.youtube.com/watch?v=bfo2atUb5aY",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/W9wi8W5Hryw",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

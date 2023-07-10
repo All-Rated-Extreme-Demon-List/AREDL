@@ -1,144 +1,146 @@
 {
-    "id": 32920197,
-    "name": "Twisted Tranquility",
-    "author": "Flukester",
-    "creators": ["Flukester, Kenny, Jude, Gach, CreatorDino, Venom, Killua, Jghost217, ZinkZeta"],
-    "verifier": "BoldStep",
-    "verification": "https://www.youtube.com/watch?v=TiaOm9j36Pg",
-    "percentToQualify": 100,
-    "password": "200356",
-    "records": [
-    {
-            "user": "Shrixy",
-            "link": "https://youtu.be/TYPg5YgpAAA",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Willow",
-            "link": "https://youtu.be/UvmCpT5Hbb4",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "cat597",
-            "link": "https://www.youtube.com/watch?v=2YaCqF5dnUk&t=45s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "theworldofme",
-            "link": "https://youtu.be/g1DA3sfD9EE?t=205",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/1-9G-QKFczU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=IwgqMC3sbtQ&ab_channel=Bleamer",
-            "percent": 100,
-            "hz": 75
-},
-        {
-            "user": "YTkerfuffles",
-            "link": "https://youtu.be/YUCxZ5PEnqY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/rrOwlXHD_rk",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=-RaY-HhJN4k",
-            "percent": 100,
-            "hz": 75
-},
-        {
-            "user": "KayZee",
-            "link": "https://youtu.be/wPdTUQEUd2w",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/58BUKjsAnhI",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/PvqDWzcnHA0",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "GJosh2",
-            "link": "https://www.youtube.com/watch?v=zePPfC7OFPA",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "psychotix",
-            "link": "https://www.youtube.com/watch?v=pnJdjIjFizU&list=PL9JaiMITBLQ2fPhdu2hTPnWVyroa5hHFR&index=22",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Simolater",
-            "link": "https://www.youtube.com/watch?v=3UKtET9SvZg",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=pS832aJfnbQ",
-            "percent": 100,
-            "hz": 60
-},
-        {
-            "user": "Gap2003",
-            "link": "https://www.youtube.com/watch?v=baCWYA8TCnY",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=RXYi-_hrSqk&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 60
-},
-{
-    "user": "DoGGy",
-    "link": "https://www.youtube.com/watch?v=8WTsupqcLGo",
-    "percent": 100,
-    "hz": 280
-},
-        {
-        "user": "HotNooB",
-        "link": "https://youtu.be/6Y4iQLgvTnA",
-        "percent": 100,
-        "hz": 288
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/gTZGHdMJrC0",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/JjLvWRLVP90",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 32920197,
+	"name": "Twisted Tranquility",
+	"author": "Flukester",
+	"creators": [
+		"Flukester, Kenny, Jude, Gach, CreatorDino, Venom, Killua, Jghost217, ZinkZeta"
+	],
+	"verifier": "BoldStep",
+	"verification": "https://www.youtube.com/watch?v=TiaOm9j36Pg",
+	"percentToQualify": 100,
+	"password": "200356",
+	"records": [
+		{
+			"user": "Shrixy",
+			"link": "https://youtu.be/TYPg5YgpAAA",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Willow",
+			"link": "https://youtu.be/UvmCpT5Hbb4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "cat597",
+			"link": "https://www.youtube.com/watch?v=2YaCqF5dnUk&t=45s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://youtu.be/g1DA3sfD9EE?t=205",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/1-9G-QKFczU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=IwgqMC3sbtQ&ab_channel=Bleamer",
+			"percent": 100,
+			"hz": 75
+		},
+		{
+			"user": "YTkerfuffles",
+			"link": "https://youtu.be/YUCxZ5PEnqY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/rrOwlXHD_rk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=-RaY-HhJN4k",
+			"percent": 100,
+			"hz": 75
+		},
+		{
+			"user": "KayZee",
+			"link": "https://youtu.be/wPdTUQEUd2w",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/58BUKjsAnhI",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/PvqDWzcnHA0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "GJosh2",
+			"link": "https://www.youtube.com/watch?v=zePPfC7OFPA",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "psychotix",
+			"link": "https://www.youtube.com/watch?v=pnJdjIjFizU&list=PL9JaiMITBLQ2fPhdu2hTPnWVyroa5hHFR&index=22",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Simolater",
+			"link": "https://www.youtube.com/watch?v=3UKtET9SvZg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=pS832aJfnbQ",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Gap2003",
+			"link": "https://www.youtube.com/watch?v=baCWYA8TCnY",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=RXYi-_hrSqk&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "DoGGy",
+			"link": "https://www.youtube.com/watch?v=8WTsupqcLGo",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/6Y4iQLgvTnA",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/gTZGHdMJrC0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/JjLvWRLVP90",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

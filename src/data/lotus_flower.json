@@ -1,36 +1,36 @@
 {
-    "id": 75813671,
-    "name": "Lotus Flower",
-    "author": "StarkytheSalad",
-    "creators": ["zzzgecko","StarkytheSalad"],
-    "verifier": "BrianTheBurger",
-    "verification": "https://www.youtube.com/watch?v=pTgOHcwJhd0",
-    "percentToQualify": 100,
-    "password": "180211",
-    "records": [
-    {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=xHxcwhGdzW4",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Sam1yd",
-            "link": "https://www.youtube.com/watch?v=VsTCOFggv0Q&ab_channel=Sam1yd",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/pZZ9C5KjZsQ",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=BwSXkrl7g3s&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 75813671,
+	"name": "Lotus Flower",
+	"author": "StarkytheSalad",
+	"creators": ["zzzgecko", "StarkytheSalad"],
+	"verifier": "BrianTheBurger",
+	"verification": "https://www.youtube.com/watch?v=pTgOHcwJhd0",
+	"percentToQualify": 100,
+	"password": "180211",
+	"records": [
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=xHxcwhGdzW4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Sam1yd",
+			"link": "https://www.youtube.com/watch?v=VsTCOFggv0Q&ab_channel=Sam1yd",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/pZZ9C5KjZsQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=BwSXkrl7g3s&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

@@ -1,54 +1,54 @@
 {
-    "id": 59518611,
-    "name": "Elliptic Curve",
-    "author": "Mulpan",
-    "creators": ["KireiMiral, Mulpan"],
-    "verifier": "Dorami",
-    "verification": "https://www.youtube.com/watch?v=7YjMwlIfPJs",
-    "percentToQualify": 100,
-    "password": "500000",
-    "records": [
-    {
-            "user": "Shrixy",
-            "link": "https://youtu.be/ILtcYjRhPvY",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Wolvyy",
-            "link": "https://www.youtube.com/watch?v=i2h51Dpg17U&list=PLU1NI3BRQCmo8EEJJV0CYtSUwAcKBPYGp&index=37",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/fkBqDunyEH8",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=FgDC2n14Lss",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Jedwint",
-            "link": "https://www.youtube.com/watch?v=czKDd-H-Fu4",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/pApsB6mm7Zw",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/ON8fi0doTPs",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 59518611,
+	"name": "Elliptic Curve",
+	"author": "Mulpan",
+	"creators": ["KireiMiral, Mulpan"],
+	"verifier": "Dorami",
+	"verification": "https://www.youtube.com/watch?v=7YjMwlIfPJs",
+	"percentToQualify": 100,
+	"password": "500000",
+	"records": [
+		{
+			"user": "Shrixy",
+			"link": "https://youtu.be/ILtcYjRhPvY",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Wolvyy",
+			"link": "https://www.youtube.com/watch?v=i2h51Dpg17U&list=PLU1NI3BRQCmo8EEJJV0CYtSUwAcKBPYGp&index=37",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/fkBqDunyEH8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=FgDC2n14Lss",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Jedwint",
+			"link": "https://www.youtube.com/watch?v=czKDd-H-Fu4",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/pApsB6mm7Zw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/ON8fi0doTPs",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

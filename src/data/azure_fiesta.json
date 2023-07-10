@@ -1,48 +1,50 @@
 {
-    "id": 60923124,
-    "name": "Azure Fiesta",
-    "author": "Dorami",
-    "creators": ["Dorami, Buragoz, Alfred, ByBoy 11, ZadoxxZ, DanielDLC, DangerKat, Geonox, TrueDee Fabian, FurixGD, MaxyLAND"],
-    "verifier": "Dorami",
-    "verification": "https://www.youtube.com/watch?v=HiTfvNpwYCM",
-    "percentToQualify": 100,
-    "password": "002202",
-    "records": [
-    {
-            "user": "Nova",
-            "link": "https://www.youtube.com/watch?v=-fSUBLWprAQ",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Matter",
-            "link": "https://youtu.be/psm8ykxUPBk",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Didjimon",
-            "link": "https://youtu.be/16c5UwjkNxY",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/3aKuJl2qglE",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=XK7y9m4UXzE",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/cc7qstGtgUw",
-    "percent": 100,
-    "hz": 144
-}
-    ]
+	"id": 60923124,
+	"name": "Azure Fiesta",
+	"author": "Dorami",
+	"creators": [
+		"Dorami, Buragoz, Alfred, ByBoy 11, ZadoxxZ, DanielDLC, DangerKat, Geonox, TrueDee Fabian, FurixGD, MaxyLAND"
+	],
+	"verifier": "Dorami",
+	"verification": "https://www.youtube.com/watch?v=HiTfvNpwYCM",
+	"percentToQualify": 100,
+	"password": "002202",
+	"records": [
+		{
+			"user": "Nova",
+			"link": "https://www.youtube.com/watch?v=-fSUBLWprAQ",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/psm8ykxUPBk",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Didjimon",
+			"link": "https://youtu.be/16c5UwjkNxY",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/3aKuJl2qglE",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=XK7y9m4UXzE",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/cc7qstGtgUw",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

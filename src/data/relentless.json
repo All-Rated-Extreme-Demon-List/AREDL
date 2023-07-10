@@ -1,36 +1,38 @@
 {
-    "id": 74361921,
-    "name": "RELENTLESS",
-    "author": "Surjaco",
-    "creators": ["nCylix, Surjaco, Handexx, Shebam, Rall, Septa, Crowley, Titoalper, Boii, Spezix"],
-    "verifier": "FieRcE7",
-    "verification": "https://www.youtube.com/watch?v=8qQZ0n_R7Ec",
-    "percentToQualify": 100,
-    "password": "103105",
-    "records": [
-    {
-            "user": "Trees",
-            "link": "https://www.youtube.com/watch?v=0pibVQyzRbs&ab_channel=Trees",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Bamvie",
-            "link": "https://youtu.be/dyTcqS0Pt_c",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=oy9RJC9SX8M",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "Ratio",
-    "link": "https://youtu.be/BbX-Kyc-iyQ",
-    "percent": 100,
-    "hz": 240
-    }
-    ]
+	"id": 74361921,
+	"name": "RELENTLESS",
+	"author": "Surjaco",
+	"creators": [
+		"nCylix, Surjaco, Handexx, Shebam, Rall, Septa, Crowley, Titoalper, Boii, Spezix"
+	],
+	"verifier": "FieRcE7",
+	"verification": "https://www.youtube.com/watch?v=8qQZ0n_R7Ec",
+	"percentToQualify": 100,
+	"password": "103105",
+	"records": [
+		{
+			"user": "Trees",
+			"link": "https://www.youtube.com/watch?v=0pibVQyzRbs&ab_channel=Trees",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bamvie",
+			"link": "https://youtu.be/dyTcqS0Pt_c",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=oy9RJC9SX8M",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Ratio",
+			"link": "https://youtu.be/BbX-Kyc-iyQ",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

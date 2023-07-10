@@ -1,41 +1,41 @@
 {
-    "id": 82348741,
-    "name": "SL8O",
-    "author": "mbedsun",
-    "creators": ["SleyGD"],
-    "verifier": "Sink",
-    "verification": "https://www.youtube.com/watch?v=2Qd2Xc-F8Y0",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "N0ctaXI",
-            "link": "https://www.youtube.com/watch?v=5-HBX3lN5n4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BrowarKedawar",
-            "link": "https://youtu.be/086FzTvD3q0",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "baechugimchi",
-            "link": "https://youtu.be/HvpfYkDLZr8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-    "user": "Wyse",
-    "link": "https://youtu.be/iK5jPZk0Gn0",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/TrIIeeB23no",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 82348741,
+	"name": "SL8O",
+	"author": "mbedsun",
+	"creators": ["SleyGD"],
+	"verifier": "Sink",
+	"verification": "https://www.youtube.com/watch?v=2Qd2Xc-F8Y0",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "N0ctaXI",
+			"link": "https://www.youtube.com/watch?v=5-HBX3lN5n4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BrowarKedawar",
+			"link": "https://youtu.be/086FzTvD3q0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "baechugimchi",
+			"link": "https://youtu.be/HvpfYkDLZr8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/iK5jPZk0Gn0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/TrIIeeB23no",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

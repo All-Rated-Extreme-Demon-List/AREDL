@@ -1,42 +1,44 @@
 {
-    "id": 59672357,
-    "name": "ElectroLux",
-    "author": "Zafkiel7",
-    "creators": ["GuitarHeroStyles, Rock3ro, BitZel, NeoGamer, Oasiz, Axdrel, xSergid1g, Zafkiel, Alfred, Fragox, JaxtilanX, Blasting Ant, Byboy11, Teddy Creator, Polli, AstroFox, Male20, Minimax, AlexTG"],
-    "verifier": "SrGuillester",
-    "verification": "https://www.youtube.com/watch?v=_gCjn9ie9xE",
-    "percentToQualify": 100,
-    "password": "130220",
-    "records": [
-        {
-            "user": "Neir",
-            "link": "https://youtu.be/2iK2BHxTedA",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=0-IRHidjtDo&t",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "Didjimon",
-            "link": "https://youtu.be/xVOSW2ID1CY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=2WG09sR0jOw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/XF-bYvVheuo",
-            "percent": 100,
-            "hz": 144
-}
-    ]
+	"id": 59672357,
+	"name": "ElectroLux",
+	"author": "Zafkiel7",
+	"creators": [
+		"GuitarHeroStyles, Rock3ro, BitZel, NeoGamer, Oasiz, Axdrel, xSergid1g, Zafkiel, Alfred, Fragox, JaxtilanX, Blasting Ant, Byboy11, Teddy Creator, Polli, AstroFox, Male20, Minimax, AlexTG"
+	],
+	"verifier": "SrGuillester",
+	"verification": "https://www.youtube.com/watch?v=_gCjn9ie9xE",
+	"percentToQualify": 100,
+	"password": "130220",
+	"records": [
+		{
+			"user": "Neir",
+			"link": "https://youtu.be/2iK2BHxTedA",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=0-IRHidjtDo&t",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "Didjimon",
+			"link": "https://youtu.be/xVOSW2ID1CY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=2WG09sR0jOw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/XF-bYvVheuo",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

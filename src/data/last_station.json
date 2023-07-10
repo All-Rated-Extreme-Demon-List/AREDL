@@ -1,59 +1,59 @@
 {
-    "id": 85492715,
-    "name": "Last Station",
-    "author": "PikaSempai",
-    "creators": [],
-    "verifier": "ItzBraeden",
-    "verification": "https://www.youtube.com/watch?v=oLoGO-T7PD8",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Soapy",
-            "link": "https://youtu.be/UHdyWkzyKdo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/YbrDeKGwNZY",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "Enfur",
-            "link": "https://www.youtube.com/watch?v=QcM1fyDgsts",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Detrezo",
-            "link": "https://www.youtube.com/watch?v=ruaOeD0I3l8&ab_channel=Detrezo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BrowarKedawar",
-            "link": "https://youtu.be/dK_TrV6WH48",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "temoofgod",
-            "link": "https://youtu.be/RBCWZhLRv8M",
-            "percent": 100,
-            "hz": 240
-},
-        {
-    "user": "Davine_007",
-    "link": "https://youtu.be/Y4OTj2t5F98",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/p9q9lBg0NHU",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 85492715,
+	"name": "Last Station",
+	"author": "PikaSempai",
+	"creators": [],
+	"verifier": "ItzBraeden",
+	"verification": "https://www.youtube.com/watch?v=oLoGO-T7PD8",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Soapy",
+			"link": "https://youtu.be/UHdyWkzyKdo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/YbrDeKGwNZY",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "Enfur",
+			"link": "https://www.youtube.com/watch?v=QcM1fyDgsts",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Detrezo",
+			"link": "https://www.youtube.com/watch?v=ruaOeD0I3l8&ab_channel=Detrezo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BrowarKedawar",
+			"link": "https://youtu.be/dK_TrV6WH48",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "temoofgod",
+			"link": "https://youtu.be/RBCWZhLRv8M",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Davine_007",
+			"link": "https://youtu.be/Y4OTj2t5F98",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/p9q9lBg0NHU",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

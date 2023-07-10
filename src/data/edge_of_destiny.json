@@ -1,23 +1,25 @@
 {
-    "id": 89187968,
-    "name": "Edge of Destiny",
-    "author": "CDMusic",
-    "creators": ["knobbelboy, Salamander, Realvet, Yoonsr, Parallax, Avati, Culuc, Nickalopogas, Viper Arctarus, Uriun, GD Endy, CDMusic, Unerve, AppleCr, rynoxious, Linear, MercuryDT"],
-    "verifier": "Polterghast",
-    "verification": "https://www.youtube.com/watch?v=rUphe3H59yU",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Zoink",
-            "link": "https://youtu.be/Fm6TqCj4C4M",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=EyXv5oNN-Bs&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 89187968,
+	"name": "Edge of Destiny",
+	"author": "CDMusic",
+	"creators": [
+		"knobbelboy, Salamander, Realvet, Yoonsr, Parallax, Avati, Culuc, Nickalopogas, Viper Arctarus, Uriun, GD Endy, CDMusic, Unerve, AppleCr, rynoxious, Linear, MercuryDT"
+	],
+	"verifier": "Polterghast",
+	"verification": "https://www.youtube.com/watch?v=rUphe3H59yU",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/Fm6TqCj4C4M",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=EyXv5oNN-Bs&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

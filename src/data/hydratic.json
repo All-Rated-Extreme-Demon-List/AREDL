@@ -1,60 +1,62 @@
 {
-    "id": 59656281,
-    "name": "Hydratic",
-    "author": "MaxyLAND",
-    "creators": ["MaxyLAND, Retropt, Abdula, Irving Soluble, Razz, Chuchito Domin, Strill, Furix GD, Daxfan"],
-    "verifier": "MrSpaghetti",
-    "verification": "https://youtu.be/c6QHg2QRz5Q",
-    "percentToQualify": 100,
-    "password": "140220",
-    "records": [
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/pRRxkJMC9lE",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "lumi",
-    "link": "https://youtu.be/lHGHB3TVPxE",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "Dylinator",
-    "link": "https://youtu.be/-s0oygjDK9E",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/XKDz0m5ExBQ",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "Bamvie",
-    "link": "https://youtu.be/qp8UnHF7kok",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/X0LwZdRo54k",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "Stainsley",
-    "link": "https://youtu.be/kJoBRIOpUB0",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/TrIIeeB23no",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 59656281,
+	"name": "Hydratic",
+	"author": "MaxyLAND",
+	"creators": [
+		"MaxyLAND, Retropt, Abdula, Irving Soluble, Razz, Chuchito Domin, Strill, Furix GD, Daxfan"
+	],
+	"verifier": "MrSpaghetti",
+	"verification": "https://youtu.be/c6QHg2QRz5Q",
+	"percentToQualify": 100,
+	"password": "140220",
+	"records": [
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/pRRxkJMC9lE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/lHGHB3TVPxE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/-s0oygjDK9E",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/XKDz0m5ExBQ",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Bamvie",
+			"link": "https://youtu.be/qp8UnHF7kok",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/X0LwZdRo54k",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Stainsley",
+			"link": "https://youtu.be/kJoBRIOpUB0",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/TrIIeeB23no",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

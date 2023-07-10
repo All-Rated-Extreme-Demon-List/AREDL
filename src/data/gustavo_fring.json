@@ -1,17 +1,17 @@
 {
-    "id": 80585951,
-    "name": "Gustavo Fring",
-    "author": "Renn241",
-    "creators": ["Kutsu","Renn241"],
-    "verifier": "Acratic",
-    "verification": "https://www.youtube.com/watch?v=OB0YiqyEp2E",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "skycrab",
-            "link": "https://youtu.be/JuWkc4eSUCE",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 80585951,
+	"name": "Gustavo Fring",
+	"author": "Renn241",
+	"creators": ["Kutsu", "Renn241"],
+	"verifier": "Acratic",
+	"verification": "https://www.youtube.com/watch?v=OB0YiqyEp2E",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/JuWkc4eSUCE",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

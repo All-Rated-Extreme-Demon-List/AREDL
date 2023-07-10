@@ -1,95 +1,95 @@
 {
-    "id": 60480035,
-    "name": "Mandragora",
-    "author": "GD ParaDoX",
-    "creators": [],
-    "verifier": "PrayogaGD",
-    "verification": "https://www.youtube.com/watch?v=IfP_SvxviU8",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Fabricorn",
-            "link": "https://youtu.be/vH-WT5LFUbI",
-            "percent": 100,
-            "hz": 225
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/4c6lTA58cm4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Rayaleg8",
-            "link": "https://youtu.be/LMp9DEeBUNk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/bp1sGlHLwEw",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/JqXn-zSZH4U",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "Patrick61804",
-            "link": "https://youtu.be/FOeT3X3ErB0",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=eiXlFPxPplE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "NateFH",
-            "link": "https://www.youtube.com/watch?v=tg1X82wjXdE&t=349s",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=_4uhW9L4Ytg",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Gap2003",
-            "link": "https://www.youtube.com/watch?v=m7Gf-pEtac0",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Bamvie",
-            "link": "https://youtu.be/tG8UEHL63QU",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "DoGGy",
-    "link": "https://www.youtube.com/watch?v=HZjtOSlq-40",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/NUjctEKto40",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/TrIIeeB23no",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 60480035,
+	"name": "Mandragora",
+	"author": "GD ParaDoX",
+	"creators": [],
+	"verifier": "PrayogaGD",
+	"verification": "https://www.youtube.com/watch?v=IfP_SvxviU8",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Fabricorn",
+			"link": "https://youtu.be/vH-WT5LFUbI",
+			"percent": 100,
+			"hz": 225
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/4c6lTA58cm4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Rayaleg8",
+			"link": "https://youtu.be/LMp9DEeBUNk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/bp1sGlHLwEw",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/JqXn-zSZH4U",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "Patrick61804",
+			"link": "https://youtu.be/FOeT3X3ErB0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=eiXlFPxPplE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "NateFH",
+			"link": "https://www.youtube.com/watch?v=tg1X82wjXdE&t=349s",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=_4uhW9L4Ytg",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Gap2003",
+			"link": "https://www.youtube.com/watch?v=m7Gf-pEtac0",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Bamvie",
+			"link": "https://youtu.be/tG8UEHL63QU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DoGGy",
+			"link": "https://www.youtube.com/watch?v=HZjtOSlq-40",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/NUjctEKto40",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/TrIIeeB23no",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

@@ -1,61 +1,63 @@
 {
-    "id": 50672705,
-    "name": "Empanadas Fugaces",
-    "author": "Looou",
-    "creators": ["Piseto, Soluble, Zoomks, Rishi, Rafer, Yoppe, AbstractDark, Looou"],
-    "verifier": "Dorami",
-    "verification": "https://youtu.be/CM34-Y8PuYY",
-    "percentToQualify": 100,
-    "password": "281118",
-    "records": [
-        {
-            "user": "Wolvyy",
-            "link": "https://www.youtube.com/watch?v=JsFhx4OnMyM&list=PLU1NI3BRQCmo8EEJJV0CYtSUwAcKBPYGp&index=40&pp=gAQBiAQB",
-            "percent": 100,
-            "hz": 288
-},
-    {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/wQtp8dMCeAw",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=I20HTRFv13k",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Shrixy",
-            "link": "https://youtu.be/F3KhnvRh2DM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Enfur",
-            "link": "https://www.youtube.com/watch?v=ljqmIalpKE8",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "NateFH",
-            "link": "https://www.youtube.com/watch?v=Mps3VWmLI0M",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "didjimon",
-            "link": "https://youtu.be/9BgQqcbCRfg",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Bonezizdum",
-            "link": "https://youtu.be/ezJ3Mh-m85g",
-            "percent": 100,
-            "hz": 240,
-            "mobile": true
-}
-    ]
+	"id": 50672705,
+	"name": "Empanadas Fugaces",
+	"author": "Looou",
+	"creators": [
+		"Piseto, Soluble, Zoomks, Rishi, Rafer, Yoppe, AbstractDark, Looou"
+	],
+	"verifier": "Dorami",
+	"verification": "https://youtu.be/CM34-Y8PuYY",
+	"percentToQualify": 100,
+	"password": "281118",
+	"records": [
+		{
+			"user": "Wolvyy",
+			"link": "https://www.youtube.com/watch?v=JsFhx4OnMyM&list=PLU1NI3BRQCmo8EEJJV0CYtSUwAcKBPYGp&index=40&pp=gAQBiAQB",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/wQtp8dMCeAw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=I20HTRFv13k",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Shrixy",
+			"link": "https://youtu.be/F3KhnvRh2DM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Enfur",
+			"link": "https://www.youtube.com/watch?v=ljqmIalpKE8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "NateFH",
+			"link": "https://www.youtube.com/watch?v=Mps3VWmLI0M",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "didjimon",
+			"link": "https://youtu.be/9BgQqcbCRfg",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Bonezizdum",
+			"link": "https://youtu.be/ezJ3Mh-m85g",
+			"percent": 100,
+			"hz": 240,
+			"mobile": true
+		}
+	]
 }

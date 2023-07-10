@@ -1,59 +1,59 @@
 {
-    "id": 73878822,
-    "name": "On1y Cub3",
-    "author": "DrCuber",
-    "creators": [],
-    "verifier": "saturn",
-    "verification": "https://www.youtube.com/watch?v=ti2pZXblNcA",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Trees",
-            "link": "https://www.youtube.com/watch?v=mh-_Q03ogbo&ab_channel=Trees",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/_u7TF1hfaic",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/TwdNjEFfJG8",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=8KaPy8hDUKg",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Domesz",
-            "link": "https://www.youtube.com/watch?v=T3mnXwbIDJs",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "TenOfSpades",
-            "link": "https://www.youtube.com/watch?v=m0qQ8kPK6FY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "NexoProTC",
-            "link": "https://youtu.be/Q3w8ZyQa-v4",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/EFPhWiIxOtk",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 73878822,
+	"name": "On1y Cub3",
+	"author": "DrCuber",
+	"creators": [],
+	"verifier": "saturn",
+	"verification": "https://www.youtube.com/watch?v=ti2pZXblNcA",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Trees",
+			"link": "https://www.youtube.com/watch?v=mh-_Q03ogbo&ab_channel=Trees",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/_u7TF1hfaic",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/TwdNjEFfJG8",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=8KaPy8hDUKg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Domesz",
+			"link": "https://www.youtube.com/watch?v=T3mnXwbIDJs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "TenOfSpades",
+			"link": "https://www.youtube.com/watch?v=m0qQ8kPK6FY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "NexoProTC",
+			"link": "https://youtu.be/Q3w8ZyQa-v4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/EFPhWiIxOtk",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

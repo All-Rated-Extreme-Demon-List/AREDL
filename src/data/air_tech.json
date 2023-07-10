@@ -1,138 +1,140 @@
 {
-    "id": 77698239,
-    "name": "Air Tech",
-    "author": "Elevens",
-    "creators": ["MythicalTG, Extreme7687, Vonic, AVRG, AAAAAlex, Teno, NotJoeBiden"],
-    "verifier": "Amza",
-    "verification": "https://www.youtube.com/watch?v=dghySWXDv4w",
-    "percentToQualify": 100,
-    "password": "150606",
-    "records": [
-    {
-            "user": "Zenta",
-            "link": "https://www.youtube.com/watch?v=LMgRitzSAdI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "RfanVS",
-            "link": "https://youtu.be/T8rRvBfM3jw",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "EpicMushroom",
-            "link": "https://www.youtube.com/watch?v=yp-a0CoM4d8",
-            "percent": 100,
-            "hz": 150
-},
-        {
-            "user": "nico27",
-            "link": "https://youtu.be/71vEOKcywJg",
-            "percent": 100,
-            "hz": 120
-},
-        {
-            "user": "Seic",
-            "link": "https://www.youtube.com/watch?v=tkZttkjldGs&t=3s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Fabricorn",
-            "link": "https://youtu.be/wAFG3iZrE-o",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/lJhiKFb6KcQ",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Matter",
-            "link": "https://youtu.be/fqsq0gnwsfA",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Rayaleg8",
-            "link": "https://youtu.be/oUwLcW0K1zM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Patrick61804",
-            "link": "https://youtu.be/Wy7JAvsXa3Y",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=HG7udXYmFL8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "kekchungle44",
-            "link": "https://youtu.be/IPYT0CSbZx0",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BANA1411",
-            "link": "https://youtu.be/FWtv4sDGD70",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/JO-i8DDv0TA",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "SlightliFizzi",
-            "link": "https://youtu.be/o4mLuApUlwU",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Gap2003",
-            "link": "https://www.youtube.com/watch?v=Qs9FWEnGcLE",
-            "percent": 100,
-            "hz": 144
-},
-        {
-    "user": "Davine_007",
-    "link": "https://youtu.be/0g8Qdq7DHBk",
-    "percent": 100,
-    "hz": 144
-},
-        {
-        "user": "HotNooB",
-        "link": "https://youtu.be/RLZEuhVn290",
-        "percent": 100,
-        "hz": 288
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/oS51xacWidk",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/TrIIeeB23no",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "DJ1482",
-    "link": "https://youtu.be/Xa1bEFxQkb0",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 77698239,
+	"name": "Air Tech",
+	"author": "Elevens",
+	"creators": [
+		"MythicalTG, Extreme7687, Vonic, AVRG, AAAAAlex, Teno, NotJoeBiden"
+	],
+	"verifier": "Amza",
+	"verification": "https://www.youtube.com/watch?v=dghySWXDv4w",
+	"percentToQualify": 100,
+	"password": "150606",
+	"records": [
+		{
+			"user": "Zenta",
+			"link": "https://www.youtube.com/watch?v=LMgRitzSAdI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "RfanVS",
+			"link": "https://youtu.be/T8rRvBfM3jw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "EpicMushroom",
+			"link": "https://www.youtube.com/watch?v=yp-a0CoM4d8",
+			"percent": 100,
+			"hz": 150
+		},
+		{
+			"user": "nico27",
+			"link": "https://youtu.be/71vEOKcywJg",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Seic",
+			"link": "https://www.youtube.com/watch?v=tkZttkjldGs&t=3s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Fabricorn",
+			"link": "https://youtu.be/wAFG3iZrE-o",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/lJhiKFb6KcQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/fqsq0gnwsfA",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Rayaleg8",
+			"link": "https://youtu.be/oUwLcW0K1zM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Patrick61804",
+			"link": "https://youtu.be/Wy7JAvsXa3Y",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=HG7udXYmFL8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "kekchungle44",
+			"link": "https://youtu.be/IPYT0CSbZx0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BANA1411",
+			"link": "https://youtu.be/FWtv4sDGD70",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/JO-i8DDv0TA",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "SlightliFizzi",
+			"link": "https://youtu.be/o4mLuApUlwU",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Gap2003",
+			"link": "https://www.youtube.com/watch?v=Qs9FWEnGcLE",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Davine_007",
+			"link": "https://youtu.be/0g8Qdq7DHBk",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/RLZEuhVn290",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/oS51xacWidk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/TrIIeeB23no",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "DJ1482",
+			"link": "https://youtu.be/Xa1bEFxQkb0",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

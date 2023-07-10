@@ -1,24 +1,26 @@
 {
-    "id": 76166083,
-    "name": "Springtime",
-    "author": "VigorousGard3n",
-    "creators": ["Pjgguy, PTM, Th3hung, Macrosis, Sharks, Urmongei, Peter, Ylenol, MrGray, Usagi, Nexorous, Kittom, Hyperlink, Neoz, Hyperblastz, Rafe, Rokioto, Ati, DangNghi, CaustiX, MazZedy, Maxie25, kt345"],
-    "verifier": "CaustiX",
-    "verification": "https://www.youtube.com/watch?v=UGAmTQHz9mQ",
-    "percentToQualify": 100,
-    "password": "170903",
-    "records": [
-    {
-            "user": "iRaily",
-            "link": "https://youtu.be/00Z4kNGXTFY",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/g8qxDYa8TKM",
-            "percent": 100,
-            "hz": 144
-}
-    ]
+	"id": 76166083,
+	"name": "Springtime",
+	"author": "VigorousGard3n",
+	"creators": [
+		"Pjgguy, PTM, Th3hung, Macrosis, Sharks, Urmongei, Peter, Ylenol, MrGray, Usagi, Nexorous, Kittom, Hyperlink, Neoz, Hyperblastz, Rafe, Rokioto, Ati, DangNghi, CaustiX, MazZedy, Maxie25, kt345"
+	],
+	"verifier": "CaustiX",
+	"verification": "https://www.youtube.com/watch?v=UGAmTQHz9mQ",
+	"percentToQualify": 100,
+	"password": "170903",
+	"records": [
+		{
+			"user": "iRaily",
+			"link": "https://youtu.be/00Z4kNGXTFY",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/g8qxDYa8TKM",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

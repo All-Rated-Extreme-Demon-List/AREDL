@@ -1,132 +1,132 @@
 {
-    "id": 56460850,
-    "name": "Triple Six",
-    "author": "Zylenox",
-    "creators": [],
-    "verifier": "Zylenox",
-    "verification": "https://www.youtube.com/watch?v=VLt8A5E3Fz4",
-    "percentToQualify": 100,
-    "password": "666666",
-    "records": [
-    {
-            "user": "ilyasgamesgd",
-            "link": "https://youtu.be/Jfhzm08r_Sw",
-            "percent": 100,
-            "hz": 360
-     },
-        {
-            "user": "CcrazZynGamer",
-            "link": "https://www.youtube.com/watch?v=SE-IyCkzHNs",
-            "percent": 100,
-            "hz": 330
-},
-        {
-            "user": "RfanVS",
-            "link": "https://youtu.be/KGP8XVuEtGY",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Visurient",
-            "link": "https://www.youtube.com/watch?v=yndVcjAWGzo",
-            "percent": 100,
-            "hz": 60
-},
-        {
-            "user": "ThayLoser",
-            "link": "https://youtu.be/E-qzFFHUyns",
-            "percent": 100,
-            "hz": 60
-},
-        {
-            "user": "Crypto12131",
-            "link": "https://youtu.be/GyNImrF36Fk",
-            "percent": 100,
-            "hz": 120
-},
-        {
-            "user": "CrabbyCrab101",
-            "link": "https://youtu.be/DPPAKuk05Tw",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/osOu8j9l3fc",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Clara",
-            "link": "https://www.youtube.com/watch?v=SU5kNtlBgHg",
-            "percent": 100,
-            "hz": 75
-},
-        {
-            "user": "proxima",
-            "link": "https://www.youtube.com/watch?v=d0FN3P6uNok",
-            "percent": 100,
-            "hz": 60
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/3Q940pVjPXg",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=C7fljyR6yOI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "meluwudy",
-            "link": "https://www.youtube.com/watch?v=ifucV4pK_Wc",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Enfur",
-            "link": "https://youtu.be/-jsfg5QXp6k",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "clncrvl",
-            "link": "https://youtu.be/UKYIveB1yDQ",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "Simolater",
-    "link": "https://www.youtube.com/watch?v=j8OduMg26es",
-    "percent": 100,
-    "hz": 360
-},
-        {
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=hXnKcD68N0M",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "WhiteSalmon",
-            "link": "https://www.youtube.com/watch?v=P0b9MVMMbhA&list=PLYulNPgsOPnAozOHFfssrdFpO2_8oDdsd&index=17&ab_channel=WhiteSalmon%5BGD%5D",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "AkO",
-            "link": "https://youtu.be/nXaLmZsJzko",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "yoshi1712",
-    "link": "https://youtu.be/Bd39__SMU3o",
-    "percent": 100,
-    "hz": 144
-}
-    ]
+	"id": 56460850,
+	"name": "Triple Six",
+	"author": "Zylenox",
+	"creators": [],
+	"verifier": "Zylenox",
+	"verification": "https://www.youtube.com/watch?v=VLt8A5E3Fz4",
+	"percentToQualify": 100,
+	"password": "666666",
+	"records": [
+		{
+			"user": "ilyasgamesgd",
+			"link": "https://youtu.be/Jfhzm08r_Sw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "CcrazZynGamer",
+			"link": "https://www.youtube.com/watch?v=SE-IyCkzHNs",
+			"percent": 100,
+			"hz": 330
+		},
+		{
+			"user": "RfanVS",
+			"link": "https://youtu.be/KGP8XVuEtGY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Visurient",
+			"link": "https://www.youtube.com/watch?v=yndVcjAWGzo",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "ThayLoser",
+			"link": "https://youtu.be/E-qzFFHUyns",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Crypto12131",
+			"link": "https://youtu.be/GyNImrF36Fk",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "CrabbyCrab101",
+			"link": "https://youtu.be/DPPAKuk05Tw",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/osOu8j9l3fc",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Clara",
+			"link": "https://www.youtube.com/watch?v=SU5kNtlBgHg",
+			"percent": 100,
+			"hz": 75
+		},
+		{
+			"user": "proxima",
+			"link": "https://www.youtube.com/watch?v=d0FN3P6uNok",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/3Q940pVjPXg",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=C7fljyR6yOI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "meluwudy",
+			"link": "https://www.youtube.com/watch?v=ifucV4pK_Wc",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Enfur",
+			"link": "https://youtu.be/-jsfg5QXp6k",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "clncrvl",
+			"link": "https://youtu.be/UKYIveB1yDQ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Simolater",
+			"link": "https://www.youtube.com/watch?v=j8OduMg26es",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=hXnKcD68N0M",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "WhiteSalmon",
+			"link": "https://www.youtube.com/watch?v=P0b9MVMMbhA&list=PLYulNPgsOPnAozOHFfssrdFpO2_8oDdsd&index=17&ab_channel=WhiteSalmon%5BGD%5D",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "AkO",
+			"link": "https://youtu.be/nXaLmZsJzko",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "yoshi1712",
+			"link": "https://youtu.be/Bd39__SMU3o",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

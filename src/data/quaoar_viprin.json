@@ -1,126 +1,128 @@
 {
-    "id": 80177488,
-    "name": "Quaoar (ViPriN)",
-    "author": "ViPriN",
-    "creators": ["EnZore, Buragoz, Masu, ZeroSR, DavJT, StarkyTheSalad, Convie, ViPriN, BelonziK, FerdeFunky, Goose, Scrumpy, OpteX, Marwec, Koolboom, Xender Game, victorinoxX, flash, Rafer, Bianox, Jenkins, KWMS, Cirtrax, GeoGamer12, Licen00, Reunomi, Floppy"],
-    "verifier": "AeonAir",
-    "verification": "https://www.youtube.com/watch?v=L1l0adZClX4",
-    "percentToQualify": 100,
-    "password": "051322",
-    "records": [
-        {
-            "user": "iRaily",
-            "link": "https://youtu.be/3fA1Ly6qA8M",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=9msIC3t8jro",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/SD2bE5vEW20",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "nei",
-            "link": "https://youtu.be/BioVveg98DI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "meluwudy",
-            "link": "https://www.youtube.com/watch?v=vZgAueufSc8",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/3IwLI1YsvjU",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/l0IqUwyAuzM",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/p_iY92_RbuI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/_tYWb81W-WQ",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "clncrvl",
-            "link": "https://youtu.be/eEplybPHilE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Tiny_Tigger_",
-            "link": "https://youtu.be/sGNQWDmn53g",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "StarXV",
-            "link": "https://youtu.be/HtKXlr0z-qA",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "od te coffy",
-            "link": "https://www.youtube.com/watch?v=wWAxCa86uzs&t=0s",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=tkDpUfstnxI",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "DoGGy",
-    "link": "https://www.youtube.com/watch?v=uU1TZkiITYE",
-    "percent": 100,
-    "hz": 280
-},
-{
-    "user": "Karisame",
-    "link": "https://youtu.be/0eGnsXFB2J8",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/nB7DOkGgbtM",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "Dani230",
-    "link": "https://youtu.be/9NPAK6WbH1c",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "DJ1482",
-    "link": "https://youtu.be/PoV1-OR4meM",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 80177488,
+	"name": "Quaoar (ViPriN)",
+	"author": "ViPriN",
+	"creators": [
+		"EnZore, Buragoz, Masu, ZeroSR, DavJT, StarkyTheSalad, Convie, ViPriN, BelonziK, FerdeFunky, Goose, Scrumpy, OpteX, Marwec, Koolboom, Xender Game, victorinoxX, flash, Rafer, Bianox, Jenkins, KWMS, Cirtrax, GeoGamer12, Licen00, Reunomi, Floppy"
+	],
+	"verifier": "AeonAir",
+	"verification": "https://www.youtube.com/watch?v=L1l0adZClX4",
+	"percentToQualify": 100,
+	"password": "051322",
+	"records": [
+		{
+			"user": "iRaily",
+			"link": "https://youtu.be/3fA1Ly6qA8M",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=9msIC3t8jro",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/SD2bE5vEW20",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "nei",
+			"link": "https://youtu.be/BioVveg98DI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "meluwudy",
+			"link": "https://www.youtube.com/watch?v=vZgAueufSc8",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/3IwLI1YsvjU",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/l0IqUwyAuzM",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/p_iY92_RbuI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/_tYWb81W-WQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "clncrvl",
+			"link": "https://youtu.be/eEplybPHilE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Tiny_Tigger_",
+			"link": "https://youtu.be/sGNQWDmn53g",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "StarXV",
+			"link": "https://youtu.be/HtKXlr0z-qA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "od te coffy",
+			"link": "https://www.youtube.com/watch?v=wWAxCa86uzs&t=0s",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=tkDpUfstnxI",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "DoGGy",
+			"link": "https://www.youtube.com/watch?v=uU1TZkiITYE",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "Karisame",
+			"link": "https://youtu.be/0eGnsXFB2J8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/nB7DOkGgbtM",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Dani230",
+			"link": "https://youtu.be/9NPAK6WbH1c",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "DJ1482",
+			"link": "https://youtu.be/PoV1-OR4meM",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

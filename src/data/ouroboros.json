@@ -1,84 +1,98 @@
 {
-    "id": 56703691,
-    "name": "Ouroboros",
-    "author": "ViPriN",
-    "creators": ["Osiris GD","Loserchik67","G4lvatron","FerdeFunky","Rustam","Darwin","ViPriN","Desticy","AbstractDark","TheDevon","ChaSe","TrusTa","Terron"],
-    "verifier": "Technical",
-    "verification": "https://www.youtube.com/watch?v=hLTnewDC2Hs",
-    "percentToQualify": 100,
-    "password": "072619",
-    "records": [
-    {
-            "user": "Lia",
-            "link": "https://youtu.be/-wNsxE3ZG_0",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Magmeta",
-            "link": "https://youtu.be/rnduw8WG8y0",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Fabricorn",
-            "link": "https://youtu.be/LosuJ7ODF50",
-            "percent": 100,
-            "hz": 360
-},
-     {
-            "user": "Druttsky",
-            "link": "https://www.youtube.com/watch?v=2D2a--q11Gc",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/Vh_AFEbvEfY",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/SWaYEtj_VBk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BreadGuyGD",
-            "link": "https://www.youtube.com/watch?v=S4LGOZY9nE0",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "StarXV",
-            "link": "https://youtu.be/n-D-NvrpKG0",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=XmJ1R7QnUzI",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=W6BzdxK4dyw&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "DoGGy",
-    "link": "https://www.youtube.com/watch?v=54Z84dUJdY0",
-    "percent": 100,
-    "hz": 280
-},
-{
-    "user": "DJ1482",
-    "link": "https://youtu.be/SPoJ88aDRYA",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 56703691,
+	"name": "Ouroboros",
+	"author": "ViPriN",
+	"creators": [
+		"Osiris GD",
+		"Loserchik67",
+		"G4lvatron",
+		"FerdeFunky",
+		"Rustam",
+		"Darwin",
+		"ViPriN",
+		"Desticy",
+		"AbstractDark",
+		"TheDevon",
+		"ChaSe",
+		"TrusTa",
+		"Terron"
+	],
+	"verifier": "Technical",
+	"verification": "https://www.youtube.com/watch?v=hLTnewDC2Hs",
+	"percentToQualify": 100,
+	"password": "072619",
+	"records": [
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/-wNsxE3ZG_0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Magmeta",
+			"link": "https://youtu.be/rnduw8WG8y0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Fabricorn",
+			"link": "https://youtu.be/LosuJ7ODF50",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Druttsky",
+			"link": "https://www.youtube.com/watch?v=2D2a--q11Gc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/Vh_AFEbvEfY",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/SWaYEtj_VBk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BreadGuyGD",
+			"link": "https://www.youtube.com/watch?v=S4LGOZY9nE0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "StarXV",
+			"link": "https://youtu.be/n-D-NvrpKG0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=XmJ1R7QnUzI",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=W6BzdxK4dyw&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "DoGGy",
+			"link": "https://www.youtube.com/watch?v=54Z84dUJdY0",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "DJ1482",
+			"link": "https://youtu.be/SPoJ88aDRYA",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

@@ -1,18 +1,49 @@
 {
-    "id": 62556400,
-    "name": "Codependence (2p)",
-    "author": "TCTeam",
-    "creators": ["Konsi", "Peroxide", "Arceus", "AutumnLotus", "Zent", "Hko", "Cotchy", "Delta", "Carloz", "StarkyTheSalad", "ViralDL", "Licen", "CesDroid", "Isane", "GaidenHertuny", "Xyl", "Xaren", "Artos", "Jhreen", "para", "Tom", "Yuki", "Keyblade", "Cultrix", "Woomy", "Pingui", "Astion", "Eridani", "Yoonsrdynamix", "Brittank88"],
-    "verifier": "Kapinapi", "ViralDl",
-    "verification": "https://www.twitch.tv/videos/1837297586",
-    "percentToQualify": 100,
-    "password": "210317",
-    "records": [
-    {
-            "user": "Dylinator",
-            "link": "https://youtu.be/YbzQuQDUpaI",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 62556400,
+	"name": "Codependence (2p)",
+	"author": "TCTeam",
+	"creators": [
+		"Konsi",
+		"Peroxide",
+		"Arceus",
+		"AutumnLotus",
+		"Zent",
+		"Hko",
+		"Cotchy",
+		"Delta",
+		"Carloz",
+		"StarkyTheSalad",
+		"ViralDL",
+		"Licen",
+		"CesDroid",
+		"Isane",
+		"GaidenHertuny",
+		"Xyl",
+		"Xaren",
+		"Artos",
+		"Jhreen",
+		"para",
+		"Tom",
+		"Yuki",
+		"Keyblade",
+		"Cultrix",
+		"Woomy",
+		"Pingui",
+		"Astion",
+		"Eridani",
+		"Yoonsrdynamix",
+		"Brittank88"
+	],
+	"verifier": ["Kapinapi", "ViralDl"],
+	"verification": "https://www.twitch.tv/videos/1837297586",
+	"percentToQualify": 100,
+	"password": "210317",
+	"records": [
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/YbzQuQDUpaI",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

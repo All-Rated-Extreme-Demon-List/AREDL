@@ -1,53 +1,53 @@
 {
-    "id": 86917672,
-    "name": "Place",
-    "author": "Spu7Nix",
-    "creators": ["way too many"],
-    "verifier": "Tizetre",
-    "verification": "https://www.youtube.com/watch?v=TiJbTVSzGb8",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "iRaily",
-            "link": "https://youtu.be/yyhpYuGg67M",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Lia",
-            "link": "https://www.youtube.com/watch?v=uoDCgYzmkuM",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Alex_",
-            "link": "https://youtu.be/ORcT2hTPPoc",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "Simolater",
-    "link": "https://www.youtube.com/watch?v=b-Xpmowc5ks",
-    "percent": 100,
-    "hz": 360
-},
-        {
-            "user": "drigeordraig",
-            "link": "https://www.youtube.com/watch?v=o0qEmG0mJbc",
-            "percent": 100,
-            "hz": 180
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/_1Cc4GPDSRk",
-    "percent": 100,
-    "hz": 360
-},
-        {
-        "user": "Zenta",
-        "link": "https://youtu.be/Vw75vNuxl28",
-        "percent": 100,
-        "hz": 360
-}
-    ]
+	"id": 86917672,
+	"name": "Place",
+	"author": "Spu7Nix",
+	"creators": ["way too many"],
+	"verifier": "Tizetre",
+	"verification": "https://www.youtube.com/watch?v=TiJbTVSzGb8",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "iRaily",
+			"link": "https://youtu.be/yyhpYuGg67M",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Lia",
+			"link": "https://www.youtube.com/watch?v=uoDCgYzmkuM",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Alex_",
+			"link": "https://youtu.be/ORcT2hTPPoc",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Simolater",
+			"link": "https://www.youtube.com/watch?v=b-Xpmowc5ks",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "drigeordraig",
+			"link": "https://www.youtube.com/watch?v=o0qEmG0mJbc",
+			"percent": 100,
+			"hz": 180
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/_1Cc4GPDSRk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Zenta",
+			"link": "https://youtu.be/Vw75vNuxl28",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

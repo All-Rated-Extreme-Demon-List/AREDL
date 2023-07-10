@@ -1,83 +1,85 @@
 {
-    "id": 36107975,
-    "name": "Carnage Mode",
-    "author": "Findexi",
-    "creators": ["Findexi, nasgubb, Dudex, Kips, GDSpeed, Lemons, Juhou, Lassiboy"],
-    "verifier": "SrGuillester",
-    "verification": "https://www.youtube.com/watch?v=GuJkgwNJ0UU",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Haze",
-            "link": "https://youtu.be/yaWLfUCM9uE",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=bfjcPtbzNdk&t=",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "KubeczekTV",
-            "link": "https://www.youtube.com/watch?v=Jf7shJ3PLQw",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "BreadGuyGD",
-            "link": "https://www.youtube.com/watch?v=DzfMEtQWr-0",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "NUwUxuz",
-            "link": "https://www.youtube.com/watch?v=aU9Mwd-KD2c&t=34s",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/IcMyhZDLbz8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/1THUKJiPOs0",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Incoromi",
-            "link": "https://www.youtube.com/watch?v=ig1apqGHCZg&ab_channel=Incoromi",
-            "percent": 100,
-            "hz": 120
-},
-        {
-            "user": "od te coffy",
-            "link": "https://www.youtube.com/watch?v=q1BE83soCnk&ab_channel=odtecoffy",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=Lq2XJeXqT0A",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "couropsnov",
-            "link": "https://www.youtube.com/watch?v=n6UR8W6rgMs",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/QFGT443QMFk",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 36107975,
+	"name": "Carnage Mode",
+	"author": "Findexi",
+	"creators": [
+		"Findexi, nasgubb, Dudex, Kips, GDSpeed, Lemons, Juhou, Lassiboy"
+	],
+	"verifier": "SrGuillester",
+	"verification": "https://www.youtube.com/watch?v=GuJkgwNJ0UU",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Haze",
+			"link": "https://youtu.be/yaWLfUCM9uE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=bfjcPtbzNdk&t=",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "KubeczekTV",
+			"link": "https://www.youtube.com/watch?v=Jf7shJ3PLQw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "BreadGuyGD",
+			"link": "https://www.youtube.com/watch?v=DzfMEtQWr-0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "NUwUxuz",
+			"link": "https://www.youtube.com/watch?v=aU9Mwd-KD2c&t=34s",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/IcMyhZDLbz8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/1THUKJiPOs0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Incoromi",
+			"link": "https://www.youtube.com/watch?v=ig1apqGHCZg&ab_channel=Incoromi",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "od te coffy",
+			"link": "https://www.youtube.com/watch?v=q1BE83soCnk&ab_channel=odtecoffy",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=Lq2XJeXqT0A",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "couropsnov",
+			"link": "https://www.youtube.com/watch?v=n6UR8W6rgMs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/QFGT443QMFk",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

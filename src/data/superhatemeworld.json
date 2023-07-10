@@ -1,23 +1,23 @@
 {
-    "id": 57571983,
-    "name": "SUPERHATEMEWORLD",
-    "author": "icedcave",
-    "creators": ["Loogiah, icedcave, Endlevel, Realvet, River, Doop"],
-    "verifier": "Cursed",
-    "verification": "https://www.youtube.com/watch?v=fhmgZYCJ29M",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Zoink",
-            "link": "https://www.youtube.com/watch?v=sUVyugb0Ew4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/fEBO4I_iRKA",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 57571983,
+	"name": "SUPERHATEMEWORLD",
+	"author": "icedcave",
+	"creators": ["Loogiah, icedcave, Endlevel, Realvet, River, Doop"],
+	"verifier": "Cursed",
+	"verification": "https://www.youtube.com/watch?v=fhmgZYCJ29M",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Zoink",
+			"link": "https://www.youtube.com/watch?v=sUVyugb0Ew4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/fEBO4I_iRKA",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

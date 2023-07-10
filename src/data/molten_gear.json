@@ -1,36 +1,60 @@
 {
-    "id": 62138313,
-    "name": "Molten Gear",
-    "author": "knobbelboy",
-    "creators": ["knobbelboy","Bianox","Ji","Panman","Lucasyecla99","Shocksidian","Xaro","Lexicon","Creeper4","HelpegasuS","Terron","Pennutoh","Metalface221","Xender Game","Pyndra","Stratos","Morphix","ViPriN","ZephiroX","Hadeon","Shyv","Davphla","Cirtrax"],
-    "verifier": "knobbelboy",
-    "verification": "https://www.youtube.com/watch?v=NMRaJu5BiAI",
-    "percentToQualify": 100,
-    "password": "000117",
-    "records": [
-    {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/OJSlITFCHOA",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Magmeta",
-            "link": "https://youtu.be/Ehl1wGWf_RQ",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Blitzer",
-            "link": "https://www.youtube.com/watch?v=Zqed2EbBLjg",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=Ii5FHrw_Bfg",
-            "percent": 100,
-            "hz": 144
-}
-    ]
+	"id": 62138313,
+	"name": "Molten Gear",
+	"author": "knobbelboy",
+	"creators": [
+		"knobbelboy",
+		"Bianox",
+		"Ji",
+		"Panman",
+		"Lucasyecla99",
+		"Shocksidian",
+		"Xaro",
+		"Lexicon",
+		"Creeper4",
+		"HelpegasuS",
+		"Terron",
+		"Pennutoh",
+		"Metalface221",
+		"Xender Game",
+		"Pyndra",
+		"Stratos",
+		"Morphix",
+		"ViPriN",
+		"ZephiroX",
+		"Hadeon",
+		"Shyv",
+		"Davphla",
+		"Cirtrax"
+	],
+	"verifier": "knobbelboy",
+	"verification": "https://www.youtube.com/watch?v=NMRaJu5BiAI",
+	"percentToQualify": 100,
+	"password": "000117",
+	"records": [
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/OJSlITFCHOA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Magmeta",
+			"link": "https://youtu.be/Ehl1wGWf_RQ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Blitzer",
+			"link": "https://www.youtube.com/watch?v=Zqed2EbBLjg",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=Ii5FHrw_Bfg",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

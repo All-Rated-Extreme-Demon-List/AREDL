@@ -1,30 +1,32 @@
 {
-    "id": 55539300,
-    "name": "Dimension Breaker",
-    "author": "Bianox",
-    "creators": ["Eggnog, Bianox, MoonSpark, Enzore, Alecast, Konsi, Voltex, Logic, Enixy, Optex"],
-    "verifier": "Gabs",
-    "verification": "https://www.youtube.com/watch?v=fIxFGfjCmA8",
-    "percentToQualify": 100,
-    "password": "142536",
-    "records": [
-    {
-            "user": "Lia",
-            "link": "https://youtu.be/_aXZjHKrffE",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=zE4lavQaGjw",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/3z4NkqOS4KA",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 55539300,
+	"name": "Dimension Breaker",
+	"author": "Bianox",
+	"creators": [
+		"Eggnog, Bianox, MoonSpark, Enzore, Alecast, Konsi, Voltex, Logic, Enixy, Optex"
+	],
+	"verifier": "Gabs",
+	"verification": "https://www.youtube.com/watch?v=fIxFGfjCmA8",
+	"percentToQualify": 100,
+	"password": "142536",
+	"records": [
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/_aXZjHKrffE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=zE4lavQaGjw",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/3z4NkqOS4KA",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

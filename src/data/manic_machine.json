@@ -1,59 +1,59 @@
 {
-    "id": 84829178,
-    "name": "Manic Machine",
-    "author": "TwisterDude161",
-    "creators": [],
-    "verifier": "ChloeCutie",
-    "verification": "https://www.youtube.com/watch?v=EfQWT1HP-mI",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "nico27",
-            "link": "https://youtu.be/--t6B59zaXc",
-            "percent": 100,
-            "hz": 120
-},
-        {
-            "user": "taiga",
-            "link": "https://youtu.be/URFCef48ES4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "NUwUxuz",
-            "link": "https://www.youtube.com/watch?v=VtiNB4xmXm0",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/xdJA-fwJH4k",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "TheZinkYT",
-            "link": "https://www.youtube.com/watch?v=O0aP7-ILLyY",
-            "percent": 100,
-            "hz": 288
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/EV5HvktXNq0",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/MLUbz0nl-8I",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "StarXV",
-    "link": "https://youtu.be/0YZTpqiBJa4",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 84829178,
+	"name": "Manic Machine",
+	"author": "TwisterDude161",
+	"creators": [],
+	"verifier": "ChloeCutie",
+	"verification": "https://www.youtube.com/watch?v=EfQWT1HP-mI",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "nico27",
+			"link": "https://youtu.be/--t6B59zaXc",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "taiga",
+			"link": "https://youtu.be/URFCef48ES4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "NUwUxuz",
+			"link": "https://www.youtube.com/watch?v=VtiNB4xmXm0",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/xdJA-fwJH4k",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "TheZinkYT",
+			"link": "https://www.youtube.com/watch?v=O0aP7-ILLyY",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/EV5HvktXNq0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/MLUbz0nl-8I",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "StarXV",
+			"link": "https://youtu.be/0YZTpqiBJa4",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

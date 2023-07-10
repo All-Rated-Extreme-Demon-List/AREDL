@@ -1,48 +1,48 @@
 {
-    "id": 86233175,
-    "name": "Faded Dream",
-    "author": "DreamTide",
-    "creators": [],
-    "verifier": "DreamTide",
-    "verification": "https://www.youtube.com/watch?v=BmcRn7XUjTc",
-    "percentToQualify": 100,
-    "password": "112822",
-    "records": [
-    {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/LC9ZHZaf0QI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "iRaily",
-            "link": "https://youtu.be/t9xP2EZkgv0",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "DJ1482",
-            "link": "https://youtu.be/DDb9d7d0yi8",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/chQXZlwViSg",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "eliooenver",
-            "link": "https://www.youtube.com/watch?v=qKDR2xtztbM",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/JP_PNwz1ftk",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 86233175,
+	"name": "Faded Dream",
+	"author": "DreamTide",
+	"creators": [],
+	"verifier": "DreamTide",
+	"verification": "https://www.youtube.com/watch?v=BmcRn7XUjTc",
+	"percentToQualify": 100,
+	"password": "112822",
+	"records": [
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/LC9ZHZaf0QI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "iRaily",
+			"link": "https://youtu.be/t9xP2EZkgv0",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "DJ1482",
+			"link": "https://youtu.be/DDb9d7d0yi8",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/chQXZlwViSg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "eliooenver",
+			"link": "https://www.youtube.com/watch?v=qKDR2xtztbM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/JP_PNwz1ftk",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

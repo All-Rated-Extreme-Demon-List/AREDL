@@ -1,59 +1,59 @@
 {
-    "id": 68600127,
-    "name": "Silent Club",
-    "author": "Luqualizer",
-    "creators": ["Play 1107696"],
-    "verifier": "Luqualizer",
-    "verification": "https://www.youtube.com/watch?v=NjEiHIokTGM",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Magmeta",
-            "link": "https://youtu.be/3k_TAY0RulM",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "iiLogan",
-            "link": "https://youtu.be/u129eC51rOg",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/GZhKf1xOwyw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Draconyx",
-            "link": "https://youtu.be/BCpjffymCaY",
-            "percent": 100,
-            "hz": 330
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/Pfwlm6D-f0s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "ItsSkinn7Y",
-            "link": "https://www.youtube.com/watch?v=ovc9VfH_dBE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "alienxs",
-            "link": "https://www.youtube.com/watch?v=PP0Ig05LJZs&t=102s&ab_channel=alienxs",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "mac",
-    "link": "https://www.youtube.com/watch?v=zUojOJF5JMc&list=PLrdT23GnwtbhfgWoZcjnLO2ypfY9MJJj2&index=5&pp=gAQBiAQB",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 68600127,
+	"name": "Silent Club",
+	"author": "Luqualizer",
+	"creators": ["Play 1107696"],
+	"verifier": "Luqualizer",
+	"verification": "https://www.youtube.com/watch?v=NjEiHIokTGM",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Magmeta",
+			"link": "https://youtu.be/3k_TAY0RulM",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "iiLogan",
+			"link": "https://youtu.be/u129eC51rOg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/GZhKf1xOwyw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Draconyx",
+			"link": "https://youtu.be/BCpjffymCaY",
+			"percent": 100,
+			"hz": 330
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/Pfwlm6D-f0s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ItsSkinn7Y",
+			"link": "https://www.youtube.com/watch?v=ovc9VfH_dBE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "alienxs",
+			"link": "https://www.youtube.com/watch?v=PP0Ig05LJZs&t=102s&ab_channel=alienxs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "mac",
+			"link": "https://www.youtube.com/watch?v=zUojOJF5JMc&list=PLrdT23GnwtbhfgWoZcjnLO2ypfY9MJJj2&index=5&pp=gAQBiAQB",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

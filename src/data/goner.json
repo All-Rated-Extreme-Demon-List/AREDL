@@ -1,89 +1,89 @@
 {
-    "id": 77310650,
-    "name": "GONER",
-    "author": "Nightning",
-    "creators": [],
-    "verifier": "Matter",
-    "verification": "https://www.youtube.com/watch?v=X4H9MgtUrc8",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "Chubby9000",
-            "link": "https://www.youtube.com/watch?v=xzRI04CScWc&t=230s",
-            "percent": 100,
-            "hz": 330
-},
-{
-            "user": "Neir",
-            "link": "https://youtu.be/HFUdsFA-xk0",
-            "percent": 100,
-            "hz": 360
-},    
-{
-            "user": "clncrvl",
-            "link": "https://youtu.be/0fCo2tb3mTA",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/IJ4eX8hRvkE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "nei",
-            "link": "https://youtu.be/maVCszuezEI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Magmeta",
-            "link": "https://youtu.be/JBWE8lclbNs",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=2eb644H1rpo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/p3JOEOehHYo",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "Aleczd",
-            "link": "https://www.youtube.com/watch?v=bpHt1tndpvw&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=16",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Lia",
-            "link": "https://www.youtube.com/watch?v=ie4O-SJfaUQ",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "baechugimchi",
-    "link": "https://youtu.be/eG7GRNdqSUc",
-    "percent": 100,
-    "hz": 360
-},
-        {
-            "user": "harrisongamez",
-            "link": "https://youtu.be/SwyLEVM3ggQ",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "foocii",
-            "link": "https://youtu.be/bpvnJ12FvWs",
-            "percent": 100,
-            "hz": 360
-}
-]
+	"id": 77310650,
+	"name": "GONER",
+	"author": "Nightning",
+	"creators": [],
+	"verifier": "Matter",
+	"verification": "https://www.youtube.com/watch?v=X4H9MgtUrc8",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Chubby9000",
+			"link": "https://www.youtube.com/watch?v=xzRI04CScWc&t=230s",
+			"percent": 100,
+			"hz": 330
+		},
+		{
+			"user": "Neir",
+			"link": "https://youtu.be/HFUdsFA-xk0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "clncrvl",
+			"link": "https://youtu.be/0fCo2tb3mTA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/IJ4eX8hRvkE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "nei",
+			"link": "https://youtu.be/maVCszuezEI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Magmeta",
+			"link": "https://youtu.be/JBWE8lclbNs",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=2eb644H1rpo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/p3JOEOehHYo",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "Aleczd",
+			"link": "https://www.youtube.com/watch?v=bpHt1tndpvw&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=16",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Lia",
+			"link": "https://www.youtube.com/watch?v=ie4O-SJfaUQ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "baechugimchi",
+			"link": "https://youtu.be/eG7GRNdqSUc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "harrisongamez",
+			"link": "https://youtu.be/SwyLEVM3ggQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "foocii",
+			"link": "https://youtu.be/bpvnJ12FvWs",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

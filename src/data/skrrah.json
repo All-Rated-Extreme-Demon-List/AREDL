@@ -1,96 +1,98 @@
 {
-    "id": 46510793,
-    "name": "Skrrah",
-    "author": "VirtualCrack",
-    "creators": ["Enzore, VirtualCrack, Reunomi, Kurokawa, rRaddy, TheRealnbsier"],
-    "verifier": "Rainstorm",
-    "verification": "https://www.youtube.com/watch?v=9jDJ12bp-fw",
-    "percentToQualify": 100,
-    "password": "006660",
-    "records": [
-    {
-            "user": "Zenta",
-            "link": "https://www.youtube.com/watch?v=3jVB-6K1x6s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Alex_",
-            "link": "https://youtu.be/fcqDCN-rK3U",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=g1DA3sfD9EE&",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/REUh5_STYKw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=-W11BHtMAV8&ab_channel=Bleamer",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Clara",
-            "link": "https://www.youtube.com/watch?v=tfjBmKQKU9I",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/soW4dimISaE",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://youtu.be/m_9Ij1Us0oU",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "psychotix",
-            "link": "https://www.youtube.com/watch?v=Htna5lJJ02o&list=PL9JaiMITBLQ2fPhdu2hTPnWVyroa5hHFR&index=25",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "BreadGuyGD",
-            "link": "https://www.youtube.com/watch?v=Z4wDEn1bat0",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=9SIUKRJoBig",
-            "percent": 100,
-            "hz": 144
-},
-        {
-        "user": "HotNooB",
-        "link": "https://youtu.be/SwN3OsUuw_I",
-        "percent": 100,
-        "hz": 288
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/4pQLufPcKrQ",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/icfayvm7gVI",
-    "percent": 100,
-    "hz": 240
-} 
-    ]
+	"id": 46510793,
+	"name": "Skrrah",
+	"author": "VirtualCrack",
+	"creators": [
+		"Enzore, VirtualCrack, Reunomi, Kurokawa, rRaddy, TheRealnbsier"
+	],
+	"verifier": "Rainstorm",
+	"verification": "https://www.youtube.com/watch?v=9jDJ12bp-fw",
+	"percentToQualify": 100,
+	"password": "006660",
+	"records": [
+		{
+			"user": "Zenta",
+			"link": "https://www.youtube.com/watch?v=3jVB-6K1x6s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Alex_",
+			"link": "https://youtu.be/fcqDCN-rK3U",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=g1DA3sfD9EE&",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/REUh5_STYKw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=-W11BHtMAV8&ab_channel=Bleamer",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Clara",
+			"link": "https://www.youtube.com/watch?v=tfjBmKQKU9I",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/soW4dimISaE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://youtu.be/m_9Ij1Us0oU",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "psychotix",
+			"link": "https://www.youtube.com/watch?v=Htna5lJJ02o&list=PL9JaiMITBLQ2fPhdu2hTPnWVyroa5hHFR&index=25",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "BreadGuyGD",
+			"link": "https://www.youtube.com/watch?v=Z4wDEn1bat0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=9SIUKRJoBig",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/SwN3OsUuw_I",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/4pQLufPcKrQ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/icfayvm7gVI",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

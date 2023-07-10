@@ -1,47 +1,47 @@
 {
-    "id": 75350544,
-    "name": "Devils Disco",
-    "author": "SoDaZ",
-    "creators": [],
-    "verifier": "MustachioTB",
-    "verification": "https://www.youtube.com/watch?v=F3CqtM8WwOA",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/pbule_65yis",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Enfur",
-            "link": "https://www.youtube.com/watch?v=-vlOytQrf5I",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Didjimon",
-            "link": "https://youtu.be/DZG7mD0S7SE",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "ChaeTDC",
-            "link": "https://www.youtube.com/watch?v=iIHWwbQ6xAU",
-            "percent": 100,
-            "hz": 60
-},
-{
-    "user": "Meep",
-    "link": "https://youtu.be/83FFLwEsmWQ",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/y-rp1J_Hnrk",
-    "percent": 100,
-    "hz": 360
-}
-               ]
+	"id": 75350544,
+	"name": "Devils Disco",
+	"author": "SoDaZ",
+	"creators": [],
+	"verifier": "MustachioTB",
+	"verification": "https://www.youtube.com/watch?v=F3CqtM8WwOA",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/pbule_65yis",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Enfur",
+			"link": "https://www.youtube.com/watch?v=-vlOytQrf5I",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Didjimon",
+			"link": "https://youtu.be/DZG7mD0S7SE",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ChaeTDC",
+			"link": "https://www.youtube.com/watch?v=iIHWwbQ6xAU",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Meep",
+			"link": "https://youtu.be/83FFLwEsmWQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/y-rp1J_Hnrk",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

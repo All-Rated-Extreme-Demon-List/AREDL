@@ -1,10 +1,29 @@
 {
-    "id": 80293947,
-    "name": "IthacropoliX",
-    "author": "BIGMAC77",
-    "creators": ["BIGMAC77", "Duke", "Cyo2", "LCelestia", "Bentai", "Cersia", "XLSpiral", "Mythryll", "Acidius", "Titoalper", "Rhys", "00Zero", "Poobah", "WalGhani", "Chuck", "Joltic", "Sledge", "Connot"],
-    "verifier": "cobrablitz",
-    "verification": "https://youtu.be/n4nbu_fZcf4",
-    "percentToQualify": 100,
-    "records": []
+	"id": 80293947,
+	"name": "IthacropoliX",
+	"author": "BIGMAC77",
+	"creators": [
+		"BIGMAC77",
+		"Duke",
+		"Cyo2",
+		"LCelestia",
+		"Bentai",
+		"Cersia",
+		"XLSpiral",
+		"Mythryll",
+		"Acidius",
+		"Titoalper",
+		"Rhys",
+		"00Zero",
+		"Poobah",
+		"WalGhani",
+		"Chuck",
+		"Joltic",
+		"Sledge",
+		"Connot"
+	],
+	"verifier": "cobrablitz",
+	"verification": "https://youtu.be/n4nbu_fZcf4",
+	"percentToQualify": 100,
+	"records": []
 }

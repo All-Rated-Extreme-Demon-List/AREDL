@@ -1,126 +1,128 @@
 {
-    "id": 22434793,
-    "name": "Audio Extraction",
-    "author": "GoodSmile",
-    "creators": ["GoodSmile, AbstractDark, P14, T17, Star77, Cryomancer, Logik, CubeCreator, Bio21, Agent"],
-    "verifier": "Luqualizer",
-    "verification": "https://www.youtube.com/watch?v=RyjPsu84PMs",
-    "percentToQualify": 100,
-    "password": "409735",
-    "records": [
-    {
-            "user": "Darkhonix",
-            "link": "https://youtu.be/lnOnAt5uKoA",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/jbrehaiRlsw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Magmeta",
-            "link": "https://youtu.be/qhg4cTQ2Mxc",
-            "percent": 100,
-            "hz": 120
-},
-        {
-            "user": "xRiver007",
-            "link": "https://www.youtube.com/watch?v=EIWKErhX78k",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=fZKkybMLmhg&t=s&ab_channel=Bleamer",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "bfdiafan5346",
-            "link": "https://youtu.be/acPJYrmCuqU",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "spl0833",
-            "link": "https://youtu.be/wApXtwt4rjg (i got lags in shadowplay sorry)",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/vNljN5vyHVc",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "Draconyx",
-            "link": "https://youtu.be/8hzw7D09Aqo",
-            "percent": 100,
-            "hz": 165
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=lfhcLgADoTY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/yZ9Hj0Hz8Gw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "DeltaPhantom1",
-            "link": "https://youtu.be/c09r4jLWlLU",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "psychotix",
-            "link": "https://www.youtube.com/watch?v=TfmsDsl4a7g&list=PL9JaiMITBLQ2fPhdu2hTPnWVyroa5hHFR&index=30",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "BrowarKedawar",
-            "link": "https://youtu.be/cPbVCuWJllw",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=xU9y7fDRp8Q",
-    "percent": 100,
-    "hz": 144
-},
-{
-            "user": "KayZee",
-            "link": "https://youtu.be/g28s3-hGCcs",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "GJosh2",
-    "link": "https://youtu.be/op0wZWERDo8",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/TrIIeeB23no",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Abr4h4M",
-    "link": "https://youtu.be/ICHW-OQEzdc",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 22434793,
+	"name": "Audio Extraction",
+	"author": "GoodSmile",
+	"creators": [
+		"GoodSmile, AbstractDark, P14, T17, Star77, Cryomancer, Logik, CubeCreator, Bio21, Agent"
+	],
+	"verifier": "Luqualizer",
+	"verification": "https://www.youtube.com/watch?v=RyjPsu84PMs",
+	"percentToQualify": 100,
+	"password": "409735",
+	"records": [
+		{
+			"user": "Darkhonix",
+			"link": "https://youtu.be/lnOnAt5uKoA",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/jbrehaiRlsw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Magmeta",
+			"link": "https://youtu.be/qhg4cTQ2Mxc",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "xRiver007",
+			"link": "https://www.youtube.com/watch?v=EIWKErhX78k",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=fZKkybMLmhg&t=s&ab_channel=Bleamer",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "bfdiafan5346",
+			"link": "https://youtu.be/acPJYrmCuqU",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "spl0833",
+			"link": "https://youtu.be/wApXtwt4rjg (i got lags in shadowplay sorry)",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/vNljN5vyHVc",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "Draconyx",
+			"link": "https://youtu.be/8hzw7D09Aqo",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=lfhcLgADoTY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/yZ9Hj0Hz8Gw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DeltaPhantom1",
+			"link": "https://youtu.be/c09r4jLWlLU",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "psychotix",
+			"link": "https://www.youtube.com/watch?v=TfmsDsl4a7g&list=PL9JaiMITBLQ2fPhdu2hTPnWVyroa5hHFR&index=30",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "BrowarKedawar",
+			"link": "https://youtu.be/cPbVCuWJllw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=xU9y7fDRp8Q",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "KayZee",
+			"link": "https://youtu.be/g28s3-hGCcs",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "GJosh2",
+			"link": "https://youtu.be/op0wZWERDo8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/TrIIeeB23no",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Abr4h4M",
+			"link": "https://youtu.be/ICHW-OQEzdc",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

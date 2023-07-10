@@ -1,144 +1,144 @@
 {
-    "id": 17711004,
-    "name": "Conical Depression",
-    "author": "KrmaL",
-    "creators": [],
-    "verifier": "KrmaL",
-    "verification": "https://www.youtube.com/watch?v=wdEuFpV9CXw",
-    "percentToQualify": 100,
-    "password": "000000",
-    "records": [
-    {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/FvxwiKzGivs",
-            "percent": 100,
-            "hz": 165
-},
-        {
-            "user": "ThePastaNebula",
-            "link": "https://youtu.be/hHocZI5luow",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "clncrvl",
-            "link": "https://youtu.be/lSnFUPYrU0E",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/fqPwGu-Wqgc",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Didjimon",
-            "link": "https://youtu.be/FtLEBSPDJ6I",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Gecko",
-            "link": "https://youtu.be/rFrQSqLiVrE",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "iiLogan",
-            "link": "https://youtu.be/c0RMNXsnHY4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Creig",
-            "link": "https://youtu.be/qkLX_d6lNEM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Matter",
-            "link": "https://youtu.be/VB2c7Rl52Q4",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/-GcCkIRaqZI",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "kekchungle44",
-            "link": "https://youtu.be/NHI28OdtDMU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "xRiver007",
-            "link": "https://www.youtube.com/watch?v=iphIOoBTg50&t=21s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/oYvvd2PWZIU",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "DeltaPhantom1",
-            "link": "https://youtu.be/D1LKptl7lTc",
-            "percent": 100,
-            "hz": 180
-},
-        {
-            "user": "Detrezo",
-            "link": "https://www.youtube.com/watch?v=c32DMYrXfiQ&ab_channel=Detrezo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/QBJd1QjB87o",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=ErQ5Jm4RVX4",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Ghastly",
-            "link": "https://youtu.be/9S2WXsdAknQ",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "Aleczd",
-    "link": "https://www.youtube.com/watch?v=pr3i7yt0Zls",
-    "percent": 100,
-    "hz": 240
-},
-        {
-        "user": "HotNooB",
-        "link": "https://youtu.be/Y0ubZSYr8BY",
-        "percent": 100,
-        "hz": 288
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/ihOnhNpMSrk",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "Abr4h4M",
-    "link": "https://youtu.be/vnSGtetOuN0",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 17711004,
+	"name": "Conical Depression",
+	"author": "KrmaL",
+	"creators": [],
+	"verifier": "KrmaL",
+	"verification": "https://www.youtube.com/watch?v=wdEuFpV9CXw",
+	"percentToQualify": 100,
+	"password": "000000",
+	"records": [
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/FvxwiKzGivs",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "ThePastaNebula",
+			"link": "https://youtu.be/hHocZI5luow",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "clncrvl",
+			"link": "https://youtu.be/lSnFUPYrU0E",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/fqPwGu-Wqgc",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Didjimon",
+			"link": "https://youtu.be/FtLEBSPDJ6I",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Gecko",
+			"link": "https://youtu.be/rFrQSqLiVrE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "iiLogan",
+			"link": "https://youtu.be/c0RMNXsnHY4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Creig",
+			"link": "https://youtu.be/qkLX_d6lNEM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/VB2c7Rl52Q4",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/-GcCkIRaqZI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "kekchungle44",
+			"link": "https://youtu.be/NHI28OdtDMU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "xRiver007",
+			"link": "https://www.youtube.com/watch?v=iphIOoBTg50&t=21s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/oYvvd2PWZIU",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "DeltaPhantom1",
+			"link": "https://youtu.be/D1LKptl7lTc",
+			"percent": 100,
+			"hz": 180
+		},
+		{
+			"user": "Detrezo",
+			"link": "https://www.youtube.com/watch?v=c32DMYrXfiQ&ab_channel=Detrezo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/QBJd1QjB87o",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=ErQ5Jm4RVX4",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Ghastly",
+			"link": "https://youtu.be/9S2WXsdAknQ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Aleczd",
+			"link": "https://www.youtube.com/watch?v=pr3i7yt0Zls",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/Y0ubZSYr8BY",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/ihOnhNpMSrk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Abr4h4M",
+			"link": "https://youtu.be/vnSGtetOuN0",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

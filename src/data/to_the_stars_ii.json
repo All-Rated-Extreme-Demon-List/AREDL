@@ -1,30 +1,30 @@
 {
-    "id": 66807123,
-    "name": "To the Stars II",
-    "author": "AeonAir",
-    "creators": [],
-    "verifier": "AeonAir",
-    "verification": "https://www.youtube.com/watch?v=8Y0yFT2GhRA",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records": [
-    {
-            "user": "Lia",
-            "link": "https://youtu.be/ct_QGOO7_PY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=8uKVu5QE0ww",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/7nIYMnWCG8s",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 66807123,
+	"name": "To the Stars II",
+	"author": "AeonAir",
+	"creators": [],
+	"verifier": "AeonAir",
+	"verification": "https://www.youtube.com/watch?v=8Y0yFT2GhRA",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/ct_QGOO7_PY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=8uKVu5QE0ww",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/7nIYMnWCG8s",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

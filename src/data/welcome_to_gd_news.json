@@ -1,114 +1,116 @@
 {
-    "id": 87072454,
-    "name": "Welcome To GD News",
-    "author": "Vortrox",
-    "creators": ["Tride, VladAAA, Zeptrus, n74, RatQuesadilla, JA4Y, DanGP, MrSupremeGD, Shnitzle, ItzKiba, NukeIIX, Bizaare, Vortrox"],
-    "verifier": "Technical",
-    "verification": "https://www.youtube.com/watch?v=V3q6QA5lzG4",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records": [
-    {
-            "user": "SEDTHEPRODIGY",
-            "link": "https://youtu.be/S7JeZG4niuY",
-            "percent": 100,
-            "hz": 360
-    },
-        {
-            "user": "bfdiafan5346",
-            "link": "https://youtu.be/Wn7xE4-U-90",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "LeonDaBeast",
-            "link": "https://www.youtube.com/watch?v=Ob7dgMIwJfw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Bamvie",
-            "link": "https://youtu.be/pbA0SkazVJo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Nova",
-            "link": "https://www.youtube.com/watch?v=fX0qSvaXqF4",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Fabricorn",
-            "link": "https://youtu.be/8_43BQUqh6Q",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BreadGuyGD",
-            "link": "https://www.youtube.com/watch?v=Q61Dp1_66sg",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/iBb_6U1jDHE",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/HYmf-4lOsCM",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "kekchungle44",
-            "link": "https://youtu.be/PL-3-as-gYY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Enfur",
-            "link": "https://www.youtube.com/watch?v=w8ICxVm5prE",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://youtu.be/8SMJ6UyEV3A",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "DJ1482",
-            "link": "https://youtu.be/hDyacFPWPB4",
-            "percent": 100,
-            "hz": 288
-},
-{
-            "user": "Zakuya",
-            "link": "https://youtu.be/cDdMqDdZAg4",
-            "percent": 100,
-            "hz": 240
-},
-        {
-    "user": "NikVer",
-    "link": "https://youtu.be/gcCiY9BMXb8",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/m_IXzkY0148",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Stainsley",
-    "link": "https://youtu.be/26wtPt0DMEs",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 87072454,
+	"name": "Welcome To GD News",
+	"author": "Vortrox",
+	"creators": [
+		"Tride, VladAAA, Zeptrus, n74, RatQuesadilla, JA4Y, DanGP, MrSupremeGD, Shnitzle, ItzKiba, NukeIIX, Bizaare, Vortrox"
+	],
+	"verifier": "Technical",
+	"verification": "https://www.youtube.com/watch?v=V3q6QA5lzG4",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "SEDTHEPRODIGY",
+			"link": "https://youtu.be/S7JeZG4niuY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "bfdiafan5346",
+			"link": "https://youtu.be/Wn7xE4-U-90",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "LeonDaBeast",
+			"link": "https://www.youtube.com/watch?v=Ob7dgMIwJfw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bamvie",
+			"link": "https://youtu.be/pbA0SkazVJo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Nova",
+			"link": "https://www.youtube.com/watch?v=fX0qSvaXqF4",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Fabricorn",
+			"link": "https://youtu.be/8_43BQUqh6Q",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BreadGuyGD",
+			"link": "https://www.youtube.com/watch?v=Q61Dp1_66sg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/iBb_6U1jDHE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/HYmf-4lOsCM",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "kekchungle44",
+			"link": "https://youtu.be/PL-3-as-gYY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Enfur",
+			"link": "https://www.youtube.com/watch?v=w8ICxVm5prE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://youtu.be/8SMJ6UyEV3A",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DJ1482",
+			"link": "https://youtu.be/hDyacFPWPB4",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Zakuya",
+			"link": "https://youtu.be/cDdMqDdZAg4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "NikVer",
+			"link": "https://youtu.be/gcCiY9BMXb8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/m_IXzkY0148",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Stainsley",
+			"link": "https://youtu.be/26wtPt0DMEs",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

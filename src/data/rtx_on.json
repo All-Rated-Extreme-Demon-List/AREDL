@@ -1,89 +1,89 @@
 {
-    "id": 81549790,
-    "name": "RTX ON",
-    "author": "TypicalGMD",
-    "creators": [],
-    "verifier": "TypicalGMD",
-    "verification": "https://www.youtube.com/watch?v=EDh8lrG37hY&t=0s",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Trees",
-            "link": "https://www.youtube.com/watch?v=8P944sdAZaM&ab_channel=Trees",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Robaleg9",
-            "link": "https://youtu.be/8fnTB3IKs2Q",
-            "percent": 100,
-            "hz": 120
-},
-        {
-            "user": "clncrvl",
-            "link": "https://youtu.be/XdX6A-Ezi5w",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "EpicMushroom",
-            "link": "https://www.youtube.com/watch?v=Mw2ZChOqZSs",
-            "percent": 100,
-            "hz": 150
-},
-        {
-            "user": "NUwUxuz",
-            "link": "https://www.youtube.com/watch?v=QiqcQHJ88Mw&t=6s",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/qZhisPI0gZ0",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Wolvyy",
-            "link": "https://www.youtube.com/watch?v=BLQRzAKldtc&list=PLU1NI3BRQCmo8EEJJV0CYtSUwAcKBPYGp&index=43&pp=gAQBiAQB",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "SamtheFman",
-            "link": "https://www.youtube.com/watch?v=ILzSC5cBMJg",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Glungus",
-            "link": "https://www.youtube.com/watch?v=D0JITS9poYE&t=5s&ab_channel=Glungus",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/2ZVGx4We4yw",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=fW-PZ1PJnvY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/aaENEVIiEgQ",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/dvLT-feNWVQ",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 81549790,
+	"name": "RTX ON",
+	"author": "TypicalGMD",
+	"creators": [],
+	"verifier": "TypicalGMD",
+	"verification": "https://www.youtube.com/watch?v=EDh8lrG37hY&t=0s",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Trees",
+			"link": "https://www.youtube.com/watch?v=8P944sdAZaM&ab_channel=Trees",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Robaleg9",
+			"link": "https://youtu.be/8fnTB3IKs2Q",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "clncrvl",
+			"link": "https://youtu.be/XdX6A-Ezi5w",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "EpicMushroom",
+			"link": "https://www.youtube.com/watch?v=Mw2ZChOqZSs",
+			"percent": 100,
+			"hz": 150
+		},
+		{
+			"user": "NUwUxuz",
+			"link": "https://www.youtube.com/watch?v=QiqcQHJ88Mw&t=6s",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/qZhisPI0gZ0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Wolvyy",
+			"link": "https://www.youtube.com/watch?v=BLQRzAKldtc&list=PLU1NI3BRQCmo8EEJJV0CYtSUwAcKBPYGp&index=43&pp=gAQBiAQB",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "SamtheFman",
+			"link": "https://www.youtube.com/watch?v=ILzSC5cBMJg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Glungus",
+			"link": "https://www.youtube.com/watch?v=D0JITS9poYE&t=5s&ab_channel=Glungus",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/2ZVGx4We4yw",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=fW-PZ1PJnvY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/aaENEVIiEgQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/dvLT-feNWVQ",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

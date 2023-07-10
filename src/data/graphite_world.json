@@ -1,29 +1,29 @@
 {
-    "id": 81518815,
-    "name": "Graphite World",
-    "author": "GangstaSpongebo",
-    "creators": [],
-    "verifier": "Daxylitz",
-    "verification": "https://www.youtube.com/watch?v=7lTcxuw6JbA",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=s4M7__aibCo",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/oG7tUwECrf4",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/SKPfi-ouj5E",
-    "percent": 100,
-    "hz": 360
-}
-        ]
+	"id": 81518815,
+	"name": "Graphite World",
+	"author": "GangstaSpongebo",
+	"creators": [],
+	"verifier": "Daxylitz",
+	"verification": "https://www.youtube.com/watch?v=7lTcxuw6JbA",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=s4M7__aibCo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/oG7tUwECrf4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/SKPfi-ouj5E",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

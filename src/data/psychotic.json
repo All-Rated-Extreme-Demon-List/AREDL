@@ -1,83 +1,83 @@
 {
-    "id": 89277532,
-    "name": "Psychotic",
-    "author": "ch4rlie03",
-    "creators": [],
-    "verifier": "ch4rlie03",
-    "verification": "https://www.youtube.com/watch?v=utxJb62_93c&pp=ygUVcHN5Y2hvdGljIHZlcmlmaWVkIGdk",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Bamvie",
-            "link": "https://youtu.be/lqDjFxSfkRY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "NUwUxuz",
-            "link": "https://www.youtube.com/watch?v=QV01Fmg7r8w",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Wolvyy",
-            "link": "https://www.youtube.com/watch?v=QV01Fmg7r8w",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/sSMZ6fofHzk",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "Oceliveth",
-            "link": "https://youtu.be/8vTyzAPwoVQ",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/PvqDWzcnHA0",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Megu",
-            "link": "https://youtu.be/jZEkvr5Ig1o",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "NiceCrunchy",
-            "link": "https://www.youtube.com/watch?v=9XSHHxKZQ84",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/eVdfshXxyCI",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "JustXSoos",
-    "link": "https://www.youtube.com/watch?v=i44_kaxUSdM",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "TheyCallMeEvan",
-    "link": "https://youtu.be/rrn548OyvTI",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "LunarSpark",
-    "link": "https://youtu.be/Toaa196uWF4",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 89277532,
+	"name": "Psychotic",
+	"author": "ch4rlie03",
+	"creators": [],
+	"verifier": "ch4rlie03",
+	"verification": "https://www.youtube.com/watch?v=utxJb62_93c&pp=ygUVcHN5Y2hvdGljIHZlcmlmaWVkIGdk",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Bamvie",
+			"link": "https://youtu.be/lqDjFxSfkRY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "NUwUxuz",
+			"link": "https://www.youtube.com/watch?v=QV01Fmg7r8w",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Wolvyy",
+			"link": "https://www.youtube.com/watch?v=QV01Fmg7r8w",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/sSMZ6fofHzk",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "Oceliveth",
+			"link": "https://youtu.be/8vTyzAPwoVQ",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/PvqDWzcnHA0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Megu",
+			"link": "https://youtu.be/jZEkvr5Ig1o",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "NiceCrunchy",
+			"link": "https://www.youtube.com/watch?v=9XSHHxKZQ84",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/eVdfshXxyCI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "JustXSoos",
+			"link": "https://www.youtube.com/watch?v=i44_kaxUSdM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/rrn548OyvTI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/Toaa196uWF4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

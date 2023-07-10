@@ -1,35 +1,37 @@
 {
-    "id": 74194269,
-    "name": "Another Phase",
-    "author": "Cersia",
-    "creators": ["GrenadeofTacos, Kiko, Aubreygoose, Awedsy, Rocketeer, Solsta, Samuraychik, Morphizn, Theorical, Kyder, Cersia, Rullstolsburen, Isane, Zylsia, C034"],
-    "verifier": "Cersia",
-    "verification": "https://youtu.be/rNBnwGBYI7o",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/qfeLS4EvvPs",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Lia",
-            "link": "https://www.youtube.com/watch?v=YjiuikFm4BU",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "xRiver007",
-    "link": "https://www.youtube.com/watch?v=rHFnqNLRhgw&t=28s",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/RR9g1gDpjh4",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 74194269,
+	"name": "Another Phase",
+	"author": "Cersia",
+	"creators": [
+		"GrenadeofTacos, Kiko, Aubreygoose, Awedsy, Rocketeer, Solsta, Samuraychik, Morphizn, Theorical, Kyder, Cersia, Rullstolsburen, Isane, Zylsia, C034"
+	],
+	"verifier": "Cersia",
+	"verification": "https://youtu.be/rNBnwGBYI7o",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/qfeLS4EvvPs",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Lia",
+			"link": "https://www.youtube.com/watch?v=YjiuikFm4BU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "xRiver007",
+			"link": "https://www.youtube.com/watch?v=rHFnqNLRhgw&t=28s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/RR9g1gDpjh4",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

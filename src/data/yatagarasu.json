@@ -1,173 +1,175 @@
 {
-    "id": 28220417,
-    "name": "Yatagarasu",
-    "author": "TrusTa",
-    "creators": ["Giron, ViPriN, AncientAnubis, Jeyzor, WOOGI1411, Findexi, Rek3dge, weoweoteo, Anthrax, AbstractDark, Aeidux, Vermillion, Zelda, Michigun, Luneth, Hinds, Evasium, Csx42gaming, Funnygame, Riot, xcy7, Loogiah"],
-    "verifier": "Dragoon",
-    "verification": "https://www.youtube.com/watch?v=GrGFFPhtAFc&t=92s",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/GJUjV9UysgE",
-            "percent": 100,
-            "hz": 240
-},
-{
-            "user": "LunarSpark",
-            "link": "https://youtu.be/8MHi1Eg204Y",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "clncrvl",
-            "link": "https://youtu.be/4Lf0lcy96Ds",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Nik14K",
-            "link": "https://youtu.be/lxksEG9iYlk",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "NUwUxuz",
-            "link": "https://www.youtube.com/watch?v=CGBMW8rsOCU&t=1s",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Fabricorn",
-            "link": "https://youtu.be/7JwV3u_ZGEE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "DrakoAK",
-            "link": "https://youtube.com/watch?v=13T5di6i1hY&feature=share8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "N0ctaXI",
-            "link": "https://www.youtube.com/watch?v=JZ6SIwsuaVk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/innlJIs5edI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Exomix",
-            "link": "https://www.youtube.com/watch?v=1dUHKReOO7E",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/A8OUmhPuMwQ",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/cGYu0kvQ7ik",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "alienxs",
-            "link": "https://www.youtube.com/watch?v=UsRvjXo074o&t=252s&ab_channel=alienxs",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "penpenliddy",
-            "link": "https://youtu.be/QzAADMv1MCM",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=Oi0aWYU-xik",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "StrangematterGD",
-            "link": "https://youtu.be/Z4qUp7FaPqA",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=4RU5EggCj3o&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "xRac30x",
-    "link": "https://youtu.be/48SRQThso0A",
-    "percent": 100,
-    "hz": 300
-    },
-    {
-        "user": "navethes",
-        "link": "https://youtu.be/Et8PQWyfl1Y",
-        "percent": 100,
-        "hz": 360
-        },
-        {
-            "user": "HotNooB",
-            "link": "https://youtu.be/Bk7pHKzYV2A",
-            "percent": 100,
-            "hz": 288
-    },
-    {
-        "user": "lunaa",
-        "link": "https://www.youtube.com/watch?v=1JKgR9oMKHE",
-        "percent": 100,
-        "hz": 360
-        },
-        {
-        "user": "Nercioo",
-        "link": "https://youtu.be/WytVIBcD3RE",
-        "percent": 100,
-        "hz": 360
-},
-{
-    "user": "couropsnov",
-    "link": "https://www.youtube.com/watch?v=otms_ZcY1a4",
-    "percent": 100,
-    "hz": 360
-},
-        {
-        "user": "JTYYY",
-        "link": "https://youtu.be/pwOk3dNYCf8",
-        "percent": 100,
-        "hz": 360
-},
-        {
-        "user": "ThePastaNebula",
-        "link": "https://youtu.be/MLOFwC2Pw0c",
-        "percent": 100,
-        "hz": 360
-},
-{
-    "user": "Lia",
-    "link": "https://www.youtube.com/watch?v=osRvig_L2do",
-    "percent": 100,
-    "hz": 360
-},
-        {
-        "user": "woi",
-        "link": "https://www.youtube.com/watch?v=wJIE--i5DDM&t=7s&ab_channel=woi",
-        "percent": 100,
-        "hz": 360
-}
- ]
+	"id": 28220417,
+	"name": "Yatagarasu",
+	"author": "TrusTa",
+	"creators": [
+		"Giron, ViPriN, AncientAnubis, Jeyzor, WOOGI1411, Findexi, Rek3dge, weoweoteo, Anthrax, AbstractDark, Aeidux, Vermillion, Zelda, Michigun, Luneth, Hinds, Evasium, Csx42gaming, Funnygame, Riot, xcy7, Loogiah"
+	],
+	"verifier": "Dragoon",
+	"verification": "https://www.youtube.com/watch?v=GrGFFPhtAFc&t=92s",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/GJUjV9UysgE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/8MHi1Eg204Y",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "clncrvl",
+			"link": "https://youtu.be/4Lf0lcy96Ds",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Nik14K",
+			"link": "https://youtu.be/lxksEG9iYlk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "NUwUxuz",
+			"link": "https://www.youtube.com/watch?v=CGBMW8rsOCU&t=1s",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Fabricorn",
+			"link": "https://youtu.be/7JwV3u_ZGEE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DrakoAK",
+			"link": "https://youtube.com/watch?v=13T5di6i1hY&feature=share8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "N0ctaXI",
+			"link": "https://www.youtube.com/watch?v=JZ6SIwsuaVk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/innlJIs5edI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Exomix",
+			"link": "https://www.youtube.com/watch?v=1dUHKReOO7E",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/A8OUmhPuMwQ",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/cGYu0kvQ7ik",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "alienxs",
+			"link": "https://www.youtube.com/watch?v=UsRvjXo074o&t=252s&ab_channel=alienxs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "penpenliddy",
+			"link": "https://youtu.be/QzAADMv1MCM",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=Oi0aWYU-xik",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "StrangematterGD",
+			"link": "https://youtu.be/Z4qUp7FaPqA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=4RU5EggCj3o&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "xRac30x",
+			"link": "https://youtu.be/48SRQThso0A",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "navethes",
+			"link": "https://youtu.be/Et8PQWyfl1Y",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/Bk7pHKzYV2A",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lunaa",
+			"link": "https://www.youtube.com/watch?v=1JKgR9oMKHE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Nercioo",
+			"link": "https://youtu.be/WytVIBcD3RE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "couropsnov",
+			"link": "https://www.youtube.com/watch?v=otms_ZcY1a4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "JTYYY",
+			"link": "https://youtu.be/pwOk3dNYCf8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ThePastaNebula",
+			"link": "https://youtu.be/MLOFwC2Pw0c",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://www.youtube.com/watch?v=osRvig_L2do",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "woi",
+			"link": "https://www.youtube.com/watch?v=wJIE--i5DDM&t=7s&ab_channel=woi",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

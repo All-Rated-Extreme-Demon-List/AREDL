@@ -1,24 +1,24 @@
 {
-    "id": 88108583,
-    "name": "MINIMUM",
-    "author": "Insidee",
-    "creators": [],
-    "verifier": "Insidee",
-    "verification": "https://www.youtube.com/watch?v=rm7uOjWn4y4",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records": [
-    {
-            "user": "Trehoeje",
-            "link": "https://youtu.be/pt9i1J345y8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/DrOx6Dl0n4k",
-            "percent": 100,
-            "hz": 280
-}
-    ]
+	"id": 88108583,
+	"name": "MINIMUM",
+	"author": "Insidee",
+	"creators": [],
+	"verifier": "Insidee",
+	"verification": "https://www.youtube.com/watch?v=rm7uOjWn4y4",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "Trehoeje",
+			"link": "https://youtu.be/pt9i1J345y8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/DrOx6Dl0n4k",
+			"percent": 100,
+			"hz": 280
+		}
+	]
 }

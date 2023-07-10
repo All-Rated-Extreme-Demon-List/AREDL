@@ -21,6 +21,9 @@ import { store } from "./main";
 			<RouterLink :to="{ name: 'ListPacks' }" class="nav__tab">
 				<span class="type-label-lg">Packs</span>
 			</RouterLink>
+			<RouterLink :to="{ name: 'Login' }" class="nav__tab">
+				<span class="type-label-lg">Login</span>
+			</RouterLink>
 			<div class="nav__actions">
 				<button class="nav__icon" @click.prevent="store.toggleDark()">
 					<img

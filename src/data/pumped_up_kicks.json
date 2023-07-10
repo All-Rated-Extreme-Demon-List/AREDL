@@ -1,54 +1,56 @@
 {
-    "id": 1,
-    "name": "Pumped Up Kicks",
-    "author": "Quiken",
-    "creators": ["[REDACTED], Mazl, YakobNugget, MaxiKD, MrPPs, CastriX, ShowtimeVonParty, JonathanGD, Quiken, Alfred, Amidon, xStar7, Axils, Witby, FrancaDash, Rocketeer, Xylph, Pix3lest, 31608"],
-    "verifier": "Luqualizer",
-    "verification": "https://www.youtube.com/watch?v=fol9xmmFUBI",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records": [
-    {
-            "user": "cat597",
-            "link": "https://www.youtube.com/watch?v=U8ncXhgohi8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/-6oJ9Bdwn64",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=w1I0V4KbzrU&ab_channel=Bleamer",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "YTkerfuffles",
-            "link": "https://youtu.be/OiLaOaB-hLA",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=poi4O03dGSU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/1F1X2MmrnGs",
-            "percent": 100,
-            "hz": 360
-},
-        {
-        "user": "HotNooB",
-        "link": "https://youtu.be/CHxZoKKSzws",
-        "percent": 100,
-        "hz": 288
-}
-    ]
+	"id": 1,
+	"name": "Pumped Up Kicks",
+	"author": "Quiken",
+	"creators": [
+		"[REDACTED], Mazl, YakobNugget, MaxiKD, MrPPs, CastriX, ShowtimeVonParty, JonathanGD, Quiken, Alfred, Amidon, xStar7, Axils, Witby, FrancaDash, Rocketeer, Xylph, Pix3lest, 31608"
+	],
+	"verifier": "Luqualizer",
+	"verification": "https://www.youtube.com/watch?v=fol9xmmFUBI",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "cat597",
+			"link": "https://www.youtube.com/watch?v=U8ncXhgohi8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/-6oJ9Bdwn64",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=w1I0V4KbzrU&ab_channel=Bleamer",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "YTkerfuffles",
+			"link": "https://youtu.be/OiLaOaB-hLA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=poi4O03dGSU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/1F1X2MmrnGs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/CHxZoKKSzws",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

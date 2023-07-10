@@ -1,23 +1,23 @@
 {
-    "id": 66203074,
-    "name": "Icotact",
-    "author": "icedcave",
-    "creators": ["Akira Kurisu, icedcave, Ozpectro"],
-    "verifier": "Spamdrew128",
-    "verification": "https://www.youtube.com/watch?v=dd1rG5DLdc4",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=MCECgAokQPA&list=PLFWp6-KM8S5qeHamheZVigLPJt5XORUcN&index=10",
-            "percent": 100,
-            "hz": 358
-},
-{
-    "user": "wadur",
-    "link": "https://youtu.be/u4VkN13A0TE",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 66203074,
+	"name": "Icotact",
+	"author": "icedcave",
+	"creators": ["Akira Kurisu, icedcave, Ozpectro"],
+	"verifier": "Spamdrew128",
+	"verification": "https://www.youtube.com/watch?v=dd1rG5DLdc4",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=MCECgAokQPA&list=PLFWp6-KM8S5qeHamheZVigLPJt5XORUcN&index=10",
+			"percent": 100,
+			"hz": 358
+		},
+		{
+			"user": "wadur",
+			"link": "https://youtu.be/u4VkN13A0TE",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

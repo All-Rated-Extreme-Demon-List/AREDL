@@ -1,66 +1,66 @@
 {
-    "id": 58161496,
-    "name": "Renevant",
-    "author": "nikroplays",
-    "creators": [],
-    "verifier": "rori",
-    "verification": "https://www.youtube.com/watch?v=2Y8kBw8YxO8",
-    "percentToQualify": 100,
-    "password": "987654",
-    "records": [
-    {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=K7zRXzC_uNU&t",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Fabricorn",
-            "link": "https://youtu.be/SFpk1ZoRUYI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "circle",
-            "link": "https://youtu.be/hq1bcCSURV8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "morphirot",
-            "link": "https://youtu.be/1qctYpZqCRY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Zoink",
-            "link": "https://www.youtube.com/watch?v=HiW6PEHZcik",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Incoromi",
-            "link": "https://www.youtube.com/watch?v=OEq0VtkRM-I&ab_channel=Incoromi",
-            "percent": 100,
-            "hz": 158
-},
-        {
-            "user": "Oceliveth",
-            "link": "https://youtu.be/_W9jTcyJci4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Ratio",
-            "link": "https://youtu.be/RzrF1m4sDIo",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=apd2Rg6qbBU",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 58161496,
+	"name": "Renevant",
+	"author": "nikroplays",
+	"creators": [],
+	"verifier": "rori",
+	"verification": "https://www.youtube.com/watch?v=2Y8kBw8YxO8",
+	"percentToQualify": 100,
+	"password": "987654",
+	"records": [
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=K7zRXzC_uNU&t",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Fabricorn",
+			"link": "https://youtu.be/SFpk1ZoRUYI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "circle",
+			"link": "https://youtu.be/hq1bcCSURV8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "morphirot",
+			"link": "https://youtu.be/1qctYpZqCRY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Zoink",
+			"link": "https://www.youtube.com/watch?v=HiW6PEHZcik",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Incoromi",
+			"link": "https://www.youtube.com/watch?v=OEq0VtkRM-I&ab_channel=Incoromi",
+			"percent": 100,
+			"hz": 158
+		},
+		{
+			"user": "Oceliveth",
+			"link": "https://youtu.be/_W9jTcyJci4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Ratio",
+			"link": "https://youtu.be/RzrF1m4sDIo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=apd2Rg6qbBU",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

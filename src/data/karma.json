@@ -1,107 +1,107 @@
 {
-    "id": 63471387,
-    "name": "Karma",
-    "author": "ARtu",
-    "creators": ["ARtu, Marwec"],
-    "verifier": "ARtu",
-    "verification": "https://www.youtube.com/watch?v=_33VOfBOBBY",
-    "percentToQualify": 100,
-    "records": [
-          {
-            "user": "TurtleER",
-            "link": "https://youtu.be/oOe7CdFYuck",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Zenta",
-            "link": "https://www.youtube.com/watch?v=rEYATZAaWG4",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=WhfsCfeiB0c",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/GZNizVOMItY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/6Q-OqjaI-fw",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=Xjqs0oFZxPQ",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/LrADo2yRHn4",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "Blathers",
-            "link": "https://youtu.be/ML7PjNADK-k",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "poopi",
-            "link": "https://youtu.be/iajNjeZYyME",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Alex_",
-            "link": "https://youtu.be/UR2m_8xRlFo",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/kfRwqZn4zhk",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Simolater",
-            "link": "https://www.youtube.com/watch?v=pHfwlqpa-OU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Detrezo",
-            "link": "https://www.youtube.com/watch?v=9rBMURMxeKM&ab_channel=Detrezo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-        "user": "HotNooB",
-        "link": "https://youtu.be/W_XPjrAM6GA",
-        "percent": 100,
-        "hz": 288
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/HxWB6F-Lmp8",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/Tw5ehoyxjwM",
-    "percent": 100,
-    "hz": 240
-}    
-    ]
+	"id": 63471387,
+	"name": "Karma",
+	"author": "ARtu",
+	"creators": ["ARtu, Marwec"],
+	"verifier": "ARtu",
+	"verification": "https://www.youtube.com/watch?v=_33VOfBOBBY",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "TurtleER",
+			"link": "https://youtu.be/oOe7CdFYuck",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Zenta",
+			"link": "https://www.youtube.com/watch?v=rEYATZAaWG4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=WhfsCfeiB0c",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/GZNizVOMItY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/6Q-OqjaI-fw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=Xjqs0oFZxPQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/LrADo2yRHn4",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "Blathers",
+			"link": "https://youtu.be/ML7PjNADK-k",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "poopi",
+			"link": "https://youtu.be/iajNjeZYyME",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Alex_",
+			"link": "https://youtu.be/UR2m_8xRlFo",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/kfRwqZn4zhk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Simolater",
+			"link": "https://www.youtube.com/watch?v=pHfwlqpa-OU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Detrezo",
+			"link": "https://www.youtube.com/watch?v=9rBMURMxeKM&ab_channel=Detrezo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/W_XPjrAM6GA",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/HxWB6F-Lmp8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/Tw5ehoyxjwM",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

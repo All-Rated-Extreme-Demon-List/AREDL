@@ -1,30 +1,32 @@
 {
-    "id": 48808692,
-    "name": "Cromulent",
-    "author": "RelayX",
-    "creators": ["Decody, Pleoslim, RelayX, Luxi, SiesTer, Staps, Keketoy, Sssamel, DeniPol, Uneskladovae, Greyrain, Qsyfer, Ishikii, SirFresh, Alpo, Crouley, Expun, Oprex, Realhaell, Markocr, Sengood, ArtyGD, Astravokpley, Deloreanz, kVin, Maks550A, Freyda, Son of Hell, Superkirill, Forgirka, Maku"],
-    "verifier": "Bleamer",
-    "verification": "https://www.youtube.com/watch?v=_19rlVXh80E",
-    "percentToQualify": 100,
-    "password": "080918",
-    "records": [
-    {
-            "user": "Zenta",
-            "link": "https://www.youtube.com/watch?v=44ASnpsgZ48",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/DWOatQ8aFSM",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/p5vpwl8r7i4",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 48808692,
+	"name": "Cromulent",
+	"author": "RelayX",
+	"creators": [
+		"Decody, Pleoslim, RelayX, Luxi, SiesTer, Staps, Keketoy, Sssamel, DeniPol, Uneskladovae, Greyrain, Qsyfer, Ishikii, SirFresh, Alpo, Crouley, Expun, Oprex, Realhaell, Markocr, Sengood, ArtyGD, Astravokpley, Deloreanz, kVin, Maks550A, Freyda, Son of Hell, Superkirill, Forgirka, Maku"
+	],
+	"verifier": "Bleamer",
+	"verification": "https://www.youtube.com/watch?v=_19rlVXh80E",
+	"percentToQualify": 100,
+	"password": "080918",
+	"records": [
+		{
+			"user": "Zenta",
+			"link": "https://www.youtube.com/watch?v=44ASnpsgZ48",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/DWOatQ8aFSM",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/p5vpwl8r7i4",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

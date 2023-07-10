@@ -1,41 +1,41 @@
 {
-    "id": 72570152,
-    "name": "CHROMA FINALE",
-    "author": "Renn241",
-    "creators": [],
-    "verifier": "saturn",
-    "verification": "https://www.youtube.com/watch?v=ByJ9rz4-WUI",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=0HMFR55ZyQk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "nei",
-            "link": "https://youtu.be/4lZfWKBRZSE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/oRQPY-RdNuA",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/MDWQBXfQqbo",
-            "percent": 100,
-            "hz": 288
-},
-        {
-        "user": "kovosrutek",
-        "link": "https://youtu.be/7WG8E45GDew",
-        "percent": 100,
-        "hz": 360
-}
-    ]
+	"id": 72570152,
+	"name": "CHROMA FINALE",
+	"author": "Renn241",
+	"creators": [],
+	"verifier": "saturn",
+	"verification": "https://www.youtube.com/watch?v=ByJ9rz4-WUI",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=0HMFR55ZyQk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "nei",
+			"link": "https://youtu.be/4lZfWKBRZSE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/oRQPY-RdNuA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/MDWQBXfQqbo",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "kovosrutek",
+			"link": "https://youtu.be/7WG8E45GDew",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

@@ -1,30 +1,32 @@
 {
-    "id": 48981134,
-    "name": "Cadrega Mode",
-    "author": "TCTeam",
-    "creators": ["Pennutoh, GaidenHertuny, para, Crystal PG, iSparki, Zed Aurum, Hko, Kllnex, Isane, Rexter, CesDroid, Scott, Surge, Delta, PokeChatt, Zero, iMasu, Erick101, Zafkiel, Bionic"],
-    "verifier": "Clumps",
-    "verification": "https://www.youtube.com/watch?v=qcOtiV2w0UE",
-    "percentToQualify": 100,
-    "password": "160918",
-    "records": [
-    {
-            "user": "Matter",
-            "link": "https://youtu.be/w2tASYV6lT8",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Clara",
-            "link": "https://www.youtube.com/watch?v=UhmG0-J8FqU",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/9MjU2rUiFUQ",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 48981134,
+	"name": "Cadrega Mode",
+	"author": "TCTeam",
+	"creators": [
+		"Pennutoh, GaidenHertuny, para, Crystal PG, iSparki, Zed Aurum, Hko, Kllnex, Isane, Rexter, CesDroid, Scott, Surge, Delta, PokeChatt, Zero, iMasu, Erick101, Zafkiel, Bionic"
+	],
+	"verifier": "Clumps",
+	"verification": "https://www.youtube.com/watch?v=qcOtiV2w0UE",
+	"percentToQualify": 100,
+	"password": "160918",
+	"records": [
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/w2tASYV6lT8",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Clara",
+			"link": "https://www.youtube.com/watch?v=UhmG0-J8FqU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/9MjU2rUiFUQ",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

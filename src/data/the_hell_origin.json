@@ -1,18 +1,20 @@
 {
-    "id": 36875204,
-    "name": "The Hell Origin",
-    "author": "Stormfly",
-    "creators": ["Tsukifuto, Zhander, Sohn0924, MrPPs, Xaro, Vindik, Ternamit, AlexPG, Zimnior12, AZuLer4"],
-    "verifier": "Stormfly",
-    "verification": "https://www.youtube.com/watch?v=2fZ_4jAGsQc",
-    "percentToQualify": 100,
-    "password": "170821",
-    "records": [
-    {
-            "user": "Trehoeje",
-            "link": "https://youtu.be/RDZ-SZYNDoA",
-            "percent": 100,
-            "hz": 288
-    }
-    ]
+	"id": 36875204,
+	"name": "The Hell Origin",
+	"author": "Stormfly",
+	"creators": [
+		"Tsukifuto, Zhander, Sohn0924, MrPPs, Xaro, Vindik, Ternamit, AlexPG, Zimnior12, AZuLer4"
+	],
+	"verifier": "Stormfly",
+	"verification": "https://www.youtube.com/watch?v=2fZ_4jAGsQc",
+	"percentToQualify": 100,
+	"password": "170821",
+	"records": [
+		{
+			"user": "Trehoeje",
+			"link": "https://youtu.be/RDZ-SZYNDoA",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

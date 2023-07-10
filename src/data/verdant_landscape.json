@@ -1,36 +1,36 @@
 {
-    "id": 76543324,
-    "name": "Verdant Landscape",
-    "author": "Nisha",
-    "creators": [],
-    "verifier": "Nisha",
-    "verification": "https://www.youtube.com/watch?v=wjZxkS5KC0A",
-    "percentToQualify": 100,
-    "password": "446799",
-    "records": [
-    {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=o5f0yLbu2F0&",
-            "percent": 100,
-            "hz": 360
-    },
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/14hzGEZthHQ",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "StarXV",
-            "link": "https://youtu.be/zYLxqUDmKco",
-            "percent": 100,
-            "hz": 300
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=ja7ueHDcHgY&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 76543324,
+	"name": "Verdant Landscape",
+	"author": "Nisha",
+	"creators": [],
+	"verifier": "Nisha",
+	"verification": "https://www.youtube.com/watch?v=wjZxkS5KC0A",
+	"percentToQualify": 100,
+	"password": "446799",
+	"records": [
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=o5f0yLbu2F0&",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/14hzGEZthHQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "StarXV",
+			"link": "https://youtu.be/zYLxqUDmKco",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=ja7ueHDcHgY&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

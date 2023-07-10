@@ -1,101 +1,101 @@
 {
-    "id": 45094581,
-    "name": "Delta Interface",
-    "author": "Platnuu",
-    "creators": [],
-    "verifier": "skzyl",
-    "verification": "http://www.youtube.com/watch?v=BnrTI1BVqc4",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=pvki1nTDCMg&",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "morphirot",
-            "link": "https://youtu.be/wL_3lqU8J5c",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "iiLogan",
-            "link": "https://youtu.be/I7UfwSm34bo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "NUwUxuz",
-            "link": "https://www.youtube.com/watch?v=qyTALGSsSfU&t=23s",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/SqTo2raqGPw",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "morphirot",
-            "link": "https://youtu.be/wL_3lqU8J5c",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/5a2O8PI0oGM",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/G7HXnlyY38o",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/a_207GzPiaM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Blathers",
-            "link": "https://youtu.be/it00kW4nHuM",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "BANA1411",
-            "link": "https://youtu.be/_7sGM86mDIo",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "alienxs",
-            "link": "https://youtu.be/z4qIo3g9vPs",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=jA12--q_a3s",
-    "percent": 100,
-    "hz": 144
-},
-        {
-            "user": "GordonHL2",
-            "link": "https://youtu.be/jHb7BXm5KAI",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/setLrwJYAhI",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 45094581,
+	"name": "Delta Interface",
+	"author": "Platnuu",
+	"creators": [],
+	"verifier": "skzyl",
+	"verification": "http://www.youtube.com/watch?v=BnrTI1BVqc4",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=pvki1nTDCMg&",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "morphirot",
+			"link": "https://youtu.be/wL_3lqU8J5c",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "iiLogan",
+			"link": "https://youtu.be/I7UfwSm34bo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "NUwUxuz",
+			"link": "https://www.youtube.com/watch?v=qyTALGSsSfU&t=23s",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/SqTo2raqGPw",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "morphirot",
+			"link": "https://youtu.be/wL_3lqU8J5c",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/5a2O8PI0oGM",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/G7HXnlyY38o",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/a_207GzPiaM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Blathers",
+			"link": "https://youtu.be/it00kW4nHuM",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "BANA1411",
+			"link": "https://youtu.be/_7sGM86mDIo",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "alienxs",
+			"link": "https://youtu.be/z4qIo3g9vPs",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=jA12--q_a3s",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "GordonHL2",
+			"link": "https://youtu.be/jHb7BXm5KAI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/setLrwJYAhI",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

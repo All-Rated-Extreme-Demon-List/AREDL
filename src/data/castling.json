@@ -1,132 +1,132 @@
 {
-    "id": 57023074,
-    "name": "Castling",
-    "author": "Meroo",
-    "creators": [],
-    "verifier": "-",
-    "verification": "https://www.youtube.com/watch?v=0cMfW600dEo",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/KWIff5CCfT8",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Zenta",
-            "link": "https://www.youtube.com/watch?v=txQzqoz-pv4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Willow",
-            "link": "https://youtu.be/7eiJt0DKBCA",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "bfdiafan5346",
-            "link": "https://youtu.be/OCs5faBx22I",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Megu",
-            "link": "https://youtu.be/0EKhWEo1e5s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MKWCore",
-            "link": "https://youtu.be/poKXWyVhocs",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Cyclo",
-            "link": "https://youtu.be/l1fD4lEW9g4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Seic",
-            "link": "https://www.youtube.com/watch?v=20TZZFJaYHg",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "NUwUxuz",
-            "link": "https://www.youtube.com/watch?v=pH8FBwatrKM",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/_Tzr0A82Q2Y",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Wolvyy",
-            "link": "https://www.youtube.com/watch?v=5SFWj_iCY8Q&list=PLU1NI3BRQCmo8EEJJV0CYtSUwAcKBPYGp&index=34",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Matter",
-            "link": "https://youtu.be/2Kjhyemv3xw",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/45wnpAXgvxI",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "Patrick61804",
-            "link": "https://youtu.be/HTflWfDt10Q",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=xE20LT9FZKk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/Qd2rS0vlaSA",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Bonezizdum",
-            "link": "https://youtu.be/L2YowR0kEqQ",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/qHlFRzEjDe0",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/KiBp7du_Y6g",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/TrIIeeB23no",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 57023074,
+	"name": "Castling",
+	"author": "Meroo",
+	"creators": [],
+	"verifier": "-",
+	"verification": "https://www.youtube.com/watch?v=0cMfW600dEo",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/KWIff5CCfT8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Zenta",
+			"link": "https://www.youtube.com/watch?v=txQzqoz-pv4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Willow",
+			"link": "https://youtu.be/7eiJt0DKBCA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "bfdiafan5346",
+			"link": "https://youtu.be/OCs5faBx22I",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Megu",
+			"link": "https://youtu.be/0EKhWEo1e5s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MKWCore",
+			"link": "https://youtu.be/poKXWyVhocs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Cyclo",
+			"link": "https://youtu.be/l1fD4lEW9g4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Seic",
+			"link": "https://www.youtube.com/watch?v=20TZZFJaYHg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "NUwUxuz",
+			"link": "https://www.youtube.com/watch?v=pH8FBwatrKM",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/_Tzr0A82Q2Y",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Wolvyy",
+			"link": "https://www.youtube.com/watch?v=5SFWj_iCY8Q&list=PLU1NI3BRQCmo8EEJJV0CYtSUwAcKBPYGp&index=34",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/2Kjhyemv3xw",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/45wnpAXgvxI",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "Patrick61804",
+			"link": "https://youtu.be/HTflWfDt10Q",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=xE20LT9FZKk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/Qd2rS0vlaSA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Bonezizdum",
+			"link": "https://youtu.be/L2YowR0kEqQ",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/qHlFRzEjDe0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/KiBp7du_Y6g",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/TrIIeeB23no",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

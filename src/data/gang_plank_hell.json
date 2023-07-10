@@ -1,59 +1,59 @@
 {
-    "id": 49428328,
-    "name": "Gang Plank Hell",
-    "author": "Metalface221",
-    "creators": ["Metalface221, Pennutoh"],
-    "verifier": "Miro",
-    "verification": "https://www.youtube.com/watch?v=eqpWqAA4hp8",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Lia",
-            "link": "https://youtu.be/umoSmtuZQmo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Fabricorn",
-            "link": "https://youtu.be/ZKvwVmadom4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=IIFQOeKaXJE&t=&ab_channel=Bleamer",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/ux7UiLD_CJU",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=bGi59fK17Y8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=Xap1t3-3eiY",
-    "percent": 100,
-    "hz": 144
-},
-        {
-    "user": "Wyse",
-    "link": "https://youtu.be/2vOhBQJUnAU",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/ok-QbolLgOs",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 49428328,
+	"name": "Gang Plank Hell",
+	"author": "Metalface221",
+	"creators": ["Metalface221, Pennutoh"],
+	"verifier": "Miro",
+	"verification": "https://www.youtube.com/watch?v=eqpWqAA4hp8",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/umoSmtuZQmo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Fabricorn",
+			"link": "https://youtu.be/ZKvwVmadom4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=IIFQOeKaXJE&t=&ab_channel=Bleamer",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/ux7UiLD_CJU",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=bGi59fK17Y8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=Xap1t3-3eiY",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/2vOhBQJUnAU",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/ok-QbolLgOs",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

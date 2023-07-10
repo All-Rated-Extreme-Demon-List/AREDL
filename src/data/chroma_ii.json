@@ -1,53 +1,53 @@
 {
-    "id": 70187443,
-    "name": "CHROMA II",
-    "author": "Renn241",
-    "creators": [],
-    "verifier": "saturn",
-    "verification": "https://www.youtube.com/watch?v=VpmW8-kMvSw",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Didjimon",
-            "link": "https://youtu.be/RzAjiAOwS5o",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/LVh5gBulYZw",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Clara",
-            "link": "https://youtu.be/RSBhTyb_nHw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/doGtr1tNZs0",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=Ckj4BZUdsiY",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/5zPvVQe5SR4",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/yuCxzXWAglA",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 70187443,
+	"name": "CHROMA II",
+	"author": "Renn241",
+	"creators": [],
+	"verifier": "saturn",
+	"verification": "https://www.youtube.com/watch?v=VpmW8-kMvSw",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Didjimon",
+			"link": "https://youtu.be/RzAjiAOwS5o",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/LVh5gBulYZw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Clara",
+			"link": "https://youtu.be/RSBhTyb_nHw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/doGtr1tNZs0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=Ckj4BZUdsiY",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/5zPvVQe5SR4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/yuCxzXWAglA",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

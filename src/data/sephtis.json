@@ -1,47 +1,49 @@
 {
-    "id": 75857309,
-    "name": "Sephtis",
-    "author": "deThe",
-    "creators": ["Miki, deThe, Khelado, Mazzedy, lGenoxide, Athralym10, Lenzelium, Lexoop, AVRG, 7tash, Inex, GMoney03, DiamondSkull, Zetalock, Zyunic, Cantis, Frozn"],
-    "verifier": "Teno",
-    "verification": "https://youtu.be/7NQDv1N3I2M",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/ttgx3M6QvUk",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/EkZ4NxIoCHo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Bamvie",
-            "link": "https://youtu.be/RisPvj68e08",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "JustXSoos",
-    "link": "https://www.youtube.com/watch?v=cQhVWloj08s",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/WEnXhtNI4g4",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/TrIIeeB23no",
-    "percent": 100,
-    "hz": 240
-}
-               ]
+	"id": 75857309,
+	"name": "Sephtis",
+	"author": "deThe",
+	"creators": [
+		"Miki, deThe, Khelado, Mazzedy, lGenoxide, Athralym10, Lenzelium, Lexoop, AVRG, 7tash, Inex, GMoney03, DiamondSkull, Zetalock, Zyunic, Cantis, Frozn"
+	],
+	"verifier": "Teno",
+	"verification": "https://youtu.be/7NQDv1N3I2M",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/ttgx3M6QvUk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/EkZ4NxIoCHo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bamvie",
+			"link": "https://youtu.be/RisPvj68e08",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "JustXSoos",
+			"link": "https://www.youtube.com/watch?v=cQhVWloj08s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/WEnXhtNI4g4",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/TrIIeeB23no",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

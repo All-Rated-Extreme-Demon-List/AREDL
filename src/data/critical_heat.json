@@ -1,17 +1,17 @@
 {
-    "id": 88442157,
-    "name": "Critical Heat",
-    "author": "Zeniux",
-    "creators": ["ZeusGD, Zeniux"],
-    "verifier": "hstorm",
-    "verification": "https://www.youtube.com/watch?v=UjYIt2jy_BY",
-    "percentToQualify": 100,
-    "records": [
-{
-            "user": "Zoink",
-            "link": "https://youtu.be/1B7gJOkTaKM",
-            "percent": 100,
-            "hz": 360
-}
-]
+	"id": 88442157,
+	"name": "Critical Heat",
+	"author": "Zeniux",
+	"creators": ["ZeusGD, Zeniux"],
+	"verifier": "hstorm",
+	"verification": "https://www.youtube.com/watch?v=UjYIt2jy_BY",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/1B7gJOkTaKM",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

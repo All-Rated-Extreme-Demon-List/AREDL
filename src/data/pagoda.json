@@ -1,30 +1,38 @@
 {
-    "id": 77669659,
-    "name": "Pagoda",
-    "author": "Seturan",
-    "creators": ["Seturan","Xiko","AnGyung","Yonaka","Lebi06","Gyro","SyQual"],
-    "verifier": "Seturan",
-    "verification": "https://www.youtube.com/watch?v=KVomsNjGalQ",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records": [
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/Oz0V5DOPsGU",
-            "percent": 100,
-            "hz": 360
-},
-    {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=YUnnSdw9jlU&t=0s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=cfqchAboJKg&",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 77669659,
+	"name": "Pagoda",
+	"author": "Seturan",
+	"creators": [
+		"Seturan",
+		"Xiko",
+		"AnGyung",
+		"Yonaka",
+		"Lebi06",
+		"Gyro",
+		"SyQual"
+	],
+	"verifier": "Seturan",
+	"verification": "https://www.youtube.com/watch?v=KVomsNjGalQ",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/Oz0V5DOPsGU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=YUnnSdw9jlU&t=0s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=cfqchAboJKg&",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

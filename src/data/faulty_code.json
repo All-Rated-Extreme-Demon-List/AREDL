@@ -1,23 +1,23 @@
 {
-    "id": 86230468,
-    "name": "FAULTY CODE",
-    "author": "TheRealXFuture",
-    "creators": [],
-    "verifier": "Zeronium",
-    "verification": "https://www.youtube.com/watch?v=0IX6KUJpyWw",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "bfdiafan5346",
-            "link": "https://youtu.be/jSrkMn58GAI",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=secF8_ORLRk",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 86230468,
+	"name": "FAULTY CODE",
+	"author": "TheRealXFuture",
+	"creators": [],
+	"verifier": "Zeronium",
+	"verification": "https://www.youtube.com/watch?v=0IX6KUJpyWw",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "bfdiafan5346",
+			"link": "https://youtu.be/jSrkMn58GAI",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=secF8_ORLRk",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

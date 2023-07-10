@@ -1,35 +1,35 @@
 {
-    "id": 74821587,
-    "name": "Jamboree",
-    "author": "JustJohn",
-    "creators": [],
-    "verifier": "JustJohn",
-    "verification": "https://www.youtube.com/watch?v=tmI-MljFcmA",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "nei",
-            "link": "https://youtu.be/0hk7h6GUTeg",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Matter",
-            "link": "https://youtu.be/3CMIAK6_o1E",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/cN1ry4TJbd8",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/bnqbZxoKl3s",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 74821587,
+	"name": "Jamboree",
+	"author": "JustJohn",
+	"creators": [],
+	"verifier": "JustJohn",
+	"verification": "https://www.youtube.com/watch?v=tmI-MljFcmA",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "nei",
+			"link": "https://youtu.be/0hk7h6GUTeg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/3CMIAK6_o1E",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/cN1ry4TJbd8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/bnqbZxoKl3s",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

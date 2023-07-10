@@ -1,48 +1,48 @@
 {
-    "id": 86513236,
-    "name": "Agen Wida",
-    "author": "Unbipentium",
-    "creators": ["Unbipentium, KlaurosssS"],
-    "verifier": "Mauster",
-    "verification": "https://www.youtube.com/watch?v=3L9AQCuOX6A",
-    "percentToQualify": 100,
-    "password": "2018",
-    "records": [
-    {
-            "user": "Alex_",
-            "link": "https://youtu.be/vhRpTFGxPNs",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Lia",
-            "link": "https://www.youtube.com/watch?v=TYUHkessqDw",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/bvZBORm9NPs",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/WBTQgvBuhWo",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "DoGGy",
-    "link": "https://www.youtube.com/watch?v=g7zH3EyOPFg",
-    "percent": 100,
-    "hz": 280
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/XhyxphKDCtE",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 86513236,
+	"name": "Agen Wida",
+	"author": "Unbipentium",
+	"creators": ["Unbipentium, KlaurosssS"],
+	"verifier": "Mauster",
+	"verification": "https://www.youtube.com/watch?v=3L9AQCuOX6A",
+	"percentToQualify": 100,
+	"password": "2018",
+	"records": [
+		{
+			"user": "Alex_",
+			"link": "https://youtu.be/vhRpTFGxPNs",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Lia",
+			"link": "https://www.youtube.com/watch?v=TYUHkessqDw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/bvZBORm9NPs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/WBTQgvBuhWo",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "DoGGy",
+			"link": "https://www.youtube.com/watch?v=g7zH3EyOPFg",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/XhyxphKDCtE",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

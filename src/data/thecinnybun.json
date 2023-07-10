@@ -1,17 +1,17 @@
 {
-    "id": 77134293,
-    "name": "TheCinnyBun",
-    "author": "Cinny",
-    "creators": ["Renn241"],
-    "verifier": "saturn",
-    "verification": "https://www.youtube.com/watch?v=n8eUDCCoBF8",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Nik14K",
-            "link": "https://youtu.be/HmpAMa0Ot3k",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 77134293,
+	"name": "TheCinnyBun",
+	"author": "Cinny",
+	"creators": ["Renn241"],
+	"verifier": "saturn",
+	"verification": "https://www.youtube.com/watch?v=n8eUDCCoBF8",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Nik14K",
+			"link": "https://youtu.be/HmpAMa0Ot3k",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

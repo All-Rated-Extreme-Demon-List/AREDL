@@ -1,72 +1,72 @@
 {
-    "id": 80966089,
-    "name": "CITRA",
-    "author": "VARSE",
-    "creators": [],
-    "verifier": "VARSE",
-    "verification": "https://www.youtube.com/watch?v=I8M1OOhub9w",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records": [
-        {
-            "user": "nei",
-            "link": "https://youtu.be/TqnsfP9ojcE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=GvUVya60-uM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/08LUuX8BOCI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Matter",
-            "link": "https://youtu.be/V4JbAEmBztE",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/2ArJ0SH92kE",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/9eaxXsBpl8E",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Detrezo",
-            "link": "https://www.youtube.com/watch?v=ksQjgzEmC_U&ab_channel=Detrezo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/C3WqpeKR_VA",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/FrosN5MTL70",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "DoGGy",
-    "link": "https://www.youtube.com/watch?v=V25yNrJ8zNc",
-    "percent": 100,
-    "hz": 280
-}
-    ]
+	"id": 80966089,
+	"name": "CITRA",
+	"author": "VARSE",
+	"creators": [],
+	"verifier": "VARSE",
+	"verification": "https://www.youtube.com/watch?v=I8M1OOhub9w",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "nei",
+			"link": "https://youtu.be/TqnsfP9ojcE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=GvUVya60-uM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/08LUuX8BOCI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/V4JbAEmBztE",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/2ArJ0SH92kE",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/9eaxXsBpl8E",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Detrezo",
+			"link": "https://www.youtube.com/watch?v=ksQjgzEmC_U&ab_channel=Detrezo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/C3WqpeKR_VA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/FrosN5MTL70",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DoGGy",
+			"link": "https://www.youtube.com/watch?v=V25yNrJ8zNc",
+			"percent": 100,
+			"hz": 280
+		}
+	]
 }

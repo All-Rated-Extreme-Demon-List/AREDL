@@ -1,41 +1,43 @@
 {
-    "id": 47797723,
-    "name": "VendetTa",
-    "author": "CFteamgd",
-    "creators": ["CFteamgd, CreatorExtract, She3rlucks, Waffl3x, Vesimelon, Laph7, Captain, ZenThriX24"],
-    "verifier": "FarzzZinjj",
-    "verification": "https://www.youtube.com/watch?v=HyG7HP_CDwE",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Shrixy",
-            "link": "https://youtu.be/R1-ZjqSLB1M",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=zWh0CpxVgv4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/9yy32dieGyA",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "GD_Basti",
-            "link": "https://www.youtube.com/watch?v=OmQ9c9YSDWs",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/sQLcr0ZBv9Y",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 47797723,
+	"name": "VendetTa",
+	"author": "CFteamgd",
+	"creators": [
+		"CFteamgd, CreatorExtract, She3rlucks, Waffl3x, Vesimelon, Laph7, Captain, ZenThriX24"
+	],
+	"verifier": "FarzzZinjj",
+	"verification": "https://www.youtube.com/watch?v=HyG7HP_CDwE",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Shrixy",
+			"link": "https://youtu.be/R1-ZjqSLB1M",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=zWh0CpxVgv4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/9yy32dieGyA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "GD_Basti",
+			"link": "https://www.youtube.com/watch?v=OmQ9c9YSDWs",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/sQLcr0ZBv9Y",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

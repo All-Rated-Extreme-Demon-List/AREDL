@@ -1,31 +1,30 @@
 {
-    "id": 72164189,
-    "name": "lodin da fish washer",
-    "author": "koko43",
-    "creators": [],
-    "verifier": "ButterFish",
-    "verification": "https://www.youtube.com/watch?v=ioo1wCMCGhg",
-    "percentToQualify": 100,
-    "password": "456454",
-    "records": [
-        {
-            "user": "MMitochondria",
-            "link": "https://www.youtube.com/watch?v=AVlB2Sm_xN0",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "Visurient",
-            "link": "https://www.youtube.com/watch?v=z9y8bVebxWY&",
-            "percent": 100,
-            "hz": 60
-},
-{
-    "user": "baechugimchi",
-    "link": "https://youtu.be/3wrKd3RJLYw",
-    "percent": 100,
-    "hz": 288
-}
-
-    ]
+	"id": 72164189,
+	"name": "lodin da fish washer",
+	"author": "koko43",
+	"creators": [],
+	"verifier": "ButterFish",
+	"verification": "https://www.youtube.com/watch?v=ioo1wCMCGhg",
+	"percentToQualify": 100,
+	"password": "456454",
+	"records": [
+		{
+			"user": "MMitochondria",
+			"link": "https://www.youtube.com/watch?v=AVlB2Sm_xN0",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "Visurient",
+			"link": "https://www.youtube.com/watch?v=z9y8bVebxWY&",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "baechugimchi",
+			"link": "https://youtu.be/3wrKd3RJLYw",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

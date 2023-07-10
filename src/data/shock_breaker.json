@@ -1,29 +1,31 @@
 {
-    "id": 64051003,
-    "name": "Shock Breaker",
-    "author": "Spectex",
-    "creators": ["Zeroya, GunnerBones, npesta, Technical, GaidenHertuny, WormFodder, Gabs, Kiba, SlimJim, Moosh, Gizbro, Isane, alkali, Surge, Walroose, Spectex, GDSkele, Sequex, Lipz, Zipixbox, ItsHybrid, CrankytheHuman, Realvet, iEstia, Geo, EyeOfTheStorm, Eridani, Sean, Vantablack, NogZ"],
-    "verifier": "Technical",
-    "verification": "https://www.youtube.com/watch?v=-fkJ41yXau8",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Lia",
-            "link": "https://youtu.be/ORagcKelDD0",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Didjimon",
-            "link": "https://youtu.be/8XxeqC5w5us",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=PEHJ10JUMnE",
-    "percent": 100,
-    "hz": 144
-}
-    ]
+	"id": 64051003,
+	"name": "Shock Breaker",
+	"author": "Spectex",
+	"creators": [
+		"Zeroya, GunnerBones, npesta, Technical, GaidenHertuny, WormFodder, Gabs, Kiba, SlimJim, Moosh, Gizbro, Isane, alkali, Surge, Walroose, Spectex, GDSkele, Sequex, Lipz, Zipixbox, ItsHybrid, CrankytheHuman, Realvet, iEstia, Geo, EyeOfTheStorm, Eridani, Sean, Vantablack, NogZ"
+	],
+	"verifier": "Technical",
+	"verification": "https://www.youtube.com/watch?v=-fkJ41yXau8",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/ORagcKelDD0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Didjimon",
+			"link": "https://youtu.be/8XxeqC5w5us",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=PEHJ10JUMnE",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

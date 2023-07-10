@@ -1,23 +1,23 @@
 {
-    "id": 89976481,
-    "name": "court circuit",
-    "author": "Fafenel",
-    "creators": [],
-    "verifier": "DraxitIII",
-    "verification": "https://www.youtube.com/watch?v=kqhzFWqIAxA",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "Blathers",
-            "link": "https://youtu.be/-NzGsd1Ubc4",
-            "percent": 100,
-            "hz": 330
-},
-        {
-            "user": "Detrezo",
-            "link": "https://www.youtube.com/watch?v=I9a1shJumG8&t=2s&ab_channel=Detrezo",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 89976481,
+	"name": "court circuit",
+	"author": "Fafenel",
+	"creators": [],
+	"verifier": "DraxitIII",
+	"verification": "https://www.youtube.com/watch?v=kqhzFWqIAxA",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Blathers",
+			"link": "https://youtu.be/-NzGsd1Ubc4",
+			"percent": 100,
+			"hz": 330
+		},
+		{
+			"user": "Detrezo",
+			"link": "https://www.youtube.com/watch?v=I9a1shJumG8&t=2s&ab_channel=Detrezo",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

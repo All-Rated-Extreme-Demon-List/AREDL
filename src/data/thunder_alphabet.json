@@ -1,77 +1,77 @@
 {
-    "id": 59230188,
-    "name": "Thunder Alphabet",
-    "author": "Patchimator",
-    "creators": [],
-    "verifier": "Kapinapi",
-    "verification": "https://www.youtube.com/watch?v=T1CqPci9dLc",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Zenta",
-            "link": "https://www.youtube.com/watch?v=9JdyFJrOHZo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Seic",
-            "link": "https://www.youtube.com/watch?v=5w5RObESZ_s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/mZHYA9YFjek",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=CQzFYgxFZyM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/9wOPinfvwvs",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "Patrick61804",
-            "link": "https://youtu.be/-jBCSkDkf8U",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/ZMLzGMkAnRU",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/8OnlOmKts9A",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "SeanyBoy33",
-            "link": "https://youtu.be/5oKhW8kginE",
-            "percent": 100,
-            "hz": 60
-},
-        {
-        "user": "HotNooB",
-        "link": "https://youtu.be/dQVJ_hMjC88",
-        "percent": 100,
-        "hz": 288
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/ofP6nx4WidU",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 59230188,
+	"name": "Thunder Alphabet",
+	"author": "Patchimator",
+	"creators": [],
+	"verifier": "Kapinapi",
+	"verification": "https://www.youtube.com/watch?v=T1CqPci9dLc",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Zenta",
+			"link": "https://www.youtube.com/watch?v=9JdyFJrOHZo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Seic",
+			"link": "https://www.youtube.com/watch?v=5w5RObESZ_s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/mZHYA9YFjek",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=CQzFYgxFZyM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/9wOPinfvwvs",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "Patrick61804",
+			"link": "https://youtu.be/-jBCSkDkf8U",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/ZMLzGMkAnRU",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/8OnlOmKts9A",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "SeanyBoy33",
+			"link": "https://youtu.be/5oKhW8kginE",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/dQVJ_hMjC88",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/ofP6nx4WidU",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

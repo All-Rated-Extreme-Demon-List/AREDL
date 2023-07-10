@@ -1,41 +1,41 @@
 {
-    "id": 57312412,
-    "name": "Exotic Energy",
-    "author": "Ellisha",
-    "creators": [],
-    "verifier": "MrSpaghetti",
-    "verification": "https://www.youtube.com/watch?v=ZAjHCEqM84U",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Lia",
-            "link": "https://youtu.be/VccfwvF2ZWk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Seic",
-            "link": "https://www.youtube.com/watch?v=Cb1ydkk920g&t=10s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Clara",
-            "link": "https://www.youtube.com/watch?v=qMNV3_ZZ3UM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=jZlxXwVMrws",
-            "percent": 100,
-            "hz": 360
-},
-        {
-        "user": "HotNooB",
-        "link": "https://youtu.be/Q3iHgrJ4eyw",
-        "percent": 100,
-        "hz": 288
-}
-    ]
+	"id": 57312412,
+	"name": "Exotic Energy",
+	"author": "Ellisha",
+	"creators": [],
+	"verifier": "MrSpaghetti",
+	"verification": "https://www.youtube.com/watch?v=ZAjHCEqM84U",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/VccfwvF2ZWk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Seic",
+			"link": "https://www.youtube.com/watch?v=Cb1ydkk920g&t=10s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Clara",
+			"link": "https://www.youtube.com/watch?v=qMNV3_ZZ3UM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=jZlxXwVMrws",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/Q3iHgrJ4eyw",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

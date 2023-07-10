@@ -1,29 +1,29 @@
 {
-    "id": 57828784,
-    "name": "The Rupture",
-    "author": "Ka1ns",
-    "creators": [],
-    "verifier": "Dolphy",
-    "verification": "https://www.youtube.com/watch?v=SaU454afkKY",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/U4k2pGE4H0Q",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/cQxH9diVBlI",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=wDvnyCSC9RM&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 57828784,
+	"name": "The Rupture",
+	"author": "Ka1ns",
+	"creators": [],
+	"verifier": "Dolphy",
+	"verification": "https://www.youtube.com/watch?v=SaU454afkKY",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/U4k2pGE4H0Q",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/cQxH9diVBlI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=wDvnyCSC9RM&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

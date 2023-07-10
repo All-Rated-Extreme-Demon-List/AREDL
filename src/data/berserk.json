@@ -1,71 +1,71 @@
 {
-    "id": 60130895,
-    "name": "Berserk",
-    "author": "TrusTa",
-    "creators": ["Zylenox, TrusTa"],
-    "verifier": "TrusTa",
-    "verification": "https://www.youtube.com/watch?v=tH0uWziJL8c",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "raco",
-            "link": "https://www.youtube.com/watch?v=DardCwg5sUc&t=183s&ab_channel=raco",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Hasik",
-            "link": "https://youtu.be/-F-9N69LQNU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/aIo6pfkeYOQ",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=btK9ZjcA5lY&",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Seic",
-            "link": "https://www.youtube.com/watch?v=zkPaG2nYTUM&list=PLiG4gb2hm-gJNfg3fwVAKA0upBU9UHKbT",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=xPw3tGNI7LU&ab_channel=Bleamer",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Clara",
-            "link": "https://www.youtube.com/watch?v=hV4O22wkiJg",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/0C9U560PGuI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "StarXV",
-            "link": "https://youtu.be/TJOJpda43j8",
-            "percent": 100,
-            "hz": 180
-},
-        {
-            "user": "ActionninjaT",
-            "link": "https://youtu.be/AoGozDNiTeM",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 60130895,
+	"name": "Berserk",
+	"author": "TrusTa",
+	"creators": ["Zylenox, TrusTa"],
+	"verifier": "TrusTa",
+	"verification": "https://www.youtube.com/watch?v=tH0uWziJL8c",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "raco",
+			"link": "https://www.youtube.com/watch?v=DardCwg5sUc&t=183s&ab_channel=raco",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Hasik",
+			"link": "https://youtu.be/-F-9N69LQNU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/aIo6pfkeYOQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=btK9ZjcA5lY&",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Seic",
+			"link": "https://www.youtube.com/watch?v=zkPaG2nYTUM&list=PLiG4gb2hm-gJNfg3fwVAKA0upBU9UHKbT",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=xPw3tGNI7LU&ab_channel=Bleamer",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Clara",
+			"link": "https://www.youtube.com/watch?v=hV4O22wkiJg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/0C9U560PGuI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "StarXV",
+			"link": "https://youtu.be/TJOJpda43j8",
+			"percent": 100,
+			"hz": 180
+		},
+		{
+			"user": "ActionninjaT",
+			"link": "https://youtu.be/AoGozDNiTeM",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

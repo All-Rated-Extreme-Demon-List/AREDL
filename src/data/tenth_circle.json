@@ -1,150 +1,150 @@
 {
-    "id": 62592746,
-    "name": "Tenth Circle",
-    "author": "DeniPol",
-    "creators": ["DeniPol, NormDanchik"],
-    "verifier": "Blitzer",
-    "verification": "https://www.youtube.com/watch?v=d3IYDgX_Vtk",
-    "percentToQualify": 100,
-    "password": "060720",
-    "records": [
-    {
-            "user": "Trees",
-            "link": "https://www.youtube.com/watch?v=CBmHIdlSVp4&t=39s&ab_channel=Trees",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "ashes2207",
-            "link": "https://youtu.be/N2AgOhcstC8",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "baconmonke",
-            "link": "https://youtu.be/p2xAkLbJSCk",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Nercioo",
-            "link": "https://youtu.be/y1ytBUroS3M",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "SlightliFizzi",
-            "link": "https://youtu.be/EzAvAMKtIvo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BlueGMD",
-            "link": "https://www.youtube.com/watch?v=e0fHm-nUs6k",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Karisame",
-            "link": "https://youtu.be/1xeAS0CFXFE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=S6cf_pdl_ho",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/Y2XD4OD4rMM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BreadGuyGD",
-            "link": "https://www.youtube.com/watch?v=vQHRvdbuTuk",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Hasik",
-            "link": "https://youtu.be/motnBbpkeWY",
-            "percent": 100,
-            "hz": 165
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=Uz5ReFodBfc",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "SkeletalVirus",
-            "link": "https://youtu.be/b6y14TitSjY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/iRKXQ9amK9E",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/BTk7wWmkdho",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=Wx1JJ6xz6Jc",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "kovosrutek",
-            "link": "https://www.youtube.com/watch?v=ULGP_mLOA-k",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/KANQMx4jYeY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Dan2D",
-            "link": "https://youtu.be/kxqSQeiDn2M",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/yHVikcXtVdg",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=odetoBczQAk",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/mEcGC7MGT-Y",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/Ch-kMgGMkuk",
-    "percent": 100,
-    "hz": 240
-} 
-    ]
+	"id": 62592746,
+	"name": "Tenth Circle",
+	"author": "DeniPol",
+	"creators": ["DeniPol, NormDanchik"],
+	"verifier": "Blitzer",
+	"verification": "https://www.youtube.com/watch?v=d3IYDgX_Vtk",
+	"percentToQualify": 100,
+	"password": "060720",
+	"records": [
+		{
+			"user": "Trees",
+			"link": "https://www.youtube.com/watch?v=CBmHIdlSVp4&t=39s&ab_channel=Trees",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ashes2207",
+			"link": "https://youtu.be/N2AgOhcstC8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "baconmonke",
+			"link": "https://youtu.be/p2xAkLbJSCk",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Nercioo",
+			"link": "https://youtu.be/y1ytBUroS3M",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "SlightliFizzi",
+			"link": "https://youtu.be/EzAvAMKtIvo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BlueGMD",
+			"link": "https://www.youtube.com/watch?v=e0fHm-nUs6k",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Karisame",
+			"link": "https://youtu.be/1xeAS0CFXFE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=S6cf_pdl_ho",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/Y2XD4OD4rMM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BreadGuyGD",
+			"link": "https://www.youtube.com/watch?v=vQHRvdbuTuk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Hasik",
+			"link": "https://youtu.be/motnBbpkeWY",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=Uz5ReFodBfc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "SkeletalVirus",
+			"link": "https://youtu.be/b6y14TitSjY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/iRKXQ9amK9E",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/BTk7wWmkdho",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=Wx1JJ6xz6Jc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "kovosrutek",
+			"link": "https://www.youtube.com/watch?v=ULGP_mLOA-k",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/KANQMx4jYeY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Dan2D",
+			"link": "https://youtu.be/kxqSQeiDn2M",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/yHVikcXtVdg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=odetoBczQAk",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/mEcGC7MGT-Y",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/Ch-kMgGMkuk",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

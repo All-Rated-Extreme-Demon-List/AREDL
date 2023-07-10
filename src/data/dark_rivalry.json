@@ -1,48 +1,48 @@
 {
-    "id": 40895189,
-    "name": "Dark Rivalry",
-    "author": "Flex",
-    "creators": [],
-    "verifier": "KingDLetsPlay",
-    "verification": "https://www.youtube.com/watch?v=tJOgXEUsJ_E",
-    "percentToQualify": 100,
-    "password": "007582",
-    "records": [
-    {
-            "user": "Lia",
-            "link": "https://youtu.be/gVK1S6N5L8w",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=3TIfbSI8hLg&ab_channel=Bleamer",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Patrick61804",
-            "link": "https://youtu.be/kMZb_h83KWI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=uV8kXqN_zzQ",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/cJhxD3gldqE",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/xvhBoq-ozo4",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 40895189,
+	"name": "Dark Rivalry",
+	"author": "Flex",
+	"creators": [],
+	"verifier": "KingDLetsPlay",
+	"verification": "https://www.youtube.com/watch?v=tJOgXEUsJ_E",
+	"percentToQualify": 100,
+	"password": "007582",
+	"records": [
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/gVK1S6N5L8w",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=3TIfbSI8hLg&ab_channel=Bleamer",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Patrick61804",
+			"link": "https://youtu.be/kMZb_h83KWI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=uV8kXqN_zzQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/cJhxD3gldqE",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/xvhBoq-ozo4",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

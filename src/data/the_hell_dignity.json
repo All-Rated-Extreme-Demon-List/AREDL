@@ -1,30 +1,32 @@
 {
-    "id": 35579890,
-    "name": "The Hell Dignity",
-    "author": "Stormfly",
-    "creators": ["Ticky, Stormfly, Kugelblitz, Tsukifuto, Zhander, NitroN, S1l3nce, Sohn0924"],
-    "verifier": "Stormfly",
-    "verification": "https://www.youtube.com/watch?v=nQuVjZ11Lyw",
-    "percentToQualify": 100,
-    "password": "813972",
-    "records": [
-        {
-            "user": "YTkerfuffles",
-            "link": "https://youtu.be/NEgVu8wy3OM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LuckyNS",
-            "link": "https://youtu.be/lfMoe8YcArM",
-            "percent": 100,
-            "hz": 60
-},
-        {
-            "user": "DeltaPhantom1",
-            "link": "https://youtu.be/ul9hbLZ9PDk",
-            "percent": 100,
-            "hz": 240
-}
-    ]
+	"id": 35579890,
+	"name": "The Hell Dignity",
+	"author": "Stormfly",
+	"creators": [
+		"Ticky, Stormfly, Kugelblitz, Tsukifuto, Zhander, NitroN, S1l3nce, Sohn0924"
+	],
+	"verifier": "Stormfly",
+	"verification": "https://www.youtube.com/watch?v=nQuVjZ11Lyw",
+	"percentToQualify": 100,
+	"password": "813972",
+	"records": [
+		{
+			"user": "YTkerfuffles",
+			"link": "https://youtu.be/NEgVu8wy3OM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LuckyNS",
+			"link": "https://youtu.be/lfMoe8YcArM",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "DeltaPhantom1",
+			"link": "https://youtu.be/ul9hbLZ9PDk",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

@@ -1,132 +1,141 @@
 {
-    "id": 68908396,
-    "name": "Frozen Cave",
-    "author": "theParadoxTeam",
-    "creators": ["TyakyoFyai","Aqualime","Vornickon","AlexOris","FlashWings576","DimaCrut","Sleynt","Quicklen"],
-    "verifier": "khrizmass",
-    "verification": "https://www.youtube.com/watch?v=BFaqgkw-Hg0",
-    "percentToQualify": 100,
-    "password": "060521",
-    "records": [
-    {
-            "user": "Trees",
-            "link": "https://www.youtube.com/watch?v=wDHVceN8yjk&ab_channel=Trees",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Chubs Dubs",
-            "link": "https://www.youtube.com/watch?v=dlKIhm44b-o&list=PL-NVoF9O1eL32_sDluVvJ_CBFqhj8D3fU&index=49",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "ActionninjaT",
-            "link": "https://youtu.be/2whQsSGaQ40",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Magmeta",
-            "link": "https://youtu.be/PgaTmYQQbBQ",
-            "percent": 100,
-            "hz": 240
-}, 
-        {
-            "user": "nei",
-            "link": "https://youtu.be/dpn21b6dWqI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=1SoDlhMSxmY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "temoofgod",
-            "link": "https://youtu.be/ESBsk5Sn8qE",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Matter",
-            "link": "https://youtu.be/wUTiQhbH8z4",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/CE2wPZJ35u0",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/EwBOgAtw6LM",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/sbsUjE3F9Ps",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Aleczd",
-            "link": "https://www.youtube.com/watch?v=VY5guMDZiIc&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=9",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Oceliveth",
-            "link": "https://youtu.be/tOBKLWMhutY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "StarXV",
-            "link": "https://youtu.be/11oGo6p18xk",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "DJ1482",
-            "link": "https://youtu.be/FuDb9cPzzDM",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/W8JOoZMIe58",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "temoofgod",
-            "link": "https://youtu.be/ESBsk5Sn8qE",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=S1XvGlDEz-Q&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "IRJBoss",
-    "link": "https://youtu.be/3bitLlo2110?t=84",
-    "percent": 100,
-    "hz": 330
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/hI_8EHTTPO0",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 68908396,
+	"name": "Frozen Cave",
+	"author": "theParadoxTeam",
+	"creators": [
+		"TyakyoFyai",
+		"Aqualime",
+		"Vornickon",
+		"AlexOris",
+		"FlashWings576",
+		"DimaCrut",
+		"Sleynt",
+		"Quicklen"
+	],
+	"verifier": "khrizmass",
+	"verification": "https://www.youtube.com/watch?v=BFaqgkw-Hg0",
+	"percentToQualify": 100,
+	"password": "060521",
+	"records": [
+		{
+			"user": "Trees",
+			"link": "https://www.youtube.com/watch?v=wDHVceN8yjk&ab_channel=Trees",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Chubs Dubs",
+			"link": "https://www.youtube.com/watch?v=dlKIhm44b-o&list=PL-NVoF9O1eL32_sDluVvJ_CBFqhj8D3fU&index=49",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ActionninjaT",
+			"link": "https://youtu.be/2whQsSGaQ40",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Magmeta",
+			"link": "https://youtu.be/PgaTmYQQbBQ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "nei",
+			"link": "https://youtu.be/dpn21b6dWqI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=1SoDlhMSxmY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "temoofgod",
+			"link": "https://youtu.be/ESBsk5Sn8qE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/wUTiQhbH8z4",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/CE2wPZJ35u0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/EwBOgAtw6LM",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/sbsUjE3F9Ps",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Aleczd",
+			"link": "https://www.youtube.com/watch?v=VY5guMDZiIc&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=9",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Oceliveth",
+			"link": "https://youtu.be/tOBKLWMhutY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "StarXV",
+			"link": "https://youtu.be/11oGo6p18xk",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "DJ1482",
+			"link": "https://youtu.be/FuDb9cPzzDM",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/W8JOoZMIe58",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "temoofgod",
+			"link": "https://youtu.be/ESBsk5Sn8qE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=S1XvGlDEz-Q&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "IRJBoss",
+			"link": "https://youtu.be/3bitLlo2110?t=84",
+			"percent": 100,
+			"hz": 330
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/hI_8EHTTPO0",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

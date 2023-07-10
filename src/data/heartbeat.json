@@ -1,133 +1,133 @@
 {
-    "id": 20321297,
-    "name": "Heartbeat",
-    "author": "KrmaL",
-    "creators": ["lmAnubis, Blaireswip, KrmaL"],
-    "verifier": "KrmaL",
-    "verification": "https://www.youtube.com/watch?v=UDVbmaJGlKQ",
-    "percentToQualify": 100,
-    "password": "000003",
-    "records": [
-    {
-            "user": "Darkhonix",
-            "link": "https://youtu.be/hfOedfUTiGE",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "ThePastaNebula",
-            "link": "https://youtu.be/g-79P7Li6tQ",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/3Jr7Ajfhx8M",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Matter",
-            "link": "https://youtu.be/pOTYJ5-Skh0",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "meluwudy",
-            "link": "https://www.youtube.com/watch?v=S2zFpRhnVAo",
-            "percent": 100,
-            "hz": 144
-},  
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/b8bsizKFIOM",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Draconyx",
-            "link": "https://youtu.be/K3TFLRSgUo0",
-            "percent": 100,
-            "hz": 165
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=S_t4SYsNDvk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Aleczd",
-            "link": "https://www.youtube.com/watch?v=rzVcp4UJNKs&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=54",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "LuckyNS",
-            "link": "https://youtu.be/1-XZ37JXpOg",
-            "percent": 100,
-            "hz": 60
-},
-        {
-            "user": "Incoromi",
-            "link": "https://www.youtube.com/watch?v=aNj8WdK9jc4&ab_channel=Incoromi",
-            "percent": 100,
-            "hz": 60
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/i7hXnnGUFYM",
-            "percent": 100,
-            "hz": 360
-},
-      {
-            "user": "landopantz",
-            "link": "https://youtu.be/3BokpO3HI_4",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=wSh9dEDO-S4",
-    "percent": 100,
-    "hz": 144
-},
-        {
-            "user": "Chubs Dubs",
-            "link": "https://www.youtube.com/watch?v=zoKHTsKhxdc&list=PL-NVoF9O1eL32_sDluVvJ_CBFqhj8D3fU&index=8",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-},
-{
-            "user": "cubik100",
-            "link": "https://www.youtube.com/watch?v=cdYgsOs4_Vs",
-            "percent": 100,
-            "hz": 240
-},
-        {
-        "user": "HotNooB",
-        "link": "https://youtu.be/_xhGmCwxtnU",
-        "percent": 100,
-        "hz": 288
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/H9rvfMRW8Uo",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "N0ctaXI",
-    "link": "https://www.youtube.com/watch?v=0M310VxEkS8",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "od te coffy",
-    "link": "https://www.youtube.com/watch?v=G4d-2twaDX4&ab_channel=odtecoffy",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 20321297,
+	"name": "Heartbeat",
+	"author": "KrmaL",
+	"creators": ["lmAnubis, Blaireswip, KrmaL"],
+	"verifier": "KrmaL",
+	"verification": "https://www.youtube.com/watch?v=UDVbmaJGlKQ",
+	"percentToQualify": 100,
+	"password": "000003",
+	"records": [
+		{
+			"user": "Darkhonix",
+			"link": "https://youtu.be/hfOedfUTiGE",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ThePastaNebula",
+			"link": "https://youtu.be/g-79P7Li6tQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/3Jr7Ajfhx8M",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/pOTYJ5-Skh0",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "meluwudy",
+			"link": "https://www.youtube.com/watch?v=S2zFpRhnVAo",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/b8bsizKFIOM",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Draconyx",
+			"link": "https://youtu.be/K3TFLRSgUo0",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=S_t4SYsNDvk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Aleczd",
+			"link": "https://www.youtube.com/watch?v=rzVcp4UJNKs&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=54",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LuckyNS",
+			"link": "https://youtu.be/1-XZ37JXpOg",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Incoromi",
+			"link": "https://www.youtube.com/watch?v=aNj8WdK9jc4&ab_channel=Incoromi",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/i7hXnnGUFYM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "landopantz",
+			"link": "https://youtu.be/3BokpO3HI_4",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=wSh9dEDO-S4",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Chubs Dubs",
+			"link": "https://www.youtube.com/watch?v=zoKHTsKhxdc&list=PL-NVoF9O1eL32_sDluVvJ_CBFqhj8D3fU&index=8",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "cubik100",
+			"link": "https://www.youtube.com/watch?v=cdYgsOs4_Vs",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/_xhGmCwxtnU",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/H9rvfMRW8Uo",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "N0ctaXI",
+			"link": "https://www.youtube.com/watch?v=0M310VxEkS8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "od te coffy",
+			"link": "https://www.youtube.com/watch?v=G4d-2twaDX4&ab_channel=odtecoffy",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

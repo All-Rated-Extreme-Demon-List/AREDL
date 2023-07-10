@@ -1,17 +1,17 @@
 {
-    "id": 72082021,
-    "name": "Pandemonium",
-    "author": "Yakimaru",
-    "creators": ["Yakimaru, Terron"],
-    "verifier": "knoeppel",
-    "verification": "https://www.youtube.com/watch?v=ewvGLBX4ee4",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Lia",
-            "link": "https://youtu.be/slmdih8PE7A",
-            "percent": 100,
-            "hz": 240
-}
-    ]
+	"id": 72082021,
+	"name": "Pandemonium",
+	"author": "Yakimaru",
+	"creators": ["Yakimaru, Terron"],
+	"verifier": "knoeppel",
+	"verification": "https://www.youtube.com/watch?v=ewvGLBX4ee4",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/slmdih8PE7A",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

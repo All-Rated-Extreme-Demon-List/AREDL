@@ -1,60 +1,82 @@
 {
-    "id": 54615662,
-    "name": "The Yandere",
-    "author": "Dorami",
-    "creators": ["CastriX","Partition","DavJT","DanZmeN","Alderite","Dorami","MrLorenzo","Elisione","Jghost217","MikeWheelerFan","Master X","Bransilver","Mulpan","Cirtrax","Mazl","Spectex","FarDreamer","YunHaSeu14","Osiris GD","alkali","JonathanGD"],
-    "verifier": "Dorami",
-    "verification": "https://www.youtube.com/watch?v=MN6Dra6yAys",
-    "percentToQualify": 100,
-    "password": "300000",
-    "records": [
-    {
-            "user": "BreadGuyGD",
-            "link": "https://www.youtube.com/watch?v=gAk2HFRu7g0",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=pxE2Aq0g03I&t",
-            "percent": 100,
-            "hz": 288
-}, 
-        {
-            "user": "Rapid",
-            "link": "https://www.youtube.com/watch?v=ubBRtpuDzVM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=eCAKJ6i9k0o&",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Fabricorn",
-            "link": "https://youtu.be/mia8vpT0OmA",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/_AevXhgvn9A",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Incoromi",
-            "link": "https://www.youtube.com/watch?v=Ie4FsRpbHvc&ab_channel=Incoromi",
-            "percent": 100,
-            "hz": 120
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=FnpbpzcStB4&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 144
-}
-    ]
+	"id": 54615662,
+	"name": "The Yandere",
+	"author": "Dorami",
+	"creators": [
+		"CastriX",
+		"Partition",
+		"DavJT",
+		"DanZmeN",
+		"Alderite",
+		"Dorami",
+		"MrLorenzo",
+		"Elisione",
+		"Jghost217",
+		"MikeWheelerFan",
+		"Master X",
+		"Bransilver",
+		"Mulpan",
+		"Cirtrax",
+		"Mazl",
+		"Spectex",
+		"FarDreamer",
+		"YunHaSeu14",
+		"Osiris GD",
+		"alkali",
+		"JonathanGD"
+	],
+	"verifier": "Dorami",
+	"verification": "https://www.youtube.com/watch?v=MN6Dra6yAys",
+	"percentToQualify": 100,
+	"password": "300000",
+	"records": [
+		{
+			"user": "BreadGuyGD",
+			"link": "https://www.youtube.com/watch?v=gAk2HFRu7g0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=pxE2Aq0g03I&t",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Rapid",
+			"link": "https://www.youtube.com/watch?v=ubBRtpuDzVM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=eCAKJ6i9k0o&",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Fabricorn",
+			"link": "https://youtu.be/mia8vpT0OmA",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/_AevXhgvn9A",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Incoromi",
+			"link": "https://www.youtube.com/watch?v=Ie4FsRpbHvc&ab_channel=Incoromi",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=FnpbpzcStB4&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

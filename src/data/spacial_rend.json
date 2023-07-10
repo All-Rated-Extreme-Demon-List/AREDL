@@ -1,66 +1,85 @@
 {
-    "id": 40292513,
-    "name": "Spacial Rend",
-    "author": "Eclipsed",
-    "creators": ["Tsukifuto","Vapen","123ev4n","Lqah","Cyber","YakobNugget","Nahuel2998","Spade","CreatorSruj","SlimJim","MaxiKD","Splash","Nemphis","WHErwin","BananaMuffin","Eclipsed","AlexPG","Logic"],
-    "verifier": "DiamondSplash",
-    "verification": "https://www.youtube.com/watch?v=VgiRJRBzacM",
-    "percentToQualify": 100,
-    "password": "417236",
-    "records": [
-    {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=qd72n6QlDD4&list=PLFWp6-KM8S5qeHamheZVigLPJt5XORUcN&index=9&t=",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Magmeta",
-            "link": "https://youtu.be/E8JGHttQQYs",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "nei",
-            "link": "https://youtu.be/AWGgUsUUx4E",
-            "percent": 100,
-            "hz": 358
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=2LXSzsUPN2A&",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/r0M339PlfWc",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/F9IKpQimDXI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/CUn1vWCzNW0",
-            "percent": 100,
-            "hz": 288
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=E8VbSpq_nXw",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/Fbzjnpa_VC8",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 40292513,
+	"name": "Spacial Rend",
+	"author": "Eclipsed",
+	"creators": [
+		"Tsukifuto",
+		"Vapen",
+		"123ev4n",
+		"Lqah",
+		"Cyber",
+		"YakobNugget",
+		"Nahuel2998",
+		"Spade",
+		"CreatorSruj",
+		"SlimJim",
+		"MaxiKD",
+		"Splash",
+		"Nemphis",
+		"WHErwin",
+		"BananaMuffin",
+		"Eclipsed",
+		"AlexPG",
+		"Logic"
+	],
+	"verifier": "DiamondSplash",
+	"verification": "https://www.youtube.com/watch?v=VgiRJRBzacM",
+	"percentToQualify": 100,
+	"password": "417236",
+	"records": [
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=qd72n6QlDD4&list=PLFWp6-KM8S5qeHamheZVigLPJt5XORUcN&index=9&t=",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Magmeta",
+			"link": "https://youtu.be/E8JGHttQQYs",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "nei",
+			"link": "https://youtu.be/AWGgUsUUx4E",
+			"percent": 100,
+			"hz": 358
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=2LXSzsUPN2A&",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/r0M339PlfWc",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/F9IKpQimDXI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/CUn1vWCzNW0",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=E8VbSpq_nXw",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/Fbzjnpa_VC8",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

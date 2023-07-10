@@ -1,71 +1,71 @@
 {
-    "id": 89156629,
-    "name": "loop",
-    "author": "Darmuth",
-    "creators": [],
-    "verifier": "Zeronium",
-    "verification": "https://www.youtube.com/watch?v=--oJYnAGxt0&pp=ygUNbG9vcCB2ZXJpZmllZA%3D%3D",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Nova",
-            "link": "https://www.youtube.com/watch?v=8VUFRghRPnQ",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Lia",
-            "link": "https://www.youtube.com/watch?v=SD0F0VZdsjs",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BlueGMD",
-            "link": "https://www.youtube.com/watch?v=dCAxWSBPOPo&t=7s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "mrperson",
-            "link": "https://youtu.be/tBZVPWCp5-s",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "iiLogan",
-            "link": "https://youtu.be/Kg7-sBSl7Ks",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Wolvyy",
-            "link": "https://www.youtube.com/watch?v=0bqdW7J3-FY",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "rabbitman",
-            "link": "https://www.youtube.com/watch?v=YiFwBKJiI2Y&ab_channel=Rabbitman",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "proxima",
-            "link": "https://www.youtube.com/watch?v=8MUusQRIM8A&t=86s",
-            "percent": 100,
-            "hz": 60
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/OVOlEfXdd0Y",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "Detrezo",
-            "link": "https://www.youtube.com/watch?v=b6pPW8QrIBw&ab_channel=Detrezo",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 89156629,
+	"name": "loop",
+	"author": "Darmuth",
+	"creators": [],
+	"verifier": "Zeronium",
+	"verification": "https://www.youtube.com/watch?v=--oJYnAGxt0&pp=ygUNbG9vcCB2ZXJpZmllZA%3D%3D",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Nova",
+			"link": "https://www.youtube.com/watch?v=8VUFRghRPnQ",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Lia",
+			"link": "https://www.youtube.com/watch?v=SD0F0VZdsjs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BlueGMD",
+			"link": "https://www.youtube.com/watch?v=dCAxWSBPOPo&t=7s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "mrperson",
+			"link": "https://youtu.be/tBZVPWCp5-s",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "iiLogan",
+			"link": "https://youtu.be/Kg7-sBSl7Ks",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Wolvyy",
+			"link": "https://www.youtube.com/watch?v=0bqdW7J3-FY",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "rabbitman",
+			"link": "https://www.youtube.com/watch?v=YiFwBKJiI2Y&ab_channel=Rabbitman",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "proxima",
+			"link": "https://www.youtube.com/watch?v=8MUusQRIM8A&t=86s",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/OVOlEfXdd0Y",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "Detrezo",
+			"link": "https://www.youtube.com/watch?v=b6pPW8QrIBw&ab_channel=Detrezo",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

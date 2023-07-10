@@ -1,23 +1,23 @@
 {
-    "id": 75455769,
-    "name": "DubKore X",
-    "author": "Loogiah",
-    "creators": [],
-    "verifier": "Blankb",
-    "verification": "https://www.youtube.com/watch?v=roz31nm3_nY",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Zenta",
-            "link": "https://youtu.be/ky_FjKhXG_A",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Draconyx",
-            "link": "https://youtu.be/IPVrPQt1vTo",
-            "percent": 100,
-            "hz": 330
-}
-    ]
+	"id": 75455769,
+	"name": "DubKore X",
+	"author": "Loogiah",
+	"creators": [],
+	"verifier": "Blankb",
+	"verification": "https://www.youtube.com/watch?v=roz31nm3_nY",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Zenta",
+			"link": "https://youtu.be/ky_FjKhXG_A",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Draconyx",
+			"link": "https://youtu.be/IPVrPQt1vTo",
+			"percent": 100,
+			"hz": 330
+		}
+	]
 }

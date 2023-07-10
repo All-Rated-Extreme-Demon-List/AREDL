@@ -1,54 +1,54 @@
 {
-    "id": 39976494,
-    "name": "Violently X",
-    "author": "Dorami",
-    "creators": ["CastriX, Dorami"],
-    "verifier": "Dorami",
-    "verification": "https://www.youtube.com/watch?v=RIlGvcTN9dc",
-    "percentToQualify": 100,
-    "password": "116000",
-    "records": [
-    {
-            "user": "Shrixy",
-            "link": "https://youtu.be/qCKhe5-vkrs",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/q1FUsxkQKW8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=7pYVdGVwo9Y",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/WaxWVqYazGI",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Wyse",
-            "link": "https://youtu.be/VSqmurKwaMk",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/v7GJOkZG6Co",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/TrIIeeB23no",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 39976494,
+	"name": "Violently X",
+	"author": "Dorami",
+	"creators": ["CastriX, Dorami"],
+	"verifier": "Dorami",
+	"verification": "https://www.youtube.com/watch?v=RIlGvcTN9dc",
+	"percentToQualify": 100,
+	"password": "116000",
+	"records": [
+		{
+			"user": "Shrixy",
+			"link": "https://youtu.be/qCKhe5-vkrs",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/q1FUsxkQKW8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=7pYVdGVwo9Y",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/WaxWVqYazGI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/VSqmurKwaMk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/v7GJOkZG6Co",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/TrIIeeB23no",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

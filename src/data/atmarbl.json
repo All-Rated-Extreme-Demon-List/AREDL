@@ -1,84 +1,86 @@
 {
-    "id": 44706787,
-    "name": "ATMarbl",
-    "author": "Pennutoh",
-    "creators": ["Enlex, Eggnog, Jihn, Metalface221, Pennutoh, noice, Zanna83, YakobNugget, Poccottini, Corkscrew, Nico99, Nemphis, KINGTONY, Psynapse, Altin, Osiris GD"],
-    "verifier": "Golden",
-    "verification": "https://www.youtube.com/watch?v=PanlasFe7ow",
-    "percentToQualify": 100,
-    "password": "210317",
-    "records": [
-    {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/p-F3KdIUQTw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=ku04eXczZN4",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Spibber",
-            "link": "https://youtu.be/8WM7wiMH60M",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/EB1j3PPNupk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/096PRBIYVz0",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/bMw3wBrI7zE",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "Patrick61804",
-            "link": "https://youtu.be/uTH3vCoEcsg",
-            "percent": 100,
-            "hz": 144
-},
-{
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=9Z4I1IFmJh4",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Gap2003",
-            "link": "https://www.youtube.com/watch?v=ClRk9KC2cIU",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "DoGGy",
-    "link": "https://www.youtube.com/watch?v=ZTpU63f_O0k",
-    "percent": 100,
-    "hz": 280
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/JQ0nCV3I52E",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/TrIIeeB23no",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 44706787,
+	"name": "ATMarbl",
+	"author": "Pennutoh",
+	"creators": [
+		"Enlex, Eggnog, Jihn, Metalface221, Pennutoh, noice, Zanna83, YakobNugget, Poccottini, Corkscrew, Nico99, Nemphis, KINGTONY, Psynapse, Altin, Osiris GD"
+	],
+	"verifier": "Golden",
+	"verification": "https://www.youtube.com/watch?v=PanlasFe7ow",
+	"percentToQualify": 100,
+	"password": "210317",
+	"records": [
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/p-F3KdIUQTw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=ku04eXczZN4",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Spibber",
+			"link": "https://youtu.be/8WM7wiMH60M",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/EB1j3PPNupk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/096PRBIYVz0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/bMw3wBrI7zE",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "Patrick61804",
+			"link": "https://youtu.be/uTH3vCoEcsg",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=9Z4I1IFmJh4",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Gap2003",
+			"link": "https://www.youtube.com/watch?v=ClRk9KC2cIU",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "DoGGy",
+			"link": "https://www.youtube.com/watch?v=ZTpU63f_O0k",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/JQ0nCV3I52E",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/TrIIeeB23no",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

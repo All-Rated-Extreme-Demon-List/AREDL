@@ -1,90 +1,90 @@
 {
-    "id": 26157409,
-    "name": "Elite Z Rebirth",
-    "author": "KrmaL",
-    "creators": ["KrmaL, Blaireswip"],
-    "verifier": "KrmaL",
-    "verification": "https://www.youtube.com/watch?v=B1GKgUNT8Q0",
-    "percentToQualify": 100,
-    "password": "133726",
-    "records": [
-    {
-            "user": "ThePastaNebula",
-            "link": "https://youtu.be/-Nqy35O8vKw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=BwLbbua4QsM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/rmNVWfX5t7c",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "meluwudy",
-            "link": "https://www.youtube.com/watch?v=anwst_0Qr58",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Matter",
-            "link": "https://youtu.be/SSOppkL-r2U",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=TkobQ2uiydM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "ItsSkinn7Y",
-            "link": "https://www.youtube.com/watch?v=rGXMF0cQ8a4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/euL_7lzyYAg",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/TdrwZmuDs9Y",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BrowarKedawar",
-            "link": "https://youtu.be/qh3Ji2hw_CE",
-            "percent": 100,
-            "hz": 240
-},
-{
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=xHWEdjYyjHE",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/FuIopy7jzkQ",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "N0ctaXI",
-    "link": "https://www.youtube.com/watch?v=acWAOIL-HQY",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 26157409,
+	"name": "Elite Z Rebirth",
+	"author": "KrmaL",
+	"creators": ["KrmaL, Blaireswip"],
+	"verifier": "KrmaL",
+	"verification": "https://www.youtube.com/watch?v=B1GKgUNT8Q0",
+	"percentToQualify": 100,
+	"password": "133726",
+	"records": [
+		{
+			"user": "ThePastaNebula",
+			"link": "https://youtu.be/-Nqy35O8vKw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=BwLbbua4QsM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/rmNVWfX5t7c",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "meluwudy",
+			"link": "https://www.youtube.com/watch?v=anwst_0Qr58",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/SSOppkL-r2U",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=TkobQ2uiydM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ItsSkinn7Y",
+			"link": "https://www.youtube.com/watch?v=rGXMF0cQ8a4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/euL_7lzyYAg",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/TdrwZmuDs9Y",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BrowarKedawar",
+			"link": "https://youtu.be/qh3Ji2hw_CE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=xHWEdjYyjHE",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/FuIopy7jzkQ",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "N0ctaXI",
+			"link": "https://www.youtube.com/watch?v=acWAOIL-HQY",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

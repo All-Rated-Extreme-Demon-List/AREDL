@@ -1,84 +1,84 @@
 {
-    "id": 72506465,
-    "name": "Paralysis",
-    "author": "thazm",
-    "creators": [],
-    "verifier": "thazm",
-    "verification": "https://www.youtube.com/watch?v=2WW6heHj2gE",
-    "percentToQualify": 100,
-    "password": "993501",
-    "records": [
-    {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=AnYP2dFpiWI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/t052QZX2sgc",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/RNePdmqMX1Q",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/CTFUdMKZ79s",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "Patrick61804",
-            "link": "https://youtu.be/ml2qcjyZDNA",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=N-nKGNh0Sqg",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Jedwint",
-            "link": "https://youtu.be/CjEsDNvSbeU",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "NiceCrunchy",
-            "link": "https://www.youtube.com/watch?v=TcYQrVyPS1A&t=13s",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/SH5rgbROvjA",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "foocii",
-            "link": "https://youtu.be/e1qXw3d-bCY",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/IkJgksiOX3k",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/TrIIeeB23no",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 72506465,
+	"name": "Paralysis",
+	"author": "thazm",
+	"creators": [],
+	"verifier": "thazm",
+	"verification": "https://www.youtube.com/watch?v=2WW6heHj2gE",
+	"percentToQualify": 100,
+	"password": "993501",
+	"records": [
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=AnYP2dFpiWI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/t052QZX2sgc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/RNePdmqMX1Q",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/CTFUdMKZ79s",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "Patrick61804",
+			"link": "https://youtu.be/ml2qcjyZDNA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=N-nKGNh0Sqg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Jedwint",
+			"link": "https://youtu.be/CjEsDNvSbeU",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "NiceCrunchy",
+			"link": "https://www.youtube.com/watch?v=TcYQrVyPS1A&t=13s",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/SH5rgbROvjA",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "foocii",
+			"link": "https://youtu.be/e1qXw3d-bCY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/IkJgksiOX3k",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/TrIIeeB23no",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

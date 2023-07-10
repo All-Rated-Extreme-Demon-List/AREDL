@@ -1,47 +1,47 @@
 {
-    "id": 71696716,
-    "name": "Apparition",
-    "author": "Annon",
-    "creators": [],
-    "verifier": "JustANacGod",
-    "verification": "https://youtu.be/zrfzFgSdS3A",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/fvWFRj2BVx4",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Lia",
-            "link": "https://www.youtube.com/watch?v=Nfpiak-5FU4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "NexoProTC",
-            "link": "https://youtu.be/HhRtTNDZ6_s",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/U7zdCGq-op8",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/ykJyDDfpnIY",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/TrIIeeB23no",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 71696716,
+	"name": "Apparition",
+	"author": "Annon",
+	"creators": [],
+	"verifier": "JustANacGod",
+	"verification": "https://youtu.be/zrfzFgSdS3A",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/fvWFRj2BVx4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Lia",
+			"link": "https://www.youtube.com/watch?v=Nfpiak-5FU4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "NexoProTC",
+			"link": "https://youtu.be/HhRtTNDZ6_s",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/U7zdCGq-op8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/ykJyDDfpnIY",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/TrIIeeB23no",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

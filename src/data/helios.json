@@ -1,95 +1,95 @@
 {
-    "id": 71728635,
-    "name": "Helios",
-    "author": "Canonlaw",
-    "creators": ["Canonlaw, Haidenn, CarlosArt16, s3batr0nic, GTrap"],
-    "verifier": "Easterbuny",
-    "verification": "https://www.youtube.com/watch?v=ITcZY9qL4Ug",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Zenta",
-            "link": "https://www.youtube.com/watch?v=8C0IhaLDpg4",
-            "percent": 100,
-            "hz": 360
-    },
-     {
-            "user": "loveSpectral",
-            "link": "https://youtu.be/RWct8sU2H5k",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Bamvie",
-            "link": "https://youtu.be/Ay17yuhaCXw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "ASBCHazel",
-            "link": "https://www.youtube.com/watch?v=QEuKwDKd-5Q",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Hasik",
-            "link": "https://youtu.be/JPPMyvjCdE4",
-            "percent": 100,
-            "hz": 165
-},
-        {
-            "user": "GYT",
-            "link": "https://www.youtube.com/watch?v=lNJSeSiG2wg&t=144s",
-            "percent": 100,
-            "hz": 360 
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/oIIbr5hkA3Q",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Wolvyy",
-            "link": "https://www.youtube.com/watch?v=CnkQBltZius&list=PLU1NI3BRQCmo8EEJJV0CYtSUwAcKBPYGp&index=21&pp=gAQBiAQB",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/EdmVwQPXR_U",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "Detrezo",
-            "link": "https://www.youtube.com/watch?v=R_WB2A1carc&ab_channel=Detrezo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "TheZinkYT",
-            "link": "https://www.youtube.com/watch?v=uDhcNvdWVh0",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "BANA1411",
-            "link": "https://youtu.be/q10Vx5Vucyc",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/9JxFpqHAssw",
-            "percent": 100,
-            "hz": 240
-},
-        {
-        "user": "HotNooB",
-        "link": "https://youtu.be/3hb-SW2G7cI",
-        "percent": 100,
-        "hz": 288
-}
-    ]
+	"id": 71728635,
+	"name": "Helios",
+	"author": "Canonlaw",
+	"creators": ["Canonlaw, Haidenn, CarlosArt16, s3batr0nic, GTrap"],
+	"verifier": "Easterbuny",
+	"verification": "https://www.youtube.com/watch?v=ITcZY9qL4Ug",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Zenta",
+			"link": "https://www.youtube.com/watch?v=8C0IhaLDpg4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "loveSpectral",
+			"link": "https://youtu.be/RWct8sU2H5k",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Bamvie",
+			"link": "https://youtu.be/Ay17yuhaCXw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ASBCHazel",
+			"link": "https://www.youtube.com/watch?v=QEuKwDKd-5Q",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Hasik",
+			"link": "https://youtu.be/JPPMyvjCdE4",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "GYT",
+			"link": "https://www.youtube.com/watch?v=lNJSeSiG2wg&t=144s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/oIIbr5hkA3Q",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Wolvyy",
+			"link": "https://www.youtube.com/watch?v=CnkQBltZius&list=PLU1NI3BRQCmo8EEJJV0CYtSUwAcKBPYGp&index=21&pp=gAQBiAQB",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/EdmVwQPXR_U",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "Detrezo",
+			"link": "https://www.youtube.com/watch?v=R_WB2A1carc&ab_channel=Detrezo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "TheZinkYT",
+			"link": "https://www.youtube.com/watch?v=uDhcNvdWVh0",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "BANA1411",
+			"link": "https://youtu.be/q10Vx5Vucyc",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/9JxFpqHAssw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/3hb-SW2G7cI",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

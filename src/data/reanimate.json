@@ -1,90 +1,92 @@
 {
-    "id": 80335620,
-    "name": "Reanimate",
-    "author": "ilnm",
-    "creators": ["Gaudium, Mephitz, Zesqur, SomeoneD, Sungjin, 3niv, Yonaka, Milena22, Mangolu, Muon, Mintjelly, Wapon77, Flosia, Cdpre, LXVT, Interchange, LekuJX, Kastinq, Maplegaegosu, 3niv, Molds, Syqual, Iagreed, Dobby11, Sola, Seokso, Naimmaro, Ilnm, Decorus"],
-    "verifier": "Nexus",
-    "verification": "https://www.youtube.com/watch?v=jk-r4_Nctes",
-    "percentToQualify": 100,
-    "password": "220520",
-    "records": [
-    {
-            "user": "Trees",
-            "link": "https://www.youtube.com/watch?v=rs_PBqMzj4A&ab_channel=Trees",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "baconmonke",
-            "link": "https://www.youtube.com/watch?v=tKKiDG9h1sM",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Magmeta",
-            "link": "https://youtu.be/pn5XvxSAZJo",
-            "percent": 100,
-            "hz": 120
-},
-        {
-            "user": "Crypto12131",
-            "link": "https://youtu.be/AQSNkEPTcVw",
-            "percent": 100,
-            "hz": 120
-},
-        {
-            "user": "Mist",
-            "link": "https://www.youtube.com/watch?v=OmyebF826kk&t=139s",
-            "percent": 100,
-            "hz": 60
-},
-        {
-            "user": "poopi",
-            "link": "https://www.youtube.com/watch?v=OBTfM1fECOM&t=2s&ab_channel=hellohi",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/rmjVr_J-xDk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Aleczd",
-            "link": "https://www.youtube.com/watch?v=UH4n8ffzA3w&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=48",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Simolater",
-            "link": "https://www.youtube.com/watch?v=WasOu76a7VA",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Gap2003",
-            "link": "https://www.youtube.com/watch?v=QVen_ESdpcY",
-            "percent": 100,
-            "hz": 144
-},
-        {
-        "user": "HotNooB",
-        "link": "https://youtu.be/94kYgA4Bq4s",
-        "percent": 100,
-        "hz": 288
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/zZCsaJ2NuqE",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "BigBGaming",
-    "link": "https://youtu.be/0eE4Loz1xwg",
-    "percent": 100,
-    "hz": 144
-}
-    ]
+	"id": 80335620,
+	"name": "Reanimate",
+	"author": "ilnm",
+	"creators": [
+		"Gaudium, Mephitz, Zesqur, SomeoneD, Sungjin, 3niv, Yonaka, Milena22, Mangolu, Muon, Mintjelly, Wapon77, Flosia, Cdpre, LXVT, Interchange, LekuJX, Kastinq, Maplegaegosu, 3niv, Molds, Syqual, Iagreed, Dobby11, Sola, Seokso, Naimmaro, Ilnm, Decorus"
+	],
+	"verifier": "Nexus",
+	"verification": "https://www.youtube.com/watch?v=jk-r4_Nctes",
+	"percentToQualify": 100,
+	"password": "220520",
+	"records": [
+		{
+			"user": "Trees",
+			"link": "https://www.youtube.com/watch?v=rs_PBqMzj4A&ab_channel=Trees",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "baconmonke",
+			"link": "https://www.youtube.com/watch?v=tKKiDG9h1sM",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Magmeta",
+			"link": "https://youtu.be/pn5XvxSAZJo",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Crypto12131",
+			"link": "https://youtu.be/AQSNkEPTcVw",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Mist",
+			"link": "https://www.youtube.com/watch?v=OmyebF826kk&t=139s",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "poopi",
+			"link": "https://www.youtube.com/watch?v=OBTfM1fECOM&t=2s&ab_channel=hellohi",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/rmjVr_J-xDk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Aleczd",
+			"link": "https://www.youtube.com/watch?v=UH4n8ffzA3w&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=48",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Simolater",
+			"link": "https://www.youtube.com/watch?v=WasOu76a7VA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Gap2003",
+			"link": "https://www.youtube.com/watch?v=QVen_ESdpcY",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/94kYgA4Bq4s",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/zZCsaJ2NuqE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "BigBGaming",
+			"link": "https://youtu.be/0eE4Loz1xwg",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

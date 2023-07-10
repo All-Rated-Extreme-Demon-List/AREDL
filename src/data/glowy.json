@@ -1,30 +1,30 @@
 {
-    "id": 37361518,
-    "name": "Glowy",
-    "author": "Rob Buck",
-    "creators": ["Sunnett, Rob Buck"],
-    "verifier": "BoldStep",
-    "verification": "https://www.youtube.com/watch?v=XkDcrHZS5QA",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records": [
-        {
-            "user": "Nik14K",
-            "link": "https://youtu.be/eWufS1-ky5U",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Keyoes",
-            "link": "https://youtu.be/ckiw_jA9VN8",
-            "percent": 100,
-            "hz": 288
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/vcH_SbTVKMg",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 37361518,
+	"name": "Glowy",
+	"author": "Rob Buck",
+	"creators": ["Sunnett, Rob Buck"],
+	"verifier": "BoldStep",
+	"verification": "https://www.youtube.com/watch?v=XkDcrHZS5QA",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "Nik14K",
+			"link": "https://youtu.be/eWufS1-ky5U",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Keyoes",
+			"link": "https://youtu.be/ckiw_jA9VN8",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/vcH_SbTVKMg",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

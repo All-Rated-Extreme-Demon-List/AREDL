@@ -1,150 +1,152 @@
 {
-    "id": 60289382,
-    "name": "Falcon16",
-    "author": "Lieb",
-    "creators": ["GunnerBones, HelpegasuS, Isane, Verbet, Unigeny, Majkomar, Spectex, PotatoBaby, Zafkiel, Tob24, Reunomi, Duffz, FlaksY, Enixy, Lieb"],
-    "verifier": "Zeronium",
-    "verification": "https://www.youtube.com/watch?v=JZSj4rJYMJQ",
-    "percentToQualify": 100,
-    "password": "161616",
-    "records": [
-    {
-            "user": "Haze",
-            "link": "https://youtu.be/lt5lTxRB5UI",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Hasik",
-            "link": "https://youtu.be/m-QHefvCXw0",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "theworldofme",
-            "link": "https://youtu.be/Q9XqXobYhKo?t=523",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "NUwUxuz",
-            "link": "https://www.youtube.com/watch?v=nuNH7NBjCgo",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/7Xf-5e2dmAs",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BreadGuyGD",
-            "link": "https://www.youtube.com/watch?v=GfqZlU3bE2I",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=UT4hyECj-TE&ab_channel=Bleamer",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/3tsbxh8VvzM",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "YTkerfuffles",
-            "link": "https://youtu.be/6likO60KTN4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Matter",
-            "link": "https://youtu.be/6AvqL240XEo",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Didjimon",
-            "link": "https://youtu.be/lEUGOVXEpl0",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "chickenborgor",
-            "link": "https://youtu.be/VxotW_9CfKQ",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/LtiG_57gtZc",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=K3O_GeNTGDE",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/pulNxIoro8k",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BigBGaming",
-            "link": "https://youtu.be/VGD8BD2p37Q",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "BANA1411",
-            "link": "https://youtu.be/sPnWUT9D7oQ",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/5kAecgybbEs",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=9JdnbkaeGrw",
-    "percent": 100,
-    "hz": 144
-},
-        {
-            "user": "WhiteSalmon",
-            "link": "https://www.youtube.com/watch?v=DMTHP7sLrjQ&list=PLYulNPgsOPnAozOHFfssrdFpO2_8oDdsd&index=20&ab_channel=WhiteSalmon%5BGD%5D",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/FRmi62LbctE",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/SnAbAfgsbVg",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "DJ1482",
-    "link": "https://youtu.be/u0-sDfWUO5s",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 60289382,
+	"name": "Falcon16",
+	"author": "Lieb",
+	"creators": [
+		"GunnerBones, HelpegasuS, Isane, Verbet, Unigeny, Majkomar, Spectex, PotatoBaby, Zafkiel, Tob24, Reunomi, Duffz, FlaksY, Enixy, Lieb"
+	],
+	"verifier": "Zeronium",
+	"verification": "https://www.youtube.com/watch?v=JZSj4rJYMJQ",
+	"percentToQualify": 100,
+	"password": "161616",
+	"records": [
+		{
+			"user": "Haze",
+			"link": "https://youtu.be/lt5lTxRB5UI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Hasik",
+			"link": "https://youtu.be/m-QHefvCXw0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://youtu.be/Q9XqXobYhKo?t=523",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "NUwUxuz",
+			"link": "https://www.youtube.com/watch?v=nuNH7NBjCgo",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/7Xf-5e2dmAs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BreadGuyGD",
+			"link": "https://www.youtube.com/watch?v=GfqZlU3bE2I",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=UT4hyECj-TE&ab_channel=Bleamer",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/3tsbxh8VvzM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "YTkerfuffles",
+			"link": "https://youtu.be/6likO60KTN4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/6AvqL240XEo",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Didjimon",
+			"link": "https://youtu.be/lEUGOVXEpl0",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "chickenborgor",
+			"link": "https://youtu.be/VxotW_9CfKQ",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/LtiG_57gtZc",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=K3O_GeNTGDE",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/pulNxIoro8k",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BigBGaming",
+			"link": "https://youtu.be/VGD8BD2p37Q",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "BANA1411",
+			"link": "https://youtu.be/sPnWUT9D7oQ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/5kAecgybbEs",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=9JdnbkaeGrw",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "WhiteSalmon",
+			"link": "https://www.youtube.com/watch?v=DMTHP7sLrjQ&list=PLYulNPgsOPnAozOHFfssrdFpO2_8oDdsd&index=20&ab_channel=WhiteSalmon%5BGD%5D",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/FRmi62LbctE",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/SnAbAfgsbVg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "DJ1482",
+			"link": "https://youtu.be/u0-sDfWUO5s",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

@@ -1,42 +1,42 @@
 {
-    "id": 28880422,
-    "name": "Aurora",
-    "author": "TheKris",
-    "creators": [],
-    "verifier": "TheKris",
-    "verification": "https://www.youtube.com/watch?v=vbsiPTq2JSw",
-    "percentToQualify": 100,
-    "password": "075310",
-    "records": [
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/EGtW8R5sVok",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/fQe6Z8nT978",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/8LH4gAizUuI",
-            "percent": 100,
-            "hz": 165
-},
-        {
-            "user": "psychotix",
-            "link": "https://www.youtube.com/watch?v=Oejuhx1pKOQ&list=PL9JaiMITBLQ2fPhdu2hTPnWVyroa5hHFR&index=23",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "baechugimchi",
-            "link": "https://youtu.be/K8a3U3vIunY",
-            "percent": 100,
-            "hz": 360
-}
-               ]
+	"id": 28880422,
+	"name": "Aurora",
+	"author": "TheKris",
+	"creators": [],
+	"verifier": "TheKris",
+	"verification": "https://www.youtube.com/watch?v=vbsiPTq2JSw",
+	"percentToQualify": 100,
+	"password": "075310",
+	"records": [
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/EGtW8R5sVok",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/fQe6Z8nT978",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/8LH4gAizUuI",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "psychotix",
+			"link": "https://www.youtube.com/watch?v=Oejuhx1pKOQ&list=PL9JaiMITBLQ2fPhdu2hTPnWVyroa5hHFR&index=23",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "baechugimchi",
+			"link": "https://youtu.be/K8a3U3vIunY",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

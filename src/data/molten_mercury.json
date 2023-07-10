@@ -1,48 +1,50 @@
 {
-    "id": 64066032,
-    "name": "Molten Mercury",
-    "author": "ItsHybrid",
-    "creators": ["Vismuth, Surge, PokeChatt, Zipixbox, ItsHybrid, ViralDl, Realvet, EyeOfTheStorm, BlasterRobotz, Odyssey, ToastedPleb, Culuc"],
-    "verifier": "Kapinapi",
-    "verification": "https://www.youtube.com/watch?v=X8FcOkvi4SU",
-    "percentToQualify": 100,
-    "password": "251326",
-    "records": [
-    {
-            "user": "Hasik",
-            "link": "https://youtu.be/JQPzWTBfXv4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Seic",
-            "link": "https://youtu.be/EEHwOglY9jw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "YTkerfuffles",
-            "link": "https://youtu.be/1SAMGSL_NP0",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/b4UX3OXbVIk",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=HJORgUZpHC0",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/V4IDePzuikU",
-            "percent": 100,
-            "hz": 240
-}
-    ]
+	"id": 64066032,
+	"name": "Molten Mercury",
+	"author": "ItsHybrid",
+	"creators": [
+		"Vismuth, Surge, PokeChatt, Zipixbox, ItsHybrid, ViralDl, Realvet, EyeOfTheStorm, BlasterRobotz, Odyssey, ToastedPleb, Culuc"
+	],
+	"verifier": "Kapinapi",
+	"verification": "https://www.youtube.com/watch?v=X8FcOkvi4SU",
+	"percentToQualify": 100,
+	"password": "251326",
+	"records": [
+		{
+			"user": "Hasik",
+			"link": "https://youtu.be/JQPzWTBfXv4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Seic",
+			"link": "https://youtu.be/EEHwOglY9jw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "YTkerfuffles",
+			"link": "https://youtu.be/1SAMGSL_NP0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/b4UX3OXbVIk",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=HJORgUZpHC0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/V4IDePzuikU",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

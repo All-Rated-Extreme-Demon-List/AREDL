@@ -1,36 +1,36 @@
 {
-    "id": 63514295,
-    "name": "2 1 1",
-    "author": "SrGuillester",
-    "creators": ["SrGuillester, Etzer, Platnuu, TheFakeFlame"],
-    "verifier": "SrGuillester",
-    "verification": "https://www.youtube.com/watch?v=bFQIzKb1as0",
-    "percentToQualify": 100,
-    "password": "112112",
-    "records": [
-        {
-            "user": "NUwUxuz",
-            "link": "https://www.youtube.com/watch?v=SQAwtmNP6eQ&t=6s",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/jvTW87nXnmg",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=8WyaEPnOKBc",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/setLrwJYAhI",
-    "percent": 100,
-    "hz": 240
-}
-               ]
+	"id": 63514295,
+	"name": "2 1 1",
+	"author": "SrGuillester",
+	"creators": ["SrGuillester, Etzer, Platnuu, TheFakeFlame"],
+	"verifier": "SrGuillester",
+	"verification": "https://www.youtube.com/watch?v=bFQIzKb1as0",
+	"percentToQualify": 100,
+	"password": "112112",
+	"records": [
+		{
+			"user": "NUwUxuz",
+			"link": "https://www.youtube.com/watch?v=SQAwtmNP6eQ&t=6s",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/jvTW87nXnmg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=8WyaEPnOKBc",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/setLrwJYAhI",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

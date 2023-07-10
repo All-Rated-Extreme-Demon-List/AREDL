@@ -1,35 +1,37 @@
 {
-    "id": 67569996,
-    "name": "Adrenaline",
-    "author": "wapon77",
-    "creators": ["Sequex, ORte, Vantablack, Pixizkiel, Ettery, Gianv, Tent, Nell, Revel, Hyp rlink, Ryzlesalt, Duffz, R3ul, Rockwizard5, Asu, Fluo, wapon77, ibrah, convie, Highjump, Kneon, Xzer, Infxrnal, Farafar, Koolboom, Sakual, Kirzok, Fufafac, Esencia, Rittle, Lime0037, Nidro, Galaxycat, ZWK, Underpipse, Connected, Naimnaro, SyQual, Astrofox, LekuJX, Destez, Uriun, Galchi, Manta KrazyGFX, Pukoru, Vadex, Kllnex, Xempir, Soluble, Sikatsuka, Vismuth, Toasted, Isane, Shaun07, Kadex, Epsilonic, Syn, Grand Omega, Rilliss77, Reshiram, Yonaka, Elvii, Pluff, Skrypto, iEstia, El3cTr0, Zellink, Shawdow, Chaeyeon, Belonzik"],
-    "verifier": "MrSpaghetti",
-    "verification": "https://www.youtube.com/watch?v=aBUGuBQQi2g",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Bamvie",
-            "link": "https://youtu.be/WICz0bUc97g",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "mrperson",
-            "link": "https://www.youtube.com/watch?v=Bf3OpxNw0bA",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Tiny_Tigger_",
-            "link": "https://youtu.be/m5_-ieDfEnQ",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "XW0T",
-            "link": "https://www.youtube.com/watch?v=NImOMDEHcZA",
-            "percent": 100,
-            "hz": 244
-}
-    ]
+	"id": 67569996,
+	"name": "Adrenaline",
+	"author": "wapon77",
+	"creators": [
+		"Sequex, ORte, Vantablack, Pixizkiel, Ettery, Gianv, Tent, Nell, Revel, Hyp rlink, Ryzlesalt, Duffz, R3ul, Rockwizard5, Asu, Fluo, wapon77, ibrah, convie, Highjump, Kneon, Xzer, Infxrnal, Farafar, Koolboom, Sakual, Kirzok, Fufafac, Esencia, Rittle, Lime0037, Nidro, Galaxycat, ZWK, Underpipse, Connected, Naimnaro, SyQual, Astrofox, LekuJX, Destez, Uriun, Galchi, Manta KrazyGFX, Pukoru, Vadex, Kllnex, Xempir, Soluble, Sikatsuka, Vismuth, Toasted, Isane, Shaun07, Kadex, Epsilonic, Syn, Grand Omega, Rilliss77, Reshiram, Yonaka, Elvii, Pluff, Skrypto, iEstia, El3cTr0, Zellink, Shawdow, Chaeyeon, Belonzik"
+	],
+	"verifier": "MrSpaghetti",
+	"verification": "https://www.youtube.com/watch?v=aBUGuBQQi2g",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Bamvie",
+			"link": "https://youtu.be/WICz0bUc97g",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "mrperson",
+			"link": "https://www.youtube.com/watch?v=Bf3OpxNw0bA",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Tiny_Tigger_",
+			"link": "https://youtu.be/m5_-ieDfEnQ",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "XW0T",
+			"link": "https://www.youtube.com/watch?v=NImOMDEHcZA",
+			"percent": 100,
+			"hz": 244
+		}
+	]
 }

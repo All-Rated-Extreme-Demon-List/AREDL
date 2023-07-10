@@ -1,108 +1,126 @@
 {
-    "id": 66291197,
-    "name": "Cybernetic Crescent",
-    "author": "ViPriN",
-    "creators": ["Codex","Shocksidian","Rustam","FerdeFunky","G4lvatron","nasgubb","ViPriN","Enzore","Samifying","Vlacc","TheDevon","Serponge","Hinds","Terron","Floppy","FirsGD","zalspr"],
-    "verifier": "Technical",
-    "verification": "https://www.youtube.com/watch?v=0yKtq1PJeDQ",
-    "percentToQualify": 100,
-    "password": "010721",
-    "records": [
-    {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/8l7_BKOFJnU",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/0HY-p2ce1pg",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=6Lk3rIB8oYo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=L8kExFRxhi8&",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Matter",
-            "link": "https://youtu.be/rPM6WsSv1CU",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/KONDCCXe8c0",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/wS6Ri1eFDqU",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "Aleczd",
-            "link": "https://www.youtube.com/watch?v=4_ub3hXCmxQ&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=10",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "StarXV",
-            "link": "https://youtu.be/TLRJj5gCd-Q",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "DJ1482",
-            "link": "https://youtu.be/piss0_qF_vM",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Dan2D",
-            "link": "https://youtu.be/WzZVaCIeCgg",
-            "percent": 100,
-            "hz": 300
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=4HsILF_QFuI",
-    "percent": 100,
-    "hz": 144
-},
-        {
-            "user": "Gap2003",
-            "link": "https://www.youtube.com/watch?v=mg0RYmyqYeg",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=FsJzQ4V-j0k&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "Kr1p7iX",
-    "link": "https://www.youtube.com/watch?v=x6S4ZYW-vhc",
-    "percent": 100,
-    "hz": 300
-    },
-    {
-        "user": "Dylinator",
-        "link": "https://www.youtube.com/watch?v=fbrH42VNXTM",
-        "percent": 100,
-        "hz": 360
-}
-    ]
+	"id": 66291197,
+	"name": "Cybernetic Crescent",
+	"author": "ViPriN",
+	"creators": [
+		"Codex",
+		"Shocksidian",
+		"Rustam",
+		"FerdeFunky",
+		"G4lvatron",
+		"nasgubb",
+		"ViPriN",
+		"Enzore",
+		"Samifying",
+		"Vlacc",
+		"TheDevon",
+		"Serponge",
+		"Hinds",
+		"Terron",
+		"Floppy",
+		"FirsGD",
+		"zalspr"
+	],
+	"verifier": "Technical",
+	"verification": "https://www.youtube.com/watch?v=0yKtq1PJeDQ",
+	"percentToQualify": 100,
+	"password": "010721",
+	"records": [
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/8l7_BKOFJnU",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/0HY-p2ce1pg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=6Lk3rIB8oYo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=L8kExFRxhi8&",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/rPM6WsSv1CU",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/KONDCCXe8c0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/wS6Ri1eFDqU",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "Aleczd",
+			"link": "https://www.youtube.com/watch?v=4_ub3hXCmxQ&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=10",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "StarXV",
+			"link": "https://youtu.be/TLRJj5gCd-Q",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "DJ1482",
+			"link": "https://youtu.be/piss0_qF_vM",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Dan2D",
+			"link": "https://youtu.be/WzZVaCIeCgg",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=4HsILF_QFuI",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Gap2003",
+			"link": "https://www.youtube.com/watch?v=mg0RYmyqYeg",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=FsJzQ4V-j0k&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Kr1p7iX",
+			"link": "https://www.youtube.com/watch?v=x6S4ZYW-vhc",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://www.youtube.com/watch?v=fbrH42VNXTM",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

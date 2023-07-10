@@ -1,47 +1,47 @@
 {
-    "id": 81010355,
-    "name": "YeeSangHaeYo",
-    "author": "Kai316",
-    "creators": [],
-    "verifier": "Aeidux",
-    "verification": "https://www.youtube.com/watch?v=L1LCl0v9jjY",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Lia",
-            "link": "https://youtu.be/DmBQJHEzM5o",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Draconyx",
-            "link": "https://youtu.be/ZUSmu1feDmY",
-            "percent": 100,
-            "hz": 165
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=4vg5g1ta_As",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "lumi",
-    "link": "https://youtu.be/83eUNsJ97D8",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/JSk5Da-Bj0Y",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/RPssHHXwqNo",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 81010355,
+	"name": "YeeSangHaeYo",
+	"author": "Kai316",
+	"creators": [],
+	"verifier": "Aeidux",
+	"verification": "https://www.youtube.com/watch?v=L1LCl0v9jjY",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/DmBQJHEzM5o",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Draconyx",
+			"link": "https://youtu.be/ZUSmu1feDmY",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=4vg5g1ta_As",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/83eUNsJ97D8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/JSk5Da-Bj0Y",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/RPssHHXwqNo",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

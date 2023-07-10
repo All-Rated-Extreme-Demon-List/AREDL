@@ -1,138 +1,140 @@
 {
-    "id": 60257058,
-    "name": "Just DANCE",
-    "author": "Texic",
-    "creators": ["Mezzo, blazer2, Texic, ZWK, ViralDl, Krisz, Vex01, TheGalaxyCat, Chona026, Fletzer"],
-    "verifier": "Kapinapi",
-    "verification": "https://www.youtube.com/watch?v=FZBB1QgDE-Y",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=z99MG7mOWr8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Gecko",
-            "link": "https://youtu.be/oHsfRjBJyMI",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/rY27AyR1nIA",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Clara",
-            "link": "https://www.youtube.com/watch?v=XQ9ZVRMa7Yc",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BreadGuyGD",
-            "link": "https://www.youtube.com/watch?v=kt6wxRdcGXU",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Matter",
-            "link": "https://youtu.be/aya3_aCmizs",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/QppgEbCETZQ",
-            "percent": 100,
-            "hz": 120
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/OA9wv0DZC04",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=q8eqPoHx7S4",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "BANA1411",
-            "link": "https://youtu.be/7UwPpu7caHY",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "psychotix",
-            "link": "https://www.youtube.com/watch?v=5yzSEzOlw2A&list=PL9JaiMITBLQ2fPhdu2hTPnWVyroa5hHFR&index=6",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "DJ1482",
-            "link": "https://youtu.be/tc1HFDoGvU8",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/XH79Xg1P3ik",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=T1Nabgi-_TY",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=jz8o_SxY7UE&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 360
-},
-{
-            "user": "Bonezizdum",
-            "link": "https://youtu.be/tOT7RTchEU8",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-},
-        {
-    "user": "Davine_007",
-    "link": "https://youtu.be/AlhUtiMBYhc",
-    "percent": 100,
-    "hz": 144
-},
-        {
-        "user": "HotNooB",
-        "link": "https://youtu.be/6tzvMUJvjFQ",
-        "percent": 100,
-        "hz": 288
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/83pxNz8-Lks",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/TrIIeeB23no",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Nell",
-    "link": "https://youtu.be/Pj-KNt9d2mU",
-    "percent": 100,
-    "hz": 144
-}
-    ]
+	"id": 60257058,
+	"name": "Just DANCE",
+	"author": "Texic",
+	"creators": [
+		"Mezzo, blazer2, Texic, ZWK, ViralDl, Krisz, Vex01, TheGalaxyCat, Chona026, Fletzer"
+	],
+	"verifier": "Kapinapi",
+	"verification": "https://www.youtube.com/watch?v=FZBB1QgDE-Y",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=z99MG7mOWr8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Gecko",
+			"link": "https://youtu.be/oHsfRjBJyMI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/rY27AyR1nIA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Clara",
+			"link": "https://www.youtube.com/watch?v=XQ9ZVRMa7Yc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BreadGuyGD",
+			"link": "https://www.youtube.com/watch?v=kt6wxRdcGXU",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/aya3_aCmizs",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/QppgEbCETZQ",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/OA9wv0DZC04",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=q8eqPoHx7S4",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "BANA1411",
+			"link": "https://youtu.be/7UwPpu7caHY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "psychotix",
+			"link": "https://www.youtube.com/watch?v=5yzSEzOlw2A&list=PL9JaiMITBLQ2fPhdu2hTPnWVyroa5hHFR&index=6",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "DJ1482",
+			"link": "https://youtu.be/tc1HFDoGvU8",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/XH79Xg1P3ik",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=T1Nabgi-_TY",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=jz8o_SxY7UE&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bonezizdum",
+			"link": "https://youtu.be/tOT7RTchEU8",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "Davine_007",
+			"link": "https://youtu.be/AlhUtiMBYhc",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/6tzvMUJvjFQ",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/83pxNz8-Lks",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/TrIIeeB23no",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Nell",
+			"link": "https://youtu.be/Pj-KNt9d2mU",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

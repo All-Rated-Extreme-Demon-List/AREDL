@@ -1,107 +1,109 @@
 {
-    "id": 82148336,
-    "name": "BROWNOIX",
-    "author": "ArtaxFerSarh",
-    "creators": ["IvashkaUA, OuroiX, fufafac, ArtaxFerSarh, StarkyTheSalad, nectaroso, DoliaX"],
-    "verifier": "Gizbro",
-    "verification": "https://www.youtube.com/watch?v=rd63muZhe_Y",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Lia",
-            "link": "https://youtu.be/fsIJxd81Mfw",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Electro325",
-            "link": "https://youtu.be/cLw3oseg0Kc",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "ashes2207",
-            "link": "https://youtu.be/mmQVgu7tTa8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Alex_",
-            "link": "https://youtu.be/3DHePUG5cbY",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "crystalsstuff",
-            "link": "https://www.youtube.com/watch?v=H4eGN9gsZrA",
-            "percent": 100,
-            "hz": 330
-},
-        {
-            "user": "meluwudy",
-            "link": "https://www.youtube.com/watch?v=jtBaSerU-nI",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "BreadGuyGD",
-            "link": "https://www.youtube.com/watch?v=XeSfZaN5E5Q",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/FYb5poWfnHc",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/_55ZbQNY8lk",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=n-hEsXtYeXA",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Colizzion",
-            "link": "https://youtu.be/bBOkgQ7VU98",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "arqtos",
-    "link": "https://youtu.be/oZgCD1cdYjk",
-    "percent": 100,
-    "hz": 165
-    },
-    {
-        "user": "lumi",
-        "link": "https://youtu.be/W11vBSclyu0",
-        "percent": 100,
-        "hz": 240
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/saORScwXQAA",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/bEoGr2oz0hY",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Mamu Games",
-    "link": "https://youtu.be/rd-YJ2gKcho",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 82148336,
+	"name": "BROWNOIX",
+	"author": "ArtaxFerSarh",
+	"creators": [
+		"IvashkaUA, OuroiX, fufafac, ArtaxFerSarh, StarkyTheSalad, nectaroso, DoliaX"
+	],
+	"verifier": "Gizbro",
+	"verification": "https://www.youtube.com/watch?v=rd63muZhe_Y",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/fsIJxd81Mfw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Electro325",
+			"link": "https://youtu.be/cLw3oseg0Kc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ashes2207",
+			"link": "https://youtu.be/mmQVgu7tTa8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Alex_",
+			"link": "https://youtu.be/3DHePUG5cbY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "crystalsstuff",
+			"link": "https://www.youtube.com/watch?v=H4eGN9gsZrA",
+			"percent": 100,
+			"hz": 330
+		},
+		{
+			"user": "meluwudy",
+			"link": "https://www.youtube.com/watch?v=jtBaSerU-nI",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "BreadGuyGD",
+			"link": "https://www.youtube.com/watch?v=XeSfZaN5E5Q",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/FYb5poWfnHc",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/_55ZbQNY8lk",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=n-hEsXtYeXA",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Colizzion",
+			"link": "https://youtu.be/bBOkgQ7VU98",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "arqtos",
+			"link": "https://youtu.be/oZgCD1cdYjk",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/W11vBSclyu0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/saORScwXQAA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/bEoGr2oz0hY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Mamu Games",
+			"link": "https://youtu.be/rd-YJ2gKcho",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

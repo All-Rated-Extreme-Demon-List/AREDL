@@ -1,24 +1,24 @@
 {
-    "id": 80647754,
-    "name": "Le Fishe",
-    "author": "PrankOrigami",
-    "creators": [],
-    "verifier": "Sync Jaws",
-    "verification": "https://youtu.be/2DEC2_wpmu4?t=4316",
-    "percentToQualify": 100,
-    "password": "023632",
-    "records": [
-{
-            "user": "baechugimchi",
-            "link": "https://youtu.be/GaocJxiYmpw",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/WsEKWtV9zM0",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 80647754,
+	"name": "Le Fishe",
+	"author": "PrankOrigami",
+	"creators": [],
+	"verifier": "Sync Jaws",
+	"verification": "https://youtu.be/2DEC2_wpmu4?t=4316",
+	"percentToQualify": 100,
+	"password": "023632",
+	"records": [
+		{
+			"user": "baechugimchi",
+			"link": "https://youtu.be/GaocJxiYmpw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/WsEKWtV9zM0",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

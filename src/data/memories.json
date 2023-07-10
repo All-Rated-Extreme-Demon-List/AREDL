@@ -1,17 +1,17 @@
 {
-    "id": 83235400,
-    "name": "memories",
-    "author": "ImMaxX1",
-    "creators": [],
-    "verifier": "Dan2D",
-    "verification": "https://www.youtube.com/watch?v=oRZFFr9xGRI",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "piesy",
-            "link": "https://www.youtube.com/watch?v=2AGpXv8pzsw",
-            "percent": 100,
-            "hz": 240
-}
-    ]
+	"id": 83235400,
+	"name": "memories",
+	"author": "ImMaxX1",
+	"creators": [],
+	"verifier": "Dan2D",
+	"verification": "https://www.youtube.com/watch?v=oRZFFr9xGRI",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "piesy",
+			"link": "https://www.youtube.com/watch?v=2AGpXv8pzsw",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

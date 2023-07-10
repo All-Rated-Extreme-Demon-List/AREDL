@@ -1,47 +1,47 @@
 {
-    "id": 23579781,
-    "name": "Sysmique Locked",
-    "author": "jakerz95",
-    "creators": [],
-    "verifier": "Rlol",
-    "verification": "https://youtu.be/xVg4Nxdw9Ho",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Seic",
-            "link": "https://www.youtube.com/watch?v=xDVtjFC46fg&t=125s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://www.youtube.com/watch?v=beEC7hvwck0",
-            "percent": 100,
-            "hz": 75
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=4tXpp4qZYQQ",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "baechugimchi",
-    "link": "https://youtu.be/RUvLPnfGEX8",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=ipm3144P9Uw",
-    "percent": 100,
-    "hz": 144
-},
-        {
-        "user": "HotNooB",
-        "link": "https://youtu.be/D7Hvs1tsf84",
-        "percent": 100,
-        "hz": 288
-}
-    ]
+	"id": 23579781,
+	"name": "Sysmique Locked",
+	"author": "jakerz95",
+	"creators": [],
+	"verifier": "Rlol",
+	"verification": "https://youtu.be/xVg4Nxdw9Ho",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Seic",
+			"link": "https://www.youtube.com/watch?v=xDVtjFC46fg&t=125s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://www.youtube.com/watch?v=beEC7hvwck0",
+			"percent": 100,
+			"hz": 75
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=4tXpp4qZYQQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "baechugimchi",
+			"link": "https://youtu.be/RUvLPnfGEX8",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=ipm3144P9Uw",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/D7Hvs1tsf84",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

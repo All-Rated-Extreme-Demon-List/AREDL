@@ -1,36 +1,36 @@
 {
-    "id": 61350256,
-    "name": "BYE",
-    "author": "AlrexX",
-    "creators": [],
-    "verifier": "Kapinapi",
-    "verification": "https://www.youtube.com/watch?v=jJ3jCbL6Jwk&pp=ygUMYnllIHZlcmlmaWVk",
-    "percentToQualify": 100,
-    "password": "50420",
-    "records": [
-    {
-            "user": "szamle",
-            "link": "https://youtu.be/Wj_CrY0OIC0",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://www.youtube.com/watch?v=Msyhn5IvzmA",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=3CT34jfzVR0",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/pOjQtHhRNsA",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 61350256,
+	"name": "BYE",
+	"author": "AlrexX",
+	"creators": [],
+	"verifier": "Kapinapi",
+	"verification": "https://www.youtube.com/watch?v=jJ3jCbL6Jwk&pp=ygUMYnllIHZlcmlmaWVk",
+	"percentToQualify": 100,
+	"password": "50420",
+	"records": [
+		{
+			"user": "szamle",
+			"link": "https://youtu.be/Wj_CrY0OIC0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://www.youtube.com/watch?v=Msyhn5IvzmA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=3CT34jfzVR0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/pOjQtHhRNsA",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

@@ -1,29 +1,29 @@
 {
-    "id": 89243963,
-    "name": "Iris of a Puppeteer",
-    "author": "EternaswipVMAX",
-    "creators": [],
-    "verifier": "ZOE",
-    "verification": "https://www.youtube.com/watch?v=DK3BShj1zYc",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "BrowarKedawar",
-            "link": "https://youtu.be/yB5vMvZ7Utk",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/6vcHlarqwkk",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "mac",
-    "link": "https://www.youtube.com/watch?v=y9aoSexq2vI&list=PLrdT23GnwtbhfgWoZcjnLO2ypfY9MJJj2&index=24&pp=gAQBiAQB",
-    "percent": 100,
-    "hz": 321
-}
-    ]
+	"id": 89243963,
+	"name": "Iris of a Puppeteer",
+	"author": "EternaswipVMAX",
+	"creators": [],
+	"verifier": "ZOE",
+	"verification": "https://www.youtube.com/watch?v=DK3BShj1zYc",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "BrowarKedawar",
+			"link": "https://youtu.be/yB5vMvZ7Utk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/6vcHlarqwkk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "mac",
+			"link": "https://www.youtube.com/watch?v=y9aoSexq2vI&list=PLrdT23GnwtbhfgWoZcjnLO2ypfY9MJJj2&index=24&pp=gAQBiAQB",
+			"percent": 100,
+			"hz": 321
+		}
+	]
 }

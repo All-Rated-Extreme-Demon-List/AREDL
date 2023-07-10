@@ -1,23 +1,23 @@
 {
-    "id": 69753245,
-    "name": "Novasphere",
-    "author": "NeyvaShift",
-    "creators": [],
-    "verifier": "neoraptor",
-    "verification": "https://www.youtube.com/watch?v=v2xav4Jyqxg",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Lia",
-            "link": "https://youtu.be/xf9o5CkuDYI",
-            "percent": 100,
-            "hz": 240
-},
-        {
-        "user": "HotNooB",
-        "link": "https://youtu.be/Yn1y7pLjeGw",
-        "percent": 100,
-        "hz": 288
-}
-    ]
+	"id": 69753245,
+	"name": "Novasphere",
+	"author": "NeyvaShift",
+	"creators": [],
+	"verifier": "neoraptor",
+	"verification": "https://www.youtube.com/watch?v=v2xav4Jyqxg",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/xf9o5CkuDYI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/Yn1y7pLjeGw",
+			"percent": 100,
+			"hz": 288
+		}
+	]
 }

@@ -1,132 +1,132 @@
 {
-    "id": 55547703,
-    "name": "Sunset Sandstorm",
-    "author": "crohn44",
-    "creators": [],
-    "verifier": "crohn44",
-    "verification": "https://www.youtube.com/watch?v=5ary4apA0WA",
-    "percentToQualify": 100,
-    "password": "596247",
-    "records": [
-    {
-            "user": "Chubby9000",
-            "link": "https://youtu.be/uWgeUZLpDiE",
-            "percent": 100,
-            "hz": 330
-        },
-        {
-            "user": "Trees",
-            "link": "https://www.youtube.com/watch?v=gXilcR-YYMA&t=303s&ab_channel=Trees",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Darkhonix",
-            "link": "https://youtu.be/-O6cGhI1oSs",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/EkSeeuQM--8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Gecko",
-            "link": "https://youtu.be/ep2m9NBIMfc",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "ThePastaNebula",
-            "link": "https://www.youtube.com/watch?v=JVfceVp7q3g",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Javp",
-            "link": "https://youtu.be/u6qWWVn26Aw",
-            "percent": 100,
-            "hz": 120
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=slE12MGhCpE&",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "ImJotaGD",
-            "link": "https://youtu.be/n7GUlGiR9G8",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "BreadGuyGD",
-            "link": "https://www.youtube.com/watch?v=19mi-ReTvp4",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Evvolin",
-            "link": "https://www.youtube.com/watch?v=MOqUnKId4V0&t=17s",
-            "percent": 100,
-            "hz": 165
-},
-        {
-            "user": "iiLogan",
-            "link": "https://youtu.be/D1B43QOm0iI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Matter",
-            "link": "https://youtu.be/HBVD3v3cCvg",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "Draconyx",
-            "link": "https://youtu.be/0MJh9povUUY",
-            "percent": 100,
-            "hz": 165
-},
-        {
-            "user": "Aleczd",
-            "link": "https://www.youtube.com/watch?v=7vax34l4_t8&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=17",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "ActionninjaT",
-            "link": "https://youtu.be/WzBZ8xGj8eg",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "alienxs",
-            "link": "https://youtu.be/TnE4fSF9rRw",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "Kova_Neo",
-            "link": "https://youtu.be/gKthXSfyjK8",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=Gy0bDE3Qu-c",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=vdy96Ao9bFI&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 60
-}
-    ]
+	"id": 55547703,
+	"name": "Sunset Sandstorm",
+	"author": "crohn44",
+	"creators": [],
+	"verifier": "crohn44",
+	"verification": "https://www.youtube.com/watch?v=5ary4apA0WA",
+	"percentToQualify": 100,
+	"password": "596247",
+	"records": [
+		{
+			"user": "Chubby9000",
+			"link": "https://youtu.be/uWgeUZLpDiE",
+			"percent": 100,
+			"hz": 330
+		},
+		{
+			"user": "Trees",
+			"link": "https://www.youtube.com/watch?v=gXilcR-YYMA&t=303s&ab_channel=Trees",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Darkhonix",
+			"link": "https://youtu.be/-O6cGhI1oSs",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ItzElectrix",
+			"link": "https://youtu.be/EkSeeuQM--8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Gecko",
+			"link": "https://youtu.be/ep2m9NBIMfc",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "ThePastaNebula",
+			"link": "https://www.youtube.com/watch?v=JVfceVp7q3g",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Javp",
+			"link": "https://youtu.be/u6qWWVn26Aw",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=slE12MGhCpE&",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ImJotaGD",
+			"link": "https://youtu.be/n7GUlGiR9G8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "BreadGuyGD",
+			"link": "https://www.youtube.com/watch?v=19mi-ReTvp4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Evvolin",
+			"link": "https://www.youtube.com/watch?v=MOqUnKId4V0&t=17s",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "iiLogan",
+			"link": "https://youtu.be/D1B43QOm0iI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/HBVD3v3cCvg",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Draconyx",
+			"link": "https://youtu.be/0MJh9povUUY",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "Aleczd",
+			"link": "https://www.youtube.com/watch?v=7vax34l4_t8&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=17",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "ActionninjaT",
+			"link": "https://youtu.be/WzBZ8xGj8eg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "alienxs",
+			"link": "https://youtu.be/TnE4fSF9rRw",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "Kova_Neo",
+			"link": "https://youtu.be/gKthXSfyjK8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=Gy0bDE3Qu-c",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=vdy96Ao9bFI&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 60
+		}
+	]
 }

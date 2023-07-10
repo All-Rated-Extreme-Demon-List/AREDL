@@ -1,77 +1,77 @@
 {
-    "id": 49576382,
-    "name": "Generic Wave",
-    "author": "Pennutoh",
-    "creators": ["Enlex, Cyclic, Pennutoh"],
-    "verifier": "Mullsy",
-    "verification": "https://www.youtube.com/watch?v=RL-c3PM4uhk",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "skyv",
-            "link": "https://youtu.be/gEkJ5gYZpQw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "raco",
-            "link": "https://www.youtube.com/watch?v=b9JQXcfVMts&ab_channel=raco",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Blathers",
-            "link": "https://youtu.be/yrGsO3DO1Ro",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "xRiver007",
-            "link": "https://www.youtube.com/watch?v=w1f-eJ6NXqA&t=90s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/ydrM4FYqyac",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "psychotix",
-            "link": "https://www.youtube.com/watch?v=TsFSZJb_0pM&list=PL9JaiMITBLQ2fPhdu2hTPnWVyroa5hHFR&index=41",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "alienxs",
-            "link": "https://www.youtube.com/watch?v=Xu-eMLwLyzQ&ab_channel=alienxs",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "Razlan",
-            "link": "https://youtu.be/7-NyopAh3p",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/0fhWjg166vg",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/setLrwJYAhI",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "mac",
-    "link": "https://www.youtube.com/watch?v=qk9VWeOLmMc&list=PLrdT23GnwtbhfgWoZcjnLO2ypfY9MJJj2&index=22&pp=gAQBiAQB",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 49576382,
+	"name": "Generic Wave",
+	"author": "Pennutoh",
+	"creators": ["Enlex, Cyclic, Pennutoh"],
+	"verifier": "Mullsy",
+	"verification": "https://www.youtube.com/watch?v=RL-c3PM4uhk",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "skyv",
+			"link": "https://youtu.be/gEkJ5gYZpQw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "raco",
+			"link": "https://www.youtube.com/watch?v=b9JQXcfVMts&ab_channel=raco",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Blathers",
+			"link": "https://youtu.be/yrGsO3DO1Ro",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "xRiver007",
+			"link": "https://www.youtube.com/watch?v=w1f-eJ6NXqA&t=90s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/ydrM4FYqyac",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "psychotix",
+			"link": "https://www.youtube.com/watch?v=TsFSZJb_0pM&list=PL9JaiMITBLQ2fPhdu2hTPnWVyroa5hHFR&index=41",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "alienxs",
+			"link": "https://www.youtube.com/watch?v=Xu-eMLwLyzQ&ab_channel=alienxs",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "Razlan",
+			"link": "https://youtu.be/7-NyopAh3p",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/0fhWjg166vg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/setLrwJYAhI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "mac",
+			"link": "https://www.youtube.com/watch?v=qk9VWeOLmMc&list=PLrdT23GnwtbhfgWoZcjnLO2ypfY9MJJj2&index=22&pp=gAQBiAQB",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

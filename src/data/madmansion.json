@@ -1,30 +1,32 @@
 {
-    "id": 57047374,
-    "name": "MadMansion",
-    "author": "GunnerBones",
-    "creators": ["Ferox242, Pablohh, Rainstorm, Vismuth, HelpegasuS, mbed, Gabs, MindCap, MikeWheelerFan, KINGTONY, MaJackO, Kllnex, Isane, Majkomar, Hadeon, Endlevel, Molds, Voltex, PokeChatt, Scrumpy, Killa, Fragox, Minus, Morin"],
-    "verifier": "GunnerBones",
-    "verification": "https://www.youtube.com/watch?v=HWIQIGy-4eI",
-    "percentToQualify": 100,
-    "password": "274869",
-    "records": [
-    {
-            "user": "NateFH",
-            "link": "https://www.youtube.com/watch?v=tj2mZrpNJVY&t=5s",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "baechugimchi",
-    "link": "https://youtu.be/ml26aQA8vY4",
-    "percent": 100,
-    "hz": 288
-},
-{
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=8nAQ7koEucY",
-            "percent": 100,
-            "hz": 144
-}
-    ]
+	"id": 57047374,
+	"name": "MadMansion",
+	"author": "GunnerBones",
+	"creators": [
+		"Ferox242, Pablohh, Rainstorm, Vismuth, HelpegasuS, mbed, Gabs, MindCap, MikeWheelerFan, KINGTONY, MaJackO, Kllnex, Isane, Majkomar, Hadeon, Endlevel, Molds, Voltex, PokeChatt, Scrumpy, Killa, Fragox, Minus, Morin"
+	],
+	"verifier": "GunnerBones",
+	"verification": "https://www.youtube.com/watch?v=HWIQIGy-4eI",
+	"percentToQualify": 100,
+	"password": "274869",
+	"records": [
+		{
+			"user": "NateFH",
+			"link": "https://www.youtube.com/watch?v=tj2mZrpNJVY&t=5s",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "baechugimchi",
+			"link": "https://youtu.be/ml26aQA8vY4",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=8nAQ7koEucY",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

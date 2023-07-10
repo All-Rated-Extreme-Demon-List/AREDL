@@ -1,89 +1,89 @@
 {
-    "id": 61537537,
-    "name": "Daybreak",
-    "author": "ZenthicAlpha",
-    "creators": [],
-    "verifier": "Golden",
-    "verification": "https://www.youtube.com/watch?v=_8-yMV4BF5s",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Whacka",
-            "link": "https://youtu.be/waUkuCieS0Q",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Zenta",
-            "link": "https://www.youtube.com/watch?v=2-AQYma7mZE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "xRiver007",
-            "link": "https://www.youtube.com/watch?v=ZOUKaTKvhAA",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/0e-5zjXQlak",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/MDTKFlTuqvg",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "Patrick61804",
-            "link": "https://youtu.be/pAzwRjXcvgI",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "BANA1411",
-            "link": "https://youtu.be/4J8Jc50o_rI",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/WXL8ICMN4jE",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "galaxv",
-            "link": "https://youtu.be/ULSGQxZY9QA",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "baechugimchi",
-    "link": "https://youtu.be/yiNjtArgFhA",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/ZbyCoPTvyo0",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/gWyz0G5CKGI",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/TrIIeeB23no",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 61537537,
+	"name": "Daybreak",
+	"author": "ZenthicAlpha",
+	"creators": [],
+	"verifier": "Golden",
+	"verification": "https://www.youtube.com/watch?v=_8-yMV4BF5s",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Whacka",
+			"link": "https://youtu.be/waUkuCieS0Q",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Zenta",
+			"link": "https://www.youtube.com/watch?v=2-AQYma7mZE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "xRiver007",
+			"link": "https://www.youtube.com/watch?v=ZOUKaTKvhAA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/0e-5zjXQlak",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MasterOfDonkeys",
+			"link": "https://youtu.be/MDTKFlTuqvg",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "Patrick61804",
+			"link": "https://youtu.be/pAzwRjXcvgI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BANA1411",
+			"link": "https://youtu.be/4J8Jc50o_rI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/WXL8ICMN4jE",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "galaxv",
+			"link": "https://youtu.be/ULSGQxZY9QA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "baechugimchi",
+			"link": "https://youtu.be/yiNjtArgFhA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/ZbyCoPTvyo0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/gWyz0G5CKGI",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/TrIIeeB23no",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

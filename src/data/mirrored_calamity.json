@@ -1,24 +1,26 @@
 {
-    "id": 59157630,
-    "name": "Mirrored Calamity",
-    "author": "Nimbus",
-    "creators": ["Chuckgamer1, hawkyre, Kusa, blastblock, StarkytheSalad, Moosh, Amidon, senk, Konsi, Acnologia, steverman, Realvet, loltad, Yoonsr, Molds, para, DemonDasher, InterChange, Morin, Sequex, Davphla"],
-    "verifier": "Nimbus",
-    "verification": "https://www.youtube.com/watch?v=5Wo0eFR8Lwk",
-    "percentToQualify": 100,
-    "password": "016422",
-    "records": [
-    {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=YBDnN_DsVXs&",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "lunaa",
-    "link": "https://youtu.be/fsw9-SBu5o0",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 59157630,
+	"name": "Mirrored Calamity",
+	"author": "Nimbus",
+	"creators": [
+		"Chuckgamer1, hawkyre, Kusa, blastblock, StarkytheSalad, Moosh, Amidon, senk, Konsi, Acnologia, steverman, Realvet, loltad, Yoonsr, Molds, para, DemonDasher, InterChange, Morin, Sequex, Davphla"
+	],
+	"verifier": "Nimbus",
+	"verification": "https://www.youtube.com/watch?v=5Wo0eFR8Lwk",
+	"percentToQualify": 100,
+	"password": "016422",
+	"records": [
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=YBDnN_DsVXs&",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "lunaa",
+			"link": "https://youtu.be/fsw9-SBu5o0",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

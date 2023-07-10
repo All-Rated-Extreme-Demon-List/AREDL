@@ -1,41 +1,41 @@
 {
-    "id": 88853479,
-    "name": "cerebral hemorrhage",
-    "author": "NateFH",
-    "creators": [],
-    "verifier": "NateFH",
-    "verification": "https://www.youtube.com/watch?v=7NzvIfVWgPw&pp=ygUcY2VyZWJyYWwgaGVtb3JyaGFnZSB2ZXJpZmllZA%3D%3D",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "SkeletalVirus",
-            "link": "https://www.youtube.com/watch?v=GHHV-9zeG4g",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "YTkerfuffles",
-            "link": "https://youtu.be/YZVt2Xrsw1A",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=KsuCbxM1mjk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "qKitti",
-            "link": "https://youtu.be/KeEolZPeko8",
-            "percent": 100,
-            "hz": 240
-},
-        {
-        "user": "Lia",
-        "link": "https://youtu.be/zDIIdLCuv1U",
-        "percent": 100,
-        "hz": 360
-}
-    ]
+	"id": 88853479,
+	"name": "cerebral hemorrhage",
+	"author": "NateFH",
+	"creators": [],
+	"verifier": "NateFH",
+	"verification": "https://www.youtube.com/watch?v=7NzvIfVWgPw&pp=ygUcY2VyZWJyYWwgaGVtb3JyaGFnZSB2ZXJpZmllZA%3D%3D",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "SkeletalVirus",
+			"link": "https://www.youtube.com/watch?v=GHHV-9zeG4g",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "YTkerfuffles",
+			"link": "https://youtu.be/YZVt2Xrsw1A",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=KsuCbxM1mjk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "qKitti",
+			"link": "https://youtu.be/KeEolZPeko8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/zDIIdLCuv1U",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

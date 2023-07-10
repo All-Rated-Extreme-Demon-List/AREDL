@@ -1,29 +1,31 @@
 {
-    "id": 85612571,
-    "name": "RUTHLESS",
-    "author": "SurJaco",
-    "creators": ["Viper Arctarus, nCylix, Surjaco, Titoalper, Boii, BeClan, Destriv, Aranda, Vitrial, Bli, Motheye, lGenoxide, Roselyne"],
-    "verifier": "vaen",
-    "verification": "https://www.youtube.com/watch?v=9jwVeYtc6H4&source_ve_path=MjM4NTE&feature=emb_title",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Zoink",
-            "link": "https://youtu.be/wsEKl_Hbkpc",
-            "percent": 100,
-            "hz": 360
-},
-    {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=suJzDKJ9Tms",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "nei",
-            "link": "https://youtu.be/1nH-LccRhug",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 85612571,
+	"name": "RUTHLESS",
+	"author": "SurJaco",
+	"creators": [
+		"Viper Arctarus, nCylix, Surjaco, Titoalper, Boii, BeClan, Destriv, Aranda, Vitrial, Bli, Motheye, lGenoxide, Roselyne"
+	],
+	"verifier": "vaen",
+	"verification": "https://www.youtube.com/watch?v=9jwVeYtc6H4&source_ve_path=MjM4NTE&feature=emb_title",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/wsEKl_Hbkpc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=suJzDKJ9Tms",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "nei",
+			"link": "https://youtu.be/1nH-LccRhug",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

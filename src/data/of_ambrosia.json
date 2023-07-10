@@ -1,17 +1,17 @@
 {
-    "id": 81583127,
-    "name": "of Ambrosia",
-    "author": "Renn241",
-    "creators": [],
-    "verifier": "cobrablitz",
-    "verification": "https://www.youtube.com/watch?v=0KtPsPVpj78",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=Xa2qoq4LJtA",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 81583127,
+	"name": "of Ambrosia",
+	"author": "Renn241",
+	"creators": [],
+	"verifier": "cobrablitz",
+	"verification": "https://www.youtube.com/watch?v=0KtPsPVpj78",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=Xa2qoq4LJtA",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

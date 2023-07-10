@@ -1,78 +1,80 @@
 {
-    "id": 62151546,
-    "name": "Evangelion",
-    "author": "Yoonsr",
-    "creators": ["Morin, Yoonsr, Lem, BlastBlock, Scopal, Skrypto, Connected, Chuckgamer1, Arithi, Omni, Hawkyre, XGen26"],
-    "verifier": "hawkyre",
-    "verification": "https://www.youtube.com/watch?v=ATh4tbIz0HM",
-    "percentToQualify": 100,
-    "password": "100495",
-    "records": [
-{
-            "user": "Zenta",
-            "link": "https://www.youtube.com/watch?v=EKHjVERD6-g",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Haleks",
-            "link": "https://youtu.be/s6hwYZgRJO8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/Av5XeoTo3bo",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Clara",
-            "link": "https://www.youtube.com/watch?v=-KDExCHYNEU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Seic",
-            "link": "https://www.youtube.com/watch?v=bHIEhGbzTcw&t=1s",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/vi8cjkbtTuc",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Patrick61804",
-            "link": "https://youtu.be/l1qt511umD8",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=UOB8YOWPgEA",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/zScbWJ8a-1M",
-            "percent": 100,
-            "hz": 288
-},
-{
-    "user": "JustXSoos",
-    "link": "https://www.youtube.com/watch?v=cVohHnUEKyY",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/4qGb1FisSb4",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 62151546,
+	"name": "Evangelion",
+	"author": "Yoonsr",
+	"creators": [
+		"Morin, Yoonsr, Lem, BlastBlock, Scopal, Skrypto, Connected, Chuckgamer1, Arithi, Omni, Hawkyre, XGen26"
+	],
+	"verifier": "hawkyre",
+	"verification": "https://www.youtube.com/watch?v=ATh4tbIz0HM",
+	"percentToQualify": 100,
+	"password": "100495",
+	"records": [
+		{
+			"user": "Zenta",
+			"link": "https://www.youtube.com/watch?v=EKHjVERD6-g",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Haleks",
+			"link": "https://youtu.be/s6hwYZgRJO8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/Av5XeoTo3bo",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Clara",
+			"link": "https://www.youtube.com/watch?v=-KDExCHYNEU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Seic",
+			"link": "https://www.youtube.com/watch?v=bHIEhGbzTcw&t=1s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "TheyCallMeEvan",
+			"link": "https://youtu.be/vi8cjkbtTuc",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Patrick61804",
+			"link": "https://youtu.be/l1qt511umD8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=UOB8YOWPgEA",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/zScbWJ8a-1M",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "JustXSoos",
+			"link": "https://www.youtube.com/watch?v=cVohHnUEKyY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Wyse",
+			"link": "https://youtu.be/4qGb1FisSb4",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
