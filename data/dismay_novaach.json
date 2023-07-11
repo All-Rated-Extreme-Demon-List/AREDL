@@ -6,5 +6,12 @@
     "verifier": "Novaach",
     "verification": "https://youtu.be/pkdl2Xo0meo",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "JustXSoos",
+            "link": "https://www.youtube.com/watch?v=eFMJJpiPriI",
+            "percent": 100,
+            "hz": 360
+    }
+    ]
 }
