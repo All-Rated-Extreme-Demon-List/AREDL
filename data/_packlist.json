@@ -323,5 +323,17 @@
             "sonic_wave_infinity"
         ],
         "colour": "#ff0000"
+    },
+    {
+        "name": "Hack Verified Pack",
+        "levels": [
+            "minimum",
+            "slaughterhouse",
+            "zodiac",
+            "devil_vortex",
+            "sonic_wave",
+            "launchpad_labyrinth"
+        ],
+        "colour": "linear-gradient(90deg, rgba(36,64,29,1) 0%, rgba(7,255,0,1) 46%, rgba(36,64,29,1) 100%)"
     }
 ]
