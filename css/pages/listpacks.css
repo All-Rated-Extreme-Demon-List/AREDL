@@ -21,6 +21,7 @@
     cursor: pointer;
     flex-shrink: 0;
     height: 100%;
+    background-size: 100% 100%;
 }
 
 .packs-nav > div {
