@@ -353,5 +353,14 @@
             "tornado"
         ],
         "colour": "linear-gradient(90deg, rgba(238,207,237,1) 0%, rgba(255,255,255,1) 46%, rgba(212,242,241,1) 100%)"
+    },
+    {
+        "name": "Norse Mythology Pack Pack",
+        "levels": [
+            "ragnarok",
+            "niflheim",
+            "niflhel"
+        ],
+        "colour": "linear-gradient(90deg, rgba(143,0,247,1) 0%, rgba(255,159,254,1) 46%, rgba(255,0,179,1) 100%)"
     }
 ]
