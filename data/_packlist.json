@@ -335,5 +335,14 @@
             "launchpad_labyrinth"
         ],
         "colour": "linear-gradient(90deg, rgba(36,64,29,1) 0%, rgba(7,255,0,1) 46%, rgba(36,64,29,1) 100%)"
+    },
+    {
+        "name": "Zoink Pack",
+        "levels": [
+            "acheron",
+            "avernus",
+            "kocmoc"
+        ],
+        "colour": "img("https://media.discordapp.net/attachments/1124524232647397396/1124874669418356868/flabberghasted.png?width=1246&height=701")"
     }
 ]
