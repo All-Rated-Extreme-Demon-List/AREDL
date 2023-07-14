@@ -343,6 +343,15 @@
             "avernus",
             "kocmoc"
         ],
-        "colour": "url("https://media.discordapp.net/attachments/1124524232647397396/1124874669418356868/flabberghasted.png?width=1246&height=701")"
+        "colour": "url(https://media.discordapp.net/attachments/1124524232647397396/1124874669418356868/flabberghasted.png)"
+    },
+    {
+        "name": "Natural Disaster Pack",
+        "levels": [
+            "cyclone",
+            "hurricane",
+            "tornado"
+        ],
+        "colour": "linear-gradient(90deg, rgba(238,207,237,1) 0%, rgba(255,255,255,1) 46%, rgba(212,242,241,1) 100%)"
     }
 ]
