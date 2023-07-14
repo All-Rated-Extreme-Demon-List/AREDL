@@ -6,5 +6,12 @@
     "verifier": "AWESOMEME360",
     "verification": "https://youtu.be/-zu78qYSbNw",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Lia",
+            "link": "https://youtu.be/6yek6IDbRlM",
+            "percent": 100,
+            "hz": 360
+    }
+    ]
 }
