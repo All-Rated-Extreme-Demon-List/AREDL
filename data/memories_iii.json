@@ -6,5 +6,12 @@
     "verifier": "Dorami",
     "verification": "https://youtu.be/XI4SkaFqS5c",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Megu",
+            "link": "https://youtu.be/C9ZQ6VUAW90",
+            "percent": 100,
+            "hz": 360
+    }
+    ]
 }
