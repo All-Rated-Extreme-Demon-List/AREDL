@@ -80,7 +80,7 @@
 .page-list .level-container .level .packs .tag {
     display: flex;
     flex-shrink: 0;
-    background-size: 100% 100%;
+    background-size: 100% 100% !important;
 }
 .page-list .level-container .level .records {
     table-layout: fixed;
