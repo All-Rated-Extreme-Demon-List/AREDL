@@ -313,17 +313,23 @@
         "percent": 100,
         "hz": 360
 },
-{
-    "user": "Daxylitz",
-    "link": "https://www.youtube.com/watch?v=nhEm1behJc0",
-    "percent": 100,
-    "hz": 288
+        {
+            "user": "Daxylitz",
+            "link": "https://www.youtube.com/watch?v=nhEm1behJc0",
+            "percent": 100,
+            "hz": 288
 },
-{
-    "user": "Fantastic Gime",
-    "link": "https://youtu.be/4StNVgx6iEc",
-    "percent": 100,
-    "hz": 288
+        {
+            "user": "Fantastic Gime",
+            "link": "https://youtu.be/4StNVgx6iEc",
+            "percent": 100,
+            "hz": 288
+},
+        {
+            "user": "WitherSlays",
+            "link": "https://youtu.be/uxm57MKFtSg",
+            "percent": 100,
+            "hz": 360
 }
     ]
 }
