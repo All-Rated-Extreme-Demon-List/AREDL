@@ -12,6 +12,7 @@ const roleIconMap = {
     helper: 'user-shield',
     dev: 'code',
     trial: 'user-lock',
+    patreon: 'patreon',
 };
 
 export default {
