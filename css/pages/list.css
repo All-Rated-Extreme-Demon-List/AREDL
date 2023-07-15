@@ -30,6 +30,7 @@
     word-break: normal;
     overflow-wrap: anywhere;
     cursor: pointer;
+    background-size: 100% 100%;
 }
 .page-list .list .level.error button {
     color: var(--color-error);
