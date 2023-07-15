@@ -30,7 +30,6 @@
     word-break: normal;
     overflow-wrap: anywhere;
     cursor: pointer;
-    background-size: 100% 100%;
 }
 .page-list .list .level.error button {
     color: var(--color-error);
@@ -81,6 +80,7 @@
 .page-list .level-container .level .packs .tag {
     display: flex;
     flex-shrink: 0;
+    background-size: 100% 100%;
 }
 .page-list .level-container .level .records {
     table-layout: fixed;
