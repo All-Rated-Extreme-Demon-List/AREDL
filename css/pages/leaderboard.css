@@ -94,6 +94,7 @@
 .page-leaderboard .player .packs .tag {
     display: flex;
     flex-shrink: 0;
+    background-size: 100% 100%;
 }
 
 .page-leaderboard .player .table .level {
