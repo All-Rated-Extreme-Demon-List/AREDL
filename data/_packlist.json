@@ -44,7 +44,7 @@
             "panasonic",
             "subsonic"
         ],
-        "colour": "#0ea8ad"
+        "colour": "linear-gradient(45deg, rgba(255,0,155,1) 0%, rgba(255,235,0,1) 50%, rgba(222,0,255,1) 100%)"
     },
     {
         "name": "Quantum Series",
