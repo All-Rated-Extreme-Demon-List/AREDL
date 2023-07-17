@@ -45,7 +45,6 @@
             "percent": 100,
             "hz": 144
 },
-<<<<<<< HEAD
 {
     "user": "nayR",
     "link": "https://youtu.be/GWw1PEMAznQ",
@@ -57,7 +56,7 @@
     "link": "https://youtu.be/isoLC9Ym0Wc",
     "percent": 100,
     "hz": 144
-=======
+},
         {
             "user": "nayR",
             "link": "https://youtu.be/GWw1PEMAznQ",
@@ -69,7 +68,6 @@
             "link": "https://youtube.com/watch?v=2lmoF-hmS_E",
             "percent": 100,
             "hz": 144
->>>>>>> fe9244760bad1befed831c5a9dc4b96e9da40090
 }
     ]
 }
