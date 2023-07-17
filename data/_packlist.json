@@ -248,7 +248,7 @@
             "sigma",
             "omega"
         ],
-        "colour": "#8a60fc"
+        "colour": "linear-gradient(45deg, rgba(255,0,147,1) 0%, rgba(255,0,207,1) 50%, rgba(255,179,0,1) 100%)"
     },
     {
         "name": "Greek Interface Trilogy",
