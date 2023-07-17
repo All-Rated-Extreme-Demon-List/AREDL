@@ -177,7 +177,7 @@
             "heartbeat",
             "falling_up"
         ],
-        "colour": "#ff0000"
+        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,252,0,1) 50%, rgba(61,36,255,1) 100%)"
     },
     {
         "name": "KrmaL Pack II",
@@ -334,7 +334,8 @@
             "zodiac",
             "devil_vortex",
             "sonic_wave",
-            "launchpad_labyrinth"
+            "launchpad_labyrinth",
+            "le_fishe"
         ],
         "colour": "linear-gradient(90deg, rgba(36,64,29,1) 0%, rgba(7,255,0,1) 46%, rgba(36,64,29,1) 100%)"
     },
