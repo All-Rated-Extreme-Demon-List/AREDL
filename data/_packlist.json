@@ -305,7 +305,7 @@
             "cognition",
             "carcano"
         ],
-        "colour": "#8c8c8c"
+        "colour": "linear-gradient(45deg, rgba(0,245,255,1) 0%, rgba(0,112,255,1) 50%, rgba(105,3,172,1) 100%)"
     },
     {
         "name": "RGB Pack",
