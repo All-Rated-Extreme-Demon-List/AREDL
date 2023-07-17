@@ -35,7 +35,7 @@
             "digital_descent",
             "cybernetic_crescent"
         ],
-        "colour": "#14de39"
+        "colour": "linear-gradient(45deg, rgba(136,0,255,1) 0%, rgba(0,172,255,1) 50%, rgba(10,255,0,1) 100%)"
     },
     {
         "name": "Sonic Series",
