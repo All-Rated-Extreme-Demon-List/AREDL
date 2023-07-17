@@ -314,7 +314,7 @@
             "erebus_rustam",
             "sonic_wave"
         ],
-        "colour": "#ff0000"
+        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,136,0,1) 15%, rgba(245,255,0,1) 30%, rgba(0,255,12,1) 45%, rgba(0,255,243,1) 60%, rgba(16,0,255,1) 75%, rgba(255,0,241,1) 90%)"
     },
     {
         "name": "New RGB Pack",
@@ -323,7 +323,7 @@
             "the_golden",
             "sonic_wave_infinity"
         ],
-        "colour": "#ff0000"
+        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,136,0,1) 15%, rgba(245,255,0,1) 30%, rgba(0,255,12,1) 45%, rgba(0,255,243,1) 60%, rgba(16,0,255,1) 75%, rgba(255,0,241,1) 90%)"
     },
     {
         "name": "Hack Verified Pack",
