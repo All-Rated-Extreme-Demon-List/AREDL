@@ -373,5 +373,14 @@
             "promethean"
         ],
         "colour": "linear-gradient(90deg, rgba(247,0,0,1) 0%, rgba(255,198,46,1) 46%, rgba(255,7,7,1) 100%)"
+    },
+    {
+        "name": "Ocular Miracle Trilogy",
+        "levels": [
+            "reverie",
+            "faith",
+            "diligence"
+        ],
+        "colour": "background-image: linear-gradient(45deg,hsl(240deg 89% 72%) 0%,hsl(275deg 74% 68%) 11%,hsl(306deg 67% 65%) 22%,hsl(326deg 100% 70%) 33%,hsl(337deg 100% 71%) 44%,hsl(352deg 100% 74%) 56%,hsl(10deg 100% 73%) 67%,hsl(23deg 100% 70%) 78%,hsl(33deg 100% 69%) 89%,hsl(41deg 99% 68%) 100%) 100%)"
     }
 ]
