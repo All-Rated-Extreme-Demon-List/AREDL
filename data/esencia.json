@@ -129,12 +129,21 @@
     "link": "https://youtu.be/vt6XEwuFCHo",
     "percent": 100,
     "hz": 360
+<<<<<<< HEAD
+},
+{
+    "user": "ddddr",
+    "link": "https://youtu.be/7S7FjZAD8Ws",
+    "percent": 100,
+    "hz": 144
+=======
 },
 {
     "user": "K2C5",
     "link": "https://www.youtube.com/watch?v=Y3Wt15qLHb0&list=PLPNeRYTGWAXMvEcqpcl37iTDTTP5Pw5VW&index=3",
     "percent": 100,
     "hz": 60
+>>>>>>> fe9244760bad1befed831c5a9dc4b96e9da40090
 }
     ]
 }

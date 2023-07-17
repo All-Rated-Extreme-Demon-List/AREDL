@@ -494,12 +494,21 @@
     "link": "https://www.youtube.com/watch?v=rBZd8P2ofUk",
     "percent": 100,
     "hz": 360
+<<<<<<< HEAD
+},
+{
+    "user": "ddddr",
+    "link": "https://youtu.be/gJi3qYhPhpA",
+    "percent": 100,
+    "hz": 144
+=======
 },
 {
     "user": "pime2005",
     "link": "https://www.youtube.com/watch?v=3VtI8PzM3LM",
     "percent": 100,
     "hz": 165
+>>>>>>> fe9244760bad1befed831c5a9dc4b96e9da40090
 }
     ]
 }
