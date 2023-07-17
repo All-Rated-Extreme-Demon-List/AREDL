@@ -71,7 +71,7 @@
             "bloodbath",
             "aftermath"
         ],
-        "colour": "#ab0009"
+        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,192,0,1) 50%, rgba(245,255,0,1) 100%)"
     },
     {
         "name": "TeamN2 Trilogy",
