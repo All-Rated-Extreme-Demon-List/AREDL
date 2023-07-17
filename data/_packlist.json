@@ -257,7 +257,7 @@
             "sigma_interface",
             "omega_interface"
         ],
-        "colour": "#262626"
+        "colour": "linear-gradient(45deg, rgba(231,0,255,1) 0%, rgba(255,115,0,1) 100%)"
     },
     {
         "name": "Top 1 Pack",
