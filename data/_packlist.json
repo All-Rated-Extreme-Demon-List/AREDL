@@ -138,7 +138,7 @@
             "elliptic_curve",
             "empanadas_fugaces"
         ],
-        "colour": "#e454f7"
+        "colour": "linear-gradient(45deg, rgba(252,0,255,1) 0%, rgba(255,252,0,1) 100%)"
     },
     {
         "name": "Dorami Pack II",
