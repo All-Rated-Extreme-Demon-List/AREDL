@@ -98,7 +98,7 @@
             "requiem",
             "goner"
         ],
-        "colour": "#a200ad"
+        "colour": "linear-gradient(45deg, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 100%)"
     },
     {
         "name": "Silent Pack",
