@@ -382,5 +382,17 @@
             "diligence"
         ],
         "colour": "linear-gradient(45deg, rgba(185,255,254,1) 0%, rgba(255,145,247,1) 75%)"
+    },
+    {
+        "name": "My 13th Reason",
+        "levels": [
+            "requiem",
+            "misfire",
+            "removed_submission",
+            "a1330x",
+            "plasma_pulse_iii",
+            "eternal_entropy"
+        ],
+        "colour": "url('https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/skull.png')"
     }
 ]
