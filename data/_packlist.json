@@ -17,7 +17,7 @@
             "sonic_wave",
             "auditory_breaker"
         ],
-        "colour": "#1438d9"
+        "colour": "linear-gradient(45deg, rgba(0,16,147,1) 0%, rgba(0,4,57,1) 10%, rgba(0,16,147,1) 20%, rgba(0,4,57,1) 30%, rgba(0,16,147,1) 40%, rgba(0,4,57,1) 50%, rgba(0,16,147,1) 60%, rgba(0,4,57,1) 70%, rgba(0,16,147,1) 80%, rgba(0,4,57,1) 90%, rgba(0,16,147,1) 100%)"
     },
     {
         "name": "Vortex Series",
