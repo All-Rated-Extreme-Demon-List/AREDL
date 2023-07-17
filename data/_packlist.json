@@ -164,9 +164,10 @@
         "levels": [
             "phobos",
             "deimos_endlevel",
-            "keres"
+            "quaoar_flosia",
+            "quaoar_viprin"
         ],
-        "colour": "#0a0812"
+        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(223,36,255,1) 50%, rgba(255,242,252,1) 100%)"
     },
     {
         "name": "KrmaL Pack I",
@@ -370,7 +371,8 @@
         "levels": [
             "acheron",
             "tartarus",
-            "promethean"
+            "promethean",
+            "keres"
         ],
         "colour": "linear-gradient(90deg, rgba(247,0,0,1) 0%, rgba(255,198,46,1) 46%, rgba(255,7,7,1) 100%)"
     },
