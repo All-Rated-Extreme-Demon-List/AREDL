@@ -186,7 +186,7 @@
             "low_death",
             "xo"
         ],
-        "colour": "#ffffff"
+        "colour": "linear-gradient(45deg, rgba(128,132,181,1) 0%, rgba(163,112,167,1) 50%, rgba(235,238,148,1) 100%)"
     },
     {
         "name": "hell",
