@@ -239,7 +239,7 @@
             "cataclysm"
 
         ],
-        "colour": "#ab0000"
+        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,243,0,1) 75%)"
     },
     {
         "name": "Greek Letter Trilogy",
