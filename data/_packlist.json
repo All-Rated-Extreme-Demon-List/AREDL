@@ -89,7 +89,7 @@
             "triple_six",
             "killbot"
         ],
-        "colour": "#cd00db"
+        "colour": "linear-gradient(45deg, rgba(0,0,0,1) 0%, rgba(0,255,3,1) 100%)"
     },
     {
         "name": "Memory Pack II",
