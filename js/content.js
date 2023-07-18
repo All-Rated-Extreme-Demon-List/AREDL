@@ -159,14 +159,14 @@ export async function fetchLeaderboard() {
                 let userLevel = allUserLevels.find((lvl) => lvl.path == level);
                 packLevelScores.push(userLevel.score);
             }
-            packLevelScores.forEach((score) => (packScore += score));
-            packScoreMultiplied = packScore * packMultiplier;
+            packLevelScores.forEach((score) => (round(packScore) += score));
+            packScoreMultiplied = round(packScore) * packMultiplier;
         }
 
         let totalWithoutBonus = [verified, completed, progressed]
             .flat()
             .reduce((prev, cur) => prev + cur.score, 0);
-        const total = totalWithoutBonus - packScore + packScoreMultiplied
+        const total = totalWithoutBonus - round(packScore) + packScoreMultiplied
 
         return {
             user,
