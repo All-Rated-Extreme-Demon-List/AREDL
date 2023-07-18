@@ -17,8 +17,8 @@ export default {
         <main v-else class="pack-list">
             <div class="packs-nav">
                 <div>
-                    <button @click="switchLevels(i)" v-for="(pack, i) in packs" :style="{background: pack.colour, color: getFontColour(pack.colour)}" class="type-label-lg">
-                        {{pack.name}}
+                    <button @click="switchLevels(i)" v-for="(pack, i) in packs" :style="{background: pack.colour}" class="type-label-lg">
+                        <p>{{pack.name}}</p>
                     </button>
                 </div>
             </div>

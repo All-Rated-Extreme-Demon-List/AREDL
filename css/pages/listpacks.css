@@ -8,7 +8,7 @@
     width: 100%;
 }
 
-.packs-nav button{
+.packs-nav button {
     border-top-right-radius: 0.75em;
     border-top-left-radius: 0.75em;
     border: none;
@@ -22,6 +22,11 @@
     flex-shrink: 0;
     height: 100%;
     background-size: 100% 100% !important;
+}
+
+.packs-nav button p {
+    mix-blend-mode: difference;
+    color: rgb(128, 128, 128);
 }
 
 .packs-nav > div {
@@ -161,7 +166,7 @@
 }
 .tag {
     font-family: "Lexend Deca", sans-serif;
-    display:block;
+    display: block;
     border-radius: 14px;
     color: white;
     background-color: #5d5d5d;
