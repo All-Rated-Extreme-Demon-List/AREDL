@@ -31,11 +31,17 @@
             "percent": 100,
             "hz": 330
 },
-{
-    "user": "Wyse",
-    "link": "https://youtu.be/C5CZ1OrXj7E",
-    "percent": 100,
-    "hz": 240
+        {
+            "user": "Wyse",
+            "link": "https://youtu.be/C5CZ1OrXj7E",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "DangerNator",
+            "link": "https://youtu.be/Sg0h6OVLGjg",
+            "percent": 100,
+            "hz": 360
 }
     ]
 }

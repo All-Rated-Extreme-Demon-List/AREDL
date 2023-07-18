@@ -26,11 +26,17 @@
             "percent": 100,
             "hz": 360
 },
-{
-    "user": "Ratio",
-    "link": "https://youtu.be/BbX-Kyc-iyQ",
-    "percent": 100,
-    "hz": 240
-    }
+        {
+            "user": "Ratio",
+            "link": "https://youtu.be/BbX-Kyc-iyQ",
+            "percent": 100,
+            "hz": 240
+    },
+            {
+                "user": "Timy",
+                "link": "https://youtu.be/r6bAyjohJ4c",
+                "percent": 100,
+                "hz": 360
+}
     ]
 }
