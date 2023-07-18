@@ -146,11 +146,11 @@
 .page-list .meta .editors .rank li a:hover {
     text-decoration: underline;
 }
-.tag {
+.tag p {
     font-family: "Lexend Deca", sans-serif;
     display:block;
     border-radius: 14px;
-    color: white;
-    background-color: #5d5d5d;
     padding: 7px;
+    mix-blend-mode: difference;
+    color: rgb(128, 128, 128);
 }
