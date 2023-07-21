@@ -1,4 +1,31 @@
 [
+    {   
+        "name": "Top 1 Pack",
+        "levels": [
+            "acheron",
+            "slaughterhouse",
+            "abyss_of_darkness",
+            "sakupen_circles",
+            "firework",
+            "tartarus",
+            "the_golden",
+            "zodiac",
+            "bloodlust",
+            "plasma_pulse_finale",
+            "yatagarasu",
+            "erebus_rustam",
+            "sonic_wave",
+            "digital_descent",
+            "stalemate_redux",
+            "crimson_planet",
+            "artificial_ascent",
+            "sakupen_hell",
+            "athanatos",
+            "bloodbath",
+            "cataclysm"
+        ],
+        "colour": "url('https://media.discordapp.net/attachments/958386446761336882/1130560422915874846/image.png?width=912&height=312')"
+    },
     {
         "name": "Top 3 Pack",
         "levels": [
@@ -83,6 +110,42 @@
         "colour": "linear-gradient(45deg, rgba(156,0,0,1) 0%, rgba(0,181,255,1) 100%)"
     },
     {
+        "name": "Greek Letter Trilogy",
+        "levels": [
+            "gamma",
+            "sigma",
+            "omega"
+        ],
+        "colour": "linear-gradient(45deg, rgba(255,0,147,1) 0%, rgba(255,0,207,1) 50%, rgba(255,179,0,1) 100%)"
+    },
+    {
+        "name": "Greek Interface Trilogy",
+        "levels": [
+            "delta_interface",
+            "sigma_interface",
+            "omega_interface"
+        ],
+        "colour": "linear-gradient(45deg, rgba(231,0,255,1) 0%, rgba(255,115,0,1) 100%)"
+    },
+    {
+        "name": "Natural Disaster Trilogy",
+        "levels": [
+            "cyclone",
+            "hurricane",
+            "tornado"
+        ],
+        "colour": "linear-gradient(90deg, rgba(238,207,237,1) 0%, rgba(255,255,255,1) 46%, rgba(212,242,241,1) 100%)"
+    },
+    {
+        "name": "Ocular Miracle Trilogy",
+        "levels": [
+            "reverie",
+            "faith",
+            "diligence"
+        ],
+        "colour": "linear-gradient(45deg, rgba(185,255,254,1) 0%, rgba(255,145,247,1) 75%)"
+    },
+    {
         "name": "Memory Pack I",
         "levels": [
             "maybe_possibly_thing",
@@ -98,7 +161,67 @@
             "requiem",
             "goner"
         ],
+        
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 100%)"
+    },
+    {
+        "name": "Dorami Pack I",
+        "levels": [
+            "violently_x",
+            "firepower_mrlorenzo",
+            "elliptic_curve",
+            "empanadas_fugaces"
+        ],
+        "colour": "linear-gradient(45deg, rgba(252,0,255,1) 0%, rgba(255,252,0,1) 100%)"
+    },
+    {
+        "name": "Dorami Pack II",
+        "levels": [
+            "azure_fiesta",
+            "snowfall_fiesta",
+            "delebit_oblivio",
+            "the_yandere"
+        ],
+        "colour": "linear-gradient(45deg, rgba(252,0,255,1) 0%, rgba(255,252,0,1) 100%)"
+    },
+    {
+        "name": "KrmaL Pack I",
+        "levels": [
+            "conical_depression",
+            "elite_z_rebirth",
+            "heartbeat",
+            "falling_up"
+        ],
+        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,252,0,1) 50%, rgba(61,36,255,1) 100%)"
+    },
+    {
+        "name": "KrmaL Pack II",
+        "levels": [
+            "black_blizzard",
+            "low_death",
+            "xo"
+        ],
+        "colour": "linear-gradient(45deg, rgba(128,132,181,1) 0%, rgba(163,112,167,1) 50%, rgba(235,238,148,1) 100%)"
+    },
+    {
+        "name": "ALL CAPS PACK 1",
+        "levels": [
+            "tantrum",
+            "glisten",
+            "fish_fish_godmode",
+            "kub"
+        ],
+        "colour": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,115,121,1) 49%, rgba(0,142,255,1) 100%)"
+    },
+    {
+        "name": "ALL CAPS PACK 2",
+        "levels": [
+            "meltdown",
+            "plus_ultra",
+            "ilovecyan",
+            "rtx_on"
+        ],
+        "colour": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,115,121,1) 49%, rgba(0,142,255,1) 100%)"
     },
     {
         "name": "Silent Pack",
@@ -131,26 +254,6 @@
         "colour": "url('https://www.msc.org/images/default-source/msc-english/content-banner/fish-to-eat/fish-to-eat---shorthand-style-912/herring_sh.tmb-labelhome.jpg?Status=Master&sfvrsn=864041bc_1')"
     },
     {
-        "name": "Dorami Pack I",
-        "levels": [
-            "violently_x",
-            "firepower_mrlorenzo",
-            "elliptic_curve",
-            "empanadas_fugaces"
-        ],
-        "colour": "linear-gradient(45deg, rgba(252,0,255,1) 0%, rgba(255,252,0,1) 100%)"
-    },
-    {
-        "name": "Dorami Pack II",
-        "levels": [
-            "azure_fiesta",
-            "snowfall_fiesta",
-            "delebit_oblivio",
-            "the_yandere"
-        ],
-        "colour": "linear-gradient(45deg, rgba(252,0,255,1) 0%, rgba(255,252,0,1) 100%)"
-    },
-    {
         "name": "Beginner Pack",
         "levels": [
             "acu",
@@ -168,124 +271,6 @@
             "quaoar_viprin"
         ],
         "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(223,36,255,1) 50%, rgba(255,242,252,1) 100%)"
-    },
-    {
-        "name": "KrmaL Pack I",
-        "levels": [
-            "conical_depression",
-            "elite_z_rebirth",
-            "heartbeat",
-            "falling_up"
-        ],
-        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,252,0,1) 50%, rgba(61,36,255,1) 100%)"
-    },
-    {
-        "name": "KrmaL Pack II",
-        "levels": [
-            "black_blizzard",
-            "low_death",
-            "xo"
-        ],
-        "colour": "linear-gradient(45deg, rgba(128,132,181,1) 0%, rgba(163,112,167,1) 50%, rgba(235,238,148,1) 100%)"
-    },
-    {
-        "name": "hell",
-        "levels": [
-            "acheron",
-            "avernus",
-            "slaughterhouse",
-            "athanatos",
-            "arcturus",
-            "tartarus",
-            "kenos",
-            "promethean",
-            "superhatemeworld",
-            "crimson_planet",
-            "bloodlust",
-            "molten_core",
-            "dedohexdragon",
-            "necromancer",
-            "yatagarasu",
-            "misfire",
-            "the_hell_nutz",
-            "the_hell_dignity",
-            "the_hell_origin",
-            "the_hell_world",
-            "the_hell_inferno",
-            "the_hell_zone",
-            "the_hell_field",
-            "the_hell_factory",
-            "the_hell_bird",
-            "devil_vortex",
-            "step_to_hell",
-            "nightmare_chasm",
-            "bass_cave",
-            "sinister_incision",
-            "pandemonium",
-            "infernal_abyss",
-            "asmodeus",
-            "sakupen_hell",
-            "bloodbath",
-            "under_lavaland",
-            "hateful_reflection",
-            "gang_plank_hell",
-            "aftermath",
-            "triple_six",
-            "reverence",
-            "mjolnir",
-            "acrozis",
-            "necropolix",
-            "the_flawless",
-            "pulsation",
-            "cataclysm"
-
-        ],
-        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,243,0,1) 75%)"
-    },
-    {
-        "name": "Greek Letter Trilogy",
-        "levels": [
-            "gamma",
-            "sigma",
-            "omega"
-        ],
-        "colour": "linear-gradient(45deg, rgba(255,0,147,1) 0%, rgba(255,0,207,1) 50%, rgba(255,179,0,1) 100%)"
-    },
-    {
-        "name": "Greek Interface Trilogy",
-        "levels": [
-            "delta_interface",
-            "sigma_interface",
-            "omega_interface"
-        ],
-        "colour": "linear-gradient(45deg, rgba(231,0,255,1) 0%, rgba(255,115,0,1) 100%)"
-    },
-    {
-        "name": "Top 1 Pack",
-        "levels": [
-            "acheron",
-            "slaughterhouse",
-            "abyss_of_darkness",
-            "sakupen_circles",
-            "firework",
-            "tartarus",
-            "the_golden",
-            "zodiac",
-            "bloodlust",
-            "plasma_pulse_finale",
-            "yatagarasu",
-            "erebus_rustam",
-            "sonic_wave",
-            "digital_descent",
-            "stalemate_redux",
-            "crimson_planet",
-            "artificial_ascent",
-            "sakupen_hell",
-            "athanatos",
-            "bloodbath",
-            "cataclysm"
-        ],
-        "colour": "url('https://media.discordapp.net/attachments/958386446761336882/1130560422915874846/image.png?width=912&height=312')"
     },
     {
         "name": "Femboy Pack",
@@ -351,15 +336,6 @@
         "colour": "url('https://media.discordapp.net/attachments/1124524232647397396/1124874669418356868/flabberghasted.png')"
     },
     {
-        "name": "Natural Disaster Pack",
-        "levels": [
-            "cyclone",
-            "hurricane",
-            "tornado"
-        ],
-        "colour": "linear-gradient(90deg, rgba(238,207,237,1) 0%, rgba(255,255,255,1) 46%, rgba(212,242,241,1) 100%)"
-    },
-    {
         "name": "Norse Mythology Pack",
         "levels": [
             "ragnarok",
@@ -380,13 +356,58 @@
         "colour": "linear-gradient(90deg, rgba(247,0,0,1) 0%, rgba(255,198,46,1) 46%, rgba(255,7,7,1) 100%)"
     },
     {
-        "name": "Ocular Miracle Trilogy",
+        "name": "hell",
         "levels": [
-            "reverie",
-            "faith",
-            "diligence"
+            "acheron",
+            "avernus",
+            "slaughterhouse",
+            "athanatos",
+            "arcturus",
+            "tartarus",
+            "kenos",
+            "promethean",
+            "superhatemeworld",
+            "crimson_planet",
+            "bloodlust",
+            "molten_core",
+            "dedohexdragon",
+            "necromancer",
+            "yatagarasu",
+            "misfire",
+            "the_hell_nutz",
+            "the_hell_dignity",
+            "the_hell_origin",
+            "the_hell_world",
+            "the_hell_inferno",
+            "the_hell_zone",
+            "the_hell_field",
+            "the_hell_factory",
+            "the_hell_bird",
+            "devil_vortex",
+            "step_to_hell",
+            "nightmare_chasm",
+            "bass_cave",
+            "sinister_incision",
+            "pandemonium",
+            "infernal_abyss",
+            "asmodeus",
+            "sakupen_hell",
+            "bloodbath",
+            "under_lavaland",
+            "hateful_reflection",
+            "gang_plank_hell",
+            "aftermath",
+            "triple_six",
+            "reverence",
+            "mjolnir",
+            "acrozis",
+            "necropolix",
+            "the_flawless",
+            "pulsation",
+            "cataclysm"
+
         ],
-        "colour": "linear-gradient(45deg, rgba(185,255,254,1) 0%, rgba(255,145,247,1) 75%)"
+        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,243,0,1) 75%)"
     },
     {
         "name": "My 13th Reason",
@@ -399,25 +420,5 @@
             "eternal_entropy"
         ],
         "colour": "url('https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/skull.png')"
-    },
-    {
-        "name": "ALL CAPS PACK 1",
-        "levels": [
-            "tantrum",
-            "glisten",
-            "fish_fish_godmode",
-            "kub"
-        ],
-        "colour": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,115,121,1) 49%, rgba(0,142,255,1) 100%)"
-    },
-    {
-        "name": "ALL CAPS PACK 2",
-        "levels": [
-            "meltdown",
-            "plus_ultra",
-            "ilovecyan",
-            "rtx_on"
-        ],
-        "colour": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,115,121,1) 49%, rgba(0,142,255,1) 100%)"
     }
 ]
