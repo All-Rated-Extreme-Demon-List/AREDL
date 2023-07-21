@@ -36,17 +36,6 @@
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 0%, rgba(212,208,208,1) 50%, rgba(255,255,255,1) 100%)"
     },
     {
-        "name": "Sonic Wave Pack",
-        "levels": [
-            "sonic_wave_infinity",
-            "generic_wave",
-            "sonic_wave_rebirth",
-            "sonic_wave",
-            "auditory_breaker"
-        ],
-        "colour": " linear-gradient(45deg, rgba(0,28,255,1) 0%, rgba(0,4,57,1) 10%, rgba(0,28,255,1) 20%, rgba(0,4,57,1) 30%, rgba(0,28,255,1) 40%, rgba(0,4,57,1) 50%, rgba(0,28,255,1) 60%, rgba(0,4,57,1) 70%, rgba(0,28,255,1) 80%, rgba(0,4,57,1) 90%, rgba(0,28,255,1) 100%)"
-    },
-    {
         "name": "Vortex Series",
         "levels": [
             "balengu_vortex",
@@ -354,6 +343,17 @@
             "keres"
         ],
         "colour": "linear-gradient(90deg, rgba(247,0,0,1) 0%, rgba(255,198,46,1) 46%, rgba(255,7,7,1) 100%)"
+    },
+    {
+        "name": "Sonic Wave Pack",
+        "levels": [
+            "sonic_wave_infinity",
+            "generic_wave",
+            "sonic_wave_rebirth",
+            "sonic_wave",
+            "auditory_breaker"
+        ],
+        "colour": " linear-gradient(45deg, rgba(0,28,255,1) 0%, rgba(0,4,57,1) 10%, rgba(0,28,255,1) 20%, rgba(0,4,57,1) 30%, rgba(0,28,255,1) 40%, rgba(0,4,57,1) 50%, rgba(0,28,255,1) 60%, rgba(0,4,57,1) 70%, rgba(0,28,255,1) 80%, rgba(0,4,57,1) 90%, rgba(0,28,255,1) 100%)"
     },
     {
         "name": "hell",
