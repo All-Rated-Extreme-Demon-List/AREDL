@@ -213,6 +213,24 @@
         "colour": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,115,121,1) 49%, rgba(0,142,255,1) 100%)"
     },
     {
+        "name": "RGB Pack",
+        "levels": [
+            "yatagarasu",
+            "erebus_rustam",
+            "sonic_wave"
+        ],
+        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,136,0,1) 15%, rgba(245,255,0,1) 30%, rgba(0,255,12,1) 45%, rgba(0,255,243,1) 60%, rgba(16,0,255,1) 75%, rgba(255,0,241,1) 90%)"
+    },
+    {
+        "name": "New RGB Pack",
+        "levels": [
+            "tartarus",
+            "the_golden",
+            "sonic_wave_infinity"
+        ],
+        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,136,0,1) 15%, rgba(245,255,0,1) 30%, rgba(0,255,12,1) 45%, rgba(0,255,243,1) 60%, rgba(16,0,255,1) 75%, rgba(255,0,241,1) 90%)"
+    },
+    {
         "name": "Silent Pack",
         "levels": [
             "silent_clubstep",
@@ -281,24 +299,6 @@
             "carcano"
         ],
         "colour": "linear-gradient(45deg, rgba(0,245,255,1) 0%, rgba(0,112,255,1) 50%, rgba(105,3,172,1) 100%)"
-    },
-    {
-        "name": "RGB Pack",
-        "levels": [
-            "yatagarasu",
-            "erebus_rustam",
-            "sonic_wave"
-        ],
-        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,136,0,1) 15%, rgba(245,255,0,1) 30%, rgba(0,255,12,1) 45%, rgba(0,255,243,1) 60%, rgba(16,0,255,1) 75%, rgba(255,0,241,1) 90%)"
-    },
-    {
-        "name": "New RGB Pack",
-        "levels": [
-            "tartarus",
-            "the_golden",
-            "sonic_wave_infinity"
-        ],
-        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,136,0,1) 15%, rgba(245,255,0,1) 30%, rgba(0,255,12,1) 45%, rgba(0,255,243,1) 60%, rgba(16,0,255,1) 75%, rgba(255,0,241,1) 90%)"
     },
     {
         "name": "Hack Verified Pack",
