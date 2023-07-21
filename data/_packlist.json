@@ -399,5 +399,25 @@
             "eternal_entropy"
         ],
         "colour": "url('https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/skull.png')"
+    },
+    {
+        "name": "ALL CAPS PACK 1",
+        "levels": [
+            "tantrum",
+            "glisten",
+            "fish_fish_godmode",
+            "kub"
+        ],
+        "colour": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,115,121,1) 49%, rgba(0,142,255,1) 100%)"
+    },
+    {
+        "name": "ALL CAPS PACK 2",
+        "levels": [
+            "meltdown",
+            "plus_ultra",
+            "ilovecyan",
+            "rtx_on"
+        ],
+        "colour": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,115,121,1) 49%, rgba(0,142,255,1) 100%)"
     }
 ]
