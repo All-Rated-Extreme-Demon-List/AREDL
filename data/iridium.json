@@ -6,5 +6,10 @@
     "verifier": "Zeus",
     "verification": "https://www.youtube.com/watch?v=V2oyvAEJhXU&t=0s",
     "percentToQualify": 100,
-    "records": []
+    "records": [{
+        "user": "HotNooB",
+        "link": "https://youtube.com/watch?v=un4qZLFY6qo&feature=share7",
+        "percent": 100,
+        "hz": 360
+}]
 }
