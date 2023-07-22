@@ -6,5 +6,12 @@
     "verifier": "NAILZ",
     "verification": "https://youtu.be/oXYWITEzZBQ",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "HotNooB",
+            "link": "https://youtu.be/kMb-27R8DNI",
+            "percent": 100,
+            "hz": 360
+    }
+    ]
 }
