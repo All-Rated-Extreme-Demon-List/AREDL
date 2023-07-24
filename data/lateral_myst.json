@@ -6,5 +6,12 @@
     "verifier": "Extravagon",
     "verification": "https://www.youtube.com/watch?v=BC3dFTJTRqc",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "ddddr",
+            "link": "https://youtu.be/7EcAbpM454Q",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
