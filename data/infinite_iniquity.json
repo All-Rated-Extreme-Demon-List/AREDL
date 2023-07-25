@@ -3,11 +3,17 @@
     "name": "Infinite Iniquity",
     "author": "Flukester ",
     "creators": ["Flukester","Jood","DreamTide","Stamina","Victorinox","Nico99","Jghost217","Waffl3x","Kookie Monster","MrMeurick","HelpegasuS","MrPPs","DrSlurrp","Hyenaedon","Enzore","xStar7","Pleoslim","SirZaiss","nampac","Zoroa GD","PrivateChaos","CreatorDino"],
-    "verifier": "skycrab",
-    "verification": "https://www.youtube.com/watch?v=1VkfNxf8_qM",
+    "verifier": "-",
+    "verification": "https://www.youtube.com/watch?v=mL_An0vv8T0",
     "percentToQualify": 100,
     "password": "200356",
     "records": [
+        {
+            "user": "skycrab",
+            "link": "https://youtu.be/1VkfNxf8_qM",
+            "percent": 100,
+            "hz": 360
+},
     {
             "user": "YTkerfuffles",
             "link": "https://youtu.be/XEfJhq3vthU",
