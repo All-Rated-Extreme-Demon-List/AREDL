@@ -116,11 +116,17 @@
             "hz": 60,
             "mobile": true
 },
-{
-    "user": "ddddr",
-    "link": "https://youtu.be/k131QxK9iLc",
-    "percent": 100,
-    "hz": 144
+        {
+            "user": "ddddr",
+            "link": "https://youtu.be/k131QxK9iLc",
+            "percent": 100,
+            "hz": 144
+},
+        {
+            "user": "Gnamolor",
+            "link": "https://www.youtube.com/watch?v=aOOychz8twQ",
+            "percent": 100,
+            "hz": 240
 }
     ]
 }
