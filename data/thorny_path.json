@@ -6,5 +6,12 @@
     "verifier": "Meatius",
     "verification": "https://youtu.be/pMcypSVD73s",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "HotNooB",
+            "link": "https://youtube.com/watch?v=ZUigG01OpIw&feature=share7",
+            "percent": 100,
+            "hz": 360
+    }
+    ]
 }
