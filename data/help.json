@@ -6,5 +6,13 @@
     "verifier": "llertt",
     "verification": "https://youtu.be/1oJtXIc9IxA",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Dep96",
+            "link": "https://www.youtube.com/watch?v=lbHapBapCWg",
+            "percent": 100,
+            "hz": 360
+    }
+    
+    ]
 }
