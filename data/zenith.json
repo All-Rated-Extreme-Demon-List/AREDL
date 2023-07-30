@@ -7,17 +7,23 @@
     "verification": "https://www.youtube.com/watch?v=88Wnj9ZxAKk",
     "percentToQualify": 100,
     "records": [
-    {
+        {
             "user": "Lia",
             "link": "https://youtu.be/Qi25V3OXboQ",
             "percent": 100,
             "hz": 360
 },
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/OmslZ47Iq4A",
-    "percent": 100,
-    "hz": 288
+        {
+            "user": "HotNooB",
+            "link": "https://youtu.be/OmslZ47Iq4A",
+            "percent": 100,
+            "hz": 288
+},
+        {
+            "user": "ultracauaHD",
+            "link": "https://www.youtube.com/watch?v=LBlWffnThqU",
+            "percent": 100,
+            "hz": 360
 }
     ]
 }

@@ -8,16 +8,24 @@
     "percentToQualify": 100,
     "records": [
     {
-        "user": "HotNooB",
-        "link": "https://youtu.be/sBg8-eQHKJM",
-        "percent": 100,
-        "hz": 360
+            "user": "HotNooB",
+            "link": "https://youtu.be/sBg8-eQHKJM",
+            "percent": 100,
+            "hz": 360
 },
         {
-        "user": "Zenta",
-        "link": "https://youtu.be/sJLQgE80MqI",
-        "percent": 100,
-        "hz": 360
-}   
+            "user": "Zenta",
+            "link": "https://youtu.be/sJLQgE80MqI",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "ultracauaHD",
+            "link": "https://www.youtube.com/watch?v=Zgo185YXBFQ",
+            "percent": 100,
+            "hz": 360
+}
+
+
     ]
 }

@@ -8,16 +8,22 @@
     "percentToQualify": 100,
     "records": [
     {
-            "user": "TheyCallMeEvan",
-            "link": "https://youtu.be/t1NdIKSHIqE",
-            "percent": 100,
-            "hz": 240
-    },
+        "user": "TheyCallMeEvan",
+        "link": "https://youtu.be/t1NdIKSHIqE",
+        "percent": 100,
+        "hz": 240
+},
     {
         "user": "HotNooB",
         "link": "https://youtu.be/iYTmJ_aivPw",
         "percent": 100,
         "hz": 288
+},
+{
+        "user": "ultracauaHD",
+        "link": "https://www.youtube.com/watch?v=00pHOJBhvmY",
+        "percent": 100,
+        "hz": 360
 }
         ]
 }

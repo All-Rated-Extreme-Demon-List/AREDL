@@ -86,10 +86,10 @@
             "hz": 360
 },
         {
-        "user": "HotNooB",
-        "link": "https://youtu.be/W_XPjrAM6GA",
-        "percent": 100,
-        "hz": 288
+            "user": "HotNooB",
+            "link": "https://youtu.be/W_XPjrAM6GA",
+            "percent": 100,
+            "hz": 288
 },
         {
             "user": "Wyse",
@@ -127,6 +127,12 @@
             "link": "https://www.youtube.com/watch?v=aOOychz8twQ",
             "percent": 100,
             "hz": 240
+},
+        {
+            "user": "ultracauaHD",
+            "link": "https://www.youtube.com/watch?v=iblz_zwdpKg",
+            "percent": 100,
+            "hz": 360
 }
     ]
 }
