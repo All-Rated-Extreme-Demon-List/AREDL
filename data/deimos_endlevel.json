@@ -2,7 +2,7 @@
     "id": 52955167,
     "name": "Deimos",
     "author": "Endlevel",
-    "creators": [],
+    "creators": ["EndLevel", "Cypher", "sqrl", "Straw", "Splash", "Kugelblitz", "BoldStep", "Zenith", "Eggnog", "TrueOm3ga", "Hexhammer", "Metalface221", "EternaswipVMAX", "Jihn"],
     "verifier": "npesta",
     "verification": "https://www.youtube.com/watch?v=FgxsNzQnF5o",
     "percentToQualify": 100,
@@ -19,6 +19,12 @@
         "link": "https://www.youtube.com/watch?v=qvnWxPQmpNk&ab_channel=woi",
         "percent": 100,
         "hz": 300
+},
+{
+    "user": "Reptilian",
+    "link": "https://www.youtube.com/watch?v=5V1uzl5DXdM",
+    "percent": 100,
+    "hz": 360
 }
     ]
 }
