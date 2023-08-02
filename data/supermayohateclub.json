@@ -7,5 +7,18 @@
     "verification": "https://youtu.be/f8Xbn5_v59w",
     "percentToQualify": 100,
     "password": "230523",
-    "records": []
+    "records": [
+        {
+            "user": "HotNooB",
+            "link": "https://youtu.be/58EFwy8F6Os",
+            "percent": 100,
+            "hz": 360
+    },
+    {
+        "user": "ddddr",
+        "link": "https://youtu.be/WOtN0Q40Wvk",
+        "percent": 100,
+        "hz": 360
+    }
+    ]
 }
