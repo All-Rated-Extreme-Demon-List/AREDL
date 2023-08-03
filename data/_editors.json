@@ -48,9 +48,9 @@
                 "name": "Chubby9000",
                 "link": "link goes here"
             },
-            {
-                "name": "Flörian",
-                "link": "link goes here"
+            {  
+                "name":"jacob",
+                "link": "https://youtube.com/@smjacob."
             },
             {
                 "name": "Minebox260",
@@ -97,10 +97,6 @@
                 "name":"DaMeister",
                 "link": "https://www.youtube.com/channel/UCHFwGVNPDLvtp440RZ5_oEQ"
             },
-            {  
-                "name":"jacob",
-                "link": "https://youtube.com/@smjacob."
-            },
             {
                 "name": "Shinn",
                 "link": "https://www.youtube.com/channel/UCMtnSt56pjWHDvOUJ_xvbZw"
@@ -108,6 +104,10 @@
             {
                 "name": "EvilEmperium",
                 "link": "https://www.youtube.com/channel/UCpYR5IK4cjD8jz4ow-oNuJw"
+            },
+            {
+                "name": "Flörian",
+                "link": "link goes here"
             }
         ]
     },
