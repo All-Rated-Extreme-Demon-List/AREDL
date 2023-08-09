@@ -1,18 +1,18 @@
-import { store } from '../main.js';
-import { embed, getFontColour } from '../util.js';
-import { score } from '../score.js';
-import { fetchEditors, fetchList } from '../content.js';
+import { store } from "../main.js";
+import { embed, getFontColour } from "../util.js";
+import { score } from "../score.js";
+import { fetchEditors, fetchList } from "../content.js";
 
-import Spinner from '../components/Spinner.js';
-import LevelAuthors from '../components/List/LevelAuthors.js';
+import Spinner from "../components/Spinner.js";
+import LevelAuthors from "../components/List/LevelAuthors.js";
 
 const roleIconMap = {
-    owner: 'crown',
-    admin: 'user-gear',
-    helper: 'user-shield',
-    dev: 'code',
-    trial: 'user-lock',
-    patreon: 'patreon',
+    owner: "crown",
+    admin: "user-gear",
+    helper: "user-shield",
+    dev: "code",
+    trial: "user-lock",
+    patreon: "patreon",
 };
 
 export default {
@@ -93,6 +93,11 @@ export default {
                     <div class="og">
                         <p class="type-label-md">Original List by <a href="https://tsl.pages.dev/#/" target="_blank">TheShittyList</a></p>
                     </div>
+                    <a class="patreon-promotion" href="https://patreon.com/aredl" target="_blank">
+                        <p><img src="/assets/patreon-logo.svg"></img>Consider: AREDL+</p>
+                        <p>Help financially support AREDL to keep the site afloat (and improve it) and get some perks in return</p>
+
+                    </a>
                     <template v-if="editors">
                         <h3 align="center">List Editors</h3>
                         <ol class="editors">
