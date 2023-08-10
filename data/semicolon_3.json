@@ -8,10 +8,10 @@
     "percentToQualify": 100,
     "records": [
         {
-        "user": "JustXSoos",
-        "link": "https://www.youtube.com/watch?v=ivja771vpb0",
-        "percent": 100,
-        "hz": 360
+            "user": "JustXSoos",
+            "link": "https://www.youtube.com/watch?v=ivja771vpb0",
+            "percent": 100,
+            "hz": 360
 },
         {
             "user": "HotNooB",
@@ -53,6 +53,12 @@
         {
             "user": "ultracauaHD",
             "link": "https://www.youtube.com/watch?v=uEnEoy_bQ6g",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Lelzi",
+            "link": "https://youtu.be/AkdJpk6sI54",
             "percent": 100,
             "hz": 360
 }
