@@ -8,6 +8,12 @@
     "percentToQualify": 100,
     "records": [
         {
+            "user": "Lelzi",
+            "link": "https://youtu.be/AkdJpk6sI54",
+            "percent": 100,
+            "hz": 360
+},
+        {
             "user": "JustXSoos",
             "link": "https://www.youtube.com/watch?v=ivja771vpb0",
             "percent": 100,
@@ -61,12 +67,6 @@
     "link": "https://www.youtube.com/watch?v=32ORIjnGVaE",
     "percent": 100,
     "hz": 165
-},
-        {
-            "user": "Lelzi",
-            "link": "https://youtu.be/AkdJpk6sI54",
-            "percent": 100,
-            "hz": 360
 }
     ]
 }
