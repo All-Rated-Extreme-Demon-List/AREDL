@@ -17,6 +17,13 @@
             "link": "https://youtube.com/watch?v=r3zxFd7LWzw&feature=shareb",
             "percent": 100,
             "hz": 360
-        }
+},
+        {
+            "user": "AdeptConqueror",
+            "link": "https://youtu.be/RGkS6rqJ-2M",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+}
 ]
 }
