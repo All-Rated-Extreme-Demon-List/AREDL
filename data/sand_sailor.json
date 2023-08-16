@@ -6,5 +6,11 @@
     "verifier": "nei",
     "verification": "https://www.youtube.com/watch?v=QPmzn9X77Uo",
     "percentToQualify": 100,
-    "records": []
+    "records": [{
+        "user": "MwHey",
+        "link": "https://youtu.be/AvFl_RNpvso",
+        "percent": 100,
+        "hz": 360
+}
+]
 }
