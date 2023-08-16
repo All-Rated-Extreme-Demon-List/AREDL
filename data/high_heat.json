@@ -6,5 +6,12 @@
     "verifier": "Bibox",
     "verification": "https://youtu.be/0U1vr82Djfg",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "HotNooB",
+            "link": "https://youtu.be/FmgLEYYAQsk",
+            "percent": 100,
+            "hz": 360
+    }
+    ]
 }
