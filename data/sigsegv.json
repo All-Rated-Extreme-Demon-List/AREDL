@@ -6,5 +6,19 @@
     "verifier": "Sminx",
     "verification": "https://youtu.be/RkKn5HWqpIM",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+        "user": "JoacoPe",
+        "link": "https://youtu.be/AwrrqYXbmFA",
+        "percent": 100,
+        "hz": 120
+},
+{
+    "user": "Nicoolat",
+    "link": "https://youtu.be/pblzWm_Tq3c",
+    "percent": 100,
+    "hz": 60,
+    "mobile": true
+}
+    ]
 }
