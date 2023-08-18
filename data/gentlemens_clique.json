@@ -6,5 +6,18 @@
     "verifier": "DnuoZ, NathanYAY",
     "verification": "https://youtu.be/iiHKeqY65o8",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Fantastic Gime",
+            "link": "https://youtu.be/0qo_msPVqMA?si=RoA4ZtoSuKlzjImN",
+            "percent": 100,
+            "hz": 360
+    },
+    {
+        "user": "HotNooB",
+        "link": "https://youtu.be/AoigUoc-yGg?si=3j_Llv-6wIp9oNaU",
+        "percent": 100,
+        "hz": 360
+}
+    ]
 }
