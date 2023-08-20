@@ -6,5 +6,12 @@
     "verifier": "CooperSuper",
     "verification": "https://youtu.be/feMj66huRR8",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "ddddr",
+            "link": "https://youtu.be/xtDuNh903zk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
