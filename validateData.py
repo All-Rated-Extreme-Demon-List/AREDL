@@ -8,18 +8,36 @@ def validateData():
     validator = URLValidator()
     current_dir = os.path.join(os.getcwd(), "data")
     list_path = os.path.join(current_dir, "_list.json")
+    legacy_list_path = os.path.join(current_dir, "_legacy.json")
     levels = []
     had_error = False
     with open(list_path, "r") as file:
-        levels = json.load(file)
+        try:
+            levels = json.load(file)
+        except ValueError as e:
+            print(f"Invalid json in file _list.json: {str(e)}")
+            sys.exit(1)
+        
+    with open(legacy_list_path, "r") as file:
+        try:
+            legacy = json.load(file)
+            levels.extend(legacy)
+        except ValueError as e:
+            print(f"Invalid json in file _legacy.json: {str(e)}")
+            sys.exit(1)
         
     for filename in levels:
-        if filename.startswith("_"):
-                continue
         file_path = os.path.join(current_dir, f"{filename}.json")
         lines = []
         with open(file_path, "r") as file:
-            data = json.load(file)
+            data = []
+            try:
+                data = json.load(file)
+            except ValueError as e:
+                print(f"Invalid json in file {filename}: {str(e)}")
+                had_error = True
+                continue
+                
             records = data["records"]
             names = []
             try:
