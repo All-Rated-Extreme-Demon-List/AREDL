@@ -8,11 +8,17 @@
     "percentToQualify": 100,
     "password": "No Copy",
     "records": [
-{
-        "user": "SkeletalVirus",
-        "link": "https://youtu.be/ivL_OcHECc0",
-        "percent": 100,
-        "hz": 360
+        {
+            "user": "SkeletalVirus",
+            "link": "https://youtu.be/ivL_OcHECc0",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Fruitsalad",
+            "link": "https://www.youtube.com/watch?v=QVmcZ10wzCs",
+            "percent": 100,
+            "hz": 144
 }
         
     ]
