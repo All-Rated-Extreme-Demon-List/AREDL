@@ -6,5 +6,12 @@
     "verifier": "addsomething",
     "verification": "https://youtu.be/DdaHPVf48ek?si=AwQODayItno3vmA9",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "ddddr",
+            "link": "https://youtu.be/HZvE9BM6Zx4?si=NSgZIowlFOvhdEWF",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
