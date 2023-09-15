@@ -6,5 +6,12 @@
     "verifier": "Slijee",
     "verification": "https://youtu.be/QUpzux7AoTI?si=mRfujT3L9mEceyt8",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Teno",
+            "link": "https://www.youtube.com/watch?v=B7I2HU4p56o&t=35s",
+            "percent": 100,
+            "hz": 360
+    }
+    ]
 }
