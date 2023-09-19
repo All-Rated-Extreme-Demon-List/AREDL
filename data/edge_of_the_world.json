@@ -1,9 +1,9 @@
 {
     "id": 83697006,
     "name": "Edge of the World",
-    "author": "L4tezk",
-    "creators": ["Luksa", "WhitePythor", "Manheadrambo", "XinpA", "FlaksY", "L4tezk", "Lumihiutale", "ked", "DreamZoneGD", "Novaach", "Jiikoo", "Ultimxte", "LapoGD", "Custi", "Miikkem"],
-    "verifier": "L4tezk",
+    "author": "l4tezk",
+    "creators": ["Luksa", "WhitePythor", "Manheadrambo", "XinpA", "FlaksY", "l4tezk", "Lumihiutale", "ked", "DreamZoneGD", "Novaach", "Jiikoo", "Ultimxte", "LapoGD", "Custi", "Miikkem"],
+    "verifier": "l4tezk",
     "verification": "https://www.youtube.com/watch?v=QWy1RnPDCWk",
     "percentToQualify": 100,
     "records": [
@@ -40,6 +40,12 @@
 {
     "user": "Teno",
     "link": "https://www.youtube.com/watch?v=sL9ZaSJc2ao&t=12s",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "ked",
+    "link": "https://youtu.be/a1wFa9V1a8Q?si=CTVK26hOfRmOVWOv",
     "percent": 100,
     "hz": 360
 }

@@ -2,7 +2,7 @@
     "id": 84325817,
     "name": "TROLLMACHINE",
     "author": "TROLLM4CHINE",
-    "creators": ["Tsuzuito", "Vitchr\u00c3\u00b8se", "LATEO", "Ishigiru", "Luvery", "\u00c3\u02dcRT\u00ce\u017e", "TROLLM4CHINE", "Lagnugg"],
+    "creators": ["Tsuzuito", "Vitchrose", "LATEO", "Ishigiru", "Luvery", "RT", "TROLLM4CHINE", "Lagnugg"],
     "verifier": "> x <",
     "verification": "https://www.youtube.com/watch?v=VSw1c3L8szo",
     "percentToQualify": 100,
@@ -285,6 +285,12 @@
     "link": "https://youtu.be/YzP_dk1qgHU?si=0OvFECoW51TJ_kUF",
     "percent": 100,
     "hz": 240
+},
+{
+    "user": "apeljus",
+    "link": "https://www.youtube.com/watch?v=yzU-zVKWZjI&t=168s",
+    "percent": 100,
+    "hz": 120
 }
     ]
 }
