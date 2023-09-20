@@ -144,22 +144,22 @@ export default {
                         When submitting your record, please ensure that you have the following:
                     </p>
                     <p>
-                        Your recording is a complete playthrough of the level from 0-100 without any cuts (if there are cuts in your video please include raw footage that doesn't have the cuts)
+                        - Your recording is a complete playthrough of the level from 0-100 without any cuts (if there are cuts in your video please include raw footage that doesn't have the cuts)
                     </p>
                      <p>
-                        Your completion needs to have clicks. If it doesn't, you have to provide a raw footage with clicks. If you don't, your record will be rejected.
+                        - Your completion needs to have clicks. If it doesn't, you have to provide a raw footage with clicks. If you don't, your record will be rejected.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        - Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        - The record has been achieved without using a secret way or a bugged route
                     </p>
                     <p>
-                        Refer to <a href="https://docs.google.com/spreadsheets/d/1evE4nXATxRAQWu2Ajs54E6cVUqHBoSid8I7JauJnOzg/edit?usp=sharing">This Sheet</a> for a list of allowed and disallowed hacks
+                        - If a level gets an update, you will have to rebeat it if it ends up buffing the level.
                     </p>
                     <p>
-                        You need to rebeat an updated level if the previous version is harder than the current one.
+                        - Refer to <a href="https://docs.google.com/spreadsheets/d/1evE4nXATxRAQWu2Ajs54E6cVUqHBoSid8I7JauJnOzg/edit?usp=sharing">=This Sheet=</a> for a list of allowed and disallowed hacks
                     </p>
                     <p>
                         For levels in the top 250, you also need to provide raw footage or a screenshot of a pointercrate record.
