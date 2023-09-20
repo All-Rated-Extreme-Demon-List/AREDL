@@ -141,25 +141,22 @@ export default {
                     </p>
                     <h3>> Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        When submitting your record, please ensure that you have the following:
+                    </p>
+                    <p>
+                        Your recording is a complete playthrough of the level from 0-100 without any cuts (if there are cuts in your video please include raw footage that doesn't have the cuts)
+                    </p>
+                     <p>
+                        Your completion needs to have clicks. If it doesn't, you have to provide a raw footage with clicks. If you don't, your record will be rejected.
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
-                    </p>
-                    <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
-                    </p>
-                    <p>
                         Do not use secret routes or bug routes
                     </p>
                     <p>
-                        Do not use Banned Hacks (You can find the list of hacks that we both allow and don't allow further down on the page)
-                    </p>
-                    <p>
-                        Your completion needs to have clicks. If it doesn't, you have to provide a raw footage with clicks. If you don't, your record will be rejected.
+                        Refer to <a href="https://docs.google.com/spreadsheets/d/1evE4nXATxRAQWu2Ajs54E6cVUqHBoSid8I7JauJnOzg/edit?usp=sharing"This Sheet> for a list of allowed and disallowed hacks
                     </p>
                     <p>
                         You need to rebeat an updated level if the previous version is harder than the current one.
@@ -168,44 +165,6 @@ export default {
                         For levels in the top 250, you also need to provide raw footage or a screenshot of a pointercrate record.
                     </p>
                     <p>
-                       <h3>> Allowed Hacks / Modifications</h3>
-                    </p>
-                    <p>
-                       - LDMs / ULDMs
-                    </p>
-                    <p>
-                       - Show Hitboxes on Death
-                    </p>
-                    <p>
-                       - Cosmetic Hacks (Show / Hide Player Trail, RGB Icons, etc)
-                    </p>
-                    <p>
-                       - Speedhack above x1 Speed
-                    </p>
-                    <p>
-                       <h3>> Banned Hacks</h3>
-                    </p>
-                    <p>
-                       - Noclip
-                    </p>
-                    <p>
-                       - Speedhack below x1 Speed
-                    </p>
-                    <p>
-                       - Show Hitboxes
-                    </p>
-                    <p>
-                       - Show Layout
-                    </p>
-                    <p>
-                       - Replay Bot / Macro
-                    </p>
-                    <p>
-                       - No Mirror
-                    </p>
-                    <p>
-                       - Hitbox Multiplier
-                    </p>
                 </div>
             </div>
         </main>
