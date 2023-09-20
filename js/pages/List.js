@@ -156,7 +156,7 @@ export default {
                         Do not use secret routes or bug routes
                     </p>
                     <p>
-                        Refer to <a href="https://docs.google.com/spreadsheets/d/1evE4nXATxRAQWu2Ajs54E6cVUqHBoSid8I7JauJnOzg/edit?usp=sharing"This Sheet> for a list of allowed and disallowed hacks
+                        Refer to <a href="https://docs.google.com/spreadsheets/d/1evE4nXATxRAQWu2Ajs54E6cVUqHBoSid8I7JauJnOzg/edit?usp=sharing">This Sheet</a> for a list of allowed and disallowed hacks
                     </p>
                     <p>
                         You need to rebeat an updated level if the previous version is harder than the current one.
