@@ -156,16 +156,13 @@ export default {
                         Do not use secret routes or bug routes
                     </p>
                     <p>
-                        Do not use Banned Hacks (<a href="https://docs.google.com/document/d/1AsQS0WH_OzPAzS7avtAB4e8rnYhoqWnFsV068Tcu5VU/edit?usp=sharing" target="_blank">Full List of Allowed / Banned hacks listed here</a>)
+                        Do not use Banned Hacks (You can find the list of hacks that we both allow and don't allow further down on the page)
                     </p>
                     <p>
                         Your completion needs to have clicks. If it doesn't, you have to provide a raw footage with clicks. If you don't, your record will be rejected.
                     </p>
                     <p>
-                        You need to rebeat an updated level if the previous version is easier than the current one.
-                    </p>
-                    <p>
-                        You need a full completion from 0 - 100% (excluding long endscreens where you can't die). If your video is corrupted, we will reject your record
+                        You need to rebeat an updated level if the previous version is harder than the current one.
                     </p>
                     <p>
                         For levels in the top 250, you also need to provide raw footage or a screenshot of a pointercrate record.
