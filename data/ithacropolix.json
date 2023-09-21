@@ -6,5 +6,12 @@
     "verifier": "cobrablitz",
     "verification": "https://youtu.be/n4nbu_fZcf4",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "ViperVenom95",
+            "link": "https://www.youtube.com/watch?v=8BzWfpjwvvo",
+            "percent": 100,
+            "hz": 360
+    }
+    ]
 }
