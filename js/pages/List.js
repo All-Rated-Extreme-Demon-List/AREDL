@@ -156,15 +156,23 @@ export default {
                         - The record has been achieved without using a secret way or a bugged route
                     </p>
                     <p>
+                        - Cheat Indicator (If you are using a mod menu that supports one, like Megahack v7)
+                    </p>
+                    <p>
+                        - End stats (The whole box must appear for at least one frame)
+                    </p>
+                    <p>
+                        - FPS/TPS Counter (For mod menus that support one (must NOT exceed 360 on either))
+                    </p>
+                    <p>
                         - If a level gets an update, you will have to rebeat it if it ends up buffing the level.
                     </p>
                     <p>
-                        - Refer to <a href="https://docs.google.com/spreadsheets/d/1evE4nXATxRAQWu2Ajs54E6cVUqHBoSid8I7JauJnOzg/edit?usp=sharing">=This Sheet=</a> for a list of allowed and disallowed hacks
+                        - Raw footage AND clicks will ALWAYS be required for levels in the top 250.
                     </p>
                     <p>
-                        For levels in the top 250, you also need to provide raw footage or a screenshot of a pointercrate record.
+                        - Refer to <a href="https://docs.google.com/spreadsheets/d/1evE4nXATxRAQWu2Ajs54E6cVUqHBoSid8I7JauJnOzg/edit?usp=sharing">-This Sheet-</a> for a list of allowed and disallowed hacks
                     </p>
-                    <p>
                 </div>
             </div>
         </main>
