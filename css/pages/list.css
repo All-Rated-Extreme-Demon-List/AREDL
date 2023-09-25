@@ -146,41 +146,7 @@
 .page-list .meta .editors .rank li a:hover {
     text-decoration: underline;
 }
-.page-list .meta .patreon-promotion {
-    display: flex;
-    flex-direction: column;
-    gap: 1em;
-    background: linear-gradient(145deg, #1DF777, #05D1E5);
-    padding: 1em 2em;
-    border-radius: 1em;
-    border: 3px solid #032720;
-    color: black;
 
-}
-.page-list .meta .patreon-promotion button {
-    background: linear-gradient(-45deg, #1DF777, #05D1E5);
-    padding: 1em 2em;
-    border-radius: 1em;
-    border: 2px solid #032720;
-    color: black;
-    position: relative;
-    font-weight: bold;
-    font-size: medium;
-    z-index: 999;
-}
-.page-list .meta .patreon-promotion p:first-child {
-    text-decoration: underline;
-    text-underline-offset: 2px;
-    color: #006EFF;
-    text-shadow: 0 0 3px #388eff;
-    display: flex;
-    align-items: center;
-}
-.page-list .meta .patreon-promotion p:first-child img {
-    height: 1.5rem;
-    display: inline;
-    margin-right: 0.5em;
-}
 .tag p {
     font-family: "Lexend Deca", sans-serif;
     display:block;
