@@ -3665,6 +3665,14 @@
     "link": "https://www.youtube.com/watch?v=oPJGdZnLfWs",
     "percent": 100,
     "hz": 60
+<<<<<<< HEAD
+},
+{
+    "user": "KrNati",
+    "link": "https://youtu.be/_Evg4i1Wy3E?list=PLnvu499YjZJi76uJNJ9UaYZOAtBcAa7L5",
+    "percent": 100,
+    "hz": 300
+=======
 },
 {
     "user": "ruubyy",
@@ -3707,6 +3715,13 @@
     "link": "https://www.youtube.com/watch?v=OPGbwDulEJw&t=165s&ab_channel=MaZeLaZeR",
     "percent": 100,
     "hz": 240
+>>>>>>> 20167d46d02463670f85fe6641a9a4bded3b77f4
+},
+{
+    "user": "reqlized",
+    "link": "https://www.youtube.com/watch?v=CsufofE1oNw",
+    "percent": 100,
+    "hz": 165
 }
-]
+     ]
 }
