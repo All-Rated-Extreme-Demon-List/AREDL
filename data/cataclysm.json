@@ -2684,7 +2684,6 @@
     "link": "https://www.youtube.com/watch?v=t8VxXqWISo4&t=1s&ab_channel=MaZeLaZeR",
     "percent": 100,
     "hz": 240
-<<<<<<< HEAD
 },
 {
     "user": "reqlized",
@@ -2696,14 +2695,13 @@
     "user": "RedGD",
     "link": "https://youtu.be/8gNtanDGcDs?si=tOKrddeyFZaoXg_C",
     "percent": 100,
-    "hz": 330
-} ]
-=======
+    "hz": 330 
 },
 {
     "user": "KrNati",
     "link": "https://youtu.be/BLnfhdh1aBI",
     "percent": 100,
     "hz": 360
->>>>>>> 24ba3b49bdd3e18d004ed47edd9b8d4fe1360c03
+}
+]
 }
