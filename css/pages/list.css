@@ -80,7 +80,7 @@
 .page-list .level-container .level .packs .tag {
     display: flex;
     flex-shrink: 0;
-    background-size: 100% 100% !important;
+    background-size: 100% 100%;
 }
 .page-list .level-container .level .records {
     table-layout: fixed;
@@ -152,6 +152,4 @@
     display:block;
     border-radius: 14px;
     padding: 7px;
-    mix-blend-mode: difference;
-    color: rgb(128, 128, 128);
 }

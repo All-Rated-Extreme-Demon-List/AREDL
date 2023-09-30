@@ -94,7 +94,7 @@ export default {
                         <p class="type-label-md">Original List by <a href="https://tsl.pages.dev/#/" target="_blank">TheShittyList</a></p>
                     </div>
                     <template v-if="editors">
-                        <h3 align="center">List Editors</h3>
+                        <h3>List Editors</h3>
                         <ol class="editors">
                             <ol class="rank" v-for="rank in editors">
                                 <li v-for="member in rank.members">
@@ -105,14 +105,14 @@ export default {
                             </ol>
                         </ol>
                     </template>
-                    <h3>> How to Submit Records</h3>
+                    <h3> How to Submit Records</h3>
                     <p>
                         Join the discord, and  use /record submit
                     </p>
                     <p>
                         If your records hasn't accepted or denied after 1 week of submitting it, please resubmit the record again
                     </p>
-                    <h3>> Why was my record denied?</h3>
+                    <h3> Why was my record denied?</h3>
                     <p>
                         If your record was denied, please check the following
                     </p>
@@ -134,7 +134,7 @@ export default {
                     <p>
                         If the record was wrongfully denied, please make a post in #support or DM any list staff on Discord
                     </p>
-                    <h3>> Submission Requirements</h3>
+                    <h3> Submission Requirements</h3>
                     <p>
                         When submitting your record, please ensure that you have the following:
                     </p>
@@ -201,7 +201,7 @@ export default {
                     .filter(([_, err]) => err)
                     .map(([_, err]) => {
                         return `Failed to load level. (${err}.json)`;
-                    })
+                    }),
             );
             if (!this.editors) {
                 this.errors.push("Failed to load list editors.");
@@ -214,6 +214,6 @@ export default {
     methods: {
         embed,
         score,
-        getFontColour,
+        getFontColour
     },
 };
