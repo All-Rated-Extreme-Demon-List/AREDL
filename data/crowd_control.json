@@ -1,7 +1,7 @@
 {
     "id": 69491632,
     "name": "Crowd Control",
-    "author": "zDeadlox",
+    "author": "Deadlox",
     "creators": ["Deadlox", "EndLevel", "Ka1ns", "Ewop", "End", "Silver"],
     "verifier": "xander",
     "verification": "https://www.youtube.com/watch?v=-q0iBUZti9s",
@@ -665,7 +665,7 @@
     "hz": 360
 },
 {
-    "user": "delooGD",
+    "user": "TheDeltaGMD",
     "link": "https://www.youtube.com/watch?v=XacC_sUaZ00",
     "percent": 100,
     "hz": 180
@@ -715,6 +715,18 @@
 {
     "user": "Kicek",
     "link": "https://www.youtube.com/watch?v=XVuoNVFShJo",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "mrzhuk",
+    "link": "https://www.youtube.com/watch?v=G2MGISC7Mgg",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "SantGMD",
+    "link": "https://youtu.be/77uwRUBv-FI?si=f39SoRCNDB-qmxxh",
     "percent": 100,
     "hz": 360
 }

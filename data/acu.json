@@ -1296,7 +1296,7 @@
             "hz": 240
 },
         {
-            "user": "D2x19",
+            "user": "haileyfox",
             "link": "https://youtu.be/WXsVpkpKGRU",
             "percent": 100,
             "hz": 360
@@ -1315,7 +1315,7 @@
             "hz": 360
 },
         {
-            "user": "KrisYaYT",
+            "user": "KrisYa",
             "link": "https://www.youtube.com/watch?v=qRb2nXQLQRY&t=81s",
             "percent": 100,
             "hz": 240
@@ -3667,6 +3667,12 @@
     "hz": 60
 },
 {
+    "user": "KrNati",
+    "link": "https://youtu.be/_Evg4i1Wy3E?list=PLnvu499YjZJi76uJNJ9UaYZOAtBcAa7L5",
+    "percent": 100,
+    "hz": 300
+},
+{
     "user": "ruubyy",
     "link": "https://www.youtube.com/watch?v=CoGh472IHuQ",
     "percent": 100,
@@ -3674,9 +3680,69 @@
 },
 {
     "user": "BoDkInZ",
-    "link": "https://www.youtube.com/watch?v=zqWgWMUQR8Y&t=10s",
+    "link": "https://www.youtube.com/watch?v=zqWgWMUQR8Y",
     "percent": 100,
     "hz": 240
+},
+{
+    "user": "nagetka",
+    "link": "https://drive.google.com/file/d/1Rhm9ibsTBCMs6cEydQIekk_f3ml-oSWd",
+    "percent": 100,
+    "hz": 144
+},
+{
+    "user": "CryoForce",
+    "link": "https://www.youtube.com/watch?v=YuYode1hO5o",
+    "percent": 100,
+    "hz": 120
+},
+{
+    "user": "Brian_Cheese",
+    "link": "https://www.youtube.com/watch?v=bt9kOVBa4I0&t=5s",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "Hunter",
+    "link": "https://youtu.be/gBy2KGWuA8g",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "MaZe LaZeR",
+    "link": "https://www.youtube.com/watch?v=OPGbwDulEJw&t=165s&ab_channel=MaZeLaZeR",
+    "percent": 100,
+    "hz": 240
+},
+{
+    "user": "reqlized",
+    "link": "https://www.youtube.com/watch?v=CsufofE1oNw",
+    "percent": 100,
+    "hz": 165
+},
+{
+    "user": "WildPoint",
+    "link": "https://www.youtube.com/watch?v=i-PScfOfmvY",
+    "percent": 100,
+    "hz": 240
+},
+{
+    "user": "CrabbyCrab101",
+    "link": "https://youtu.be/GyZYU2W86OA?si=oCJJQHbMP4tva5zw",
+    "percent": 100,
+    "hz": 240
+},
+{
+    "user": "DrewGMD",
+    "link": "https://youtu.be/kx8eZvn5Rk0?si=tH5WHJNMYNh4hik3",
+    "percent": 100,
+    "hz": 240
+},
+{
+    "user": "thisisbrendon",
+    "link": "https://www.youtube.com/watch?v=1lcJngpJ0aU",
+    "percent": 100,
+    "hz": 144
 }
-]
+     ]
 }
