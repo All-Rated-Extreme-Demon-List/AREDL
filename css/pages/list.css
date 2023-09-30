@@ -120,30 +120,27 @@
     color: var(--color-on-error);
     border-radius: 0.5rem;
 }
-.page-list .meta .editors {
+.page-list .meta .editors .rank {
     display: flex;
-    align-items: center;
     flex-direction: column;
     gap: 0.75rem;
 }
-.page-list .meta .editors .rank {
+
+.page-list .meta .editors {
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
     gap: 0.75rem;
-    justify-content: center;
-    background-color: rgba(255, 255, 255, 0.1);
-    border-radius: 0.5rem;
-    padding: 0.5rem;
 }
-.page-list .meta .editors .rank li {
+
+.page-list .meta .editors li {
     display: flex;
     align-items: center;
     gap: 0.5rem;
 }
-.page-list .meta .editors .rank li img {
+.page-list .meta .editors li img {
     height: 1.25rem;
 }
-.page-list .meta .editors .rank li a:hover {
+.page-list .meta .editors li a:hover {
     text-decoration: underline;
 }
 

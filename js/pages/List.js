@@ -42,7 +42,7 @@ export default {
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
                     <div class="packs" v-if="level.packs.length > 0">
-                        <div v-for="pack in level.packs" class="tag" :style="{background:pack.colour}">
+                        <div v-for="pack in level.packs" class="tag" :style="{background:pack.colour, color:getFontColour(pack.colour)}">
                             <p>{{pack.name}}</p>
                         </div>
                     </div>
@@ -201,7 +201,7 @@ export default {
                     .filter(([_, err]) => err)
                     .map(([_, err]) => {
                         return `Failed to load level. (${err}.json)`;
-                    }),
+                    })
             );
             if (!this.editors) {
                 this.errors.push("Failed to load list editors.");
@@ -214,6 +214,6 @@ export default {
     methods: {
         embed,
         score,
-        getFontColour
+        getFontColour,
     },
 };
