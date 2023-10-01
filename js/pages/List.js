@@ -168,6 +168,9 @@ export default {
                     <p>
                         - Refer to <a href="https://docs.google.com/spreadsheets/d/1evE4nXATxRAQWu2Ajs54E6cVUqHBoSid8I7JauJnOzg/edit?usp=sharing">-This Sheet-</a> for a list of allowed and disallowed hacks
                     </p>
+                    <p>
+                        Valhalla is a dipshit - SkeletalVirus
+                    </p>
                 </div>
             </div>
         </main>
