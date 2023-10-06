@@ -160,9 +160,6 @@ export default {
                         - FPS/TPS Counter (For mod menus that support one (must NOT exceed 360 on either))
                     </p>
                     <p>
-                        - If a level gets an update, you will have to rebeat it if it ends up buffing the level.
-                    </p>
-                    <p>
                         - Raw footage AND clicks will ALWAYS be required for levels in the top 250.
                     </p>
                     <p>
