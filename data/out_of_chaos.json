@@ -6,5 +6,12 @@
     "verifier": "MP3141",
     "verification": "https://youtu.be/ouFYh2R0EYY?si=DGU7QLanaakg3pSj",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "HotNooB",
+            "link": "https://youtu.be/heZEC9ZDvu4?si=LwQ1U91anljn1Hqr",
+            "percent": 100,
+            "hz": 360
+    }
+    ]
 }
