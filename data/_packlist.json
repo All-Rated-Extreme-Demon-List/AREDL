@@ -255,8 +255,8 @@
         "name": "Beginner Pack",
         "levels": [
             "acu",
-            "troll_level",
-            "cataclysm"
+            "cataclysm",
+            "niwa"
         ],
         "colour": "linear-gradient(45deg, rgba(0,190,255,1) 0%, rgba(255,141,231,1) 50%, rgba(255,0,0,1) 100%)"
     },
@@ -277,7 +277,8 @@
             "fragile",
             "wasureta",
             "kuzureta",
-            "misfire"
+            "misfire",
+            "niwa"
         ],
         "colour": "url('https://steamuserimages-a.akamaihd.net/ugc/2024968295732239045/514AB17708A792AF2206262AD053E028897B7A0D/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false`)"
     },
@@ -301,7 +302,14 @@
             "launchpad_labyrinth",
             "le_fishe",
             "phobos",
-            "ego_killing"
+            "ego_killing",
+            "zaphkiel",
+            "cataclysm",
+            "the_ultimate_phase",
+            "mujigae",
+            "sakupen_hell",
+            "fexty",
+            "red_world"
         ],
         "colour": "linear-gradient(90deg, rgba(36,64,29,1) 0%, rgba(7,255,0,1) 46%, rgba(36,64,29,1) 100%)"
     },
@@ -421,5 +429,17 @@
             "brimtanic_paradise"
         ],
         "colour": "linear-gradient(45deg, rgba(39,18,98,1) 0%, rgba(145,62,172,1) 50%, rgba(246,189,255,1) 100%)"
+    },
+    {
+        "name": "Nine Circles Pack",
+        "levels": [
+            "molten_core",
+            "hateful_reflection",
+            "mujigae",
+            "tenth_circle",
+            "cat_planet",
+            "cerebral_hemorrhage"
+        ],
+        "colour": "linear-gradient(45deg, rgba(36,0,0,1) 0%, rgba(121,9,9,1) 35%, rgba(255,0,0,1) 100%)"
     }
 ]
