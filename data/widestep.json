@@ -6,5 +6,12 @@
     "verifier": "Demishio",
     "verification": "https://www.youtube.com/watch?v=TN8fHN_XV3o&t=76s",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=CqkLoFNLDvk",
+            "percent": 100,
+            "hz": 360
+    }
+    ]
 }
