@@ -6,5 +6,18 @@
     "verifier": "LordVadercraft",
     "verification": "https://youtu.be/C-LFHgp-oU0?si=AqjiuGJGSuzadyRS",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Megu",
+            "link": "https://youtu.be/GKl5ZYU7EM8?si=GY1S1awiBM6ekG0X",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ddddr",
+            "link": "https://youtu.be/vPye7hFfY80?si=iDIuMoVpGwcPeBaR",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
