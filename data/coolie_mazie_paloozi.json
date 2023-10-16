@@ -6,5 +6,12 @@
     "verifier": "BiDeapthBear",
     "verification": "https://youtu.be/NvPoTnd0ztU?si=C6kng7J466A_K2gY",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Gecko",
+            "link": "https://youtu.be/FlNTx9d-NYI?si=vTODYkcdrQ2Ar8wD",
+            "percent": 100,
+            "hz": 240
+    }
+    ]
 }
