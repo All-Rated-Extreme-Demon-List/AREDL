@@ -19,11 +19,18 @@
             "percent": 100,
             "hz": 120
     },
-    {
-        "user": "Dep96",
-        "link": "https://www.youtube.com/watch?v=30HSVKuuKoE",
-        "percent": 100,
-        "hz": 360
+        {
+            "user": "Dep96",
+            "link": "https://www.youtube.com/watch?v=30HSVKuuKoE",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "gawrguralover",
+            "link": "https://youtu.be/YapqOH4y2gQ?si=irmUJtqk_YVjra9g",
+            "percent": 100,
+            "hz": 90,
+            "mobile": true
 }
     ]
 }
