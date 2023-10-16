@@ -7,17 +7,23 @@
     "verification": "https://youtu.be/l2MUWqEO0bY?si=-T9yoVnprWwGTaV5",
     "percentToQualify": 100,
     "records": [
-        {
-            "user": "ddddr",
-            "link": "https://youtu.be/8dph6g-6euA?si=RQhHVOnepUCYIaf4",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "xBlank",
-            "link": "https://youtu.be/QlTVHviKZZk?si=KXPgryKlu9P14iEE",
-            "percent": 100,
-            "hz": 144
+    {
+        "user": "ddddr",
+        "link": "https://youtu.be/8dph6g-6euA?si=RQhHVOnepUCYIaf4",
+        "percent": 100,
+        "hz": 360
+    },
+    {
+        "user": "xBlank",
+        "link": "https://youtu.be/QlTVHviKZZk?si=KXPgryKlu9P14iEE",
+        "percent": 100,
+        "hz": 144
+    },
+    {
+        "user": "HotNooB",
+        "link": "https://youtu.be/xyveowjslhg?si=gm0yyFuuA8_rpCtB",
+        "percent": 100,
+        "hz": 360
     }
     ]
 }
