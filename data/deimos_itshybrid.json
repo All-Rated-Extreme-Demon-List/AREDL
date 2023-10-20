@@ -6,5 +6,12 @@
     "verifier": "Doggie",
     "verification": "https://youtu.be/b2yHaIk5zio?si=oSFcRu4OCZekSqoy",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Zoink",
+            "link": "https://youtu.be/ts2VkfMvzqE?si=oxL9DLYxdQuh-7a7",
+            "percent": 100,
+            "hz": 360
+}
+    ]
 }

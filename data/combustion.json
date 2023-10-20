@@ -6,5 +6,12 @@
     "verifier": "Slithium",
     "verification": "https://youtu.be/3cTR4XUcA28?si=Nr3emvtXCHQ3Kzp8",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Zoink",
+            "link": "https://youtu.be/UsfNCarKnTY?si=3OCjoUAvN_LcivHJ",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
