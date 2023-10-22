@@ -4,7 +4,7 @@
  * 
  * current basefactor for minpoints = 1
  */
-const basefactor = 0.0005832492374192035997815;
+const baseFactor = 0.0005832492374192035997815;
 
 const scale = 1;
 
@@ -17,7 +17,7 @@ const scale = 1;
  * @returns {Number}
  */
 export function score(rank, percent, minPercent, levelCount) {
-    const b = (levelCount - 1) * basefactor
+    const b = (levelCount - 1) * baseFactor
     const a = 600 * Math.sqrt(b)
 
     let score = (a / Math.sqrt((rank - 1) / 50 + b) - 100) *
