@@ -32,6 +32,19 @@ export function score(rank, percent, minPercent, levelCount) {
     return round(score);
 }
 
+export function calculateScores(levelCount) {
+    const b = (levelCount - 1) * baseFactor;
+    const a = 600 * Math.sqrt(b);
+
+    let scores = [];
+    for (let rank = 0; rank < levelCount; ++rank) {
+        const score = (a / Math.sqrt(rank / 50 + b) - 100);
+        scores.push(round(score));
+    }
+
+    return scores;
+}
+
 export function round(num) {
     if (!('' + num).includes('e')) {
         return +(Math.round(num + 'e+' + scale) + 'e-' + scale);

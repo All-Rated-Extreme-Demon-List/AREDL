@@ -58,7 +58,7 @@ export async function fetchLeaderboard() {
     const scoreMap = {};
     const errs = [];
     const packMultiplier = 1.5;
-    const levelCount = list.length
+    const scoreLookup = calculateScores(list.levelCount)
     list.forEach(([level, err], rank) => {
         if (err) {
             errs.push(err);
@@ -80,7 +80,7 @@ export async function fetchLeaderboard() {
         verified.push({
             rank: rank + 1,
             level: level.name,
-            score: score(rank + 1, 100, level.percentToQualify, levelCount),
+            score: scoreLookup[rank],
             link: level.verification,
             path: level.path,
         });
@@ -102,7 +102,7 @@ export async function fetchLeaderboard() {
                 completed.push({
                     rank: rank + 1,
                     level: level.name,
-                    score: score(rank + 1, 100, level.percentToQualify, levelCount),
+                    score: scoreLookup[rank],
                     link: record.link,
                     path: level.path,
                 });
@@ -113,7 +113,7 @@ export async function fetchLeaderboard() {
                 rank: rank + 1,
                 level: level.name,
                 percent: record.percent,
-                score: score(rank + 1, record.percent, level.percentToQualify, levelCount),
+                score: scoreLookup[rank],
                 link: record.link,
                 path: level.path,
             });
