@@ -6,5 +6,12 @@
     "verifier": "kedavra",
     "verification": "https://youtu.be/u0XpvmXBMDg?si=exhJbq4ol25a0yhe",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+        "user": "Bleamer",
+        "link": "https://www.youtube.com/watch?v=ZO21MQF7CoE",
+        "percent": 100,
+        "hz": 360
+}
+    ]
 }
