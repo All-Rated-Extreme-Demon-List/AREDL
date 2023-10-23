@@ -6,6 +6,7 @@ import { round, calculateScores } from "./score.js";
 const dir = "/data";
 
 export async function fetchList() {
+    console.log("startfetch")
     const listResult = await fetch(`${dir}/_list.json`);
     const packResult = await fetch(`${dir}/_packlist.json`);
     try {
@@ -36,6 +37,7 @@ export async function fetchList() {
                 }
             })
         );
+        console.log("endfetch")
     } catch {
         console.error(`Failed to load list.`);
         return null;
