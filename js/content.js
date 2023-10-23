@@ -59,6 +59,7 @@ export async function fetchLeaderboard() {
     const errs = [];
     const packMultiplier = 1.5;
     const scoreLookup = calculateScores(list.levelCount)
+    console.log(scoreLookup)
     list.forEach(([level, err], rank) => {
         if (err) {
             errs.push(err);
