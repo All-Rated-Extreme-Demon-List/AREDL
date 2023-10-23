@@ -6,7 +6,6 @@ import { round, calculateScores } from "./score.js";
 const dir = "/data";
 
 export async function fetchList() {
-    console.log("startfetch")
     const listResult = await fetch(`${dir}/_list.json`);
     const packResult = await fetch(`${dir}/_packlist.json`);
     try {
@@ -55,7 +54,6 @@ export async function fetchEditors() {
 
 export async function fetchLeaderboard() {
     const list = await fetchList();
-    console.log("endfetch")
     const packResult = await (await fetch(`${dir}/_packlist.json`)).json();
     const scoreMap = {};
     const errs = [];
