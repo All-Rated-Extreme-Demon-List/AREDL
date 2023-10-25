@@ -3,7 +3,7 @@ import sys
 import json
 from django.core.validators import URLValidator
 from django.core.exceptions import ValidationError
-
+ 
 def validateData():
     validator = URLValidator()
     current_dir = os.path.join(os.getcwd(), "data")
