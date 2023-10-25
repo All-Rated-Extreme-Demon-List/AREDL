@@ -1177,12 +1177,6 @@
     "hz": 120
 },
 {
-    "user": "ImOneOfThem",
-    "link": "https://youtu.be/JWTzBsaFjOE?si=Je6wqStfiCq05d3z",
-    "percent": 100,
-    "hz": 240
-},
-{
     "user": "Stoicism",
     "link": "https://youtu.be/gMuadED42Po?si=kAPoq4caSelGeat2",
     "percent": 100,
@@ -1265,6 +1259,13 @@
     "link": "https://www.youtube.com/watch?v=mK7-90NKsWU",
     "percent": 100,
     "hz": 240
+},
+{
+    "user": "ImOneOfThem",
+    "link": "https://youtu.be/mbpRd-P8qeY?si=QamnQ1730CTP7CwA",
+    "percent": 100,
+    "hz": 120,
+    "mobile": true
 }
     ]
 }
