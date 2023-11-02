@@ -9,7 +9,7 @@
     "records": [
     {
             "user": "NCKPlayZ",
-            "link": "https://www.youtube.com/watch?v=nIb1CuP5vzY",
+            "link": "https://www.youtube.com/watch?v=nIb1CuP5",
             "percent": 100,
             "hz": 360
         },
@@ -789,6 +789,12 @@
     "link": "https://youtu.be/WC0CH7QxoDA?si=WlI16auleVbhrXsN",
     "percent": 100,
     "hz": 360
+},
+{
+    "user": "BrentBeni",
+    "link": "https://www.youtube.com/watch?v=fJ2v1eRaSP8",
+    "percent": 100,
+    "hz": 300
 }
     ]
 }
