@@ -6,5 +6,18 @@
     "verifier": "madamEllyza",
     "verification": "https://youtu.be/Up5wzz0nvq0?si=S3g_QN2liLLcVauh",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Vink",
+            "link": "https://youtu.be/qnkaobF8suY?si=1VPGx2td0JNF-STD",
+            "percent": 100,
+            "hz": 240
+    },
+    {
+        "user": "ddddr",
+        "link": "https://youtu.be/IH0aKvWfxRc?si=oGAgsrkLFQvMD-Dq",
+        "percent": 100,
+        "hz": 360
+    }
+    ]
 }
