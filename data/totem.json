@@ -3,8 +3,8 @@
     "name": "Totem",
     "author": "Kivvvi",
     "creators": [],
-    "verifier": "DashY",
-    "verification": "https://www.youtube.com/watch?v=S_FKBTmbwwc",
+    "verifier": "Bleamer",
+    "verification": "https://youtu.be/zjuHxSal16g?si=Kv70TK_-0lN7p_uo",
     "percentToQualify": 100,
     "records": [
         {
@@ -56,8 +56,15 @@
     "hz": 240
 },
 {
-    "user": "Bleamer",
-    "link": "https://youtu.be/zjuHxSal16g?si=Kv70TK_-0lN7p_uo",
+    "user": "DashY",
+    "link": "https://youtu.be/S_FKBTmbwwc?si=ZdkneX-HXP15uVu-",
+    "percent": 100,
+    "hz": 60,
+    "mobile": true
+},
+{
+    "user": "Cork",
+    "link": "https://www.youtube.com/watch?v=k2EQ6V-N2rw",
     "percent": 100,
     "hz": 360
 }
