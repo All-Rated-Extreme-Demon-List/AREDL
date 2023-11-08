@@ -40,7 +40,7 @@ def validateData():
                     continue
                 
                 records = data["records"]
-                names = []
+                names = [data["verifier"].lower()]
                 try:
                     validator(data["verification"])
                 except ValidationError:
