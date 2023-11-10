@@ -6,5 +6,12 @@
     "verifier": "clncrvl",
     "verification": "https://youtu.be/t0tZeWA55w0?si=Q9_pC5MFhFRcA8tg",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Lia",
+            "link": "https://youtu.be/wtdncdUoGI4?si=Zt-ukCz03Tt6cGxO",
+            "percent": 100,
+            "hz": 360
+    }
+    ]
 }
