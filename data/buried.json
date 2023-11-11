@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=9bqk6ZUsKyA&ab_channel=MrBeast",
     "percentToQualify": 100,
     "password": "No Copy",
-    "records": []
+    "records": [
+        {
+        "user": "nettniko",
+        "link": "https://google.com/",
+        "percent": 100,
+        "hz": 180
+}
+    ]
 }
