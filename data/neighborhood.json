@@ -6,5 +6,12 @@
     "verifier": "TrusTa",
     "verification": "https://youtu.be/CbotPj1xe5g?si=MSzAwFdl3z3kEQXU",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+        "user": "catmatt",
+        "link": "https://youtu.be/IaOOYa9AfHE",
+        "percent": 100,
+        "hz": 240
+}
+]
 }
