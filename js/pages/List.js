@@ -166,7 +166,7 @@ export default {
                         - Refer to <a href="https://docs.google.com/spreadsheets/d/10AjUUcTpAzOqdfnbz0wtYskL9TdwT4Onv_Fldt5NXBg/edit?usp=sharing">-This Sheet-</a> for a list of allowed and disallowed hacks
                     </p>
                     <p>
-                        <a href="https://www.youtube.com/watch?v=hr8xus6xi_8">Valhalla</a> is a dumbass :3 - SkeletalVirus
+                        <a href="https://www.youtube.com/watch?v=hr8xus6xi_8"
                     </p>
                       <p>
                         <a href="https://www.youtube.com/watch?v=a37d1BGLpWo&ab_channel=N">Hi Chat</a> - Grilled
