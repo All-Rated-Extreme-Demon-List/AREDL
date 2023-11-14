@@ -2,6 +2,7 @@
     {   
         "name": "Top 1 Pack",
         "levels": [
+            "avernus",
             "acheron",
             "slaughterhouse",
             "abyss_of_darkness",
@@ -29,8 +30,8 @@
     {
         "name": "Top 3 Pack",
         "levels": [
-            "acheron",
             "avernus",
+            "acheron",
             "silent_clubstep"
         ],
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 0%, rgba(212,208,208,1) 50%, rgba(255,255,255,1) 100%)"
