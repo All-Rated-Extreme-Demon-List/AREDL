@@ -6,5 +6,12 @@
     "verifier": "shmigels",
     "verification": "https://youtu.be/QvbfDw1b038?si=_VokeNgOf8gA1mTN",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "ddddr",
+            "link": "https://youtu.be/DLzG3AGSXuk?si=1KZKZhd3yzp-T6Tp",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

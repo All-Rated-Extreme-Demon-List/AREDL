@@ -6,5 +6,12 @@
     "verifier": "Wooshi",
     "verification": "https://youtu.be/n6lFTKxftP0?si=8GK8LDhNfznbG-Xv",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "BreadGuyGD",
+            "link": "https://www.youtube.com/watch?v=O9XMNWxA66k",
+            "percent": 100,
+            "hz": 240
+    }
+    ]
 }
