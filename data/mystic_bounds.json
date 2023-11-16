@@ -31,6 +31,14 @@
             "link": "https://www.youtube.com/watch?v=Hl2WtDFgSDY",
             "percent": 100,
             "hz": 360
-    }
+    },
+
+    {
+        "user": "AerialShard",
+        "link": "https://youtu.be/96ENwNHJM2c?si=BnIJ90QRkGRu5hRS",
+        "percent": 100,
+        "hz": 60,
+        "mobile": true
+}
     ]
 }
