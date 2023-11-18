@@ -8,11 +8,65 @@
     "percentToQualify": 100,
     "password": "30607",
     "records": [
- {
-    "user": "test",
-    "link": "",
-    "percent": 100000000,
-    "hz": 360
- }
+    {
+        "user": "test",
+        "link": "",
+        "percent": 100,
+        "hz": 360
+    },
+    {
+        "user": "test",
+        "link": "",
+        "percent": 100,
+        "hz": 360
+    },
+    {
+        "user": "test",
+        "link": "",
+        "percent": 100,
+        "hz": 360
+    },
+    {
+        "user": "test",
+        "link": "",
+        "percent": 100,
+        "hz": 360
+    },
+    {
+        "user": "test",
+        "link": "",
+        "percent": 100,
+        "hz": 360
+    },
+    {
+        "user": "test",
+        "link": "",
+        "percent": 100,
+        "hz": 360
+    },
+    {
+        "user": "test",
+        "link": "",
+        "percent": 100,
+        "hz": 360
+    },
+    {
+        "user": "test",
+        "link": "",
+        "percent": 100,
+        "hz": 360
+    },
+    {
+        "user": "test",
+        "link": "",
+        "percent": 100,
+        "hz": 360
+    },
+    {
+        "user": "test",
+        "link": "",
+        "percent": 100,
+        "hz": 360
+    }
 ]
 }
