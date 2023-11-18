@@ -308,11 +308,17 @@
     "percent": 100,
     "hz": 360
 },
-        {
-        "user": "sn0w",
-        "link": "https://youtu.be/MN1a6DChv4w?si=U5eO62Nz6YfLa2J2",
-        "percent": 100,
-        "hz": 240
+{
+    "user": "sn0w",
+    "link": "https://youtu.be/MN1a6DChv4w?si=U5eO62Nz6YfLa2J2",
+    "percent": 100,
+    "hz": 240
+},
+{
+    "user": "stav",
+    "link": "https://youtu.be/iwtXiJYGcVg?si=-QrmIsKQZ6P1FkjB",
+    "percent": 100,
+    "hz": "360"
 }
     ]
 }
