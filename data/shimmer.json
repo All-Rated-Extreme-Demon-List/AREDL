@@ -6,5 +6,10 @@
     "verifier": "amplitron",
     "verification": "https://www.youtube.com/watch?v=J89j-_l7ezg",
     "percentToQualify": 100,
-    "records": []
+    "records": [{
+        "user": "Ratio",
+        "link": "https://youtu.be/fb1ZeVpQvIE?si=kDmReyj39-3VuLWh",
+        "percent": 100,
+        "hz": "360"
+}]
 }
