@@ -1227,20 +1227,20 @@
     "user": "Chubs Dubs",
     "link": "https://www.youtube.com/watch?v=A_kgddAw3sg&list=PL-NVoF9O1eL32_sDluVvJ_CBFqhj8D3fU&index=5",
     "percent": 100,
-    "hz": "60",
+    "hz": 60,
     "mobile": true
 },
 {
     "user": "lonifer",
     "link": "https://youtu.be/2xCGu9cqCTs?si=nTmA0V9VIU05-DZU",
     "percent": 100,
-    "hz": "360"
+    "hz": 360
 },
 {
     "user": "Gl1nt",
     "link": "https://www.youtube.com/watch?v=MuI7oSaTx4Q",
     "percent": 100,
-    "hz": "280"
+    "hz": 280
 }
     ]
 }

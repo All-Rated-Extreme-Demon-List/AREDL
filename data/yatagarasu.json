@@ -175,7 +175,7 @@
         "percent": 100,
         "hz": 360
 },
-    {   
+    {
         "user": "GordonHL2",
         "link": "https://youtu.be/Ks334dQ_lDs",
         "percent": 100,
@@ -401,24 +401,24 @@
     "user": "Chubs Dubs",
     "link": "https://www.youtube.com/watch?v=Wfh-cUXE33k&list=PL-NVoF9O1eL32_sDluVvJ_CBFqhj8D3fU&index=42",
     "percent": 100,
-    "hz": "360"
+    "hz": 360
 },{
     "user": "ZakScotGames",
     "link": "https://www.youtube.com/watch?v=cu5yMFQqV0E",
     "percent": 100,
-    "hz": "240"
+    "hz": 240
 },
 {
     "user": "GMDElite",
     "link": "https://youtu.be/GxsLwez28w8?si=nN3zfZ8gC7fSWQel",
     "percent": 100,
-    "hz": "300"
+    "hz": 300
 },
 {
     "user": "lonifer",
     "link": "https://www.youtube.com/watch?v=9XPwJA4V0Gs",
     "percent": 100,
-    "hz": "360"
+    "hz": 360
 }
     ]
 }
