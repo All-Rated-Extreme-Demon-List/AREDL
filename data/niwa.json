@@ -1699,7 +1699,19 @@
     "user": "_m1k",
     "link": "https://www.youtube.com/watch?v=3UeP2Pn0cd0",
     "percent": 100,
-    "hz": 240
+    "hz": "144"
+},
+{
+    "user": "OneNeverwind",
+    "link": "https://youtu.be/DJCtinm1xUQ?si=E8RscNLl1g8QKzNs",
+    "percent": 100,
+    "hz": 144
+},
+{
+    "user": "JASM18",
+    "link": "https://youtu.be/CRy9-45YTgI?si=v20tx7cIDkzon8Wj",
+    "percent": 100,
+    "hz": 360
 },
 {
     "user": "lonifer",
@@ -1712,6 +1724,7 @@
     "link": "https://www.youtube.com/watch?v=nG2Fslba2tY&list=PLvb6POf6yN-Bm0F_d3wH0gTHRs97Wd1rf&index=10",
     "percent": 100,
     "hz": 240
+>>>>>>> c765c817861addc5875dc955bfeba7aa64c12e04
 }
     ]
 }

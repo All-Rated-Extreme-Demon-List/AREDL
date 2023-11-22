@@ -2280,6 +2280,19 @@
     "user": "Stoicism",
     "link": "https://www.youtube.com/watch?v=YKSYi9xDhz4",
     "percent": 100,
+    "hz": "360"
+},
+{
+    "user": "lonifer",
+    "link": "https://youtu.be/nALp2qp-bUI?si=AvvjFjC602xL-rlq",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "ItsArthurdv",
+    "link": "https://youtu.be/yTyb3iJLr7Q?si=DlHntS8l8SnUUK-J",
+    "percent": 100,
+    "hz": 360
     "hz": 360
 },
 {
@@ -2293,6 +2306,7 @@
         "link": "https://www.youtube.com/watch?v=4saWgMdnquU&t=126s",
         "percent": 100,
         "hz": 360
+>>>>>>> c765c817861addc5875dc955bfeba7aa64c12e04
 }
     ]
 }
