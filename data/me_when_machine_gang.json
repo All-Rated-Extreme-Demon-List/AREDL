@@ -3,9 +3,22 @@
     "name": "me when machine gang (2P)",
     "author": "akunakunn",
     "creators": [],
-    "verifier": "Tridepthbear & Floofiwan", 
+    "verifier": "", 
     "verification": "https://www.youtube.com/watch?v=W88R-4fFCIY",
     "percentToQualify": 100,
     "password": "No Copy",
-    "records": []
+    "records": [
+        {
+            "user": "FloofiWan",
+            "link": "https://youtu.be/t4skHFm7YY0?si=emDA0D8jDLBybz7Y",
+            "percent": 100,
+            "hz": 144
+    },
+    {
+        "user": "Tride",
+        "link": "https://youtu.be/t4skHFm7YY0?si=emDA0D8jDLBybz7Y",
+        "percent": 100,
+        "hz": 144
+}
+    ]
 }
