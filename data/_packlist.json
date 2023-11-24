@@ -356,6 +356,40 @@
         "colour": " linear-gradient(45deg, rgba(0,28,255,1) 0%, rgba(0,4,57,1) 10%, rgba(0,28,255,1) 20%, rgba(0,4,57,1) 30%, rgba(0,28,255,1) 40%, rgba(0,4,57,1) 50%, rgba(0,28,255,1) 60%, rgba(0,4,57,1) 70%, rgba(0,28,255,1) 80%, rgba(0,4,57,1) 90%, rgba(0,28,255,1) 100%)"
     },
     {
+        "name": "My 13th Reason",
+        "levels": [
+            "requiem",
+            "misfire",
+            "removed_submission",
+            "a1330x",
+            "plasma_pulse_iii",
+            "eternal_entropy"
+        ],
+        "colour": "url('https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/skull.png')"
+    },
+    {
+        "name": "Terraria Pack",
+        "levels": [
+            "the_sulphur_sea",
+            "ancestral_calamity",
+            "anahita",
+            "brimtanic_paradise"
+        ],
+        "colour": "linear-gradient(45deg, rgba(39,18,98,1) 0%, rgba(145,62,172,1) 50%, rgba(246,189,255,1) 100%)"
+    },
+    {
+        "name": "Nine Circles Pack",
+        "levels": [
+            "molten_core",
+            "hateful_reflection",
+            "mujigae",
+            "tenth_circle",
+            "cat_planet",
+            "cerebral_hemorrhage"
+        ],
+        "colour": "linear-gradient(45deg, rgba(36,0,0,1) 0%, rgba(121,9,9,1) 35%, rgba(255,0,0,1) 100%)"
+    },
+    {
         "name": "hell",
         "levels": [
             "acheron",
@@ -408,39 +442,5 @@
 
         ],
         "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,243,0,1) 75%)"
-    },
-    {
-        "name": "My 13th Reason",
-        "levels": [
-            "requiem",
-            "misfire",
-            "removed_submission",
-            "a1330x",
-            "plasma_pulse_iii",
-            "eternal_entropy"
-        ],
-        "colour": "url('https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/skull.png')"
-    },
-    {
-        "name": "Terraria Pack",
-        "levels": [
-            "the_sulphur_sea",
-            "ancestral_calamity",
-            "anahita",
-            "brimtanic_paradise"
-        ],
-        "colour": "linear-gradient(45deg, rgba(39,18,98,1) 0%, rgba(145,62,172,1) 50%, rgba(246,189,255,1) 100%)"
-    },
-    {
-        "name": "Nine Circles Pack",
-        "levels": [
-            "molten_core",
-            "hateful_reflection",
-            "mujigae",
-            "tenth_circle",
-            "cat_planet",
-            "cerebral_hemorrhage"
-        ],
-        "colour": "linear-gradient(45deg, rgba(36,0,0,1) 0%, rgba(121,9,9,1) 35%, rgba(255,0,0,1) 100%)"
     }
 ]
