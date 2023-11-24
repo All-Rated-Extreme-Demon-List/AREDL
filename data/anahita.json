@@ -1,12 +1,18 @@
 {
     "id": 70406732,
     "name": "Anahita",
-    "author": "Yuko",
-    "creators": ["kylerocket06", "Zentraa", "Yuko", "Hypno", "Zetalock", "Cydz", "Rainar", "Arax", "Duke", "Orange", "nCylix", "Gradientxxd"],
-    "verifier": "ddddr",
-    "verification": "https://www.youtube.com/watch?v=cu_T3-9Id-M",
+    "author": "zYuko",
+    "creators": ["kylerocket06", "Zentraa", "zYuko", "Hypno", "Zetalock", "Cydz", "Rainar", "Arax", "Duke", "Orange", "nCylix", "Gradientxxd"],
+    "verifier": "",
+    "verification": "https://youtu.be/sqRYJ13S-Sk?si=ROseyLtI1vRP13Im",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "ddddr",
+            "link": "https://www.youtube.com/watch?v=cu_T3-9Id-M",
+            "percent": 100,
+            "hz": 144
+        },
         {
             "user": "Zenta",
             "link": "https://www.youtube.com/watch?v=6qb6Kz6qpJc",
