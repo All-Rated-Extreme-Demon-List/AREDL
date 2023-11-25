@@ -1074,6 +1074,12 @@
     "hz": 240
 },
 {
+    "user": "KrisYa",
+    "link": "https://www.youtube.com/watch?v=lm8l3r9rOpE",
+    "percent": 100,
+    "hz": 360
+},
+{
     "user": "DeltaFlare",
     "link": "https://youtu.be/rZ84nXC6ZLo?si=okaS-87jn3efLTy7",
     "percent": 100,
@@ -1084,6 +1090,7 @@
     "link": "https://youtu.be/a6pgx6VNbXQ?si=6dWJr4o3yFQbCjXd",
     "percent": 100,
     "hz": 269
+>>>>>>> 81b0c5fcb75eac23119332032c5c05a53c0f872a
 }
     ]
 }
