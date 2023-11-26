@@ -4634,7 +4634,25 @@
         		"link": "https://www.youtube.com/watch?v=PcVgArdarTw",
                 		"percent": 100,
                         		"hz": 360
-                                }
+                                },
+                                {
+                                    "user": "Crystallizing",
+                                    "link": "https://www.youtube.com/watch?v=ak7srJDlnYE&t=94s",
+                                    "percent": 100,
+                                    "hz": 360
+                            },
+                            {
+                                "user": "LivinKiwi",
+                                "link": "https://www.youtube.com/watch?v=ccStRPSSpA4&t=13s",
+                                "percent": 100,
+                                "hz": 144
+                        },
+                        {
+                            "user": "thuddingpizza",
+                            "link": "https://youtu.be/JGzxlLUImBU?si=OeAEIdCgkVLKN05v",
+                            "percent": 100,
+                            "hz": 240
+                    }
                             
     ]
 }

@@ -528,7 +528,13 @@
                 		"percent": 100,
                         		"hz": 60,
                                 		"mobile": true
-                                        }
+                                        },
+                                        {
+                                            "user": "Crystallizing",
+                                            "link": "https://www.youtube.com/watch?v=6-UR5XH8Ako&t=2s",
+                                            "percent": 100,
+                                            "hz": 360
+                                    }
                                         
     ]
 }
