@@ -4630,10 +4630,10 @@
     "hz": 144
 },
 {
-		"user": "RAASU",
-        		"link": "https://www.youtube.com/watch?v=PcVgArdarTw",
-                		"percent": 100,
-                        		"hz": 360
+	"user": "RAASU",
+    "link": "https://www.youtube.com/watch?v=PcVgArdarTw",
+    "percent": 100,
+    "hz": 360
                                 },
                                 {
                                     "user": "Crystallizing",
@@ -4652,7 +4652,13 @@
                             "link": "https://youtu.be/JGzxlLUImBU?si=OeAEIdCgkVLKN05v",
                             "percent": 100,
                             "hz": 240
-                    }
+                    },
+                    {
+                        "user": "goobrey",
+                        "link": "https://youtu.be/AfWGsgcj_-E?si=VMFhBX28TCVPhcIY",
+                        "percent": 100,
+                        "hz": 240
+}
                             
     ]
 }
