@@ -3,10 +3,16 @@
     "name": "GANGIMARI",
     "author": "64x",
     "creators": [],
-    "verifier": "Norbipapa",
-    "verification": "https://youtu.be/Tt-KROcqILY",
+    "verifier": "Gnamolor",
+    "verification": "https://youtu.be/-643p9-Zs0Q?si=4GOlnT2Wgdhwy4Yw",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "Norbipapa",
+            "link": "https://www.youtube.com/watch?v=Tt-KROcqILY",
+            "percent": 100,
+            "hz": 360
+        },
         {
             "user": "ddddr",
             "link": "https://youtu.be/3MlBnt4xOlo",
