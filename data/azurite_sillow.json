@@ -1460,7 +1460,13 @@
             		"link": "https://www.youtube.com/watch?v=iRSJmlcYtGA",
                     		"percent": 100,
                             		"hz": 240
-                                }
+                                },
+                                {
+                                    "user": "goobrey",
+                                    "link": "https://youtu.be/kPeVDXdU4gk?si=dKbDLITpCjWk2JJl",
+                                    "percent": 100,
+                                    "hz": 360
+                            }
 
- ]
+]
 }
