@@ -7,5 +7,18 @@
     "verification": "https://www.youtube.com/watch?v=VEIAE9yFu94",
     "percentToQualify": 100,
     "password": "No Copy",
-    "records" : []
+    "records" : [
+        {
+            "user": "SupaIsaiah016",
+            "link": "https://www.youtube.com/watch?v=Zf40f9JlWhk",
+            "percent": 100,
+            "hz": 144
+    },
+    {
+        "user": "Dep96",
+        "link": "https://www.youtube.com/watch?v=xsrMHhbpFCg",
+        "percent": 100,
+        "hz": 240
+}
+    ]
 }

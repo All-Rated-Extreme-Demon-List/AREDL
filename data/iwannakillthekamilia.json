@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/oD0_6cgz1nY?si=8JrneAKUkEltu9o2",
     "percentToQualify": 100,
     "password": "No Copy",
-    "records" : []
+    "records" : [
+        {
+            "user": "DankDrew",
+            "link": "https://youtube.com/watch?v=qVANVliV4Ts",
+            "percent": 100,
+            "hz": 60
+    }
+    ]
 }

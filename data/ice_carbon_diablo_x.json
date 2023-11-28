@@ -96,6 +96,18 @@
             		"link": "https://youtu.be/yHtvY4PLRTI",
                     		"percent": 100,
                             		"hz": 360
-                                    }
+                                    },
+                                    {
+                                        "user": "DankDrew",
+                                        "link": "https://youtube.com/watch?v=vq-hw1CUUZ8",
+                                        "percent": 100,
+                                        "hz": 360
+                                },
+                                {
+                                    "user": "ItsArthurdv",
+                                    "link": "https://youtu.be/lC1Qos5gwJc?si=6u9Ka6ls9R2FNN-b",
+                                    "percent": 100,
+                                    "hz": 360
+                            }
     ]
 }
