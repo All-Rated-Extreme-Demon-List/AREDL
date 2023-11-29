@@ -113,74 +113,78 @@
                 "name": "Yataday",
                 "link": "https://www.youtube.com/@YstaGD"
             },
+        ] 
+    },    
+    {       "role": "dev",
+            "members": [
+                {
+                    "name": "Simolater",
+                    "link": "https://www.youtube.com/channel/UCHuFRMtpbYyVHIjXG1-h7SA"
+                },
+                {
+                    "name": "Prometheus",
+                    "link": "https://www.youtube.com/channel/UCg_r2c6sLRfiMcUSiRQHr8Q"
+                }
+            ]
+        },
+        {
+            "role": "patreon",
+            "members": [
+                {
+                    "name": "BeckettGamer",
+                    "link": "https://www.youtube.com/channel/UC6WQWsn7Db56cHk05OaW_qA"
+                },
+                {
+                    "name": "CarbonGD",
+                    "link": "https://www.youtube.com/channel/UCEkzjmSWPDGf4pEJF4ZcDRA"
+                },
+                {
+                    "name": "ultracauaHD",
+                    "link": "https://www.youtube.com/channel/UCs0blJsWf39T-hIGVJ93aMQ"
+                },
+                {
+                    "name": "SlightliFizzi",
+                    "link": "https://www.youtube.com/channel/UCqsQRQ8Hv9Bwpi1GZ9nJPIA"
+                },
+                {
+                    "name": "Padahk",
+                    "link": "https://www.youtube.com/channel/UCab6v0QABvh4ca5EJrlgH9A"
+                },
+                {
+                    "name": "zHob",
+                    "link": "https://www.youtube.com/channel/UC7H3KDLr5Vf741Lwgx0e_bQ"
+                },
+                {
+                    "name": "Pentu",
+                    "link": "https://www.youtube.com/channel/UCd9J3-xylMKBQAOikAEd9Bg"
+                },
+                {
+                    "name": "Kuro",
+                    "link": "https://www.youtube.com/channel/UCt93cwdDC5wuWY0uRS-HiqA"
+                },
+                {
+                    "name": "Pancake Knight",
+                    "link": "https://www.youtube.com/channel/UCZ-FUr34bL__xPAs4lPL2FQ"
+                },
+                {
+                    "name": "Dosos",
+                    "link": "https://www.youtube.com/channel/UCO3qhhvEjaZmYpF028dVWNw"
+                },
+                {
+                    "name": "Anekosaku",
+                    "link": "https://patreon.com/aredlgd"
+                }
+            ]
+        }
+    ]
 
+        
+       
+       
 
 
 
                 
             
                 
- },
-    {
-        "role": "dev",
-        "members": [
-            {
-                "name": "Simolater",
-                "link": "https://www.youtube.com/channel/UCHuFRMtpbYyVHIjXG1-h7SA"
-            },
-            {
-                "name": "Prometheus",
-                "link": "https://www.youtube.com/channel/UCg_r2c6sLRfiMcUSiRQHr8Q"
-            }
-        ]
-    },
-    {
-        "role": "patreon",
-        "members": [
-            {
-                "name": "BeckettGamer",
-                "link": "https://www.youtube.com/channel/UC6WQWsn7Db56cHk05OaW_qA"
-            },
-            {
-                "name": "CarbonGD",
-                "link": "https://www.youtube.com/channel/UCEkzjmSWPDGf4pEJF4ZcDRA"
-            },
-            {
-                "name": "ultracauaHD",
-                "link": "https://www.youtube.com/channel/UCs0blJsWf39T-hIGVJ93aMQ"
-            },
-            {
-                "name": "SlightliFizzi",
-                "link": "https://www.youtube.com/channel/UCqsQRQ8Hv9Bwpi1GZ9nJPIA"
-            },
-            {
-                "name": "Padahk",
-                "link": "https://www.youtube.com/channel/UCab6v0QABvh4ca5EJrlgH9A"
-            },
-            {
-                "name": "zHob",
-                "link": "https://www.youtube.com/channel/UC7H3KDLr5Vf741Lwgx0e_bQ"
-            },
-            {
-                "name": "Pentu",
-                "link": "https://www.youtube.com/channel/UCd9J3-xylMKBQAOikAEd9Bg"
-            },
-            {
-                "name": "Kuro",
-                "link": "https://www.youtube.com/channel/UCt93cwdDC5wuWY0uRS-HiqA"
-            },
-            {
-                "name": "Pancake Knight",
-                "link": "https://www.youtube.com/channel/UCZ-FUr34bL__xPAs4lPL2FQ"
-            },
-            {
-                "name": "Dosos",
-                "link": "https://www.youtube.com/channel/UCO3qhhvEjaZmYpF028dVWNw"
-            },
-            {
-                "name": "Anekosaku",
-                "link": "https://patreon.com/aredlgd"
-            }
-        ]
-    }
-]
+ 
