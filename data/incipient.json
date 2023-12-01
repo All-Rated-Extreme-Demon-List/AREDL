@@ -777,10 +777,10 @@
 },
 {
 		"user": "Tripod",
-        		"link": "https://youtu.be/-FkMQVmaFDI?si=7j2Q1ENQCoo0o6oQ",
-                		"percent": 100,
-                        		"hz": 60,
-                                		"mobile": true
+        "link": "https://youtu.be/-FkMQVmaFDI?si=7j2Q1ENQCoo0o6oQ",
+        "percent": 100,
+        "hz": 60,
+        "mobile": true
                                         },
                                         {
                                             "user": "Crystallizing",
@@ -793,7 +793,13 @@
                                         "link": "https://youtu.be/sRhuGFY_ekU?si=X64DArGP0gqYFBgm",
                                         "percent": 100,
                                         "hz": 240
-     }
+     },
+     {
+        "user": "Davine_007",
+        "link": "https://www.youtube.com/watch?v=Vqd47OevO30",
+        "percent": 100,
+        "hz": 144
+}
                                         
     ]
 }
