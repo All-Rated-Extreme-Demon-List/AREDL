@@ -224,10 +224,16 @@
     "hz": 144
 },
 {
-    		"user": "SleepSlope",
-            		"link": "https://youtu.be/9BDNQFbHeQs",
-                    		"percent": 100,
-                            		"hz": 240
-                                    }
+    "user": "SleepSlope",
+    "link": "https://youtu.be/9BDNQFbHeQs",
+    "percent": 100,
+    "hz": 240
+},
+        {
+		"user": "HotNooB",
+		"link": "https://youtu.be/z9AkW_DyfGM?si=ctI4kTzj1xBuNCQv",
+		"percent": 100,
+		"hz": 360
+}
     ]
 }
