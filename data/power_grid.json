@@ -3,10 +3,16 @@
     "name": "Power Grid",
     "author": "YraX",
     "creators": ["Slayer", "Zurteh", "YraX", "JustXSoos", "Wolvyy"],
-    "verifier": "Zeronium",
-    "verification": "https://www.youtube.com/watch?v=-iGcG4O5QyA",
+    "verifier": "iiLogan",
+    "verification": "https://youtu.be/5hcQKR1dNkI",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "Zeronium",
+            "link": "https://www.youtube.com/watch?v=-iGcG4O5QyA",
+            "percent": 100,
+            "hz": 360
+    },
         {
             "user": "johnlikesdiamond",
             "link": "https://www.youtube.com/watch?v=WhUxqTHt48E",
