@@ -6,5 +6,11 @@
     "verifier": "MCres",
     "verification": "https://youtu.be/-gKraAnPEbA?si=aSLMlv49VTzfYy_R",
     "percentToQualify": 100,
-    "records": []
+    "records": [{
+        		"user": "Vortex83",
+                		"link": "https://www.youtube.com/watch?v=Oe-l0wZNCoM",
+                        		"percent": 100,
+                                		"hz": 240
+                                        }
+    ]
 }
