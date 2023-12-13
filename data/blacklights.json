@@ -68,10 +68,16 @@
     "hz": 240
 },
 {
-		"user": "ThisSilverSpoon",
-        		"link": "https://youtu.be/l6dhwXEklpI?si=dfQh6-W6mVnGSgVI",
-                		"percent": 100,
-                        		"hz": 120
-                                }
+	"user": "ThisSilverSpoon",
+	"link": "https://youtu.be/l6dhwXEklpI?si=dfQh6-W6mVnGSgVI",
+	"percent": 100,
+    "hz": 120
+},
+{
+	"user": "shizmo",
+	"link": "https://www.youtube.com/watch?v=3v4EAomZ3pA",
+	"percent": 100,
+    "hz": 240
+}
     ]
 }
