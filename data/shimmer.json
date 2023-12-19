@@ -6,10 +6,18 @@
     "verifier": "amplitron",
     "verification": "https://www.youtube.com/watch?v=J89j-_l7ezg",
     "percentToQualify": 100,
-    "records": [{
-        "user": "Ratio",
-        "link": "https://youtu.be/fb1ZeVpQvIE?si=kDmReyj39-3VuLWh",
-        "percent": 100,
-        "hz": 360
-}]
+    "records": [
+{
+    "user": "Ratio",
+    "link": "https://youtu.be/fb1ZeVpQvIE?si=kDmReyj39-3VuLWh",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "penpenliddy",
+    "link": "https://youtu.be/xfMibGHtSJE?si=bNRB8iWSgR8IaU77",
+    "percent": 100,
+    "hz": 360
+}
+]
 }
