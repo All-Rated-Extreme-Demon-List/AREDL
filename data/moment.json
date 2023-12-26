@@ -1019,16 +1019,16 @@
     "hz": 240
 },
 {
-    "user": "Duckiee",
-    "link": "https://youtu.be/PQxprHE98lc",
-    "percent": 100,
-    "hz": 120
-},
-{
     "user": "twisted",
     "link": "https://www.youtube.com/watch?v=QZnLemgpeCM",
     "percent": 100,
     "hz": 360
+},
+{
+    "user": "Duckiee",
+    "link": "https://youtu.be/PQxprHE98lc",
+    "percent": 100,
+    "hz": 120
 }
     ]
 }
