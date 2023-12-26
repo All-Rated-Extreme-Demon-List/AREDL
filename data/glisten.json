@@ -528,14 +528,14 @@
         "percent": 100,
         "hz": 60,
         "mobile": true
-                                        },
-                                        {
-                                            "user": "Crystallizing",
-                                            "link": "https://www.youtube.com/watch?v=6-UR5XH8Ako&t=2s",
-                                            "percent": 100,
-                                            "hz": 360
-                                    },
-                                    {
+},
+{
+                    "user": "Crystallizing",
+                    "link": "https://www.youtube.com/watch?v=6-UR5XH8Ako&t=2s",
+                    "percent": 100,
+                    "hz": 360
+},
+{
                                         "user": "AtiDaNub",
                                         "link": "https://www.youtube.com/watch?v=SkVYrAVyqlQ",
                                         "percent": 100,
@@ -564,6 +564,12 @@
                         "link": "https://youtu.be/DIIambK-VOo?si=HZLmqv6L8AzZECoj",
                         "percent": 100,
                         "hz": 360
-                }
-                     ]
+                },
+                {
+                    "user": "AdoodGD",
+                    "link": "https://www.youtube.com/watch?v=swPyW7RMHC4",
+                    "percent": 100,
+                    "hz": 240
+}
+]
 }
