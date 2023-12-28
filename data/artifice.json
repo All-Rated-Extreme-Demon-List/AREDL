@@ -270,7 +270,8 @@
     "link": "https://www.youtube.com/watch?v=6tVU13ISZyA",
     "percent": 100,
     "hz": 360
-},{
+},
+{
     "user": "Kacek",
     "link": "https://youtu.be/AnkH85nsmno?si=rTpciVZWL0saHpmp",
     "percent": 100,
@@ -287,6 +288,13 @@
     "link": "https://youtu.be/BsJLuSGbktI",
     "percent": 100,
     "hz": 360
+},
+{
+ 
+    "user": "Samy",
+        "link": "https://youtu.be/qA3MNFuiuW4?si=O89AUvu56EklMZ2S",
+        "percent": 100,
+        "hz": 360
 }
     ]
 }
