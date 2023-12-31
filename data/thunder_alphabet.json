@@ -142,10 +142,16 @@
     "mobile": true
 },
 {
-            "user": "plimbus",
-                    "link": "https://www.youtube.com/watch?v=c6MgLmYKKJg",
-                            "percent": 100,
-                                    "hz": 360
+    "user": "plimbus",
+    "link": "https://www.youtube.com/watch?v=c6MgLmYKKJg",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "Syvi",
+    "link": "https://www.youtube.com/watch?v=9Tb4S7xEU80",
+    "percent": 100,
+    "hz": 240
 }
     ]
 }
