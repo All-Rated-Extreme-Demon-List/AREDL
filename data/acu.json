@@ -5105,11 +5105,18 @@
 		"link": "https://www.youtube.com/watch?v=WdNSzQyZNGA&t=15s",
 		"percent": 100,
 		"hz": 240
-},{
+},
+{
 		"user": "Flood",
 		"link": "https://www.youtube.com/watch?v=_EjLZpw8Z3M&ab_channel=FloodGMD",
 		"percent": 100,
 		"hz": 360
+},
+{
+    "user": "Klassethebrasse",
+    "link": "https://www.youtube.com/watch?v=G4Y8LaHkbRs",
+    "percent": 100,
+    "hz": 144
 }
     ]
 }
