@@ -24,8 +24,12 @@
                 "link": "https://www.youtube.com/channel/UC4N25ULgPMmeKv5XwgJD5-A"
             },
             {
-                "name":"jacob",
+                "name": "jacob",
                 "link": "https://youtube.com/@smjacob."
+            },
+            {
+                "name": "spectryl",
+                "link": "https://www.youtube.com/channel/UCL6qulUJsiAHZcfBwwcSqGA"
             },
             {
                 "name": "Kuzzi",
@@ -44,17 +48,10 @@
     {
         "role": "trial",
         "members": [
-            {
-                "name":"DaMeister",
-                "link": "https://www.youtube.com/channel/UCHFwGVNPDLvtp440RZ5_oEQ"
-            },
+            }
             {
                 "name": "faulheitsmensch",
                 "link": "https://www.youtube.com/@faulheitsmensch6537"
-            },
-            {
-                "name": "Candy",
-                "link": "https://www.youtube.com/channel/UCHurLPXMhy68ExCQ704yTgA"
             },
             {
                 "name": "Catliest",
@@ -94,12 +91,20 @@
                 "link": "https://www.youtube.com/channel/UCR_Mc1FOaZgiLbouUXRj1bw"
             },
             {
+                "name":"DaMeister",
+                "link": "https://www.youtube.com/channel/UCHFwGVNPDLvtp440RZ5_oEQ"
+            },
+            {
                 "name": "ormz",
                 "link": "https://www.youtube.com/channel/UCVNOwFT0LBhwScKqZFkdcNA"
             },
             {
                 "name": "uhlyx",
                 "link": "https://www.youtube.com/channel/UCO3HLQA-8cFBVwteaO_CAlA"
+            },
+            {
+                "name": "Candy",
+                "link": "https://www.youtube.com/channel/UCHurLPXMhy68ExCQ704yTgA"
             },
             {
                 "name": "Ysta",
