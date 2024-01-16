@@ -107,45 +107,20 @@ export default {
                     </template>
                      <h3>> How to Submit Records</h3>
                     <p>
-                        Join the discord, and  use /record submit
-                    </p>
-                    <p>
-                        If your records hasn't accepted or denied after 1 week of submitting it, please resubmit the record again
-                    </p>
-                    <h3>> Why was my record denied?</h3>
-                    <p>
-                        If your record was denied, please check the following
-                    </p>
-                    <p>
-                        Does the video follow the requirements? (Below)
-                    </p>
-                    <p>
-                        Is the level placed on the list? (#pending-changes)
-                    </p>
-                    <p>
-                        Was the submission command filled out correctly?
-                    </p>
-                    <p>
-                        Was the record submitted with several links?
-                    </p>
-                    <p>
-                        Note: The record will say its been denied and the reason in #records, if it isn't accepted or denied after a week, the record will need to resubmitted
-                    </p>
-                    <p>
-                        If the record was wrongfully denied, please make a post in #support or DM any list staff on Discord
+                        Join our discord server, and  use /record submit
                     </p>
                     <h3>> Submission Requirements</h3>
                     <p>
-                        When submitting your record, please ensure that you have the following:
+                        When submitting your record, please ensure that it complies with the following guidelines:
                     </p>
                     <p>
-                        - Your recording is a complete playthrough of the level from 0-100 without any cuts (if there are cuts in your video please include raw footage that doesn't have the cuts)
+                        - Your recording is a complete playthrough of the level from 0-100 without any cuts (if there are cuts in your video, please include an uncut raw footage)
                     </p>
                      <p>
                         - Your completion needs to have clicks. If it doesn't, you have to provide a raw footage with clicks. If you don't, your record will be rejected.
                     </p>
                     <p>
-                        - Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        - Achieved the record on the level that is listed on the site (or an approved LDM of it) - please check the level ID before you submit a record
                     </p>
                     <p>
                         - The record has been achieved without using a secret way or a bugged route
@@ -157,13 +132,35 @@ export default {
                         - End stats (The whole box must appear for at least one frame)
                     </p>
                     <p>
-                        - FPS/TPS Counter (For mod menus that support one (must NOT exceed 360 on either))
+                        - FPS/TPS Counter (For mod menus that support one, or the native FPS counter if you are playing in 2.2)
                     </p>
                     <p>
-                        - Raw footage AND clicks will ALWAYS be required for levels in the top 250.
+                        - Extreme Demons released after the 2.2 update must be completed without physics bypass, at any FPS of your choice. Extreme Demons released before 2.2 can be completed with FPS bypass up to 360 FPS, wether that is through the use of FPS Bypass in 2.2 or a 2.1 private server.
+                    </p>
+                    <p>
+                        - Raw footage (or a pointercrate record of the level) AND clicks will ALWAYS be required for levels in the top 250.
                     </p>
                     <p>
                         - Refer to <a href="https://docs.google.com/spreadsheets/d/10AjUUcTpAzOqdfnbz0wtYskL9TdwT4Onv_Fldt5NXBg/edit?usp=sharing">-This Sheet-</a> for a list of allowed and disallowed hacks
+                    </p>
+                    <h3>> Why was my record denied?</h3>
+                    <p>
+                        If your record was denied, please check the following:
+                    </p>
+                    <p>
+                        Does the video meet the requirements? (Above)
+                    </p>
+                    <p>
+                        Is the level placed on the list? (#pending-changes)
+                    </p>
+                    <p>
+                        Was the submission command filled out correctly?
+                    </p>
+                    <p>
+                        Was the record submitted with several links?
+                    </p>
+                    <p>
+                        Note: You will be pinged in #records with the reason why your record was denied. If you are still unsure of why it was denied, or if the record was wrongfully denied, please make a post in #support or DM any list staff on Discord
                     </p>
                 </div>
             </div>
