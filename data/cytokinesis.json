@@ -100,11 +100,19 @@
     "link": "https://youtu.be/4YHwl8VkW_8",
     "percent": 100,
     "hz": 360
-},{
+},
+{
     "user": "WarnerEp",
     "link": "https://www.youtube.com/watch?v=B2xwpnAWk3A",
     "percent": 100,
     "hz": 240
+},
+{
+    "user": "nidiiii",
+    "link": "https://youtu.be/1CjwWmWmnkc?si=c51X_l1N9ygtLOoo",
+    "percent": 100,
+    "hz": 60,
+    "mobile": true
 }
     ]
 }
