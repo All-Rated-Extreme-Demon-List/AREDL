@@ -6,5 +6,12 @@
     "verifier": "WireMuncher",
     "verification": "https://youtu.be/_gMpP48H8XI?si=t4PaoP_vDI9qh1xf",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "IcaroX",
+            "link": "https://youtu.be/HkVxoQUIVrA?si=1MxDPIFzsnvEh604",
+            "percent": 100,
+            "hz": 360
+    }
+    ]
 }
