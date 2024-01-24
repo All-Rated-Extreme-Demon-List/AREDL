@@ -3,8 +3,15 @@
     "name": "Crystal Crusher (2P)",
     "author": "Zeniux",
     "creators": ["ZeusGD", "Zeniux"],
-    "verifier": "ZeusGD & Zeniux",
+    "verifier": "ZeusGD",
     "verification": "https://youtu.be/TtoBzys4TV4?si=lmB8lQjB4TZSWyHd",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Zeniux",
+            "link": "https://youtu.be/TtoBzys4TV4?si=lmB8lQjB4TZSWyHd",
+            "percent": 100,
+            "hz": 240
+}
+    ]
 }
