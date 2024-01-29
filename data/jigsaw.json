@@ -6,5 +6,12 @@
     "verifier": "Gokill",
     "verification": "https://youtu.be/FPfSqlI0T30?si=Beb6z9F3Ed5uXFAW",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Zoink",
+            "link": "https://youtu.be/OiW0BoVDcV8?si=6ortu5GundGpbgnU",
+            "percent": 100,
+            "hz": 480
+    }
+    ]
 }

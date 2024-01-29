@@ -6,5 +6,12 @@
     "verifier": "vortrox",
     "verification": "https://youtu.be/b7479IyV6z8?si=13dYk3xk8JHxbTLE",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Zoink",
+            "link": "https://youtu.be/j7JljdQj918?si=gtKgC4_cHbJrCvYN",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
