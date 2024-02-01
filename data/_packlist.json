@@ -1,35 +1,12 @@
 [
     {   
-        "name": "Top 1 Pack I",
+        "name": "Top 1 Pack",
         "levels": [
             "artificial_ascent",
             "sakupen_hell",
             "athanatos",
             "bloodbath",
             "cataclysm"
-        ],
-        "colour": "url('https://media.discordapp.net/attachments/958386446761336882/1130560422915874846/image.png?width=912&height=312')"
-    },
-    {   
-        "name": "Top 1 Pack II",
-        "levels": [
-            "zodiac",
-            "bloodlust",
-            "plasma_pulse_finale",
-            "stalemate_redux",
-            "crimson_planet"
-        ],
-        "colour": "url('https://media.discordapp.net/attachments/958386446761336882/1130560422915874846/image.png?width=912&height=312')"
-    },
-    {   
-        "name": "Top 1 Pack III",
-        "levels": [
-            "avernus",
-            "acheron",
-            "slaughterhouse",
-            "abyss_of_darkness",
-            "tartarus",
-            "the_golden"
         ],
         "colour": "url('https://media.discordapp.net/attachments/958386446761336882/1130560422915874846/image.png?width=912&height=312')"
     },
@@ -68,15 +45,6 @@
             "quantum_theory"
         ],
         "colour": "linear-gradient(45deg, rgba(40,156,0,1) 0%, rgba(74,255,0,1) 50%, rgba(146,255,176,1) 100%)"
-    },
-    {
-        "name": "The A.S.S Trilogy",
-        "levels": [
-            "sakupen_circles",
-            "slaughterhouse",
-            "abyss_of_darkness"
-        ],
-        "colour": "linear-gradient(45deg, rgba(156,0,0,1) 0%, rgba(255,0,0,1) 50%, rgba(255,146,146,1) 100%)"
     },
     {
         "name": "Apocalyptic Trilogy",
@@ -220,16 +188,6 @@
         "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,136,0,1) 15%, rgba(245,255,0,1) 30%, rgba(0,255,12,1) 45%, rgba(0,255,243,1) 60%, rgba(16,0,255,1) 75%, rgba(255,0,241,1) 90%)"
     },
     {
-        "name": "Breaking Bad Pack",
-        "levels": [
-            "saul_goodman",
-            "walter_white",
-            "jesse_pinkman",
-            "gustavo_fring"
-        ],
-        "colour": "url('https://media1.s-nbcnews.com/i/streams/2013/August/130808/6C8558749-130808-walter-white-tease.jpg')"
-    },
-    {
         "name": "Fish Pack",
         "levels": [
             "fish_fish_godmode",
@@ -264,17 +222,7 @@
             "wasureta",
             "kuzureta"
         ],
-        "colour": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(180,69,182,0) 46%);"
-    
-    },
-    {
-        "name": "Cognition Pack",
-        "levels": [
-            "oblivion",
-            "cognition",
-            "carcano"
-        ],
-        "colour": "linear-gradient(45deg, rgba(0,245,255,1) 0%, rgba(0,112,255,1) 50%, rgba(105,3,172,1) 100%)"
+        "colour": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(180,69,182,0) 46%)"
     },
     {
         "name": "Hack Verified Pack I",
@@ -283,7 +231,7 @@
             "red_world",
             "the_ultimate_phase",
             "fexty",
-            "minimum"
+            "sakupen_hell"
         ],
         "colour": "linear-gradient(90deg, rgba(36,64,29,1) 0%, rgba(7,255,0,1) 46%, rgba(36,64,29,1) 100%)"
     },
@@ -292,21 +240,9 @@
         "levels": [
             "mujigae",
             "le_fishe",
-            "sakupen_hell",
             "phobos",
             "zaphkiel",
             "devil_vortex"
-        ],
-        "colour": "linear-gradient(90deg, rgba(36,64,29,1) 0%, rgba(7,255,0,1) 46%, rgba(36,64,29,1) 100%)"
-    },
-    {
-        "name": "Hack Verified Pack III",
-        "levels": [
-            "sonic_wave",
-            "ego_killing",
-            "launchpad_labyrinth",
-            "zodiac",
-            "slaughterhouse"
         ],
         "colour": "linear-gradient(90deg, rgba(36,64,29,1) 0%, rgba(7,255,0,1) 46%, rgba(36,64,29,1) 100%)"
     },
@@ -321,50 +257,13 @@
         "colour": "linear-gradient(90deg, rgba(143,0,247,1) 0%, rgba(255,159,254,1) 46%, rgba(255,0,179,1) 100%)"
     },
     {
-        "name": "Greek Mythology Pack",
-        "levels": [
-            "acheron",
-            "tartarus",
-            "promethean",
-            "keres"
-        ],
-        "colour": "linear-gradient(90deg, rgba(247,0,0,1) 0%, rgba(255,198,46,1) 46%, rgba(255,7,7,1) 100%)"
-    },
-    {
         "name": "Sonic Wave Pack I",
         "levels": [
+            "sonic_wave_",
             "generic_wave",
-            "sonic_wave_rebirth",
             "auditory_breaker"
         ],
         "colour": " linear-gradient(45deg, rgba(0,28,255,1) 0%, rgba(0,4,57,1) 10%, rgba(0,28,255,1) 20%, rgba(0,4,57,1) 30%, rgba(0,28,255,1) 40%, rgba(0,4,57,1) 50%, rgba(0,28,255,1) 60%, rgba(0,4,57,1) 70%, rgba(0,28,255,1) 80%, rgba(0,4,57,1) 90%, rgba(0,28,255,1) 100%)"
-    },
-    {
-        "name": "Sonic Wave Pack II",
-        "levels": [
-            "sonic_wave_infinity",
-            "sonic_wave"
-        ],
-        "colour": " linear-gradient(45deg, rgba(0,28,255,1) 0%, rgba(0,4,57,1) 10%, rgba(0,28,255,1) 20%, rgba(0,4,57,1) 30%, rgba(0,28,255,1) 40%, rgba(0,4,57,1) 50%, rgba(0,28,255,1) 60%, rgba(0,4,57,1) 70%, rgba(0,28,255,1) 80%, rgba(0,4,57,1) 90%, rgba(0,28,255,1) 100%)"
-    },
-    {
-        "name": "13th Reason I",
-        "levels": [
-            "trollmachine",
-            "plasma_pulse_iii",
-            "sparkling",
-            "arctic_arena"
-        ],
-        "colour": "url('https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/skull.png')"
-    },
-    {
-        "name": "13th Reason II",
-        "levels": [
-            "arctic_lights",
-            "lucid_nightmares",
-            "misfire"
-        ],
-        "colour": "url('https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/skull.png')"
     },
     {
         "name": "Terraria Pack",
