@@ -7,7 +7,8 @@ import Spinner from "../components/Spinner.js";
 import LevelAuthors from "../components/List/LevelAuthors.js";
 
 const roleIconMap = {
-    owner: "crown",
+    owner: "owner",
+    coowner: "crown",
     admin: "user-gear",
     helper: "user-shield",
     dev: "code",
