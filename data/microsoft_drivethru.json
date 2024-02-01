@@ -6,5 +6,12 @@
     "verifier": "VoltreN",
     "verification": "https://youtu.be/Fq1kH1wHbRY?si=X_N-v9kYr79ku1y_",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Lelzi",
+            "link": "https://youtu.be/Ik2dGGmcmiU",
+            "percent": 100,
+            "hz": 360
+    }
+    ]
 }
