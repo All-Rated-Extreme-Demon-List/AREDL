@@ -118,7 +118,7 @@ export default {
                         - Your recording is a complete playthrough of the level from 0-100 without any cuts (if there are cuts in your video, please include an uncut raw footage)
                     </p>
                      <p>
-                        - Your completion needs to have clicks. If it doesn't, you have to provide a raw footage with clicks. If you don't, your record will be rejected.
+                        - Your completion needs to have clicks. If it doesn't, you have to provide a raw footage with clicks. If you don't, your record will be rejected. Mobile players are NOT exempt from this rule, recorded taps are required.  
                     </p>
                     <p>
                         - Achieved the record on the level that is listed on the site (or an approved LDM of it) - please check the level ID before you submit a record
