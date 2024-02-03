@@ -52,6 +52,16 @@ export async function fetchEditors() {
     }
 }
 
+export async function fetchSupporters() {
+    try {
+        const supportersResults = await fetch(`${dir}/_supporters.json`);
+        const supporters = await supportersResults.json();
+        return supporters;
+    } catch {
+        return null;
+    }
+}
+
 export async function fetchLeaderboard() {
     const list = await fetchList();
     const packResult = await (await fetch(`${dir}/_packlist.json`)).json();

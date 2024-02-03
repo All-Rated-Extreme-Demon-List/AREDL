@@ -1,7 +1,7 @@
 import { store } from "../main.js";
 import { embed, getFontColour } from "../util.js";
 import { score } from "../score.js";
-import { fetchEditors, fetchList } from "../content.js";
+import { fetchEditors, fetchSupporters, fetchList } from "../content.js";
 
 import Spinner from "../components/Spinner.js";
 import LevelAuthors from "../components/List/LevelAuthors.js";
@@ -105,6 +105,16 @@ export default {
                                 </li>
                             </ol>
                         </ol>
+                        <h3 align="center">Supporters</h3>
+                        <ol class="editors">
+                            <ol class="rank" v-for="rank in supporters">
+                                <li v-for="member in rank.members">
+                                    <img :src="\`/assets/\${roleIconMap[rank.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="rank.role">
+                                    <a v-if="member.link" class="type-label-lg link" target="_blank" :href="member.link">{{ member.name }}</a>
+                                    <p v-else>{{ member.name }}</p>
+                                </li>
+                            </ol>
+                        </ol>
                     </template>
                      <h3>> How to Submit Records</h3>
                     <p>
@@ -170,6 +180,7 @@ export default {
     data: () => ({
         list: [],
         editors: [],
+        supporters: [],
         loading: true,
         selected: 0,
         errors: [],
@@ -184,6 +195,7 @@ export default {
     async mounted() {
         this.list = await fetchList();
         this.editors = await fetchEditors();
+        this.supporters = await fetchSupporters();
 
         // Error handling
         if (!this.list) {
@@ -200,6 +212,9 @@ export default {
             );
             if (!this.editors) {
                 this.errors.push("Failed to load list editors.");
+            }
+            if (!this.supporters) {
+                this.errors.push("Failed to load supporters.");
             }
         }
 
