@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/f_LSQNUOe9k?si=exikIfrPs-m006Ku",
     "percentToQualify": 100,
     "password": "No Copy",
-    "records" : []
+    "records" : [
+        {
+            "user": "Megu",
+            "link": "https://youtu.be/rRcstABdiUA",
+            "percent": 100,
+            "hz": 165
+    }
+    ]
 }
