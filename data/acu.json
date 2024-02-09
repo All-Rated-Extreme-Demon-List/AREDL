@@ -14,6 +14,12 @@
             "hz": 60,
             "mobile": true
         },
+        {
+          "user": "haristic",
+    "link": "https://www.youtube.com/watch?v=bU3BWDZ5Voo",
+    "percent": 100,
+    "hz": 360
+    },
            {
             "user": "Jeremyiscool",
             "link": "https://www.youtube.com/watch?v=qrr5hkpnfus",
@@ -4516,12 +4522,6 @@
     "hz": 144
 },
 {
-    "user": "haristic",
-    "link": "https://www.youtube.com/watch?v=bU3BWDZ5Voo",
-    "percent": 100,
-    "hz": 360
-},
-{
     "user": "haterthatspreadsliesforattention",
     "link": "https://vimeo.com/886032368?share=copy",
     "percent": 100,
@@ -5610,6 +5610,12 @@
 {
 		"user": "erwilzei",
 		"link": "https://www.youtube.com/watch?v=jhE0u7pmaaw",
+		"percent": 100,
+		"hz": 360
+},
+{
+		"user": "mektuf",
+		"link": "https://youtu.be/0ntVYw5-PWQ?si=YM5GYWjJDpPROmjK",
 		"percent": 100,
 		"hz": 360
 }
