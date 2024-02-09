@@ -128,7 +128,7 @@ export default {
                         - Your recording is a complete playthrough of the level from 0-100 without any cuts (if there are cuts in your video, please include an uncut raw footage)
                     </p>
                      <p>
-                        - Your completion needs to have clicks. If it doesn't, you have to provide a raw footage with clicks. If you don't, your record will be rejected. Mobile players are NOT exempt from this rule, recorded taps are required.  
+                        - Your completion needs to have clicks. If it doesn't (or if it only does for a part of the level, and not the entire run), you have to provide a raw footage with clicks. If you don't, your record will be rejected. Mobile players are NOT exempt from this rule, recorded taps are required.  
                     </p>
                     <p>
                         - Achieved the record on the level that is listed on the site (or an approved LDM of it) - please check the level ID before you submit a record
@@ -137,16 +137,19 @@ export default {
                         - The record has been achieved without using a secret way or a bugged route
                     </p>
                     <p>
-                        - Cheat Indicator (If you are using a mod menu that supports one, like Megahack v7)
+                        - Cheat Indicator is required if you are using a mod menu that supports one, like Megahack v8.
                     </p>
                     <p>
                         - End stats (The whole box must appear for at least one frame)
                     </p>
                     <p>
-                        - FPS/TPS Counter (For mod menus that support one, or the native FPS counter if you are playing in 2.2)
+                        - FPS/TPS Counter (For mod menus that support one, or the 2.2 native FPS counter otherwise)
                     </p>
                     <p>
-                        - Extreme Demons released after the 2.2 update must be completed without physics bypass, at any FPS of your choice. Extreme Demons released before 2.2 can be completed with FPS bypass up to 360 FPS, wether that is through the use of FPS Bypass in 2.2 or a 2.1 private server.
+                        - Using physics bypass on any level in 2.2 is not allowed, and will get your record rejected
+                    </p>
+                    <p>
+                        - Using the 2.1 GDPS is allowed for levels verified in 2.1, up to 360 FPS/TPS
                     </p>
                     <p>
                         - Raw footage (or a pointercrate record of the level) AND clicks will ALWAYS be required for levels in the top 250.
