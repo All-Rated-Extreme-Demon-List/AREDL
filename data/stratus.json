@@ -6,5 +6,12 @@
     "verifier": "YakobNugget",
     "verification": "https://youtu.be/3VQww22jJG0?si=eA4jsZ5-cnn937z3",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Giggle",
+            "link": "https://www.youtube.com/watch?v=D6TXc_mXWxE",
+            "percent": 100,
+            "hz": 360
+    }
+    ]
     }
