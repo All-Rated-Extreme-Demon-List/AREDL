@@ -475,9 +475,15 @@
 },
 {
     "user": "TheKevinner",
-    "link": "https://youtu.be/d-ksfFZcDiM",
+    "link": "https://www.youtube.com/watch?v=d-ksfFZcDiM&t=10s",
     "percent": 100,
     "hz": 120
+},
+{
+    "user": "dashnation",
+    "link": "https://www.youtube.com/watch?v=OXoy_KCZBnQ",
+    "percent": 100,
+    "hz": 1000
 }
-  ]
+    ]
 }
