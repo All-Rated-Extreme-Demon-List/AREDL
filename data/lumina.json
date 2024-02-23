@@ -1,47 +1,62 @@
 {
-    "id": 89488413,
-    "name": "LUMINA",
-    "author": "hechie",
-    "creators": ["R3XX3R", "VARSE", "hechie", "Ultimxte", "Splinter25", "Z3nithGD", "ThunderDarkness", "kubuwu"],
-    "verifier": "Lia",
-    "verification": "https://youtu.be/ug9mjzRT7Ao",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Zoink",
-            "link": "https://youtu.be/Q6q8Xc7Wxws",
-            "percent": 100,
-            "hz": 360
-},
-        {
-        "user": "LunarSpark",
-        "link": "https://youtu.be/cTevFsTeS-Y",
-        "percent": 100,
-        "hz": 360
-},
-{
-    "user": "Kova_Neo",
-    "link": "https://youtu.be/FpNDgMv21AU",
-    "percent": 100,
-    "hz": 280
-},
-{
-    "user": "ddddr",
-    "link": "https://youtu.be/zrLD-P-SunQ",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "JDemoX",
-    "link": "https://www.youtube.com/watch?v=FimxTfJCID4",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "Darkhonix",
-    "link": "https://youtu.be/kK96vgq6_nc?si=0YiLPd9ZUD55wSqr",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 89488413,
+	"name": "LUMINA",
+	"author": "hechie",
+	"creators": [
+		"R3XX3R",
+		"VARSE",
+		"hechie",
+		"Ultimxte",
+		"Splinter25",
+		"Z3nithGD",
+		"ThunderDarkness",
+		"kubuwu"
+	],
+	"verifier": "Lia",
+	"verification": "https://youtu.be/ug9mjzRT7Ao",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/Q6q8Xc7Wxws",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/cTevFsTeS-Y",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Kova_Neo",
+			"link": "https://youtu.be/FpNDgMv21AU",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "ddddr",
+			"link": "https://youtu.be/zrLD-P-SunQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "JDemoX",
+			"link": "https://www.youtube.com/watch?v=FimxTfJCID4",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Darkhonix",
+			"link": "https://youtu.be/kK96vgq6_nc?si=0YiLPd9ZUD55wSqr",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "odoroki",
+			"link": "https://www.youtube.com/watch?v=Jeafs4O2JXU&t=48s",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
