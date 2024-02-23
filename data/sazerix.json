@@ -1,100 +1,107 @@
 {
-    "id": 86787878,
-    "name": "Sazerix",
-    "author": "Zeptrus",
-    "creators": [],
-    "verifier": "Skycrab",
-    "verification": "https://www.youtube.com/watch?v=l8aBStUgYOs",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Trees",
-            "link": "https://www.youtube.com/watch?v=RPawHs1TdmE&t=1s&ab_channel=Trees",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=79ZnPE9pIKQ&",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "nei",
-            "link": "https://youtu.be/CcGexBkQNdE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/dZc1TFuRzwA",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/zS0IrplXEp8",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "foocii",
-            "link": "https://youtu.be/wkcis3Jgkvc",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=hzAIF3x8Z4s&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "kopre",
-    "link": "https://youtu.be/CMwgwESDRlA",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "DarkTD",
-    "link": "https://www.youtube.com/watch?v=uHhdrexd-vA",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Teno",
-    "link": "https://youtu.be/nD1ZyI5f_UU",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Ratio",
-    "link": "https://youtu.be/m2RQDjp44WY?si=X2SU0REYEaXDI4C5",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Willow",
-    "link": "https://youtu.be/s4x8hATn5KI",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "IcaroX",
-    "link": "https://youtu.be/KO2T_fasec8?si=DsRUILbp6R58eoKU",
-    "percent": 100,
-    "hz": 360
-},
-{
-		"user": "BANA1411",
-		"link": "https://youtu.be/ZZOT7nGF0xM?si=vhWLBZY3J0HaG01G",
-		"percent": 100,
-		"hz": 240
-},{
-    "user": "Amza",
-    "link": "https://youtu.be/EjeyZVImntA?si=sn9IGi627U75PpnH",
-    "percent": 100,
-    "hz": 300
-}
-    ]
+	"id": 86787878,
+	"name": "Sazerix",
+	"author": "Zeptrus",
+	"creators": [],
+	"verifier": "Skycrab",
+	"verification": "https://www.youtube.com/watch?v=l8aBStUgYOs",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Trees",
+			"link": "https://www.youtube.com/watch?v=RPawHs1TdmE&t=1s&ab_channel=Trees",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=79ZnPE9pIKQ&",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "nei",
+			"link": "https://youtu.be/CcGexBkQNdE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/dZc1TFuRzwA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/zS0IrplXEp8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "foocii",
+			"link": "https://youtu.be/wkcis3Jgkvc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=hzAIF3x8Z4s&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "kopre",
+			"link": "https://youtu.be/CMwgwESDRlA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DarkTD",
+			"link": "https://www.youtube.com/watch?v=uHhdrexd-vA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Teno",
+			"link": "https://youtu.be/nD1ZyI5f_UU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Ratio",
+			"link": "https://youtu.be/m2RQDjp44WY?si=X2SU0REYEaXDI4C5",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Willow",
+			"link": "https://youtu.be/s4x8hATn5KI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "IcaroX",
+			"link": "https://youtu.be/KO2T_fasec8?si=DsRUILbp6R58eoKU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BANA1411",
+			"link": "https://youtu.be/ZZOT7nGF0xM?si=vhWLBZY3J0HaG01G",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Amza",
+			"link": "https://youtu.be/EjeyZVImntA?si=sn9IGi627U75PpnH",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "DuckOfSxness",
+			"link": "https://www.youtube.com/watch?v=3vo5zVXVM7s&t=9s",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
