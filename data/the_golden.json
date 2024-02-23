@@ -1,77 +1,93 @@
 {
-    "id": 60978746,
-    "name": "The Golden",
-    "author": "BoBoBoBoBoBoBo",
-    "creators": ["Gooseam","Geemi","rWoomy","EyeOfTheStorm","BoBoBoBoBoBoBo","Eridani","BySelling","El3ctr0"],
-    "verifier": "nSwish",
-    "verification": "https://www.youtube.com/watch?v=Aas8_QKLnuc",
-    "percentToQualify": 100,
-    "password": "886988",
-    "records": [
-        {
-            "user": "Airez",
-            "link": "https://youtu.be/SaEniZZoaPQ",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/Ramldq4pvlY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/_PoZ5MJ6ahg",
-            "percent": 100,
-            "hz": 240
-},
-        {
-        "user": "fusion425",
-        "link": "https://youtu.be/Lga8AxfVLgI",
-        "percent": 100,
-        "hz": 360
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://youtu.be/ul0-tykVvQ0",
-    "percent": 100,
-    "hz": 360
-},
-        {
-        "user": "zGabriel",
-        "link": "https://youtu.be/JEIjKZVxwGI",
-        "percent": 100,
-        "hz": 330
-},
-{
-    "user": "Whizkid05",
-    "link": "https://youtu.be/hI6Wh5yPCJ8?si=3DDPG9uD9wIqh9Q5",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "IcaroX",
-    "link": "https://youtu.be/MDjOX7LZLeU?si=OrMzbVD0eJYqkipD",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Oceliveth",
-    "link": "https://youtu.be/vTHyizZc0lQ",
-    "percent": 100,
-    "hz": 288
-},{
-    "user": "Amza",
-    "link": "https://youtu.be/6ou9zVQio5I?si=pXFutjtOB62Mu2RL",
-    "percent": 100,
-    "hz": 300
-},
-{
-    "user": "Simmy",
-    "link": "https://www.youtube.com/watch?v=tTGX0wYG6Uw",
-    "percent": 100,
-    "hz": 240
-}
-]
+	"id": 60978746,
+	"name": "The Golden",
+	"author": "BoBoBoBoBoBoBo",
+	"creators": [
+		"Gooseam",
+		"Geemi",
+		"rWoomy",
+		"EyeOfTheStorm",
+		"BoBoBoBoBoBoBo",
+		"Eridani",
+		"BySelling",
+		"El3ctr0"
+	],
+	"verifier": "nSwish",
+	"verification": "https://www.youtube.com/watch?v=Aas8_QKLnuc",
+	"percentToQualify": 100,
+	"password": "886988",
+	"records": [
+		{
+			"user": "Airez",
+			"link": "https://youtu.be/SaEniZZoaPQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LunarSpark",
+			"link": "https://youtu.be/Ramldq4pvlY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/_PoZ5MJ6ahg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "fusion425",
+			"link": "https://youtu.be/Lga8AxfVLgI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://youtu.be/ul0-tykVvQ0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "zGabriel",
+			"link": "https://youtu.be/JEIjKZVxwGI",
+			"percent": 100,
+			"hz": 330
+		},
+		{
+			"user": "Whizkid05",
+			"link": "https://youtu.be/hI6Wh5yPCJ8?si=3DDPG9uD9wIqh9Q5",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "IcaroX",
+			"link": "https://youtu.be/MDjOX7LZLeU?si=OrMzbVD0eJYqkipD",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Oceliveth",
+			"link": "https://youtu.be/vTHyizZc0lQ",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Amza",
+			"link": "https://youtu.be/6ou9zVQio5I?si=pXFutjtOB62Mu2RL",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "Simmy",
+			"link": "https://www.youtube.com/watch?v=tTGX0wYG6Uw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Ryth",
+			"link": "https://www.youtube.com/watch?v=8Ni73pLAObs&list=PLuqSbs9Rc-_O_ZkGHifomrFA9-_1Ko-YV&index=95",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
