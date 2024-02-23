@@ -1,30 +1,35 @@
 {
-    "id": 95675702,
-    "name": "Amalgam",
-    "author": "XLSpiral",
-    "creators": [],
-    "verifier": "rWooshi",
-    "verification": "https://youtu.be/82DDR2BjXSI?si=6yVRY_CtpCzlZM0n",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/E807-OWm600?si=f5Kvz2ywHNrtDyeX",
-            "percent": 100,
-            "hz": 480
-    },
-   {
-		"user": "s3batr0nic",
-		"link": "https://youtu.be/oM3GyVZCM0M?si=JFhx1NS-dO43E3c5",
-		"percent": 100,
-		"hz": 720
-},
-{
-		"user": "BANA1411",
-		"link": "https://youtu.be/1bxG81_owgU?si=I4AWC3ZEPqSl7KGk",
-		"percent": 100,
-		"hz": 240
+	"id": 95675702,
+	"name": "Amalgam",
+	"author": "XLSpiral",
+	"creators": [],
+	"verifier": "rWooshi",
+	"verification": "https://youtu.be/82DDR2BjXSI?si=6yVRY_CtpCzlZM0n",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/E807-OWm600?si=f5Kvz2ywHNrtDyeX",
+			"percent": 100,
+			"hz": 480
+		},
+		{
+			"user": "s3batr0nic",
+			"link": "https://youtu.be/oM3GyVZCM0M?si=JFhx1NS-dO43E3c5",
+			"percent": 100,
+			"hz": 720
+		},
+		{
+			"user": "BANA1411",
+			"link": "https://youtu.be/1bxG81_owgU?si=I4AWC3ZEPqSl7KGk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Viwi",
+			"link": "https://www.youtube.com/watch?v=qCCzAmGm47M",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
-    ]
-    }
-    
