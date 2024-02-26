@@ -6,5 +6,12 @@
     "verifier": "spcreat",
     "verification": "https://youtu.be/BdkuNdFfY-o?si=W6du289KRlV7P_Yb",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Whizkid05",
+            "link": "https://www.youtube.com/watch?v=l8Km_fRw3Is",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
