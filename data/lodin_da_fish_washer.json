@@ -1,72 +1,78 @@
 {
-    "id": 72164189,
-    "name": "lodin da fish washer",
-    "author": "koko43",
-    "creators": [],
-    "verifier": "ButterFish",
-    "verification": "https://www.youtube.com/watch?v=ioo1wCMCGhg",
-    "percentToQualify": 100,
-    "password": "456454",
-    "records": [
-        {
-            "user": "MMitochondria",
-            "link": "https://www.youtube.com/watch?v=AVlB2Sm_xN0",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "Visurient",
-            "link": "https://www.youtube.com/watch?v=z9y8bVebxWY&",
-            "percent": 100,
-            "hz": 60
-},
-        {
-            "user": "baechugimchi",
-            "link": "https://youtu.be/3wrKd3RJLYw",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "woi",
-            "link": "https://www.youtube.com/watch?v=YMGNrhAbABI&ab_channel=woi",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "goos",
-            "link": "https://youtu.be/LKEG1m9opxE",
-            "percent": 100,
-            "hz": 165
-},
-        {
-            "user": "PurplePyro",
-            "link": "https://youtu.be/woo7P-amuDg",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "bongoh",
-            "link": "https://youtu.be/Fjcl7oLTH1A",
-            "percent": 100,
-            "hz": 60
-},
-{
-    "user": "opt1ss",
-    "link": "https://youtu.be/FNWJxZ65Xdc?si=3NjbdTpRe9_GwHVK",
-    "percent": 100,
-    "hz": 360
-},
-{
-		"user": "Bani",
-		"link": "https://youtu.be/uClSW-vEjHY",
-		"percent": 100,
-		"hz": 240
-},
-{
-    "user": "KuzzK",
-    "link": "https://youtu.be/8f-Ply32QH8?si=q5F2sEwswR1ax2po",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 72164189,
+	"name": "lodin da fish washer",
+	"author": "koko43",
+	"creators": [],
+	"verifier": "ButterFish",
+	"verification": "https://www.youtube.com/watch?v=ioo1wCMCGhg",
+	"percentToQualify": 100,
+	"password": "456454",
+	"records": [
+		{
+			"user": "MMitochondria",
+			"link": "https://www.youtube.com/watch?v=AVlB2Sm_xN0",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "Visurient",
+			"link": "https://www.youtube.com/watch?v=z9y8bVebxWY&",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "baechugimchi",
+			"link": "https://youtu.be/3wrKd3RJLYw",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "woi",
+			"link": "https://www.youtube.com/watch?v=YMGNrhAbABI&ab_channel=woi",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "goos",
+			"link": "https://youtu.be/LKEG1m9opxE",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "PurplePyro",
+			"link": "https://youtu.be/woo7P-amuDg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "bongoh",
+			"link": "https://youtu.be/Fjcl7oLTH1A",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "opt1ss",
+			"link": "https://youtu.be/FNWJxZ65Xdc?si=3NjbdTpRe9_GwHVK",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bani",
+			"link": "https://youtu.be/uClSW-vEjHY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "KuzzK",
+			"link": "https://youtu.be/8f-Ply32QH8?si=q5F2sEwswR1ax2po",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Silkyy",
+			"link": "https://youtu.be/yq9baDR4VGQ?feature=shared",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
