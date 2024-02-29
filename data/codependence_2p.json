@@ -1,90 +1,127 @@
 {
-    "id": 62556400,
-    "name": "Codependence (2P)",
-    "author": "TCTeam",
-    "creators": ["Konsi", "Peroxide", "Arceus", "AutumnLotus", "Zent", "Hko", "Cotchy", "Delta", "Carloz", "StarkyTheSalad", "ViralDL", "Licen", "CesDroid", "Isane", "GaidenHertuny", "Xyl", "Xaren", "Artos", "Jhreen", "para", "Tom", "Yuki", "Keyblade", "Cultrix", "Woomy", "Pingui", "Astion", "Eridani", "Yoonsrdynamix", "Brittank88"],
-    "verifier": "Kapinapi",
-    "verification": "https://youtu.be/zxOuEzL6HXE?si=YDSzFAfyMvRKLRF6",
-    "percentToQualify": 100,
-    "password": "210317",
-    "records": [
-        {
-            "user": "ViralDL",
-            "link": "https://youtu.be/zxOuEzL6HXE?si=YDSzFAfyMvRKLRF6",
-            "percent": 100,
-            "hz": 288
-},
-    {
-            "user": "Dylinator",
-            "link": "https://youtu.be/YbzQuQDUpaI",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "Hasik",
-    "link": "https://youtu.be/NNy17rf4-_w?si=A2v3h8f0TrjrsJ0-",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "Candy",
-    "link": "https://youtu.be/BYv5CoYDS-w?si=AdsUKOJdAwMRYSh4",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "Kipz",
-    "link": "https://youtu.be/BYv5CoYDS-w?si=AdsUKOJdAwMRYSh4",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "Fantastic Gime",
-    "link": "https://youtu.be/FL9IW0aDYsw?si=Fh5ibgnDw3CYxiY7",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/lvS4CpG5M7w?si=vTFpTpB2kWLA_bpL'",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "Ranly",
-    "link": "https://www.youtube.com/watch?v=liW2XvtupOo&ab_channel=Bleamer",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "Bleamer",
-    "link": "https://www.youtube.com/watch?v=liW2XvtupOo&ab_channel=Bleamer",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "iRaily",
-    "link": "https://youtu.be/wNWtnOieQ6o?si=8zIBCdEKIXnRzs7c",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "Vink",
-    "link": "https://youtu.be/cVh9D3xIGKo?si=gWeuFkBPXwojwd-t",
-    "percent": 100,
-    "hz": 360
-},
-{
-		"user": "proxima",
-		"link": "https://www.twitch.tv/videos/1963905132",
-		"percent": 100,
-		"hz": 240
-},
-{
-    "user": "Wyatt_GD",
-    "link": "https://youtu.be/gSnckOtRP9U?si=mMXgZXBG-8m-RGPX",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 62556400,
+	"name": "Codependence (2P)",
+	"author": "TCTeam",
+	"creators": [
+		"Konsi",
+		"Peroxide",
+		"Arceus",
+		"AutumnLotus",
+		"Zent",
+		"Hko",
+		"Cotchy",
+		"Delta",
+		"Carloz",
+		"StarkyTheSalad",
+		"ViralDL",
+		"Licen",
+		"CesDroid",
+		"Isane",
+		"GaidenHertuny",
+		"Xyl",
+		"Xaren",
+		"Artos",
+		"Jhreen",
+		"para",
+		"Tom",
+		"Yuki",
+		"Keyblade",
+		"Cultrix",
+		"Woomy",
+		"Pingui",
+		"Astion",
+		"Eridani",
+		"Yoonsrdynamix",
+		"Brittank88"
+	],
+	"verifier": "Kapinapi",
+	"verification": "https://youtu.be/zxOuEzL6HXE?si=YDSzFAfyMvRKLRF6",
+	"percentToQualify": 100,
+	"password": "210317",
+	"records": [
+		{
+			"user": "ViralDL",
+			"link": "https://youtu.be/zxOuEzL6HXE?si=YDSzFAfyMvRKLRF6",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/YbzQuQDUpaI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Hasik",
+			"link": "https://youtu.be/NNy17rf4-_w?si=A2v3h8f0TrjrsJ0-",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Candy",
+			"link": "https://youtu.be/BYv5CoYDS-w?si=AdsUKOJdAwMRYSh4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Kipz",
+			"link": "https://youtu.be/BYv5CoYDS-w?si=AdsUKOJdAwMRYSh4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Fantastic Gime",
+			"link": "https://youtu.be/FL9IW0aDYsw?si=Fh5ibgnDw3CYxiY7",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/lvS4CpG5M7w?si=vTFpTpB2kWLA_bpL'",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Ranly",
+			"link": "https://www.youtube.com/watch?v=liW2XvtupOo&ab_channel=Bleamer",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=liW2XvtupOo&ab_channel=Bleamer",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "iRaily",
+			"link": "https://youtu.be/wNWtnOieQ6o?si=8zIBCdEKIXnRzs7c",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Vink",
+			"link": "https://youtu.be/cVh9D3xIGKo?si=gWeuFkBPXwojwd-t",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "proxima",
+			"link": "https://www.twitch.tv/videos/1963905132",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Wyatt_GD",
+			"link": "https://youtu.be/gSnckOtRP9U?si=mMXgZXBG-8m-RGPX",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.twitch.tv/videos/1963905132",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
