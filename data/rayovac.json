@@ -1,10 +1,39 @@
 {
-    "id": 97018999,
-    "name": "Rayovac",
-    "author": "Lykoz",
-    "creators": ["Mordroc7", "Hawks", "PreeZee", "OgCabbage", "Yke547", "Kyzen", "LightningSL", "Pepsaiko", "Vit12", "HumbJumb", "Galofuf", "xVoid", "FraPai", "Samzaya", "Xera", "Kalvin", "Smitn", "Mixxdup", "AgusV", "MadRy", "DiamondSkull"],
-    "verifier": "moby",
-    "verification": "https://youtu.be/1ZoAoOmbptk?si=Dn1I0P2pr3TLZWDO",
-    "percentToQualify": 100,
-    "records": []
+	"id": 97018999,
+	"name": "Rayovac",
+	"author": "Lykoz",
+	"creators": [
+		"Mordroc7",
+		"Hawks",
+		"PreeZee",
+		"OgCabbage",
+		"Yke547",
+		"Kyzen",
+		"LightningSL",
+		"Pepsaiko",
+		"Vit12",
+		"HumbJumb",
+		"Galofuf",
+		"xVoid",
+		"FraPai",
+		"Samzaya",
+		"Xera",
+		"Kalvin",
+		"Smitn",
+		"Mixxdup",
+		"AgusV",
+		"MadRy",
+		"DiamondSkull"
+	],
+	"verifier": "moby",
+	"verification": "https://youtu.be/1ZoAoOmbptk?si=Dn1I0P2pr3TLZWDO",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "plimbus",
+			"link": "https://youtu.be/O9Tnh8oE_ds",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
