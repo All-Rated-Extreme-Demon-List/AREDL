@@ -1,71 +1,102 @@
 {
-    "id": 48591102,
-    "name": "Ancestral Calamity",
-    "author": "MrSpaghetti",
-    "creators": ["Davphla", "knobbelboy", "Gabs", "MrSpaghetti", "ZephiroX", "Mezzo", "Yakimaru", "Tartofrez", "Rapace", "Isane", "F5Night", "Verbet", "Ross12344", "Lujian", "Nosi", "Ji", "Refruck", "Wolfsmen", "GiaMMix", "Amateurre", "V3xer", "Kena", "DarkStyle", "Arcania"],
-    "verifier": "MrSpaghetti",
-    "verification": "https://www.youtube.com/watch?v=L2cyjYUYeXM",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=TOlQcvaNL_E",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "DartHole",
-            "link": "https://youtu.be/MJTyr3fC_ig",
-            "percent": 100,
-            "hz": 300
-},
-{
-    "user": "LuigiDB",
-    "link": "https://www.youtube.com/watch?v=EA-T2cr76V4",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "ddddr",
-    "link": "https://youtu.be/l_LWCEVsEhQ",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "Trees",
-    "link": "https://www.youtube.com/watch?v=h7ebpGx1kuA&t=14s&ab_channel=Trees",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Aphelix",
-    "link": "https://www.youtube.com/watch?v=VfUlh7Oc5oc",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "Volplay",
-    "link": "https://www.youtube.com/watch?v=KcaLYPyragA&list=PLXjFPTwoly4P7jhK-dAn3tZmhiCN5Lo81&index=39&pp=gAQBiAQB",
-    "percent": 100,
-    "hz": 240
-},
-{
-		"user": "Roby",
-		"link": "https://www.youtube.com/watch?v=W5lVGNoORKs&list=PLykN4njz3_Unf0iejgHl2eLjXkvsNo2gA&index=90",
-		"percent": 100,
-		"hz": 144
-},
-{
-		"user": "AlexDIRO",
-		"link": "https://www.youtube.com/watch?v=0d55RyC5cYY&list=PL5O1xXESiIKj2PIhyQXIc85tW80R1CNJU&index=6",
-		"percent": 100,
-		"hz": 144
-},
-{
-    "user": "vp999",
-    "link": "https://www.youtube.com/watch?v=k0LkB7ktCfc&list=PLBVyHEohVwWXspaecVmur8G6KfrNIM1aV&index=13",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 48591102,
+	"name": "Ancestral Calamity",
+	"author": "MrSpaghetti",
+	"creators": [
+		"Davphla",
+		"knobbelboy",
+		"Gabs",
+		"MrSpaghetti",
+		"ZephiroX",
+		"Mezzo",
+		"Yakimaru",
+		"Tartofrez",
+		"Rapace",
+		"Isane",
+		"F5Night",
+		"Verbet",
+		"Ross12344",
+		"Lujian",
+		"Nosi",
+		"Ji",
+		"Refruck",
+		"Wolfsmen",
+		"GiaMMix",
+		"Amateurre",
+		"V3xer",
+		"Kena",
+		"DarkStyle",
+		"Arcania"
+	],
+	"verifier": "MrSpaghetti",
+	"verification": "https://www.youtube.com/watch?v=L2cyjYUYeXM",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=TOlQcvaNL_E",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/MJTyr3fC_ig",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "LuigiDB",
+			"link": "https://www.youtube.com/watch?v=EA-T2cr76V4",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ddddr",
+			"link": "https://youtu.be/l_LWCEVsEhQ",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Trees",
+			"link": "https://www.youtube.com/watch?v=h7ebpGx1kuA&t=14s&ab_channel=Trees",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Aphelix",
+			"link": "https://www.youtube.com/watch?v=VfUlh7Oc5oc",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Volplay",
+			"link": "https://www.youtube.com/watch?v=KcaLYPyragA&list=PLXjFPTwoly4P7jhK-dAn3tZmhiCN5Lo81&index=39&pp=gAQBiAQB",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Roby",
+			"link": "https://www.youtube.com/watch?v=W5lVGNoORKs&list=PLykN4njz3_Unf0iejgHl2eLjXkvsNo2gA&index=90",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "AlexDIRO",
+			"link": "https://www.youtube.com/watch?v=0d55RyC5cYY&list=PL5O1xXESiIKj2PIhyQXIc85tW80R1CNJU&index=6",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "vp999",
+			"link": "https://www.youtube.com/watch?v=k0LkB7ktCfc&list=PLBVyHEohVwWXspaecVmur8G6KfrNIM1aV&index=13",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "plimbus",
+			"link": "https://youtu.be/O9Tnh8oE_ds",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
