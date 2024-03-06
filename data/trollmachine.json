@@ -584,6 +584,13 @@
 			"link": "https://www.youtube.com/watch?v=Zl7CVibc0cs&t=1s",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "whoiam",
+			"link": "https://youtu.be/D9eu8AwRvtY?si=XXWFuMMW_SzTQDsU",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
