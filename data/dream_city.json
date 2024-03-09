@@ -1,35 +1,54 @@
 {
-    "id": 72908323,
-    "name": "Dream City",
-    "author": "xSledgehammer",
-    "creators": ["Kaio", "Mixer", "Eggnog", "Recillia", "Connot", "Reece", "Duke", "MDJR", "Boii", "Gizbro", "BIGMAC77", "Skulzi"],
-    "verifier": "Gizbro",
-    "verification": "https://www.youtube.com/watch?v=ud2VtM5Soi0",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "Blitzer",
-            "link": "https://www.youtube.com/watch?v=HO8XVyD_r5M",
-            "percent": 100,
-            "hz": 288
-},
-        {
-        "user": "HotNooB",
-        "link": "https://youtu.be/l-gGRFMAEj8",
-        "percent": 100,
-        "hz": 288
-},
-{
-    "user": "ddddr",
-    "link": "https://youtu.be/i3CPWAYg_Js",
-    "percent": 100,
-    "hz": 359
-},
-{
-    "user": "BlueTomcat",
-    "link": "https://youtu.be/Oo6rdlyisLM?si=PkVUoQgKNNxf2DTp",
-    "percent": 100,
-    "hz": 288
-}
-    ]
+	"id": 72908323,
+	"name": "Dream City",
+	"author": "xSledgehammer",
+	"creators": [
+		"Kaio",
+		"Mixer",
+		"Eggnog",
+		"Recillia",
+		"Connot",
+		"Reece",
+		"Duke",
+		"MDJR",
+		"Boii",
+		"Gizbro",
+		"BIGMAC77",
+		"Skulzi"
+	],
+	"verifier": "Gizbro",
+	"verification": "https://www.youtube.com/watch?v=ud2VtM5Soi0",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Blitzer",
+			"link": "https://www.youtube.com/watch?v=HO8XVyD_r5M",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/l-gGRFMAEj8",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "ddddr",
+			"link": "https://youtu.be/i3CPWAYg_Js",
+			"percent": 100,
+			"hz": 359
+		},
+		{
+			"user": "BlueTomcat",
+			"link": "https://youtu.be/Oo6rdlyisLM?si=PkVUoQgKNNxf2DTp",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/BCSR090cn5E?si=hJfTNgIWHFAVcxXe",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
