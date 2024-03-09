@@ -2,7 +2,7 @@
     "id": 94862078,
     "name": "Generic Glow Level",
     "author": "Df0rDie",
-    "creators": ["Df0rDie and Optation"],
+    "creators": ["Df0rDie", "Optation"],
     "verifier": "SennaGD",
     "verification": "https://www.youtube.com/watch?v=sjBHRh1cuFM&t=0s",
     "percentToQualify": 100,
@@ -12,6 +12,12 @@
             "link": "https://www.twitch.tv/videos/1977877025",
             "percent": 100,
             "hz": 165
+    },
+    {
+        "user": "ddddr",
+        "link": "https://youtu.be/SFTM4CKt4Qs?si=vL1N-d-6x9pcPjkA",
+        "percent": 100,
+        "hz": 288
     }
     ]
 }
