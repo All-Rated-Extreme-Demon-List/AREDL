@@ -97,6 +97,14 @@
             {
                 "name": "MobileBot",
                 "link": "https://www.youtube.com/channel/UCeXijKIQqP5PZFEOZ8XCeKw"
+            },
+            {
+                "name": "Noctal",
+                "link": "https://www.youtube.com/channel/UC5L2ZmWFRu9w84oMScKeChQ"
+            },
+            {
+                "name": "Aphelix",
+                "link": "https://www.youtube.com/channel/UCqVxmaKv-tIa5XmLO4zJStA"
             }
         ] 
     },    
@@ -107,5 +115,13 @@
                     "link": "https://www.youtube.com/channel/UCHuFRMtpbYyVHIjXG1-h7SA"
                 }
             ]
-    }
+    },
+    {       "role": "dev",
+            "members": [
+        {
+            "name": "Infectus",
+            "link": "https://www.youtube.com/channel/UCHuFRMtpbYyVHIjXG1-h7SA"
+        }
+    ]
+}
 ]
