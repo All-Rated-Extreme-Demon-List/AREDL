@@ -113,15 +113,11 @@
                 {
                     "name": "Simolater",
                     "link": "https://www.youtube.com/channel/UCHuFRMtpbYyVHIjXG1-h7SA"
+                },
+                {
+                    "name": "Infectus",
+                    "link": "https://www.youtube.com/@infectus"
                 }
             ]
-    },
-    {       "role": "dev",
-            "members": [
-        {
-            "name": "Infectus",
-            "link": "https://www.youtube.com/channel/UCHuFRMtpbYyVHIjXG1-h7SA"
-        }
-    ]
-}
+    }
 ]
