@@ -1,15 +1,23 @@
 {
-    "id": 97235578,
-    "name": "water demon",
-    "author": "hexitine",
-    "creators": [],
-    "verifier": "Luned",
-    "verification": "https://youtu.be/lor5BeSXuDo?si=tvI6KGPnqMlus4ad",
-    "percentToQualify": 100,
-    "records": [{
-        "user": "Giggle",
-        "link": "https://www.youtube.com/watch?v=nir3J8563SY",
-        "percent": 100,
-        "hz": 360
-}]
+	"id": 97235578,
+	"name": "water demon",
+	"author": "hexitine",
+	"creators": [],
+	"verifier": "Luned",
+	"verification": "https://youtu.be/lor5BeSXuDo?si=tvI6KGPnqMlus4ad",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Giggle",
+			"link": "https://www.youtube.com/watch?v=nir3J8563SY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Honeybee343",
+			"link": "https://youtu.be/AfYWuwtxsqc?si=NHQdtGtKyNiGYbvw",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
