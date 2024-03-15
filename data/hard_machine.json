@@ -1,42 +1,52 @@
 {
-    "id": 72744364,
-    "name": "Hard Machine",
-    "author": "Komp",
-    "creators": ["nikroplays","viri","Komp"],
-    "verifier": "Varium",
-    "verification": "https://www.youtube.com/watch?v=z3grmsqAaas",
-    "percentToQualify": 100,
-    "password": "735560",
-    "records": [
-    {
-            "user": "Zoink",
-            "link": "https://youtu.be/-jA8THBigM8",
-            "percent": 100,
-            "hz": 240
-    },
-    {
-            "user": "lucy",
-            "link": "https://www.youtube.com/watch?v=MLVV61M9BuI",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=9K8AxTiR7L4&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Reptilian",
-    "link": "https://www.youtube.com/watch?v=QBLYg0zSsvY",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Whizkid05",
-    "link": "https://youtu.be/XFRd5LeCPpM?si=7XTXQsAH3Pv7FWV8",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 72744364,
+	"name": "Hard Machine",
+	"author": "Komp",
+	"creators": [
+		"nikroplays",
+		"viri",
+		"Komp"
+	],
+	"verifier": "Varium",
+	"verification": "https://www.youtube.com/watch?v=z3grmsqAaas",
+	"percentToQualify": 100,
+	"password": "735560",
+	"records": [
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/-jA8THBigM8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lucy",
+			"link": "https://www.youtube.com/watch?v=MLVV61M9BuI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=9K8AxTiR7L4&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Reptilian",
+			"link": "https://www.youtube.com/watch?v=QBLYg0zSsvY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Whizkid05",
+			"link": "https://youtu.be/XFRd5LeCPpM?si=7XTXQsAH3Pv7FWV8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "adamgmd",
+			"link": "https://www.youtube.com/watch?v=_LCWGSY0Vp0&t=11s",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
