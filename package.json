@@ -1,26 +1,20 @@
 {
-    "name": "aredl",
-    "private": true,
-    "version": "0.0.0",
-    "type": "module",
-    "scripts": {
-        "dev": "vite",
-        "build": "vite build",
-        "preview": "vite preview"
-    },
-    "dependencies": {
-        "pocketbase": "^0.18.3",
-        "vue": "^3.2.47",
-        "vue-router": "^4.2.2"
-    },
-    "devDependencies": {
-        "@vitejs/plugin-vue": "^4.1.0",
-        "autoprefixer": "^10.4.15",
-        "eslint": "^8.43.0",
-        "eslint-plugin-vue": "^9.15.1",
-        "postcss": "^8.4.27",
-        "prettier": "2.8.8",
-        "tailwindcss": "^3.3.3",
-        "vite": "^4.3.9"
-    }
+  "name": "aredl-revamp",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "pocketbase": "^0.18.0",
+    "vue": "^3.3.4",
+    "vue-multiselect": "^2.1.8",
+    "vue-router": "^4.0.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.4",
+    "vite": "^4.4.9"
+  }
 }
