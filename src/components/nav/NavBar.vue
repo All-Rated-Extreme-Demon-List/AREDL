@@ -38,7 +38,7 @@ const toggleNavMenu = () => {
           <div></div>
         </div>
       </button>
-      <a class="nav_icon" href="https://discord.gg/UKC8RnGJvA">
+      <a class="nav_icon" href="https://discord.gg/aredl">
         <img src="@/assets/discord.svg" alt="Discord Logo" />
       </a>
       <!-- <ProfileNav></ProfileNav> -->
