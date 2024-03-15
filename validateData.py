@@ -49,7 +49,7 @@ def validate_data():
     list_path = os.path.join(current_dir, "_list.json")
     legacy_list_path = os.path.join(current_dir, "_legacy.json")
     had_error = False
-    with open(list_path, "r") as file:
+    with open(list_path, "r", encoding='utf-8') as file:
         try:
             levels = json.load(file)
             validate(instance=levels, schema=level_list_schema)
@@ -60,7 +60,7 @@ def validate_data():
             print(f"Validation failed for _list.json: {str(e)}")
             sys.exit(1)
 
-    with open(legacy_list_path, "r") as file:
+    with open(legacy_list_path, "r", encoding='utf-8') as file:
         try:
             legacy = json.load(file)
             validate(instance=legacy, schema=level_list_schema)
@@ -75,7 +75,7 @@ def validate_data():
     for filename in levels:
         file_path = os.path.join(current_dir, f"{filename}.json")
         try:
-            with open(file_path, "r") as file:
+            with open(file_path, "r", encoding='utf-8') as file:
                 try:
                     data = json.load(file)
                     validate(instance=data, schema=level_schema)
@@ -94,7 +94,7 @@ def validate_data():
                     validator(data["verification"])
                 except ValidationError:
                     had_error = True
-                    print(f"Invalid verification Url: {filename}: {url}")
+                    print(f"Invalid verification Url: {filename}: {data['verification']}")
 
                 for record in records:
 
