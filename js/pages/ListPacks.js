@@ -1,9 +1,9 @@
+import { fetchPacks, fetchPackLevels } from "../content.js";
 import { getFontColour, embed } from "../util.js";
+import { score } from "../score.js";
 
-import { store } from "../main.js";
 import Spinner from "../components/Spinner.js";
 import LevelAuthors from "../components/List/LevelAuthors.js";
-import {pb} from "../pocketbase.js";
 
 export default {
     components: {
@@ -17,70 +17,65 @@ export default {
         <main v-else class="pack-list">
             <div class="packs-nav">
                 <div>
-                    <button @click="switchPacks(i)" v-for="(pack, i) in packs" :style="{background: pack.color}" class="type-label-lg">
+                    <button @click="switchLevels(i)" v-for="(pack, i) in packs" :style="{background: pack.colour}" class="type-label-lg">
                         <p>{{pack.name}}</p>
                     </button>
                 </div>
             </div>
             <div class="list-container">
-                <h3>Pack points: {{pack.points}}</h3>
-                <table class="list">
-                    <tr v-for="(level, i) in levels">
+                <table class="list" v-if="selectedPackLevels">
+                    <tr v-for="(level, i) in selectedPackLevels">
                         <td class="rank">
-                            <p class="type-label-lg">#{{ level.position }}</p>
+                            <p class="type-label-lg">#{{ i + 1 }}</p>
                         </td>
-                        <td class="level" :class="{ 'active': selectedLevel === i }">
-                            <button :style= "[selectedLevel === i ? {background: pack.color} : {}]" @click="switchLevel(i)">
-                                <span class="type-label-lg">{{ level.name }}</span>
+                        <td class="level" :class="{ 'active': selectedLevel == i, 'error': !level }">
+                            <button :style= "[selectedLevel == i ? {background: pack.colour} : {}]" @click="selectedLevel = i">
+                                <span class="type-label-lg">{{ level[0].level.name || \`Error (\.json)\` }}</span>
                             </button>
                         </td>
                     </tr>
                 </table>
             </div>
             <div class="level-container">
-                <spinner v-if="loading_level"></spinner>
-                <div class="level" v-else>
-                    <h1>{{ level.name }}</h1>
-                    <LevelAuthors :author="level.publisher" :creators="level.creators"
-                                  :verifier="level.verification.submitted_by"></LevelAuthors>
-                    <div class="packs" v-if="level.packs.length > 0" style="display: flex; gap: 0.5rem">
-                        <div v-for="pack in level.packs" class="tag" :style="{background:pack.color}">
-                            <p>{{ pack.name }}</p>
-                        </div>
+                <div class="level" v-if="selectedPackLevels[selectedLevel]">
+                    <h1>{{ selectedPackLevels[selectedLevel][0].level.name }}</h1>
+                    <LevelAuthors :author="selectedPackLevels[selectedLevel][0].level.author" :creators="selectedPackLevels[selectedLevel][0].level.creators" :verifier="selectedPackLevels[selectedLevel][0].level.verifier"></LevelAuthors>
+                    <div style="display:flex">
+                        <div v-for="pack in selectedPackLevels[selectedLevel][0].level.packs" class="tag" :style="{background:pack.colour, color:getFontColour(pack.colour)}">{{pack.name}}</div>
                     </div>
-                    <iframe class="video" :src="embed(level.verification.video_url)" frameborder="0"></iframe>
+                    <iframe class="video" :src="embed(selectedPackLevels[selectedLevel][0].level.verification)" frameborder="0"></iframe>
                     <ul class="stats">
                         <li>
-                            <div class="type-title-sm">Points when completed</div>
-                            <p>{{ level.points }}</p>
+                            <div class="type-title-sm">ID</div>
+                            <p>{{ selectedPackLevels[selectedLevel][0].level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">ID</div>
-                            <p>{{ level.level_id }}</p>
+                            <div class="type-title-sm">Password</div>
+                            <p>{{ selectedPackLevels[selectedLevel][0].level.password || 'Free to Copy' }}</p>
                         </li>
                     </ul>
-                    <h2 v-if="level.records.length === 0">No Records</h2>
-                    <h2 v-else>Records ({{ level.records.length }})</h2>
-                    <p>100% or better to qualify</p>
+                    <h2>Records</h2>
+                    <p v-if="selected + 1 <= 150"><strong>{{ selectedPackLevels[selectedLevel][0].level.percentToQualify }}%</strong> or better to qualify</p>
+                    <p v-else>100% or better to qualify</p>
                     <table class="records">
-                        <tr v-for="record in level.records" class="record">
+                        <tr v-for="record in selectedPackLevels[selectedLevel][0].level.records" class="record">
                             <td class="percent">
-                                <p>100%</p>
+                                <p>{{ record.percent }}%</p>
                             </td>
                             <td class="user">
-                                <a :href="record.video_url" target="_blank"
-                                   class="type-label-lg">{{ record.submitted_by.global_name }}</a>
+                                <a :href="record.link" target="_blank" class="type-label-lg">{{ record.user }}</a>
                             </td>
                             <td class="mobile">
-                                <img v-if="record.mobile"
-                                     :src="\`/assets/phone-landscape\${store?.dark ? '-dark' : ''}.svg\`"
-                                     alt="Mobile">
+                                <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store?.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
                             <td class="hz">
-                                <p>{{ record.fps }}Hz</p>
+                                <p>{{ record.hz }}Hz</p>
                             </td>
                         </tr>
                     </table>
+                </div>
+                <div v-else class="level" style="height: 100%; justify-content: center; align-items: center;">
+                    <p>(ノಠ益ಠ)ノ彡┻━┻</p>
                 </div>
             </div>
             <div class="meta-container">
@@ -103,28 +98,22 @@ export default {
     data: () => ({
         packs: [],
         errors: [],
-        level: null,
         selected: 0,
         selectedLevel: 0,
+        selectedPackLevels: [],
         loading: true,
-        loading_level: true,
-        store,
+        loadingPack: true,
     }),
     computed: {
         pack() {
             return this.packs[this.selected];
         },
-        levels() {
-            return this.pack.levels.sort((a, b) => a.position - b.position);
-        }
     },
     async mounted() {
-        this.packs = await pb.send("/api/aredl/packs", {})
-        console.log(this.packs)
-
-        // Hide loading spinner
-        this.loading = false;
-        await this.switchPacks(0);
+        this.packs = await fetchPacks();
+        this.selectedPackLevels = await fetchPackLevels(
+            this.packs[this.selected].name
+        );
 
         // Error handling todo: make error handling
         // if (!this.packs) {
@@ -140,27 +129,24 @@ export default {
         //             })
         //     );
         // }
+
+        // Hide loading spinner
+        this.loading = false;
+        this.loadingPack = false;
     },
     methods: {
-        async switchPacks(i) {
-            this.selected = i;
-            await this.switchLevel(0);
-        },
-        async switchLevel(i) {
-            this.loading_level = true;
-            this.selectedLevel = i;
-            this.level = await pb.send("/api/aredl/level", {
-                query: {
-                    "id": this.levels[this.selectedLevel].id,
-                    "records": true,
-                    "creators": true,
-                    "verification": true,
-                    "packs": true,
-                }
-            })
-            this.loading_level = false;
+        async switchLevels(i) {
+            this.loadingPack = true;
 
+            this.selected = i;
+            this.selectedLevel = 0;
+            this.selectedPackLevels = await fetchPackLevels(
+                this.packs[this.selected].name
+            );
+
+            this.loadingPack = false;
         },
+        score,
         embed,
         getFontColour,
     },

@@ -1,10 +1,10 @@
 import { store } from "../main.js";
-import { embed } from "../util.js";
-import { fetchEditors, fetchSupporters } from "../content.js";
+import { embed, getFontColour } from "../util.js";
+import { score } from "../score.js";
+import { fetchEditors, fetchSupporters, fetchList } from "../content.js";
 
 import Spinner from "../components/Spinner.js";
 import LevelAuthors from "../components/List/LevelAuthors.js";
-import {pb} from "../pocketbase.js";
 
 const roleIconMap = {
     owner: "owner",
@@ -19,78 +19,72 @@ const roleIconMap = {
 export default {
     components: { Spinner, LevelAuthors },
     template: `
-        <main class="page-list">
+        <main v-if="loading">
+            <Spinner></Spinner>
+        </main>
+        <main v-else class="page-list">
             <div class="list-container">
-                <template v-if="loading_list">
-                    <spinner></spinner>
-                </template>
-                <template v-else>
-                    <table class="list" v-if="list">
-                        <tr v-for="level in list">
-                            <td class="rank">
-                                <p v-if="!level.legacy" class="type-label-lg">#{{ level.position }}</p>
-                                <p v-else class="type-label-lg">Legacy</p>
+                <table class="list" v-if="list">
+                    <tr v-for="([level, err], i) in list">
+                        <td class="rank">
+                            <p v-if="i + 1 <= 999" class="type-label-lg">#{{ i + 1 }}</p>
+                            <p v-else class="type-label-lg">Legacy</p>
+                        </td>
+                        <td class="level" :class="{ 'active': selected == i, 'error': !level }">
+                            <button @click="selected = i">
+                                <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
+                            </button>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="level-container">
+                <div class="level" v-if="level">
+                    <h1>{{ level.name }}</h1>
+                    <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
+                    <div class="packs" v-if="level.packs.length > 0">
+                        <div v-for="pack in level.packs" class="tag" :style="{background:pack.colour}">
+                            <p>{{pack.name}}</p>
+                        </div>
+                    </div>
+                    <iframe class="video" :src="embed(level.verification)" frameborder="0"></iframe>
+                    <ul class="stats">
+                        <li>
+                            <div class="type-title-sm">Points when completed</div>
+                            <p>{{ score(selected + 1, 100, level.percentToQualify, list.length) }}</p>
+                        </li>
+                        <li>
+                            <div class="type-title-sm">ID</div>
+                            <p>{{ level.id }}</p>
+                        </li>
+                        <li>
+                            <div class="type-title-sm">Password</div>
+                            <p>{{ level.password || 'Free to Copy' }}</p>
+                        </li>
+                    </ul>
+                    <h2>Records</h2>
+                    <p v-if="selected + 1 <= 150"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
+                    <p v-else>100% or better to qualify</p>
+                    <table class="records">
+                        <tr v-for="record in level.records" class="record">
+                            <td class="percent">
+                                <p>{{ record.percent }}%</p>
                             </td>
-                            <td class="level" :class="{ 'active': level.id === selected }">
-                                <button @click="select_level(level.id)">
-                                    <span class="type-label-lg">{{ level.name }}</span>
-                                </button>
+                            <td class="user">
+                                <a :href="record.link" target="_blank" class="type-label-lg">{{ record.user }}</a>
+                            </td>
+                            <td class="mobile">
+                                <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
+                            </td>
+                            <td class="hz">
+                                <p>{{ record.hz }}Hz</p>
                             </td>
                         </tr>
                     </table>
-                </template>
-            </div>
-            <div class="level-container">
-                <template v-if="loading_level">
-                    <spinner></spinner>
-                </template>
-                <template v-else>
-                    <div class="level" v-if="level">
-                        <h1>{{ level.name }}</h1>
-                        <LevelAuthors :author="level.publisher" :creators="level.creators"
-                                      :verifier="level.verification.submitted_by"></LevelAuthors>
-                        <div class="packs" v-if="level.packs.length > 0">
-                            <div v-for="pack in level.packs" class="tag" :style="{background:pack.color}">
-                                <p>{{ pack.name }}</p>
-                            </div>
-                        </div>
-                        <iframe class="video" :src="embed(level.verification.video_url)" frameborder="0"></iframe>
-                        <ul class="stats">
-                            <li>
-                                <div class="type-title-sm">Points when completed</div>
-                                <p>{{ level.points }}</p>
-                            </li>
-                            <li>
-                                <div class="type-title-sm">ID</div>
-                                <p>{{ level.level_id }}</p>
-                            </li>
-                        </ul>
-                        <h2 v-if="level.records.length === 0">No Records</h2>
-                        <h2 v-else>Records ({{ level.records.length }})</h2>
-                        <p>100% or better to qualify</p>
-                        <table class="records">
-                            <tr v-for="record in level.records" class="record">
-                                <td class="percent">
-                                    <p>100%</p>
-                                </td>
-                                <td class="user">
-                                    <a :href="record.video_url" target="_blank" class="type-label-lg">{{ record.submitted_by.global_name }}</a>
-                                </td>
-                                <td class="mobile">
-                                    <img v-if="record.mobile"
-                                         :src="\`/assets/phone-landscape\${store?.dark ? '-dark' : ''}.svg\`"
-                                         alt="Mobile">
-                                </td>
-                                <td class="hz">
-                                    <p>{{ record.fps }}Hz</p>
-                                </td>
-                            </tr>
-                        </table>
-                    </div>
-                    <div v-else class="level" style="height: 100%; justify-content: center; align-items: center;">
-                        <p>(ノಠ益ಠ)ノ彡┻━┻</p>
-                    </div>
-                </template>
+                </div>
+                <div v-else class="level" style="height: 100%; justify-content: center; align-items: center;">
+                    <p>(ノಠ益ಠ)ノ彡┻━┻</p>
+                </div>
             </div>
             <div class="meta-container">
                 <div class="meta">
@@ -100,12 +94,12 @@ export default {
                     <div class="og">
                         <p class="type-label-md">Original List by <a href="https://tsl.pages.dev/#/" target="_blank">TheShittyList</a></p>
                     </div>
-                    <template v-if="!loading_names">
+                    <template v-if="editors">
                         <h3 align="center">List Editors</h3>
                         <ol class="editors">
                             <ol class="rank" v-for="rank in editors">
                                 <li v-for="member in rank.members">
-                                    <img :src="\`/assets/\${roleIconMap[rank.role]}\${store?.dark ? '-dark' : ''}.svg\`" :alt="rank.role">
+                                    <img :src="\`/assets/\${roleIconMap[rank.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="rank.role">
                                     <a v-if="member.link" class="type-label-lg link" target="_blank" :href="member.link">{{ member.name }}</a>
                                     <p v-else>{{ member.name }}</p>
                                 </li>
@@ -115,7 +109,7 @@ export default {
                         <ol class="editors">
                             <ol class="rank" v-for="rank in supporters">
                                 <li v-for="member in rank.members">
-                                    <img :src="\`/assets/\${roleIconMap[rank.role]}\${store?.dark ? '-dark' : ''}.svg\`" :alt="rank.role">
+                                    <img :src="\`/assets/\${roleIconMap[rank.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="rank.role">
                                     <a v-if="member.link" class="type-label-lg link" target="_blank" :href="member.link">{{ member.name }}</a>
                                     <p v-else>{{ member.name }}</p>
                                 </li>
@@ -134,7 +128,7 @@ export default {
                         - Your recording is a complete playthrough of the level from 0-100 without any cuts (if there are cuts in your video, please include an uncut raw footage)
                     </p>
                      <p>
-                        - Your completion needs to have clicks. If it doesn't (or if it only does for a part of the level, and not the entire run), you have to provide a raw footage with clicks. If you don't, your record will be rejected. Mobile players are NOT exempt from this rule, recorded taps are required.
+                        - Your completion needs to have clicks. If it doesn't (or if it only does for a part of the level, and not the entire run), you have to provide a raw footage with clicks. If you don't, your record will be rejected. Mobile players are NOT exempt from this rule, recorded taps are required.  
                     </p>
                     <p>
                         - Achieved the record on the level that is listed on the site (or an approved LDM of it) - please check the level ID before you submit a record
@@ -188,56 +182,51 @@ export default {
     `,
     data: () => ({
         list: [],
-        level: [],
         editors: [],
         supporters: [],
-        loading_list: true,
-        loading_level: true,
-        loading_names: true,
-        selected: null,
+        loading: true,
+        selected: 0,
         errors: [],
         roleIconMap,
         store,
     }),
+    computed: {
+        level() {
+            return this.list[this.selected][0];
+        },
+    },
     async mounted() {
-        this.list = await pb.send("/api/aredl/list", {});
-        this.loading_list = false;
+        this.list = await fetchList();
+        this.editors = await fetchEditors();
+        this.supporters = await fetchSupporters();
+
+        // Error handling
         if (!this.list) {
             this.errors = [
                 "Failed to load list. Retry in a few minutes or notify list staff.",
             ];
-        }
-        if (this.list && this.list.length > 0) {
-            await this.select_level(this.list[0].id)
+        } else {
+            this.errors.push(
+                ...this.list
+                    .filter(([_, err]) => err)
+                    .map(([_, err]) => {
+                        return `Failed to load level. (${err}.json)`;
+                    })
+            );
+            if (!this.editors) {
+                this.errors.push("Failed to load list editors.");
+            }
+            if (!this.supporters) {
+                this.errors.push("Failed to load supporters.");
+            }
         }
 
-        this.editors = await fetchEditors();
-        this.supporters = await fetchSupporters();
-
-        if (!this.editors) {
-            this.errors.push("Failed to load list editors.");
-        }
-        if (!this.supporters) {
-            this.errors.push("Failed to load supporters.");
-        }
-        this.loading_names = false;
-
+        // Hide loading spinner
+        this.loading = false;
     },
     methods: {
-        async select_level(level){
-            this.loading_level = true;
-            this.selected = level;
-            this.level = await pb.send("/api/aredl/level", {
-                query: {
-                    "id": this.selected,
-                    "records": true,
-                    "creators": true,
-                    "verification": true,
-                    "packs": true,
-                }
-            })
-            this.loading_level = false;
-        },
         embed,
+        score,
+        getFontColour,
     },
 };
