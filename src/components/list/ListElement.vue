@@ -1,0 +1,90 @@
+<script setup>
+import {computed, onMounted, ref, watch} from "vue";
+
+const props = defineProps(['level_data', 'selected'])
+const emit = defineEmits(['active_element', 'update:selected'])
+
+const list_element = ref(null)
+
+const updateActive = () => {
+  if (active.value && list_element.value) {
+    emit('active_element', list_element.value)
+  }
+}
+
+const selected_level = computed({
+  get() {
+    return props.selected
+  },
+  set(value) {
+    emit('update:selected', value)
+  }
+})
+
+const active = computed(() => {
+  return selected_level.value === props.level_data.level_id.toString()
+})
+
+onMounted(async () => {
+  updateActive()
+})
+
+watch(props, () => {
+  updateActive()
+})
+
+</script>
+
+<template>
+  <div class="list-element" ref="list_element">
+    <span>#{{level_data.position}}</span>
+    <button @click="() => selected_level = level_data.level_id.toString()" :class="active && 'active'">{{level_data.name}}</button>
+  </div>
+</template>
+
+<style scoped>
+
+.list-element {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.list-element span, .list-element button{
+  color: white;
+  font-size: 17px;
+  line-height: 20px;
+  font-weight: 500;
+}
+
+.list-element span {
+  width: 3.5rem;
+  text-align: right;
+}
+
+.list-element button {
+  text-align: left;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0.75rem 0.75rem;
+  border-radius: 0.75rem;
+}
+
+.list-element .active {
+  background-color: var(--color-primary);
+}
+
+.list-element .active:hover {
+  background-color: var(--color-primary);
+  cursor: auto;
+}
+
+.list-element button:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  border: none;
+  cursor: pointer;
+}
+</style>

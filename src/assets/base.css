@@ -1,0 +1,86 @@
+/* semantic color variables for this project */
+:root {
+  /*--color-background: #252422;*/
+  --color-background: #1c1b1f;
+  --color-on-background: #403D39;
+  --color-background-hover: #CCC5B9;
+  --color-on-background-hover: #CCC5B9;
+  --color-primary: #ff6f00;
+  --color-on-primary: #FFFCF2;
+  --color-error: #de0000;
+  --color-on-error: white;
+
+  --navbar-height: 4rem;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Lexend Deca", sans-serif;
+  -webkit-font-smoothing: subpixel-antialiased;
+  color: var(--color-on-primary);
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+}
+
+#app {
+  height:100%;
+  display: flex;
+  color-scheme: dark;
+  flex-direction: column;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+
+  margin: 0;
+  background: var(--color-background);
+}
+
+h3 {
+  font-size: 23px;
+}
+
+h2 {
+  font-size: 34px;
+}
+
+h1 {
+  font-size: 51px;
+}
+
+/* Firefox scrollbar */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: color-mix(in srgb, var(--color-background), rgba(255, 255, 255) 70%) color-mix(in srgb, var(--color-background), rgba(255, 255, 255) 15%);
+}
+
+/* Handle on hover */
+*:hover {
+  scrollbar-color: color-mix(in srgb, var(--color-background), rgba(255, 255, 255) 90%) color-mix(in srgb, var(--color-background), rgba(255, 255, 255) 15%);
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: color-mix(in srgb, var(--color-background), rgba(255, 255, 255) 15%);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: color-mix(in srgb, var(--color-background), rgba(255, 255, 255) 70%);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: color-mix(in srgb, var(--color-background), rgba(255, 255, 255) 90%);
+}
