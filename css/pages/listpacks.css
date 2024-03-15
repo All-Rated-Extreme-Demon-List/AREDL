@@ -42,6 +42,9 @@
 }
 .pack-list .list-container {
     padding-inline: 1rem;
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
 }
 .pack-list .meta-container {
     padding-right: 2rem;
