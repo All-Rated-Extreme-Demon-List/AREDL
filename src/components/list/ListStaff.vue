@@ -35,7 +35,7 @@ onMounted(async () => {
     </div>
     <template v-if="Object.entries(supporter_data).length > 0">
       <h3 class="title">
-        Supporter
+        Supporters
       </h3>
       <div class="name-tab" v-for="(users, name) in supporter_data">
         <div v-for="user in users" class="role-tab">
