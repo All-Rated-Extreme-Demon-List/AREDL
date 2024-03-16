@@ -20,7 +20,7 @@ const props = defineProps(['record_data', 'position'])
       </div>
       <VideoLink class="record-video" :video_url="record_data.video_url"></VideoLink>
       <div class="record-fps">
-        {{props.record_data.fps}}Hz
+        {{props.record_data.fps}} Fps
       </div>
     </div>
   </div>
@@ -56,7 +56,7 @@ const props = defineProps(['record_data', 'position'])
 
 .record-element .right-view .record-fps {
   font-size: 17px;
-  width: 3.5rem;
+  width: 4.2rem;
   text-align: right;
 }
 
@@ -71,5 +71,38 @@ const props = defineProps(['record_data', 'position'])
 
 .show {
   visibility: visible;
+}
+
+@media (max-width: 880px) {
+  .record-element .left-view {
+    font-size: 10px;
+  }
+
+  .record-element .right-view {
+    gap: 0.25rem;
+  }
+
+  .record-element {
+    width: 100%;
+  }
+
+  .record-holder {
+    max-width: 9rem;
+    overflow-x: clip;
+  }
+
+  .record-element .right-view .record-fps {
+    font-size: 14px;
+    width: 3.5rem;
+    text-align: right;
+  }
+
+  .record-element .left-view .rank {
+    font-size: 14px;
+  }
+
+  .mobile {
+    font-size: 12px;
+  }
 }
 </style>

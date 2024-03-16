@@ -6,14 +6,17 @@ import ListView from "@/components/list/ListView.vue";
 
 const selected_level = ref()
 
+const mobile_list_expanded = ref(true)
+
 </script>
 
 <template>
   <div class="page">
-    <div class="list-tab tab">
-      <ListView @select="(id) => selected_level = id"></ListView>
+    <div class="list-tab tab" :class="!mobile_list_expanded && 'hidden-mobile'">
+      <ListView @select="(id) => {selected_level = id; if (mobile_list_expanded) mobile_list_expanded = false}"></ListView>
     </div>
-    <div class="level-tab tab">
+    <button class="mobile-expand" @click="mobile_list_expanded = !mobile_list_expanded">{{mobile_list_expanded ? "<" : ">"}}</button>
+    <div class="level-tab tab" :class="mobile_list_expanded && 'hidden-mobile'">
       <LevelView :level_id="selected_level" class="level-view"></LevelView>
     </div>
     <div class="info-tab tab">
@@ -135,6 +138,44 @@ const selected_level = ref()
   padding-top: 1.5rem;
   padding-right: 2rem;
   padding-left: 2rem;
+}
+
+.mobile-expand {
+  display: none;
+}
+
+@media (max-width: 880px) {
+  .hidden-mobile {
+    display: none;
+  }
+
+  .mobile-expand {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.5rem;
+    height: 100%;
+    background: color-mix(in srgb, var(--color-background), rgba(255, 255, 255) 15%);
+    border: none;
+  }
+
+  .page {
+    overflow: hidden;
+    height: 100%;
+    display: flex;
+  }
+
+  .info-tab {
+    display: none;
+  }
+
+  .level-tab {
+    width: 100%;
+  }
+
+  .list-tab {
+    width: 100%;
+  }
 }
 
 </style>

@@ -125,4 +125,36 @@ watch(props, async (newValue, _) => {
   }
 }
 
+@media (max-width: 880px) {
+
+  .level-info {
+    font-size: 13px;
+
+    & h3 {
+      font-size: 17px;
+    }
+  }
+
+  .level-content h1 {
+    font-size: 40px;
+    line-height: 30px;
+  }
+
+  .level-content h2 {
+    font-size: 24px;
+  }
+
+  .level-content {
+    width: 100%;
+    margin-left: 0;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    padding-right: 1rem;
+  }
+
+  .packs {
+    font-size: 12px;
+  }
+}
+
 </style>

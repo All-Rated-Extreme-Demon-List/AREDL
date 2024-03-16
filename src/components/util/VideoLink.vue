@@ -29,4 +29,16 @@ defineProps(['video_url'])
   transform: rotate(90deg);
 }
 
+@media (max-width: 880px) {
+  .video_link .box {
+    width: 35px;
+    height: 20px;
+  }
+
+  .video_link .triangle {
+    border-width: 0 5px 10px 5px;
+
+  }
+}
+
 </style>

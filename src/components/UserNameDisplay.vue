@@ -18,4 +18,13 @@ const props = defineProps(['user_data'])
   line-height: 28px;
   color: var(--color-on-primary)
 }
+
+@media (max-width: 880px) {
+
+
+  .user-display {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
 </style>

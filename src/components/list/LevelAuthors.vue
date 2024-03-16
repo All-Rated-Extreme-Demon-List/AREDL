@@ -68,4 +68,28 @@ watch(props, async (newValue, _) => {
   gap: 0.5rem 1rem;
 }
 
+@media (max-width: 880px) {
+  .level-authors h3 {
+    font-size: 13px;
+    line-height: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: var(--color-on-primary);
+  }
+
+  .author-name {
+    height: 14px;
+    line-height: 18px;
+    text-align: center;
+  }
+
+  .level-authors {
+    display: grid;
+    grid-template-columns: max-content 2fr;
+    grid-auto-rows: max-content;
+    gap: 1rem 1rem;
+  }
+
+}
+
 </style>
