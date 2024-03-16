@@ -61,8 +61,10 @@ const updateData = async (use_user) => {
   page.value = display_data.value.page
 }
 
-const switchPage = async (next) => {
-  page.value = page.value + (next ? 1 : -1);
+const switchPage = async (newPage) => {
+  page.value = newPage;
+  if (page.value < 0) page.value = 0;
+  if (display_data.value && page.value > display_data.value.pages) page.value = display_data.value.pages;
   await updateData(false);
 }
 
@@ -82,8 +84,10 @@ const updateFilter = () => {
         </button>
       </div>
       <div class="page-nav">
-        <button @click="switchPage(false)" class="previous" :disabled="page === 1">Previous</button>
-        <button @click="switchPage(true)" class="next" :disabled="!display_data || page === display_data.pages">Next</button>
+        <button @click="switchPage(page - 1)" class="previous" :disabled="page === 1">{{'<'}}</button>
+        <input type="number" v-model="page" v-on:keyup.enter="switchPage(page)">
+        <span>/ {{display_data?.pages}}</span>
+        <button @click="switchPage(page + 1)" class="next" :disabled="!display_data || page === display_data.pages">{{'>'}}</button>
       </div>
     </div>
     <table class="user-list" v-if="display_data">
@@ -162,11 +166,39 @@ const updateFilter = () => {
 
   & .page-nav {
     display: flex;
-    gap: 0.5rem;
     height: 100%;
 
     & button {
       padding: 0 0.5rem;
+
+      &.next {
+        border-radius: 0 0.5rem 0.5rem 0;
+      }
+
+      &.previous {
+        border-radius: 0.5rem 0 0 0.5rem;
+      }
+    }
+
+    & input {
+      border: none;
+      background-color: rgba(255, 255, 255, 0.1);
+      text-align: center;
+      font-size: 17px;
+      outline: none;
+      max-width: 2rem;
+      height: 100%;
+      line-height: 10px;
+    }
+
+    & span {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: rgba(255, 255, 255, 0.1);
+      height: 100%;
+      padding-right: 9px;
+      font-size: 17px;
     }
   }
 
