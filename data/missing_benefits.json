@@ -1,54 +1,69 @@
 {
-    "id": 47043002,
-    "name": "Missing Benefits",
-    "author": "TGI",
-    "creators": ["Antares", "Fexus", "noice", "Crystal PG", "Cersia", "DarkGhostX", "Logiking", "Brittank88"],
-    "verifier": "TGI",
-    "verification": "https://www.youtube.com/watch?v=qhXKRb6afgA",
-    "percentToQualify": 100,
-    "password": "555555",
-    "records": [
-    {
-            "user": "Matter",
-            "link": "https://youtu.be/mEm5jThB_pc",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/CdTkIKLw8TQ",
-            "percent": 100,
-            "hz": 288
-},
-{
-    "user": "wadur",
-    "link": "https://youtu.be/PeGRT38C_e4",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "ddddr",
-    "link": "https://youtu.be/4SqnwsM33i8",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "ultracauaHD",
-    "link": "https://www.youtube.com/watch?v=VSRTKRX6Jug",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "OrdinaryPerson1 [GD]",
-    "link": "https://www.youtube.com/watch?v=3aHyBwQU3LQ",
-    "percent": 100,
-    "hz": 360
-},
-{
-		"user": "AlexDIRO",
-		"link": "https://www.youtube.com/watch?v=Ls9e1BnW0ms&list=PL5O1xXESiIKj2PIhyQXIc85tW80R1CNJU&index=76",
-		"percent": 100,
-		"hz": 240
-}
-    ]
+	"id": 47043002,
+	"name": "Missing Benefits",
+	"author": "TGI",
+	"creators": [
+		"Antares",
+		"Fexus",
+		"noice",
+		"Crystal PG",
+		"Cersia",
+		"DarkGhostX",
+		"Logiking",
+		"Brittank88"
+	],
+	"verifier": "TGI",
+	"verification": "https://www.youtube.com/watch?v=qhXKRb6afgA",
+	"percentToQualify": 100,
+	"password": "555555",
+	"records": [
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/mEm5jThB_pc",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/CdTkIKLw8TQ",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "wadur",
+			"link": "https://youtu.be/PeGRT38C_e4",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "ddddr",
+			"link": "https://youtu.be/4SqnwsM33i8",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ultracauaHD",
+			"link": "https://www.youtube.com/watch?v=VSRTKRX6Jug",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "OrdinaryPerson1 [GD]",
+			"link": "https://www.youtube.com/watch?v=3aHyBwQU3LQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "AlexDIRO",
+			"link": "https://www.youtube.com/watch?v=Ls9e1BnW0ms&list=PL5O1xXESiIKj2PIhyQXIc85tW80R1CNJU&index=76",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Candy",
+			"link": "https://youtu.be/Yd9Xh4DcuDM",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
