@@ -10,11 +10,15 @@ const total_points = computed(() => {
   return props.records.reduce((sum, record) => {return sum + record.level.points}, 0.0).toFixed(1)
 })
 
+const level_count = computed(() => {
+  return props.records.filter((r) => r.level.legacy !== true).length
+})
+
 </script>
 
 <template>
   <div class="container">
-    <ProfileTableTitle :title="title" :icon="icon" :count="records.length" :points="total_points"></ProfileTableTitle>
+    <ProfileTableTitle :title="title" :icon="icon" :count="level_count" :points="total_points"></ProfileTableTitle>
     <div class="list">
       <table>
         <tr v-for="(record, index) in records" :class="(index !== 0 && records[index - 1].level.legacy !== record.level.legacy) && 'firstLegacy'">
