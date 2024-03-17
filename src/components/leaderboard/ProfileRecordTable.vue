@@ -82,4 +82,36 @@ const level_count = computed(() => {
   flex-direction: column;
   gap: 0.75rem;
 }
+
+@media (max-width: 880px) {
+  .list {
+
+    & table {
+      border-spacing: 8px 3px;
+      padding-bottom: 1rem;
+
+      & td {
+        vertical-align: center;
+        font-size: 14px;
+        height: 30px;
+      }
+
+      & .record_level_name {
+        max-width: 12rem;
+        overflow-x: clip;
+      }
+
+      & .record_level_rank {
+        text-align: right;
+        width: 2rem;
+      }
+
+      & .record_points {
+        text-align: right;
+        width: 3.5rem;
+      }
+    }
+  }
+}
+
 </style>

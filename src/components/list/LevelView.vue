@@ -128,6 +128,10 @@ watch(props, async (newValue, _) => {
 
 @media (max-width: 880px) {
 
+  h1 {
+    overflow-x: clip;
+  }
+
   .level-info {
     font-size: 13px;
 

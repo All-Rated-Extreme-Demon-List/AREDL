@@ -15,11 +15,13 @@ const current_filter = ref("")
 const display_data = ref()
 
 const selected_user = ref()
+const initial_id = ref(false)
 
 const route = useRoute()
 
 onMounted(async () => {
   if (route.params.id !== '') {
+    initial_id.value = true
     selected_user.value = route.params.id
   }
   await updateData(true)
@@ -34,7 +36,15 @@ watch(selected_user, (newValue, oldValue) => {
     name: "Leaderboard",
     params: {id: newValue},
   }))
-  emit('select', newValue)
+  let init = false;
+  if (initial_id.value) {
+    initial_id.value = false;
+    init = true;
+  }
+  emit('select', {
+    id: newValue,
+    init: init
+  })
 })
 
 watch(route, () => {

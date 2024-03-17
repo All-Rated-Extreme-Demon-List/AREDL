@@ -79,5 +79,11 @@ watch(user_data, () => {
     background: var(--color-primary);
   }
 }
+@media (max-width: 880px) {
+  .leaderboard-element button{
+    font-size: 15px;
+    line-height: 16px;
+  }
 
+}
 </style>

@@ -26,4 +26,22 @@ const props = defineProps(['title', "icon", "count", "points"])
     height: 2rem;
   }
 }
+
+
+@media (max-width: 880px) {
+  .title {
+    & h3 {
+      font-size: 17px;
+    }
+
+    & h4 {
+      font-size: 13px;
+    }
+    & img {
+      width: 1.5rem;
+      height: 1.5rem;
+    }
+
+  }
+}
 </style>

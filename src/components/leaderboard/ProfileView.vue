@@ -202,4 +202,33 @@ const display_role = (role) => {
   }
 }
 
+@media (max-width: 880px) {
+  .profile_text {
+    font-size: 13px;
+
+    & h2 {
+      font-size: 30px;
+    }
+  }
+
+  .profile-view {
+    gap: 1rem;
+    padding-left: 0.5rem;
+  }
+
+  .completed-packs {
+    & h3 {
+      font-size: 17px;
+    }
+
+    & h4 {
+      font-size: 13px;
+    }
+
+    & .pack_list {
+      font-size: 12px;
+    }
+  }
+}
+
 </style>

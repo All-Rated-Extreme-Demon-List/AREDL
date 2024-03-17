@@ -18,4 +18,11 @@ defineProps(['level_data'])
   color-scheme: dark;
   color: var(--color-on-primary)
 }
+
+
+@media (max-width: 880px) {
+  .level_display {
+    font-size: 14px;
+  }
+}
 </style>
