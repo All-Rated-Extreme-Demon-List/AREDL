@@ -15,7 +15,7 @@ const toggleNavMenu = () => {
   <div class="nav_bar">
     <div class="left-nav">
       <NavLogo></NavLogo>
-      <nav class="nav" :class="isNavMenuOpen && 'show'">
+      <nav class="nav" :class="isNavMenuOpen && 'show'" @click="toggleNavMenu()">
         <RouterLink :to="{ name: 'List' }" class="nav_tab">
           <span>Demon List</span>
         </RouterLink>
