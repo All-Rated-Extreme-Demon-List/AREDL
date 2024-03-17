@@ -26,12 +26,27 @@ const scrollSelectedIntoView = () => {
 }
 
 onMounted(async () => {
-  if (route.params.id !== '') {
-    selected_level.value = route.params.id;
+  let id = route.params.id
+  if (id && id !== '') {
+    console.log(id)
+    if (id.endsWith("_2p")) {
+      selected_level.value = {
+        id: id.slice(0, -3),
+        two_player: true,
+      }
+    } else {
+      selected_level.value = {
+        id: id,
+        two_player: false,
+      }
+    }
   }
   list_data.value = await pb.send("/api/aredl/list", {})
   if (!selected_level.value && list_data.value.length > 0) {
-    selected_level.value = list_data.value[0].level_id.toString()
+    selected_level.value = {
+      id: list_data.value[0].level_id.toString(),
+      two_player: false,
+    }
   }
 })
 
@@ -39,7 +54,7 @@ watch(selected_level, (newValue, oldValue) => {
   if (oldValue === newValue) return
   router.replace(router.resolve({
     name: "ListSelect",
-    params: {id: newValue}
+    params: {id: newValue.id + (newValue.two_player ? "_2p" : "")}
   }))
   emit('select', newValue)
 })

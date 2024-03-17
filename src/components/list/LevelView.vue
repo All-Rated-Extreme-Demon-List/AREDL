@@ -6,7 +6,7 @@ import RecordElement from "@/components/list/RecordElement.vue";
 import LevelAuthors from "@/components/list/LevelAuthors.vue";
 import PackDisplay from "@/components/PackDisplay.vue";
 
-const props = defineProps(['level_id'])
+const props = defineProps(['selected_level'])
 
 const level_data = ref()
 const creator_and_verifier = ref()
@@ -14,7 +14,8 @@ const creator_and_verifier = ref()
 watch(props, async (newValue, _) => {
   level_data.value = await pb.send("/api/aredl/level", {
     query: {
-      level_id: newValue.level_id,
+      level_id: newValue.selected_level.id,
+      two_player: newValue.selected_level.two_player,
       records: true,
       creators: true,
       verification: true,

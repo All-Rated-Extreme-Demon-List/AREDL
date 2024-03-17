@@ -22,7 +22,7 @@ const selected_level = computed({
 })
 
 const active = computed(() => {
-  return selected_level.value === props.level_data.level_id.toString()
+  return selected_level.value.id === props.level_data.level_id.toString() && selected_level.value.two_player === props.level_data.two_player
 })
 
 onMounted(async () => {
@@ -38,7 +38,7 @@ watch(props, () => {
 <template>
   <div class="list-element" ref="list_element">
     <span>#{{level_data.position}}</span>
-    <button @click="() => selected_level = level_data.level_id.toString()" :class="active && 'active'">{{level_data.name}}</button>
+    <button @click="() => selected_level = {id: level_data.level_id.toString(), two_player: level_data.two_player}" :class="active && 'active'">{{level_data.name}}</button>
   </div>
 </template>
 
