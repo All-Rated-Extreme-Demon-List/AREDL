@@ -37,7 +37,8 @@ watch(props, () => {
 
 <template>
   <div class="list-element" ref="list_element">
-    <span>#{{level_data.position}}</span>
+    <span v-if="!level_data.legacy">#{{level_data.position}}</span>
+    <span v-else></span>
     <button @click="() => selected_level = {id: level_data.level_id.toString(), two_player: level_data.two_player}" :class="active && 'active'">{{level_data.name}}</button>
   </div>
 </template>
