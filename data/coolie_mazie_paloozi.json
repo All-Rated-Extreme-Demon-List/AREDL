@@ -1,29 +1,36 @@
 {
-    "id": 91267754,
-    "name": "Coolie Mazie Paloozi",
-    "author": "Akunakunn",
-    "creators": [],
-    "verifier": "BiDeapthBear",
-    "verification": "https://youtu.be/NvPoTnd0ztU?si=C6kng7J466A_K2gY",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "Gecko",
-            "link": "https://youtu.be/FlNTx9d-NYI?si=vTODYkcdrQ2Ar8wD",
-            "percent": 100,
-            "hz": 240
-    },
-    {
-        "user": "Enfur",
-        "link": "https://youtu.be/Bmf2J7ekxeQ?si=8SvAtsy3pSWnZu16",
-        "percent": 100,
-        "hz": 360
-},
-{
-    "user": "Cadrega",
-    "link": "https://youtu.be/_d0gmoOSsMA",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 91267754,
+	"name": "Coolie Mazie Paloozi",
+	"author": "Akunakunn",
+	"creators": [],
+	"verifier": "BiDeapthBear",
+	"verification": "https://youtu.be/NvPoTnd0ztU?si=C6kng7J466A_K2gY",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Gecko",
+			"link": "https://youtu.be/FlNTx9d-NYI?si=vTODYkcdrQ2Ar8wD",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Enfur",
+			"link": "https://youtu.be/Bmf2J7ekxeQ?si=8SvAtsy3pSWnZu16",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Cadrega",
+			"link": "https://youtu.be/_d0gmoOSsMA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "InsaneParnisha",
+			"link": "https://youtu.be/ad2F8suBLbY?si=uQTcBh4PUc6xuChX",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		}
+	]
 }
