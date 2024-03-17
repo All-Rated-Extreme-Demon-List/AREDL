@@ -28,7 +28,6 @@ const scrollSelectedIntoView = () => {
 onMounted(async () => {
   let id = route.params.id
   if (id && id !== '') {
-    console.log(id)
     if (id.endsWith("_2p")) {
       selected_level.value = {
         id: id.slice(0, -3),
@@ -46,6 +45,7 @@ onMounted(async () => {
     selected_level.value = {
       id: list_data.value[0].level_id.toString(),
       two_player: false,
+      init: true,
     }
   }
 })

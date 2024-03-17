@@ -6,14 +6,14 @@ import ListView from "@/components/list/ListView.vue";
 
 const selected_level = ref()
 
-const mobile_list_expanded = ref(null)
+const mobile_list_expanded = ref(true)
 
 </script>
 
 <template>
   <div class="page">
     <div class="list-tab tab" :class="!mobile_list_expanded && 'hidden-mobile'">
-      <ListView @select="(selected) => {selected_level = selected; if (mobile_list_expanded) mobile_list_expanded = false}"></ListView>
+      <ListView @select="(selected) => {selected_level = selected; if (mobile_list_expanded) mobile_list_expanded = selected.init}"></ListView>
     </div>
     <button class="mobile-expand" @click="mobile_list_expanded = !mobile_list_expanded">{{mobile_list_expanded ? "<" : ">"}}</button>
     <div class="level-tab tab" :class="mobile_list_expanded && 'hidden-mobile'">
