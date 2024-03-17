@@ -32,10 +32,20 @@ onMounted(async () => {
   flex-flow: column wrap;
   padding: 1rem;
   gap: 0.75rem;
-  max-height: 80rem;
+  max-height: 100%;
 }
 
 .container {
   overflow: auto;
+}
+
+
+@media (max-width: 880px) {
+  .pack_display {
+    display: inline-flex;
+    flex-flow: column;
+    padding: 1rem;
+    gap: 0.75rem;
+  }
 }
 </style>
