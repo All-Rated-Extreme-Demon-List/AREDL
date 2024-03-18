@@ -1,131 +1,152 @@
 {
-    "id": 77205012,
-    "name": "Disastrous Downpour",
-    "author": "kodex360",
-    "creators": ["kodex360", "Handexx", "Sparkle224", "Micr9n", "Khelado", "ILNM", "LordeQuacc", "Nekotik", "Splinter25", "Preezee", "Mangosteen", "Lamellae", "Gmoney03", "Tahsen"],
-    "verifier": "LunarSpark",
-    "verification": "https://youtu.be/qnSbGOeFD2M",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Lia",
-            "link": "https://www.youtube.com/watch?v=AHdeW6hpJ_M",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/lK9vcRCIS04",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "NiceCrunchy",
-            "link": "https://www.youtube.com/watch?v=wDLzVDmmwxk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "NexoProTC",
-            "link": "https://youtu.be/TKTwVvdyfsg",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/HQMltS4AjUY",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "Wolvyy",
-    "link": "https://youtu.be/_P1aCrYTqT8",
-    "percent": 100,
-    "hz": 280
-},
-        {
-        "user": "NikVer",
-        "link": "https://youtu.be/0prH_1AzKZA",
-        "percent": 100,
-        "hz": 360
-},
-{
-    "user": "Chubby9000",
-    "link": "https://www.youtube.com/watch?v=V_JCo7h2Umk",
-    "percent": 100,
-    "hz": 330
-},
-{
-    "user": "Megu",
-    "link": "https://youtu.be/RhwjA55OXiU",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "lumi",
-    "link": "https://youtu.be/K3PW75r9Kv8",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "ddddr",
-    "link": "https://youtu.be/-wKTnVUEQk4",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "ultracauaHD",
-    "link": "https://www.youtube.com/watch?v=CVg49PPSJfU",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "MeowMasterer",
-    "link": "https://youtu.be/MvXIBhcjA0",
-    "percent": 100,
-    "hz": 75
-},
-{
-    "user": "Zenta",
-    "link": "https://youtu.be/UkKNAZjKgMU",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "goobrey",
-    "link": "https://youtu.be/qQmRnV_Ce38?si=BEaLMZQu3uq2h0FR",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Abr4h4M",
-    "link": "https://youtu.be/uHtPd-uusiA",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "fusion425",
-    "link": "https://youtu.be/WfeBho8hY4c?si=WsN66CqST0_-drpp",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "plimbus",
-    "link": "https://youtu.be/-lu-DNLF8ho",
-    "percent": 100,
-    "hz": 360
-},
-{
-		"user": "exerity",
-		"link": "https://youtu.be/eXpBKHQz9bo?si=5KtrtmUmMcJT2BYP",
-		"percent": 100,
-		"hz": 240
-},
-{
-		"user": "AlexDIRO",
-		"link": "https://www.youtube.com/watch?v=qfi1tfbRtnA&list=PL5O1xXESiIKj2PIhyQXIc85tW80R1CNJU&index=202",
-		"percent": 100,
-		"hz": 240
-}
-    ]
+	"id": 77205012,
+	"name": "Disastrous Downpour",
+	"author": "kodex360",
+	"creators": [
+		"kodex360",
+		"Handexx",
+		"Sparkle224",
+		"Micr9n",
+		"Khelado",
+		"ILNM",
+		"LordeQuacc",
+		"Nekotik",
+		"Splinter25",
+		"Preezee",
+		"Mangosteen",
+		"Lamellae",
+		"Gmoney03",
+		"Tahsen"
+	],
+	"verifier": "LunarSpark",
+	"verification": "https://youtu.be/qnSbGOeFD2M",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Lia",
+			"link": "https://www.youtube.com/watch?v=AHdeW6hpJ_M",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Dylinator",
+			"link": "https://youtu.be/lK9vcRCIS04",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "NiceCrunchy",
+			"link": "https://www.youtube.com/watch?v=wDLzVDmmwxk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "NexoProTC",
+			"link": "https://youtu.be/TKTwVvdyfsg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/HQMltS4AjUY",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Wolvyy",
+			"link": "https://youtu.be/_P1aCrYTqT8",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "NikVer",
+			"link": "https://youtu.be/0prH_1AzKZA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Chubby9000",
+			"link": "https://www.youtube.com/watch?v=V_JCo7h2Umk",
+			"percent": 100,
+			"hz": 330
+		},
+		{
+			"user": "Megu",
+			"link": "https://youtu.be/RhwjA55OXiU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/K3PW75r9Kv8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "ddddr",
+			"link": "https://youtu.be/-wKTnVUEQk4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ultracauaHD",
+			"link": "https://www.youtube.com/watch?v=CVg49PPSJfU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MeowMasterer",
+			"link": "https://youtu.be/MvXIBhcjA0",
+			"percent": 100,
+			"hz": 75
+		},
+		{
+			"user": "Zenta",
+			"link": "https://youtu.be/UkKNAZjKgMU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "goobrey",
+			"link": "https://youtu.be/qQmRnV_Ce38?si=BEaLMZQu3uq2h0FR",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Abr4h4M",
+			"link": "https://youtu.be/uHtPd-uusiA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "fusion425",
+			"link": "https://youtu.be/WfeBho8hY4c?si=WsN66CqST0_-drpp",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "plimbus",
+			"link": "https://youtu.be/-lu-DNLF8ho",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "exerity",
+			"link": "https://youtu.be/eXpBKHQz9bo?si=5KtrtmUmMcJT2BYP",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "AlexDIRO",
+			"link": "https://www.youtube.com/watch?v=qfi1tfbRtnA&list=PL5O1xXESiIKj2PIhyQXIc85tW80R1CNJU&index=202",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "corpzi",
+			"link": "https://www.youtube.com/watch?v=70B6S9m2nOw&t=18s",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
