@@ -1,42 +1,52 @@
 {
-    "id": 95914480,
-    "name": "Twitch Denan",
-    "author": "Kapycta999",
-    "creators": ["Kapycta999", "Warninggoat", "NateFH"],
-    "verifier": "BonnGD",
-    "verification": "https://youtu.be/C9QlWRvSiJw?si=Ljz9iQPsfetsgCHU",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records": [
-        {
-            "user": "Alex_",
-            "link": "https://youtu.be/fbe0hqlty_Y?si=VT7hztCe4FDMy-ur",
-            "percent": 100,
-            "hz": 360
-    },
-    {
-        "user": "Catliest",
-        "link": "https://www.youtube.com/watch?v=Sv0RQlZMpIM",
-        "percent": 100,
-        "hz": 120
-},
-{
-    "user": "ddddr",
-    "link": "https://youtu.be/S6GjqpfFRwY?si=eTjIFgwPhWDWejM3",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "HotNooB",
-    "link": "https://youtu.be/C7smT-Bsmjw",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "BrentBeni",
-    "link": "https://youtu.be/soCr5xUzibI?si=u0pTgcQWTH03ebq3",
-    "percent": 100,
-    "hz": 1000
-}
-    ]
+	"id": 95914480,
+	"name": "Twitch Denan",
+	"author": "Kapycta999",
+	"creators": [
+		"Kapycta999",
+		"Warninggoat",
+		"NateFH"
+	],
+	"verifier": "BonnGD",
+	"verification": "https://youtu.be/C9QlWRvSiJw?si=Ljz9iQPsfetsgCHU",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "Alex_",
+			"link": "https://youtu.be/fbe0hqlty_Y?si=VT7hztCe4FDMy-ur",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Catliest",
+			"link": "https://www.youtube.com/watch?v=Sv0RQlZMpIM",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "ddddr",
+			"link": "https://youtu.be/S6GjqpfFRwY?si=eTjIFgwPhWDWejM3",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/C7smT-Bsmjw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "BrentBeni",
+			"link": "https://youtu.be/soCr5xUzibI?si=u0pTgcQWTH03ebq3",
+			"percent": 100,
+			"hz": 1000
+		},
+		{
+			"user": "LM47",
+			"link": "https://youtu.be/HR-eph4-gC8?si=6Oe00iLEmJDO8BHe",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
