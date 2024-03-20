@@ -1,10 +1,17 @@
 {
-    "id": 100486896,
-    "name": "Eternal Dreams",
-    "author": "Kacurroo",
-    "creators": [],
-    "verifier": "Kacurroo",
-    "verification": "https://youtu.be/fyLeP8i0bOU?si=tV1BzrjBMLa01re3",
-    "percentToQualify": 100,
-    "records": []
+	"id": 100486896,
+	"name": "Eternal Dreams",
+	"author": "Kacurroo",
+	"creators": [],
+	"verifier": "Kacurroo",
+	"verification": "https://youtu.be/fyLeP8i0bOU?si=tV1BzrjBMLa01re3",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "J03B",
+			"link": "https://youtu.be/urUuchnziw8?si=mI6dK2kDBj4HhWOY",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
