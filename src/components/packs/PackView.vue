@@ -61,17 +61,19 @@ watch(props, () => {
     align-items: center;
     gap: 0.25rem;
     padding: 5px;
-    background-color: var(--color-background);
+    background-color: color-mix(in srgb, var(--color-background), rgba(255, 255, 255, 5%) 6.5%);
     transition: background-color 400ms ease;
     flex-direction: column;
     border-radius: 0.5rem;
-    text-shadow: 1.5px 1.5px 1px black;
+    text-shadow: 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background);
   }
 
   & .pack_content {
     padding: 5px;
-    background-color: var(--color-background);
+    background-color: color-mix(in srgb, var(--color-background), rgba(255, 255, 255, 5%) 6.5%);
     border-radius: 0.5rem;
+    text-shadow: 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background);
+
 
     & table {
       gap: 0.5rem;

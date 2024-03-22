@@ -80,7 +80,7 @@ const toggleNavMenu = () => {
     border-bottom-right-radius: 0.25rem;
 
     &:hover {
-      background-color: color-mix(in srgb, var(--color-primary), rgba(255, 255, 255) 20%);;
+      background-color: color-mix(in srgb, var(--color-primary), rgba(255, 255, 255) 20%);
     }
   }
 }
