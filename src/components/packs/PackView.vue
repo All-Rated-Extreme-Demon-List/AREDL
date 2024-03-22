@@ -27,7 +27,7 @@ watch(props, () => {
         <span>{{pack.points}} points</span>
       </div>
     </div>
-    <div class="content">
+    <div class="content sub_content">
       <div class="pack_content">
         <table>
           <tr v-for="level in pack.levels">
@@ -51,7 +51,7 @@ watch(props, () => {
   flex-direction: column;
   gap: 0.25rem;
   width: 16rem;
-  height: fit-content;
+  height: 14rem;
   white-space: nowrap;
   padding: 3px;
   border-radius: 0.5rem;
@@ -68,7 +68,12 @@ watch(props, () => {
     text-shadow: 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background);
   }
 
+  & .sub_content {
+    height: 100%;
+  }
+
   & .pack_content {
+    height: 100%;
     padding: 5px;
     background-color: color-mix(in srgb, var(--color-background), rgba(255, 255, 255, 5%) 6.5%);
     border-radius: 0.5rem;
@@ -77,6 +82,7 @@ watch(props, () => {
 
     & table {
       gap: 0.5rem;
+      height: 100%;
       border-spacing: 3px 3px;
 
       & td {

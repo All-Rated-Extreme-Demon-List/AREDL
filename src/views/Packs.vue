@@ -28,24 +28,14 @@ onMounted(async () => {
 
 <style scoped>
 .pack_display {
-  display: inline-flex;
-  flex-flow: column wrap;
+  display: flex;
+  width: 100%;
+  flex-flow: row wrap;
   padding: 1rem;
   gap: 0.75rem;
-  max-height: 100%;
 }
 
 .container {
   overflow: auto;
-}
-
-
-@media (max-width: 880px) {
-  .pack_display {
-    display: inline-flex;
-    flex-flow: column;
-    padding: 1rem;
-    gap: 0.75rem;
-  }
 }
 </style>
