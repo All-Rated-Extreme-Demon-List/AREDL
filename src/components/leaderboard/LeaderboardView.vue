@@ -204,6 +204,7 @@ const updateFilter = () => {
     & span {
       display: flex;
       align-items: center;
+      white-space: nowrap;
       justify-content: center;
       background-color: rgba(255, 255, 255, 0.1);
       height: 100%;

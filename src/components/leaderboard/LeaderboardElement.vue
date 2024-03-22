@@ -60,6 +60,7 @@ watch(user_data, () => {
     padding: 0.75rem;
     font-size: 17px;
     width: fit-content;
+    transition: background-color 400ms ease;
   }
 
   & td {

@@ -16,13 +16,12 @@ defineProps(['level_data'])
   font-weight: 500;
   box-sizing: border-box;
   color-scheme: dark;
-  color: var(--color-on-primary)
-}
+  color: var(--color-on-primary);
+  transition: background-color 400ms ease;
 
-
-@media (max-width: 880px) {
-  .level_display {
-    font-size: 14px;
+  &:hover {
+    background-color: color-mix(in srgb, var(--color-background), rgba(255, 255, 255) 10%);
+    border-radius: 0.25rem;
   }
 }
 </style>

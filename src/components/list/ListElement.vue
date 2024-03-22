@@ -72,6 +72,7 @@ watch(props, () => {
   cursor: pointer;
   padding: 0.75rem 0.75rem;
   border-radius: 0.75rem;
+  transition: background-color 400ms ease;
 }
 
 .list-element .active {

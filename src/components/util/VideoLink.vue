@@ -20,6 +20,11 @@ defineProps(['video_url'])
   display: flex;
   justify-content: center;
   align-items: center;
+  transition: background-color 400ms ease;
+
+  &:hover {
+    background-color: color-mix(in srgb, var(--color-background), rgba(255, 255, 255) 20%);
+  }
 }
 
 .video_link .triangle {
@@ -29,16 +34,5 @@ defineProps(['video_url'])
   transform: rotate(90deg);
 }
 
-@media (max-width: 880px) {
-  .video_link .box {
-    width: 35px;
-    height: 20px;
-  }
-
-  .video_link .triangle {
-    border-width: 0 5px 10px 5px;
-
-  }
-}
 
 </style>

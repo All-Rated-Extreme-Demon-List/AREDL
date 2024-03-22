@@ -59,9 +59,9 @@ watch(props, async (newValue, _) => {
       </template>
       <template v-else>
         <h2>Records ({{level_data.records.length}})</h2>
-        <div class="record-list">
+        <table class="record-list">
           <RecordElement v-for="(record, index) in level_data.records" :record_data="record" :position="index + 1"></RecordElement>
-        </div>
+        </table>
       </template>
     </div>
   </div>
@@ -100,9 +100,9 @@ watch(props, async (newValue, _) => {
 }
 
 .level-records .record-list {
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
+  table-layout: auto;
+  border-collapse: separate;
+  width: fit-content;
 }
 
 .packs {
@@ -132,14 +132,6 @@ watch(props, async (newValue, _) => {
     overflow-x: clip;
   }
 
-  .level-info {
-    font-size: 13px;
-
-    & h3 {
-      font-size: 17px;
-    }
-  }
-
   .level-content h1 {
     font-size: 40px;
     line-height: 30px;
@@ -158,7 +150,7 @@ watch(props, async (newValue, _) => {
   }
 
   .packs {
-    font-size: 12px;
+    font-size: 14px;
   }
 }
 

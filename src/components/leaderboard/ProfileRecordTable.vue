@@ -46,11 +46,11 @@ const level_count = computed(() => {
 
   & table {
     width: 100%;
-    border-spacing: 15px 5px;
+    border-spacing: 15px 10px;
     padding-bottom: 1rem;
 
     & td {
-      vertical-align: center;
+      text-align: left;
       font-size: 17px;
       height: 30px;
     }
@@ -92,7 +92,6 @@ const level_count = computed(() => {
 
       & td {
         vertical-align: center;
-        font-size: 14px;
         height: 30px;
       }
 

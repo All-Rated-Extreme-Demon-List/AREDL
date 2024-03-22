@@ -26,11 +26,11 @@ const props = defineProps(['pack'])
   background: var(--color-background);
   border-radius: 0.5rem;
   padding: 5px;
-  transition: background 100ms;
+  transition: background-color 400ms ease;
 }
 
 .pack-display:hover span {
-  background: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.3);
 }
 
 </style>

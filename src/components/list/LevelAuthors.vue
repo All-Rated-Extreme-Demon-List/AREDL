@@ -70,7 +70,7 @@ watch(props, async (newValue, _) => {
 
 @media (max-width: 880px) {
   .level-authors h3 {
-    font-size: 13px;
+    font-size: 15px;
     line-height: 18px;
     font-weight: 700;
     text-transform: uppercase;
@@ -78,8 +78,6 @@ watch(props, async (newValue, _) => {
   }
 
   .author-name {
-    height: 14px;
-    line-height: 18px;
     text-align: center;
   }
 

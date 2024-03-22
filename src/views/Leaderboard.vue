@@ -31,6 +31,7 @@ const mobile_list_expanded = ref(true)
 
   & .tab {
     overflow-y: auto;
+    min-width: 20rem;
   }
 
 

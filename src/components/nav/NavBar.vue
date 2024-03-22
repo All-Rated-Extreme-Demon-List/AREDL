@@ -102,7 +102,7 @@ const toggleNavMenu = () => {
   padding-inline: 0.5rem;
   color: var(--color-on-primary);
   text-decoration: none;
-  transition: border-color 100ms ease;
+  transition: border-color 400ms ease, background-color 400ms ease;
 }
 
 .nav .nav_tab span {
@@ -112,6 +112,10 @@ const toggleNavMenu = () => {
 
 .nav .nav_tab:hover, .nav .nav_tab.router-link-active {
   border-color: var(--color-on-primary);
+}
+
+.nav .nav_tab:hover {
+  background-color: color-mix(in srgb, var(--color-primary), rgba(255, 255, 255) 10%);
 }
 
 .nav_toggle_button {

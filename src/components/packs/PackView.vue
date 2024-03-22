@@ -62,6 +62,7 @@ watch(props, () => {
     gap: 0.25rem;
     padding: 5px;
     background-color: var(--color-background);
+    transition: background-color 400ms ease;
     flex-direction: column;
     border-radius: 0.5rem;
     text-shadow: 1.5px 1.5px 1px black;
