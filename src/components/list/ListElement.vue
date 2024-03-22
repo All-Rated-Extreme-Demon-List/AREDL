@@ -89,20 +89,4 @@ watch(props, () => {
   border: none;
   cursor: pointer;
 }
-
-@media (max-width: 880px) {
-  .list-element span, .list-element button{
-    font-size: 15px;
-    line-height: 16px;
-  }
-
-  .list-element {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-items: center;
-    gap: 0.25rem;
-  }
-
-}
 </style>
