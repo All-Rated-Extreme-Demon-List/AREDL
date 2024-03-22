@@ -61,6 +61,7 @@ const toggleNavMenu = () => {
   position: absolute;
   display: flex;
   flex-direction: column;
+  z-index: 10;
   translate: -2rem calc(var(--navbar-height) + 5.5rem);
   height: 15rem;
   width: 10rem;
