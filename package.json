@@ -11,10 +11,11 @@
     "pocketbase": "^0.18.0",
     "vue": "^3.3.4",
     "vue-multiselect": "^2.1.8",
-    "vue-router": "^4.0.13"
+    "vue-router": "^4.0.13",
+    "vue-accessible-color-picker": "^5.0.1"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.3.4",
-    "vite": "^4.4.9"
+    "vite": "5.2.3"
   }
 }

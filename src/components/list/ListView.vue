@@ -191,6 +191,7 @@ const updateData = () => {
   position: relative;
   display: flex;
   flex-direction: column;
+  //background: linear-gradient(0deg, var(--color-background), color-mix(in srgb, var(--color-background), cyan 20%));
 }
 
 .main-list, .legacy-list{

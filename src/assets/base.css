@@ -5,10 +5,12 @@
   --color-on-background: #403D39;
   --color-background-hover: #CCC5B9;
   --color-on-background-hover: #CCC5B9;
+  --color-default-primary: #ff6f00;
   --color-primary: #ff6f00;
   --color-on-primary: #FFFCF2;
   --color-error: #de0000;
   --color-on-error: white;
+  --vacp-color-background-input: color-mix(in srgb, var(--color-background), rgba(255, 255, 255) 10%);
 
   --navbar-height: 4rem;
 }

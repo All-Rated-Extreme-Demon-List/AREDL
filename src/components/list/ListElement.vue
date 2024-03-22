@@ -77,6 +77,7 @@ watch(props, () => {
 
 .list-element .active {
   background-color: var(--color-primary);
+  text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 2px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
 }
 
 .list-element .active:hover {

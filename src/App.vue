@@ -1,7 +1,7 @@
 <script setup>
 
 import NavBar from "@/components/nav/NavBar.vue";
-import {nextTick, onMounted} from "vue";
+import {computed, nextTick, onMounted, watch} from "vue";
 import {pb} from "@/pocketbase";
 import {store} from "@/main";
 
@@ -17,6 +17,19 @@ onMounted(async () => {
       })
     }
   }, true)
+  store.color = localStorage.getItem('color') || '';
+})
+
+watch(store, () => {
+  let item = document.getElementById("app")
+  if (store.color) {
+    localStorage.setItem('color', store.color)
+    item.style.setProperty("--color-primary", store.color)
+    console.log("test")
+  } else {
+    localStorage.setItem('color', '')
+    item.style.setProperty("--color-primary", item.style.getPropertyValue('--color-default-primary'))
+  }
 })
 </script>
 
@@ -27,6 +40,6 @@ onMounted(async () => {
   <RouterView id="view" class="router_view"></RouterView>
 </template>
 
-<style scoped>
-
+<style>
+@import url('vue-accessible-color-picker/styles');
 </style>
