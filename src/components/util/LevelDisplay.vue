@@ -14,6 +14,7 @@ defineProps(['level_data'])
   width: 100%;
   text-decoration: none;
   font-weight: 500;
+  display: flex;
   box-sizing: border-box;
   color-scheme: dark;
   color: var(--color-on-primary);
