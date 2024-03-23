@@ -143,7 +143,7 @@ export default {
                         - End stats (The whole box must appear for at least one frame)
                     </p>
                     <p>
-                        - FPS/TPS Counter (For mod menus that support one, or the 2.2 native FPS counter otherwise)
+                        - FPS/TPS counter for completions that aren't on 2.2
                     </p>
                     <p>
                         - Using physics bypass on any level in 2.2 is not allowed, and will get your record rejected
