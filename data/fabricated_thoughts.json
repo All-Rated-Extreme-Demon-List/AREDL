@@ -1,60 +1,66 @@
 {
-    "id": 61151935,
-    "name": "Fabricated Thoughts",
-    "author": "MaxiKD",
-    "creators": [],
-    "verifier": "YakobNugget",
-    "verification": "https://www.youtube.com/watch?v=Uzfzgf51Xww",
-    "percentToQualify": 100,
-    "password": "000102",
-    "records": [
-    {
-            "user": "ThePastaNebula",
-            "link": "https://youtu.be/mxOhGYmgwW4",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LinedriveGD",
-            "link": "https://www.youtube.com/watch?v=DNIiY8lKtJw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "eg600",
-            "link": "https://youtu.be/zCcC2X2nbS0",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Gap2003",
-            "link": "https://www.youtube.com/watch?v=m8GLTQYFdic",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "ddddr",
-    "link": "https://youtu.be/ViEtUU2VH4s",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "BlueTomcat",
-    "link": "https://youtu.be/XKQmuGj0R0E?si=MpwmpeuxXazwJsNG",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "ImOneOfThem",
-    "link": "https://youtu.be/8hZ4eHpvrvA?si=UBBOIJsQsdZFntdw",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "Compass",
-    "link": "https://youtu.be/LUynHK0zJb4",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 61151935,
+	"name": "Fabricated Thoughts",
+	"author": "MaxiKD",
+	"creators": [],
+	"verifier": "YakobNugget",
+	"verification": "https://www.youtube.com/watch?v=Uzfzgf51Xww",
+	"percentToQualify": 100,
+	"password": "000102",
+	"records": [
+		{
+			"user": "ThePastaNebula",
+			"link": "https://youtu.be/mxOhGYmgwW4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=DNIiY8lKtJw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "eg600",
+			"link": "https://youtu.be/zCcC2X2nbS0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Gap2003",
+			"link": "https://www.youtube.com/watch?v=m8GLTQYFdic",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ddddr",
+			"link": "https://youtu.be/ViEtUU2VH4s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BlueTomcat",
+			"link": "https://youtu.be/XKQmuGj0R0E?si=MpwmpeuxXazwJsNG",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "ImOneOfThem",
+			"link": "https://youtu.be/8hZ4eHpvrvA?si=UBBOIJsQsdZFntdw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Compass",
+			"link": "https://youtu.be/LUynHK0zJb4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "catmatt",
+			"link": "https://www.youtube.com/watch?v=zo1OFzR_9JI",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
