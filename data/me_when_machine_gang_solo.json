@@ -1,11 +1,18 @@
 {
-    "id": 93281587,
-    "name": "me when machine gang (Solo)",
-    "author": "akunakunn",
-    "creators": [],
-    "verifier": "Motor8", 
-    "verification": "https://youtu.be/C8uSFs01qwc?si=bVa7xeg0uyX2fA2H",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records": []
+	"id": 93281587,
+	"name": "me when machine gang (Solo)",
+	"author": "akunakunn",
+	"creators": [],
+	"verifier": "Motor8",
+	"verification": "https://youtu.be/C8uSFs01qwc?si=bVa7xeg0uyX2fA2H",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "conski",
+			"link": "https://youtu.be/bVc-ycz9t7I?si=_XdQtO9mps_KjlAf",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
