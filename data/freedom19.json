@@ -1,48 +1,93 @@
 {
-    "id": 75718490,
-    "name": "Freedom19",
-    "author": "GrenadeOfTacos",
-    "creators": ["Awedsy", "Hsam", "AeverMess", "terron", "Peton", "Morphizn", "Karyl", "Brighty", "G-Force", "Allison", "aleph", "Lasaga", "yuuchouze", "c034", "GrenadeofTacos", "SigRp", "Cersia", "Squared", "Theorical", "Burgz", "Graded", "Nezopi", "MrSpaghetti", "zmx", "kyurime", "unnn", "Arca", "Pennutoh ", "Rulls", "Hubbubble", "maxfs", "Intensa", "Isane", "Fitatfi", "Sillow", "Artos", "Zylsia", "Carminius"],
-    "verifier": "ARtu",
-    "verification": "https://www.youtube.com/watch?v=UoAmpeLfHfg",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "DartHole",
-            "link": "https://youtu.be/6xLLsTCmonA",
-            "percent": 100,
-            "hz": 300
-},
-        {
-            "user": "StarXV",
-            "link": "https://youtu.be/R0hZXGBiHds",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "JDemoX",
-            "link": "https://www.youtube.com/watch?v=XLNLjCDljiM",
-            "percent": 100,
-            "hz": 144
-},
-{
-    "user": "WhiteEmerald",
-    "link": "https://www.youtube.com/watch?v=_UHjDIgCqsg",
-    "percent": 100,
-    "hz": 60,
-    "mobile": true
-},
-{
-    "user": "ddddr",
-    "link": "https://youtu.be/sou73Iqf0yw",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Polixe",
-    "link": "https://www.youtube.com/watch?v=2TntonI_k7k&t=0s",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 75718490,
+	"name": "Freedom19",
+	"author": "GrenadeOfTacos",
+	"creators": [
+		"Awedsy",
+		"Hsam",
+		"AeverMess",
+		"terron",
+		"Peton",
+		"Morphizn",
+		"Karyl",
+		"Brighty",
+		"G-Force",
+		"Allison",
+		"aleph",
+		"Lasaga",
+		"yuuchouze",
+		"c034",
+		"GrenadeofTacos",
+		"SigRp",
+		"Cersia",
+		"Squared",
+		"Theorical",
+		"Burgz",
+		"Graded",
+		"Nezopi",
+		"MrSpaghetti",
+		"zmx",
+		"kyurime",
+		"unnn",
+		"Arca",
+		"Pennutoh ",
+		"Rulls",
+		"Hubbubble",
+		"maxfs",
+		"Intensa",
+		"Isane",
+		"Fitatfi",
+		"Sillow",
+		"Artos",
+		"Zylsia",
+		"Carminius"
+	],
+	"verifier": "ARtu",
+	"verification": "https://www.youtube.com/watch?v=UoAmpeLfHfg",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "DartHole",
+			"link": "https://youtu.be/6xLLsTCmonA",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "StarXV",
+			"link": "https://youtu.be/R0hZXGBiHds",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "JDemoX",
+			"link": "https://www.youtube.com/watch?v=XLNLjCDljiM",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "WhiteEmerald",
+			"link": "https://www.youtube.com/watch?v=_UHjDIgCqsg",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "ddddr",
+			"link": "https://youtu.be/sou73Iqf0yw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Polixe",
+			"link": "https://www.youtube.com/watch?v=2TntonI_k7k&t=0s",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "BorjaGD",
+			"link": "https://www.youtube.com/watch?v=Mj1r-nGud3w",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
