@@ -7,5 +7,12 @@
 	"verification": "https://www.youtube.com/watch?v=9bc_cLzqYxw&t=13s",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "SlightliFizzi",
+			"link": "https://youtu.be/XOZ4HwwCjis?si=VojH6wh7SjElHeHQ",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
