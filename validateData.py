@@ -110,6 +110,10 @@ def validate_data():
                     except ValidationError:
                         had_error = True
                         print(f"Invalid Url: {filename} {name}: {url}")
+                
+                if "" in names:
+                    had_error = True
+                    print(f"Empty username in {filename}")
 
                 creators = []
                 for creator in data["creators"]:
