@@ -36,13 +36,6 @@ html, body {
   margin: 0;
 }
 
-body{
-  -moz-transform: rotate(180deg);
-  -webkit-transform: rotate(180deg);
-  -o-transform: rotate(180deg);
-  transform: rotate(180deg);
-}
-
 body {
   display: flex;
   flex-direction: column;
