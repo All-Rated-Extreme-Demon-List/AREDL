@@ -1,106 +1,119 @@
 {
-    "id": 84507862,
-    "name": "no jokes",
-    "author": "TheParadoxTeam",
-    "creators": ["TyakyoFyai", "Nexi", "FlashWings576", "Quicklen", "Aqualime"],
-    "verifier": "Zeronium",
-    "verification": "https://www.youtube.com/watch?v=oVhGYiQ8fBc",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=cPh6MYR1C3o",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "nei",
-            "link": "https://youtu.be/Utg4OSpl100",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Vink",
-            "link": "https://youtu.be/tGAHgpiwPpo",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/eNxFBxSHCG4",
-            "percent": 100,
-            "hz": 321
-},
-        {
-            "user": "DJ1482",
-            "link": "https://www.youtube.com/watch?v=I8QCLGYOjz0",
-            "percent": 100,
-            "hz": 288
-},
-        {
-        "user": "fusion425",
-        "link": "https://youtu.be/skDhFdOe-Yg",
-        "percent": 100,
-        "hz": 360
-},
-        {
-        "user": "ItzElectrix",
-        "link": "https://www.youtube.com/watch?v=AWaxE0J4vtQ",
-        "percent": 100,
-        "hz": 360
-},
-        {
-        "user": "Kopre",
-        "link": "https://youtu.be/q8dnPNJigyw",
-        "percent": 100,
-        "hz": 360
-},
-{
-        "user": "foocii",
-        "link": "https://www.youtube.com/watch?v=uvJlOHhk_Ic&list=PLaQpe6479GTedmSyJsFTvZU5cYoFivapo&ab_channel=Itsfoocii",
-        "percent": 100,
-        "hz": 360
-},
-{
-        "user": "dizbro",
-        "link": "https://youtu.be/va56aUDtm1w",
-        "percent": 100,
-        "hz": 360
-},
-{
-        "user": "stav",
-        "link": "https://youtu.be/AlG6F2smegw?si=nJDdhwMJbe8aJLFd",
-        "percent": 100,
-        "hz": 360
-},
-{
-        "user": "iamfinley",
-        "link": "https://www.youtube.com/watch?v=X6175LY8Mq8",
-        "percent": 100,
-        "hz": 360
-},
-{
-        "user": "Aphelix",
-        "link": "https://www.youtube.com/watch?v=_h4lfVupj9U",
-        "percent": 100,
-        "hz": 240
-},{
-        "user": "Amza",
-        "link": "https://youtu.be/11-mfpE7PXk?si=j3tIHgBs09srooWQ",
-        "percent": 100,
-        "hz": 300
-},
-{
-        "user": "deex",
-        "link": "https://www.youtube.com/watch?v=MyMip7luJzs",
-        "percent": 100,
-        "hz": 360
-},
-{
-        "user": "miguel 6456",
-        "link": "https://youtu.be/nwOTvf_C0XU?si=fK2AWx-HVYPgPxgB",
-        "percent": 100,
-        "hz": 360
-}
-    ]
+	"id": 84507862,
+	"name": "no jokes",
+	"author": "TheParadoxTeam",
+	"creators": [
+		"TyakyoFyai",
+		"Nexi",
+		"FlashWings576",
+		"Quicklen",
+		"Aqualime"
+	],
+	"verifier": "Zeronium",
+	"verification": "https://www.youtube.com/watch?v=oVhGYiQ8fBc",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=cPh6MYR1C3o",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "nei",
+			"link": "https://youtu.be/Utg4OSpl100",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Vink",
+			"link": "https://youtu.be/tGAHgpiwPpo",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/eNxFBxSHCG4",
+			"percent": 100,
+			"hz": 321
+		},
+		{
+			"user": "DJ1482",
+			"link": "https://www.youtube.com/watch?v=I8QCLGYOjz0",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "fusion425",
+			"link": "https://youtu.be/skDhFdOe-Yg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ItzElectrix",
+			"link": "https://www.youtube.com/watch?v=AWaxE0J4vtQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Kopre",
+			"link": "https://youtu.be/q8dnPNJigyw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "foocii",
+			"link": "https://www.youtube.com/watch?v=uvJlOHhk_Ic&list=PLaQpe6479GTedmSyJsFTvZU5cYoFivapo&ab_channel=Itsfoocii",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "dizbro",
+			"link": "https://youtu.be/va56aUDtm1w",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "stav",
+			"link": "https://youtu.be/AlG6F2smegw?si=nJDdhwMJbe8aJLFd",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "iamfinley",
+			"link": "https://www.youtube.com/watch?v=X6175LY8Mq8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Aphelix",
+			"link": "https://www.youtube.com/watch?v=_h4lfVupj9U",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Amza",
+			"link": "https://youtu.be/11-mfpE7PXk?si=j3tIHgBs09srooWQ",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "deex",
+			"link": "https://www.youtube.com/watch?v=MyMip7luJzs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "miguel 6456",
+			"link": "https://youtu.be/nwOTvf_C0XU?si=fK2AWx-HVYPgPxgB",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "bims",
+			"link": "https://www.youtube.com/watch?v=cBSCfhZNg50",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

@@ -1,105 +1,119 @@
 {
-    "id": 33498127,
-    "name": "SARY NEVER CLEAR",
-    "author": "Kugelblitz",
-    "creators": ["Optic Sunflow","xNorth","Eyeris","Cypher","Kugelblitz"],
-    "verifier": "Spamdrew128",
-    "verification": "https://www.youtube.com/watch?v=23u3SlwrOMw",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=exwImwk5DOE&",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Lonhi",
-            "link": "https://www.youtube.com/watch?v=c7CMLXCAM4Y",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Matter",
-            "link": "https://youtu.be/_wuq0FsozxQ",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Blitzer",
-            "link": "https://www.youtube.com/watch?v=Bl7KA4ROcEg",
-            "percent": 100,
-            "hz": 360
-},
-         {
-            "user": "Zoink",
-            "link": "https://www.youtube.com/watch?v=o3v5w3xXFAk",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/Qwb6CdB4psQ",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=gIKJlw24WSI&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 360
-},
-        {
-        "user": "s3batr0nic",
-        "link": "https://youtu.be/_EViHdC-Hww",
-        "percent": 100,
-        "hz": 360
-    },
-    {
-    "user": "iiLogan",
-    "link": "https://youtu.be/gg8mdnC1BuU",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "lolwut",
-    "link": "https://youtu.be/iy0zXOlSgxI?si=R-btRtJEJCytK9wz",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "miguel6456",
-    "link": "https://youtu.be/7n4Q8DXXFfE?si=_BJCZJuzI-lKeBHf",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "初音ミク",
-    "link": "https://youtu.be/0LuOX0LxQ9I",
-    "percent": 100,
-    "hz": 360
-},{
-    "user": "funnyPoop1",
-    "link": "https://www.youtube.com/watch?v=yRbltcv0_lk&t=46s",
-    "percent": 100,
-    "hz": 360
-},{
-    "user": "Amza",
-    "link": "https://youtu.be/5F7bm34f4B4?si=C6l2D1xDF-TmVV70",
-    "percent": 100,
-    "hz": 300
-},
-{
-    "user": "MatsuoIsHere",
-    "link": "https://www.youtube.com/watch?v=RW2Dxi79UhM&list=PLPCK6UQaU-5PWcqGYQIaUO9HCoFosGFOs&index=63",
-    "percent": 100,
-    "hz": 300
-},
-{
-    "user": "deex",
-    "link": "https://www.youtube.com/watch?v=Ecv38lH1h7Q",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 33498127,
+	"name": "SARY NEVER CLEAR",
+	"author": "Kugelblitz",
+	"creators": [
+		"Optic Sunflow",
+		"xNorth",
+		"Eyeris",
+		"Cypher",
+		"Kugelblitz"
+	],
+	"verifier": "Spamdrew128",
+	"verification": "https://www.youtube.com/watch?v=23u3SlwrOMw",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "theworldofme",
+			"link": "https://www.youtube.com/watch?v=exwImwk5DOE&",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lonhi",
+			"link": "https://www.youtube.com/watch?v=c7CMLXCAM4Y",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Matter",
+			"link": "https://youtu.be/_wuq0FsozxQ",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Blitzer",
+			"link": "https://www.youtube.com/watch?v=Bl7KA4ROcEg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Zoink",
+			"link": "https://www.youtube.com/watch?v=o3v5w3xXFAk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/Qwb6CdB4psQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ViperVenom95",
+			"link": "https://www.youtube.com/watch?v=gIKJlw24WSI&ab_channel=ViperVenom95",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "s3batr0nic",
+			"link": "https://youtu.be/_EViHdC-Hww",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "iiLogan",
+			"link": "https://youtu.be/gg8mdnC1BuU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "lolwut",
+			"link": "https://youtu.be/iy0zXOlSgxI?si=R-btRtJEJCytK9wz",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "miguel6456",
+			"link": "https://youtu.be/7n4Q8DXXFfE?si=_BJCZJuzI-lKeBHf",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "初音ミク",
+			"link": "https://youtu.be/0LuOX0LxQ9I",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "funnyPoop1",
+			"link": "https://www.youtube.com/watch?v=yRbltcv0_lk&t=46s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Amza",
+			"link": "https://youtu.be/5F7bm34f4B4?si=C6l2D1xDF-TmVV70",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "MatsuoIsHere",
+			"link": "https://www.youtube.com/watch?v=RW2Dxi79UhM&list=PLPCK6UQaU-5PWcqGYQIaUO9HCoFosGFOs&index=63",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "deex",
+			"link": "https://www.youtube.com/watch?v=Ecv38lH1h7Q",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "bims",
+			"link": "https://www.youtube.com/watch?v=74_cPpINeCI",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
