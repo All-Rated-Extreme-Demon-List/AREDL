@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "pocketbase": "^0.18.0",
+    "pocketbase": "^0.21.1",
     "vue": "^3.3.4",
     "vue-multiselect": "^2.1.8",
     "vue-router": "^4.0.13",

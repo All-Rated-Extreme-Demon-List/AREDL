@@ -12,7 +12,7 @@ onMounted(async () => {
       store.permissions = null
     } else {
       nextTick(async () => {
-        store.permissions = await pb.send("/api/user/permissions", {})
+        store.permissions = await pb.send("/api/permissions", {})
         //console.log(store.permissions)
       })
     }

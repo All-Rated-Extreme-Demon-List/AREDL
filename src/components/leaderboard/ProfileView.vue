@@ -16,9 +16,7 @@ const props = defineProps(['user_id'])
 const user_data = ref()
 
 watch(props, async (newValue, _) => {
-  user_data.value = await pb.send("/api/aredl/user", {
-    id: newValue.user_id
-  })
+  user_data.value = await pb.send("/api/aredl/profiles/" + newValue.user_id, {})
   //console.log(user_data.value)
 })
 

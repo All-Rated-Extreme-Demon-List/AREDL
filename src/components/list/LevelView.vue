@@ -12,9 +12,8 @@ const level_data = ref()
 const creator_and_verifier = ref()
 
 watch(props, async (newValue, _) => {
-  level_data.value = await pb.send("/api/aredl/level", {
+  level_data.value = await pb.send("/api/aredl/levels/" + newValue.selected_level.id, {
     query: {
-      level_id: newValue.selected_level.id,
       two_player: newValue.selected_level.two_player,
       records: true,
       creators: true,
