@@ -1,35 +1,44 @@
 {
-    "id": 90193093,
-    "name": "Twilight",
-    "author": "zYuko",
-    "creators": ["zYuko"],
-    "verifier": "nei",
-    "verification": "https://youtu.be/5bZ3RQP7fjs",
-    "percentToQualify": 100,
-    "password": "",
-    "records": [
-        {
-            "user": "Capamari",
-            "link": "https://youtu.be/tEpIsK-2_xw",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Bamvie",
-            "link": "https://youtu.be/3pg7xMr7FjU?si=mnuJ-iAZLoJDrXPN",
-            "percent": 100,
-            "hz": 360
-    },{
-        "user": "Amza",
-        "link": "https://youtu.be/qLAZbE_Xw2k?si=0xBudCeoBEFlqP-r",
-        "percent": 100,
-        "hz": 300
-},
-{
-    "user": "miguel 6456",
-    "link": "https://youtu.be/bCTcU_pXr1A?si=e-DGJo8Q7lpU9DAp",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+	"id": 90193093,
+	"name": "Twilight",
+	"author": "zYuko",
+	"creators": [
+		"zYuko"
+	],
+	"verifier": "nei",
+	"verification": "https://youtu.be/5bZ3RQP7fjs",
+	"percentToQualify": 100,
+	"password": "",
+	"records": [
+		{
+			"user": "Capamari",
+			"link": "https://youtu.be/tEpIsK-2_xw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bamvie",
+			"link": "https://youtu.be/3pg7xMr7FjU?si=mnuJ-iAZLoJDrXPN",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Amza",
+			"link": "https://youtu.be/qLAZbE_Xw2k?si=0xBudCeoBEFlqP-r",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "miguel 6456",
+			"link": "https://youtu.be/bCTcU_pXr1A?si=e-DGJo8Q7lpU9DAp",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DJ1482",
+			"link": "https://youtu.be/LKBt4rtQElk",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
