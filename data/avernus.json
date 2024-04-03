@@ -1,19 +1,39 @@
 {
-    "id": 89496627,
-    "name": "Avernus",
-    "author": "PockeWindfish",
-    "creators": ["SyQual", "Zenn", "Zipixbox", "TriplasH", "Realvet", "Deadlox", "BoBoBoBoBoBoBo", "El3ctr0", "Kyhros", "deactive", "Nidro", "GD Iris", "Loolycat", "Woom"],
-    "verifier": "Zoink",
-    "verification": "https://www.youtube.com/watch?v=16Zh8jssanc",
-    "percentToQualify": 100,
-    "password": "30607",
-    "records": [
-        {
-                "user": "Diamond",
-                "link": "https://youtu.be/oEFB-ZrhMmM?si=M_JRzwrQCjubGQrW",
-                "percent": 100,
-                "hz": 360
-        }
-    ]
+	"id": 89496627,
+	"name": "Avernus",
+	"author": "PockeWindfish",
+	"creators": [
+		"SyQual",
+		"Zenn",
+		"Zipixbox",
+		"TriplasH",
+		"Realvet",
+		"Deadlox",
+		"BoBoBoBoBoBoBo",
+		"El3ctr0",
+		"Kyhros",
+		"deactive",
+		"Nidro",
+		"GD Iris",
+		"Loolycat",
+		"Woom"
+	],
+	"verifier": "Zoink",
+	"verification": "https://www.youtube.com/watch?v=16Zh8jssanc",
+	"percentToQualify": 100,
+	"password": "30607",
+	"records": [
+		{
+			"user": "Diamond",
+			"link": "https://youtu.be/oEFB-ZrhMmM?si=M_JRzwrQCjubGQrW",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Trick",
+			"link": "https://www.youtube.com/watch?v=aWyNtYYpjy8",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
-  

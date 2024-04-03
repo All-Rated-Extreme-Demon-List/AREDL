@@ -1,23 +1,111 @@
 {
-    "id": 76962930,
-    "name": "Sakupen Circles",
-    "author": "Diamond",
-    "creators": ["Nick24","DrCuber","korewa","Muffy450","Renn241","endevvor","Mzero","NineDice","GhostVandalf"],
-    "verifier": "Diamond",
-    "verification": "https://www.youtube.com/watch?v=ofG2mJi9kEA",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Denni",
-            "link": "https://www.youtube.com/watch?v=jupNyBORa3w",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/YYMrmAmmS-0",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 76962930,
+	"name": "Sakupen Circles",
+	"author": "Diamond",
+	"creators": [
+		"Nick24",
+		"DrCuber",
+		"korewa",
+		"Muffy450",
+		"Renn241",
+		"endevvor",
+		"Mzero",
+		"NineDice",
+		"GhostVandalf"
+	],
+	"verifier": "Diamond",
+	"verification": "https://www.youtube.com/watch?v=ofG2mJi9kEA",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Denni",
+			"link": "https://www.youtube.com/watch?v=jupNyBORa3w",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/YYMrmAmmS-0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Cursed",
+			"link": "https://www.youtube.com/watch?v=VKbsTIFSKP4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Doggie",
+			"link": "https://www.twitch.tv/videos/1440723811",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Hover",
+			"link": "https://www.youtube.com/watch?v=ogf7u-kaJco",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Fluxe",
+			"link": "https://www.youtube.com/watch?v=hO23iFgxmPQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Tuggy",
+			"link": "https://www.youtube.com/watch?v=2NurQoNeBqI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Seturan",
+			"link": "https://www.youtube.com/watch?v=pVzuwmuDNEQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "RaeveZ",
+			"link": "https://www.youtube.com/watch?v=FjEal25CLGE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Trick",
+			"link": "https://www.youtube.com/watch?v=zCJrhYTjqMo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Arshadow",
+			"link": "https://www.youtube.com/watch?v=4izeKWmkIx4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MYS",
+			"link": "https://www.youtube.com/watch?v=40sVz8N1b8U",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "wPopoff",
+			"link": "https://www.youtube.com/watch?v=2Z5fn2yF2r4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Sydno",
+			"link": "https://www.youtube.com/watch?v=o6tIMu7gMII",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Axinity",
+			"link": "https://www.youtube.com/watch?v=T6ljQCIvcfw",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
