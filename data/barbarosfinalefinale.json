@@ -2,9 +2,20 @@
 	"id": 102712028,
 	"name": "BarbarosFinaleFinale",
 	"author": "awesomeme360",
-	"creators": ["awesomeme360", "Moffe", "Dep96"],
+	"creators": [
+		"awesomeme360",
+		"Moffe",
+		"Dep96"
+	],
 	"verifier": "AeonAir",
 	"verification": "https://youtu.be/F32ekXnS3a4?si=ywVqeiH9SATAO7Qd",
 	"percentToQualify": 100,
-	"records": []
+	"records": [
+		{
+			"user": "Chubs Dubs",
+			"link": "https://www.youtube.com/watch?v=MEATf44P15o",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
