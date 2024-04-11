@@ -2,10 +2,31 @@
 	"id": 102017741,
 	"name": "ABSURDIA",
 	"author": "BowtieGD",
-	"creators": ["SmitN"," FraPai"," Jaxxn"," alaskafx","  Smartish"," HugoLA"," Classic10"],
+	"creators": [
+		"SmitN",
+		" FraPai",
+		" Jaxxn",
+		" alaskafx",
+		"  Smartish",
+		" HugoLA",
+		" Classic10"
+	],
 	"verifier": "Zeronium",
 	"verification": "https://youtu.be/E2p1U60IG5s?si=diKCWN3n4_8Vamzr",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "exerity",
+			"link": "https://youtu.be/1M2PTv6w5e0?si=TIssphgwu3lDUT8_",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "lumi",
+			"link": "https://youtu.be/U8JuywUaSMg?si=VnTpSrZAt3-YvjRD",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
