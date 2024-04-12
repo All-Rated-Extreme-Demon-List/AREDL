@@ -25,7 +25,6 @@ watch(store, () => {
   if (store.color) {
     localStorage.setItem('color', store.color)
     item.style.setProperty("--color-primary", store.color)
-    console.log("test")
   } else {
     localStorage.setItem('color', '')
     item.style.setProperty("--color-primary", item.style.getPropertyValue('--color-default-primary'))
