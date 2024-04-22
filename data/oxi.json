@@ -7,5 +7,12 @@
 	"verification": "https://youtu.be/uh0wo3P1Zx4?si=o7vFKxrc1QYHfjNd",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "JustXSoos",
+			"link": "https://www.youtube.com/watch?v=fRl4Gw0oOgg",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
