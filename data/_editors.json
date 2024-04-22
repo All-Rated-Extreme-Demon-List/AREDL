@@ -37,10 +37,6 @@
                 "link": "https://www.youtube.com/channel/UCtLuHWMWDEulHAYA5GJyGHA"
             },
             {
-                "name": "Padahk",
-                "link": "https://www.youtube.com/channel/UCab6v0QABvh4ca5EJrlgH9A"
-            },
-            {
                 "name": "Bobbyp02",
                 "link": "https://www.youtube.com/channel/UCZQWL17sRXpZ5jYTW_HEZng"
             },
@@ -113,7 +109,11 @@
             {
                 "name": "Squiddy",
                 "link": ""
-            }            
+            },
+            {
+                "name": "Padahk",
+                "link": "https://www.youtube.com/channel/UCab6v0QABvh4ca5EJrlgH9A"
+            }           
         ] 
     },    
     {       "role": "dev",
