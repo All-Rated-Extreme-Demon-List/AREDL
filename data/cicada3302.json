@@ -2,10 +2,19 @@
 	"id": 96036893,
 	"name": "CICADA3302",
 	"author": "Darwin",
-	"creators": ["Darwin"],
+	"creators": [
+		"Darwin"
+	],
 	"verifier": "Nexus",
 	"verification": "https://www.youtube.com/watch?v=DsM-e8yF5ys",
 	"percentToQualify": 100,
 	"password": "Free to Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "PAJAX",
+			"link": "https://www.youtube.com/watch?v=LnQnPMP8u68",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
