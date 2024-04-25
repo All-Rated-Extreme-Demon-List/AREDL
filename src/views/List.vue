@@ -50,7 +50,7 @@ const mobile_list_expanded = ref(true)
             - End stats (The whole box must appear for at least one frame)
           </p>
           <p>
-            - FPS/TPS Counter (For mod menus that support one, or the 2.2 native FPS counter otherwise)
+            - FPS/TPS counter is required only on 2.1 GDPS up to 360 fps/tps
           </p>
           <p>
             - Using physics bypass on any level in 2.2 is not allowed, and will get your record rejected
