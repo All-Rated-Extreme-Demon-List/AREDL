@@ -7,5 +7,12 @@
 	"verification": "https://youtu.be/tWI2dfkCXys?si=jUOUTHf1RUweG5ID",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "lolwut",
+			"link": "https://www.youtube.com/watch?v=-zhqhIe3o-g",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
