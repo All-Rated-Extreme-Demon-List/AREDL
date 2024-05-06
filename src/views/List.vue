@@ -38,7 +38,7 @@ const mobile_list_expanded = ref(true)
             - Your completion needs to have clicks. If it doesn't (or if it only does for a part of the level, and not the entire run), you have to provide a raw footage with clicks. If you don't, your record will be rejected. Mobile players are NOT exempt from this rule, recorded taps are required.
           </p>
              <p>
-                    - Your completion must contain at least a second of a previous attempt, including the death. If the completion does not comply, it will be denined and you will be asked to provide raw footage. If the record was achieved on the first attempt it is exempt from this rule.
+                    - Your completion must contain at least a second of a previous attempt, including the death. If the completion does not comply, it will be denied and you will be asked to provide raw footage. If the record was achieved on the first attempt it is exempt from this rule.
                 </p>
           <p>
             - Achieved the record on the level that is listed on the site (or an approved LDM of it) - please check the level ID before you submit a record
