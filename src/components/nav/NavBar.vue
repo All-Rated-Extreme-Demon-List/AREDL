@@ -27,6 +27,9 @@ const toggleNavMenu = () => {
         <RouterLink :to="{ name: 'Packs' }" class="nav_tab">
           <span>Packs</span>
         </RouterLink>
+        <!--<RouterLink :to="{ name: 'Roulette' }" class="nav_tab">
+        <span>Roulette</span>
+      </RouterLink>-->
         <RouterLink :to="{ name: 'Moderation' }" class="nav_tab" v-if="store.hasPermission('aredl.mod_view').value">
           <span>Mod</span>
         </RouterLink>

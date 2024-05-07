@@ -9,6 +9,8 @@ import Leaderboard from "@/views/Leaderboard.vue";
 import Packs from "@/views/Packs.vue";
 // @ts-ignore
 import Submission from "@/views/Submission.vue";
+// @ts-ignore
+import Roulette from "@/views/Roulette.vue";
 
 const routes = [
     {
@@ -42,6 +44,11 @@ const routes = [
         path: '/mod',
         name: "Moderation",
         component: Empty,
+    },
+    {
+        path: "/roulette",
+        name: "Roulette",
+        component: Roulette,
     },
     {
         path: '/:catchAll(.*)*',

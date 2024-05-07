@@ -41,6 +41,7 @@ const props = defineProps(["title", "icon", "levels"])
     border-spacing: 15px 5px;
 
     & td {
+      margin: 0;
       vertical-align: center;
       font-size: 17px;
       height: 30px;

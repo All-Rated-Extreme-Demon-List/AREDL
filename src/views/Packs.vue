@@ -4,26 +4,39 @@ import {pb} from "@/pocketbase";
 import {useRoute} from "vue-router";
 import PackDisplay from "@/components/PackDisplay.vue";
 import PackView from "@/components/packs/PackView.vue";
+import {LoadingStatus} from "@/loadingStatus";
+import LoadingPanel from "@/components/util/LoadingPanel.vue";
 
 const pack_data = ref(null)
 
 const route = useRoute()
+const loading_status = ref(LoadingStatus.LOADING)
 
 onMounted(async () => {
+  loading_status.value = LoadingStatus.LOADING;
   /*if (route.params.id !== '') {
     selected_level.value = route.params.id;
   }*/
-  pack_data.value = await pb.send("/api/aredl/packs", {})
+  try {
+    pack_data.value = await pb.send("/api/aredl/packs", {})
+  } catch (error) {
+    loading_status.value = LoadingStatus.ERROR;
+    return;
+  }
   //console.log(pack_data.value)
+  loading_status.value = LoadingStatus.FINISHED;
 })
 </script>
 
 <template>
-  <div class="container">
-    <div class="pack_display">
-      <PackView v-for="pack in pack_data" :pack="pack"></PackView>
+  <LoadingPanel :status="loading_status">
+    <div class="container">
+      <div class="pack_display">
+        <PackView v-for="pack in pack_data" :pack="pack"></PackView>
+      </div>
     </div>
-  </div>
+  </LoadingPanel>
+
 </template>
 
 <style scoped>

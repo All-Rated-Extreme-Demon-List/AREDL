@@ -44,6 +44,7 @@ watch(props, async (newValue, _) => {
   font-size: 17px;
   line-height: 18px;
   font-weight: 700;
+  margin: 0;
   text-transform: uppercase;
   color: var(--color-on-primary);
 }

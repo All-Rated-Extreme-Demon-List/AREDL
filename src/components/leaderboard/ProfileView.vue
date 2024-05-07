@@ -10,14 +10,23 @@ import CompletedIcon from "@/assets/trophies/4.png"
 import CreatedIcon from "@/assets/trophies/5.png"
 import PublishedIcon from "@/assets/trophies/6.png"
 import ProfileLevelsTable from "@/components/leaderboard/ProfileLevelsTable.vue";
+import LoadingPanel from "@/components/util/LoadingPanel.vue";
+import {LoadingStatus} from "@/loadingStatus";
 
 const props = defineProps(['user_id'])
 
 const user_data = ref()
+const loading_status = ref()
 
 watch(props, async (newValue, _) => {
-  user_data.value = await pb.send("/api/aredl/profiles/" + newValue.user_id, {})
-  //console.log(user_data.value)
+  loading_status.value = LoadingStatus.LOADING;
+  try {
+    user_data.value = await pb.send("/api/aredl/profiles/" + newValue.user_id, {})
+    loading_status.value = LoadingStatus.FINISHED;
+  } catch (error) {
+    console.log(error)
+    loading_status.value = LoadingStatus.ERROR;
+  }
 })
 
 const points = computed(() => {
@@ -66,42 +75,44 @@ const display_role = (role) => {
 </script>
 
 <template>
-  <div class="profile-view" v-if="user_data">
-    <div class="header">
-      <!--<div class="profile_avatar">
-        <img :src="user_data.avatar_url" alt="">
-      </div> -->
-      <div class="profile_text">
-        <div class="profile_name">
-          <h2>{{user_data.rank && '#' + user_data.rank.position}}</h2>
-          <h2>{{user_data.global_name}} </h2>
-          <RoleIcon class="role_icon" v-for="role in user_data.roles" :role="role"></RoleIcon>
+  <LoadingPanel :status="loading_status">
+    <div class="profile-view" v-if="user_data">
+      <div class="header">
+        <!--<div class="profile_avatar">
+          <img :src="user_data.avatar_url" alt="">
+        </div> -->
+        <div class="profile_text">
+          <div class="profile_name">
+            <h2>{{user_data.rank && '#' + user_data.rank.position}}</h2>
+            <h2>{{user_data.global_name}} </h2>
+            <RoleIcon class="role_icon" v-for="role in user_data.roles" :role="role"></RoleIcon>
+          </div>
+          <div class="profile_sub_text">
+            <p>{{points}} points </p>
+          </div>
         </div>
-        <div class="profile_sub_text">
-          <p>{{points}} points </p>
+      </div>
+      <div class="completed-packs" v-if="user_data.packs">
+        <div class="pack_title">
+          <h3>Completed Packs ({{user_data.packs.length}})</h3>
+          <h4>+{{pack_points}} points</h4>
+        </div>
+        <div class="pack_list">
+          <PackDisplay v-for="pack in user_data.packs" :pack="pack"></PackDisplay>
+        </div>
+      </div>
+      <div class="records">
+        <div class="left">
+          <ProfileRecordTable class="verified" v-if="verifications.length > 0" :records="verifications" title="Verified" :icon="VerificationIcon"></ProfileRecordTable>
+          <ProfileRecordTable v-if="records.length > 0" :records="records" title="Completed" :icon="CompletedIcon"></ProfileRecordTable>
+        </div>
+        <div class="right" v-if="verifications.length > 0 || user_data.created_levels.length > 0">
+          <ProfileLevelsTable class="created" v-if="user_data.created_levels.length > 0" :levels="user_data.created_levels" title="Created" :icon="CreatedIcon"></ProfileLevelsTable>
+          <ProfileLevelsTable class="published" v-if="user_data.published_levels.length > 0" :levels="user_data.published_levels" title="Published" :icon="PublishedIcon"></ProfileLevelsTable>
         </div>
       </div>
     </div>
-    <div class="completed-packs" v-if="user_data.packs">
-      <div class="pack_title">
-        <h3>Completed Packs ({{user_data.packs.length}})</h3>
-        <h4>+{{pack_points}} points</h4>
-      </div>
-      <div class="pack_list">
-        <PackDisplay v-for="pack in user_data.packs" :pack="pack"></PackDisplay>
-      </div>
-    </div>
-    <div class="records">
-      <div class="left">
-        <ProfileRecordTable class="verified" v-if="verifications.length > 0" :records="verifications" title="Verified" :icon="VerificationIcon"></ProfileRecordTable>
-        <ProfileRecordTable v-if="records.length > 0" :records="records" title="Completed" :icon="CompletedIcon"></ProfileRecordTable>
-      </div>
-      <div class="right" v-if="verifications.length > 0 || user_data.created_levels.length > 0">
-        <ProfileLevelsTable class="created" v-if="user_data.created_levels.length > 0" :levels="user_data.created_levels" title="Created" :icon="CreatedIcon"></ProfileLevelsTable>
-        <ProfileLevelsTable class="published" v-if="user_data.published_levels.length > 0" :levels="user_data.published_levels" title="Published" :icon="PublishedIcon"></ProfileLevelsTable>
-      </div>
-    </div>
-  </div>
+  </LoadingPanel>
 </template>
 
 <style scoped>
@@ -135,7 +146,7 @@ const display_role = (role) => {
   padding-left: 1rem;
   display: flex;
   flex-direction: column;
-  gap: 2rem;
+  gap: 1rem;
 }
 
 .header {
@@ -179,7 +190,8 @@ const display_role = (role) => {
 .completed-packs {
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  gap: 0.75rem;
+  padding-bottom: 1rem;
 
   & .pack_list {
     max-width: 60rem;
@@ -193,10 +205,6 @@ const display_role = (role) => {
     flex-direction: row;
     gap: 0.5rem;
     align-items: center;
-
-    & h4 {
-      padding-top: 0.25rem;
-    }
   }
 }
 

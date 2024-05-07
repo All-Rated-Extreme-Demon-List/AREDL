@@ -16,12 +16,15 @@
 }
 
 *{
-  margin: 0;
-  padding: 0;
   font-family: "Lexend Deca", sans-serif;
   -webkit-font-smoothing: subpixel-antialiased;
   color: var(--color-on-primary);
   box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, p {
+  margin: 0;
+  padding: 0;
 }
 
 html, body {
@@ -94,4 +97,20 @@ input[type='number'] {
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
   -webkit-appearance: none;
+}
+
+.w-full {
+  width: 100%;
+}
+
+
+.p-multiselect {
+  min-width: 17rem;
+}
+.p-multiselect-label {
+  display: flex;
+  flex-wrap: wrap;
+}
+.p-multiselect-token {
+  margin: 0.1rem;
 }

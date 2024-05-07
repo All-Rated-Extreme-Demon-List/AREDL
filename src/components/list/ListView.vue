@@ -4,6 +4,8 @@ import {nextTick, onMounted, ref, watch} from "vue";
 import {useRoute} from "vue-router";
 import {pb} from "@/pocketbase";
 import router from "@/router";
+import LoadingPanel from "@/components/util/LoadingPanel.vue";
+import {LoadingStatus} from "@/loadingStatus"
 
 const emit = defineEmits(['select'])
 
@@ -14,6 +16,7 @@ const main_list = ref([])
 const legacy_list = ref([])
 const selected_level = ref(null)
 const selected_element = ref(null)
+const loading_status = ref(LoadingStatus.LOADING)
 
 const route = useRoute()
 
@@ -26,6 +29,7 @@ const scrollSelectedIntoView = () => {
 }
 
 onMounted(async () => {
+
   let id = route.params.id
   if (id && id !== '') {
     if (id.endsWith("_2p")) {
@@ -40,7 +44,12 @@ onMounted(async () => {
       }
     }
   }
-  list_data.value = await pb.send("/api/aredl/list", {})
+  try {
+    list_data.value = await pb.send("/api/aredl/list", {})
+  } catch (error) {
+    loading_status.value = LoadingStatus.ERROR;
+    return;
+  }
   if (!selected_level.value && list_data.value.length > 0) {
     selected_level.value = {
       id: list_data.value[0].level_id.toString(),
@@ -48,6 +57,7 @@ onMounted(async () => {
       init: true,
     }
   }
+  loading_status.value = LoadingStatus.FINISHED;
 })
 
 watch(selected_level, (newValue, oldValue) => {
@@ -80,20 +90,22 @@ const updateData = () => {
 </script>
 
 <template>
-  <div class="list-view" v-if="list_data">
-    <div class="search-bar" :class="filter !== '' && 'show'">
-      <input type="text" v-model="filter" class="search-bar" placeholder="search">
-      <button @click="() => filter = ''"></button>
-      <img src="@/assets/search-icon.svg" alt="search icon">
+  <LoadingPanel :status="loading_status">
+    <div class="list-view">
+      <div class="search-bar" :class="filter !== '' && 'show'">
+        <input type="text" v-model="filter" class="search-bar" placeholder="search">
+        <button @click="() => filter = ''"></button>
+        <img src="@/assets/search-icon.svg" alt="search icon">
+      </div>
+      <div v-if="main_list" class="main-list">
+        <ListElement v-for="level in main_list" :level_data="level" v-model:selected="selected_level" @active_element="(el) => selected_element = el"></ListElement>
+      </div>
+      <h2 v-if="legacy_list && legacy_list.length > 0" class="legacy-title">Legacy</h2>
+      <div v-if="legacy_list && legacy_list.length > 0" class="legacy-list">
+        <ListElement v-for="level in legacy_list" :level_data="level" v-model:selected="selected_level" @active_element="(el) => selected_element = el"></ListElement>
+      </div>
     </div>
-    <div v-if="main_list" class="main-list">
-      <ListElement v-for="level in main_list" :level_data="level" v-model:selected="selected_level" @active_element="(el) => selected_element = el"></ListElement>
-    </div>
-    <h2 v-if="legacy_list && legacy_list.length > 0" class="legacy-title">Legacy</h2>
-    <div v-if="legacy_list && legacy_list.length > 0" class="legacy-list">
-      <ListElement v-for="level in legacy_list" :level_data="level" v-model:selected="selected_level" @active_element="(el) => selected_element = el"></ListElement>
-    </div>
-  </div>
+  </LoadingPanel>
 </template>
 
 <style scoped>
@@ -168,6 +180,7 @@ const updateData = () => {
   outline: none;
   border-radius: 0.5rem 0 0 0.5rem;
   width: 0;
+  padding: 0;
   text-indent: 2.5%;
   transition: width 100ms ease-in-out;
 }

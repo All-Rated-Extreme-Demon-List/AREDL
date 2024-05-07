@@ -9,10 +9,11 @@
   },
   "dependencies": {
     "pocketbase": "^0.21.1",
+    "primevue": "^3.51.0",
     "vue": "^3.3.4",
-    "vue-multiselect": "^2.1.8",
-    "vue-router": "^4.0.13",
-    "vue-accessible-color-picker": "^5.0.1"
+    "vue-accessible-color-picker": "^5.0.1",
+    "vue-clipboard2": "^0.3.3",
+    "vue-router": "^4.0.13"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.3.4",

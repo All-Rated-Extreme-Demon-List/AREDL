@@ -1,5 +1,5 @@
 <script setup>
-import {onMounted, watch} from "vue";
+import {onMounted, ref, watch} from "vue";
 
 const props = defineProps(['pack'])
 

@@ -16,7 +16,7 @@ const embed = (video) => {
 
 <template>
   <div class="container">
-    <iframe class="video" :src="embed(props.video_url)" allowfullscreen="allowfullscreen"></iframe>
+    <iframe class="video" :src="embed(props.video_url)" style="visibility:hidden;" onload="this.style.visibility='visible';" allowfullscreen="allowfullscreen"></iframe>
   </div>
 </template>
 
@@ -24,7 +24,7 @@ const embed = (video) => {
 .container {
   width: 100%;
   position: relative;
-  padding-bottom: 56.25%
+  padding-bottom: 56.25%;
 }
 
 .video {

@@ -5,65 +5,78 @@ import YoutubeEmbed from "@/components/YoutubeEmbed.vue";
 import RecordElement from "@/components/list/RecordElement.vue";
 import LevelAuthors from "@/components/list/LevelAuthors.vue";
 import PackDisplay from "@/components/PackDisplay.vue";
+import LoadingPanel from "@/components/util/LoadingPanel.vue";
+import {LoadingStatus} from "@/loadingStatus"
 
 const props = defineProps(['selected_level'])
 
 const level_data = ref()
 const creator_and_verifier = ref()
+const loading_status = ref()
 
 watch(props, async (newValue, _) => {
-  level_data.value = await pb.send("/api/aredl/levels/" + newValue.selected_level.id, {
-    query: {
-      two_player: newValue.selected_level.two_player,
-      records: true,
-      creators: true,
-      verification: true,
-      packs: true,
-    }
-  })
+  loading_status.value = LoadingStatus.LOADING
+  try {
+    level_data.value = await pb.send("/api/aredl/levels/" + newValue.selected_level.id, {
+      query: {
+        two_player: newValue.selected_level.two_player,
+        records: true,
+        creators: true,
+        verification: true,
+        packs: true,
+      }
+    })
+  } catch (error) {
+    loading_status.value = LoadingStatus.ERROR;
+    return;
+  }
+
   if (level_data.value.creators.length === 0 && level_data.value.verification.submitted_by.id === level_data.value.publisher.id) {
     creator_and_verifier.value = level_data.value.publisher
   } else {
     creator_and_verifier.value = null
   }
+  loading_status.value = LoadingStatus.FINISHED
   //console.log(level_data.value)
 })
 </script>
 
 <template>
-  <div class="level-content" v-if="level_data">
-    <h1>{{level_data.name + (level_data.legacy ? " (legacy)" : "")}}</h1>
-    <LevelAuthors :level_data="level_data"></LevelAuthors>
-    <div class="packs">
-      <PackDisplay :pack="pack" v-for="pack in level_data.packs"></PackDisplay>
+  <LoadingPanel :status="loading_status">
+    <div class="level-content" v-if="level_data">
+      <h1>{{level_data.name + (level_data.legacy ? " (legacy)" : "")}}</h1>
+      <LevelAuthors :level_data="level_data"></LevelAuthors>
+      <div class="packs">
+        <PackDisplay :pack="pack" v-for="pack in level_data.packs"></PackDisplay>
+      </div>
+      <YoutubeEmbed :video_url="level_data.verification.video_url"></YoutubeEmbed>
+      <ul class="level-info">
+        <li>
+          <h3>List Points</h3>
+          <p>{{level_data.points}}</p>
+        </li>
+        <li>
+          <h3>Level Id</h3>
+          <p>{{level_data.level_id}}</p>
+        </li>
+        <li>
+          <h3>Password</h3>
+          <p>{{level_data.level_password ? level_data.level_password : "Free to Copy"}}</p>
+        </li>
+      </ul>
+      <div class="level-records">
+        <template v-if="level_data.records.length === 0">
+          <h2>No Records</h2>
+        </template>
+        <template v-else>
+          <h2>Records ({{level_data.records.length}})</h2>
+          <table class="record-list">
+            <RecordElement v-for="(record, index) in level_data.records" :record_data="record" :position="index + 1"></RecordElement>
+          </table>
+        </template>
+      </div>
     </div>
-    <YoutubeEmbed :video_url="level_data.verification.video_url"></YoutubeEmbed>
-    <ul class="level-info">
-      <li>
-        <h3>List Points</h3>
-        <p>{{level_data.points}}</p>
-      </li>
-      <li>
-        <h3>Level Id</h3>
-        <p>{{level_data.level_id}}</p>
-      </li>
-      <li>
-        <h3>Password</h3>
-        <p>{{level_data.level_password ? level_data.level_password : "Free to Copy"}}</p>
-      </li>
-    </ul>
-    <div class="level-records">
-      <template v-if="level_data.records.length === 0">
-        <h2>No Records</h2>
-      </template>
-      <template v-else>
-        <h2>Records ({{level_data.records.length}})</h2>
-        <table class="record-list">
-          <RecordElement v-for="(record, index) in level_data.records" :record_data="record" :position="index + 1"></RecordElement>
-        </table>
-      </template>
-    </div>
-  </div>
+  </LoadingPanel>
 </template>
 
 <style scoped>
@@ -116,6 +129,8 @@ watch(props, async (newValue, _) => {
   flex-direction: row;
   justify-content: space-around;
   font-size: 17px;
+  margin: 0;
+  padding: 0;
 
   & li {
     display: flex;

@@ -4,6 +4,7 @@ import NavBar from "@/components/nav/NavBar.vue";
 import {computed, nextTick, onMounted, watch} from "vue";
 import {pb} from "@/pocketbase";
 import {store} from "@/main";
+import {LoadingStatus} from "@/loadingStatus";
 
 onMounted(async () => {
   pb.authStore.onChange(() => {
@@ -12,7 +13,10 @@ onMounted(async () => {
       store.permissions = null
     } else {
       nextTick(async () => {
-        store.permissions = await pb.send("/api/me/permissions", {})
+        try {
+          store.permissions = await pb.send("/api/me/permissions", {})
+        } catch (error) {
+        }
         //console.log(store.permissions)
       })
     }

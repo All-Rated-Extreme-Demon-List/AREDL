@@ -12,6 +12,7 @@ const mobile_list_expanded = ref(true)
 
 <template>
   <div class="page">
+
     <div class="list-tab tab" :class="!mobile_list_expanded && 'hidden-mobile'">
       <ListView @select="(selected) => {selected_level = selected; if (mobile_list_expanded) mobile_list_expanded = selected.init}"></ListView>
     </div>
