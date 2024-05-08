@@ -7401,7 +7401,13 @@
 		},
 		{
 			"user": "mouseyland",
-			"link": "https://www.youtube.com/watch?v=aZgwyN31iFY&t=1s",
+			"link": "https://www.youtube.com/watch?v=aZgwyN31iFY",
+			"percent": 100,
+			"hz": 360
+        },
+		{
+			"user": "MateleQ",
+			"link": "https://www.youtube.com/watch?v=6C4j0TA8L_0",
 			"percent": 100,
 			"hz": 360
 		}
