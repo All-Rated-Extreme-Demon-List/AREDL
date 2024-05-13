@@ -2,9 +2,21 @@
 	"id": 104672501,
 	"name": "ATOMIC CANNON Mk III",
 	"author": "LIEB",
-	"creators": ["LIEB", "ZeroSR", "Giron", "FrostBurn"],
+	"creators": [
+		"LIEB",
+		"ZeroSR",
+		"Giron",
+		"FrostBurn"
+	],
 	"verifier": "Zeronium",
 	"verification": "https://youtu.be/5nM4hlnLDyM?si=NiWxnHdrFzkvAkkb",
 	"percentToQualify": 100,
-	"records": []
+	"records": [
+		{
+			"user": "DJ1482",
+			"link": "https://youtu.be/fUrrSFovLrA?si=ErkcVc7HenFZsjgK",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
