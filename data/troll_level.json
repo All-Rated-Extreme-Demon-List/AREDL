@@ -721,7 +721,7 @@
 			"hz": 120
 		},
 		{
-			"user": "mac",
+			"user": [STAFF] mac,
 			"link": "https://www.youtube.com/watch?v=kclquV-bjY8&list=PLrdT23GnwtbhfgWoZcjnLO2ypfY9MJJj2&index=14&pp=gAQBiAQB",
 			"percent": 100,
 			"hz": 360
@@ -942,7 +942,7 @@
 			"mobile": true
 		},
 		{
-			"user": "CatfishGD",
+			"user": "[EDGE] CatfishGD",
 			"link": "https://www.youtube.com/watch?v=sMPkYLlZzI4",
 			"percent": 100,
 			"hz": 75
