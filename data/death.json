@@ -1,10 +1,22 @@
 {
-    "id": 98929172,
-    "name": "Death",
-    "author": "AleeXhey",
-    "creators": ["AleeXhey", "Zeptrus", "DreamTide", "Hypno74"],
-    "verifier": "TheyCallMeEvan",
-    "verification": "https://youtu.be/uLZ6JZnHNVA?si=cv5ATPN53ctxkUED",
-    "percentToQualify": 100,
-    "records": []
+	"id": 98929172,
+	"name": "Death",
+	"author": "AleeXhey",
+	"creators": [
+		"AleeXhey",
+		"Zeptrus",
+		"DreamTide",
+		"Hypno74"
+	],
+	"verifier": "TheyCallMeEvan",
+	"verification": "https://youtu.be/uLZ6JZnHNVA?si=cv5ATPN53ctxkUED",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "[KIRB] Willow",
+			"link": "https://youtu.be/sHzRn6fQG8k",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
