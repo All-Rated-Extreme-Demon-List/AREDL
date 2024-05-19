@@ -211,11 +211,17 @@
 			"percent": 100,
 			"hz": 360
 		},
-        {
-            "user": "[STAFF] mac",
-            "link": "https://www.youtube.com/watch?v=vVwUih0caqQ",
-            "percent": 100,
-            "hz": 360
-        }
+		{
+			"user": "[STAFF] mac",
+			"link": "https://www.youtube.com/watch?v=vVwUih0caqQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "nexel",
+			"link": "https://www.youtube.com/watch?v=hdbUKy1Q4n0",
+			"percent": 100,
+			"hz": 360
+		}
 	]
 }
