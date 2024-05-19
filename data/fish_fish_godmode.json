@@ -830,11 +830,17 @@
 			"percent": 100,
 			"hz": 360
 		},
-        {
-            "user": "[EDGE] Furaux",
-            "link": "https://www.youtube.com/watch?v=FIFIyLslSas",
-            "percent": 100,
-            "hz": 360
-        }
+		{
+			"user": "[EDGE] Furaux",
+			"link": "https://www.youtube.com/watch?v=FIFIyLslSas",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "QwertyQwertz",
+			"link": "https://youtu.be/5cqWku8Fupw",
+			"percent": 100,
+			"hz": 360
+		}
 	]
 }
