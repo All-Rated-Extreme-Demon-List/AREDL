@@ -2,7 +2,27 @@
 	"id": 49428328,
 	"name": "Gang Plank Hell",
 	"author": "Metalface221",
-	"creators": ["Metalface221", "Pennutoh", "Johzii", "MrLorenzo", "MindCap", "Zanna83", "Nico99", "Xena", "Showtime von Party", "Exynos", "ISanEGFW", "Failure444", "Onnikonna", "FlyingChicken", "Lipz", "blue", "XinpA", "JaoDay", "Knobbelboy"],
+	"creators": [
+		"Metalface221",
+		"Pennutoh",
+		"Johzii",
+		"MrLorenzo",
+		"MindCap",
+		"Zanna83",
+		"Nico99",
+		"Xena",
+		"Showtime von Party",
+		"Exynos",
+		"ISanEGFW",
+		"Failure444",
+		"Onnikonna",
+		"FlyingChicken",
+		"Lipz",
+		"blue",
+		"XinpA",
+		"JaoDay",
+		"Knobbelboy"
+	],
 	"verifier": "Miro",
 	"verification": "https://www.youtube.com/watch?v=eqpWqAA4hp8",
 	"percentToQualify": 100,
@@ -96,6 +116,12 @@
 			"link": "https://youtu.be/GurVHG8qE0I?si=nv9iwAgNHlS7crpi",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "awesomeme360",
+			"link": "https://www.youtube.com/watch?v=oDtWmRoDiKM&t=360s",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
