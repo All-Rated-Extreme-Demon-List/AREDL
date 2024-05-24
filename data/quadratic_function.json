@@ -2,17 +2,28 @@
 	"id": 105290756,
 	"name": "Quadratic Function",
 	"author": "TwisterDude161",
-	"creators": ["TwisterDude161"," Megadere"," R3XX3R"," Tuna310"],
+	"creators": [
+		"TwisterDude161",
+		" Megadere",
+		" R3XX3R",
+		" Tuna310"
+	],
 	"verifier": "TwisterDude161",
 	"verification": "https://youtu.be/9ZwZZJuAsss?si=SPig1h-w2fYys3CX",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : [
+	"records": [
 		{
 			"user": "iiLogan",
 			"link": "https://youtu.be/lLqODwq-FBM",
 			"percent": 100,
 			"hz": 480
+		},
+		{
+			"user": "Lia",
+			"link": "https://www.youtube.com/watch?v=v6nwSjO3AOI",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
