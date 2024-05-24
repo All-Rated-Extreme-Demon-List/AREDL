@@ -324,12 +324,18 @@
 			"link": "https://www.youtube.com/watch?v=eTlLtPdi2fA",
 			"percent": 100,
 			"hz": 360
-		}, 
-        {
-            "user": "[FOWL] Espabeet",
-            "link": "https://youtu.be/sBjvQYUVXUk?si=cnBBfKnbzoSBg-se",
-            "percent": 100,
-            "hz": 360
-        }
+		},
+		{
+			"user": "[FOWL] Espabeet",
+			"link": "https://youtu.be/sBjvQYUVXUk?si=cnBBfKnbzoSBg-se",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Cynic42",
+			"link": "https://www.youtube.com/watch?v=bYDdGRS271Q",
+			"percent": 100,
+			"hz": 360
+		}
 	]
 }
