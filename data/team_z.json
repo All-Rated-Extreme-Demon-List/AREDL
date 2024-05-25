@@ -1,79 +1,95 @@
-
 {
-    "id": 38234257,
-    "name": "TeaM Z",
-    "author": "99Percent",
-    "creators": ["Xyriak", "99Percent", "MoonSpark", "Balli", "talia", "Rafer", "ItzTropica", "Destroyer6401", "Pyndra", "Nekasik"],
-    "verifier": "Rain22",
-    "verification": "https://www.youtube.com/watch?v=zu21_854jXg",
-    "percentToQualify": 100,
-    "password": "000099",
-    "records": [
-    {
-            "user": "Bleamer",
-            "link": "https://www.youtube.com/watch?v=I0Q7G0HxUys",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/t37FSolj2_Q",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "DeltaPhantom1",
-            "link": "https://youtu.be/laQRSrVVCZ0",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "plimbus",
-    "link": "https://youtu.be/setLrwJYAhI",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "Abr4h4M",
-    "link": "https://youtu.be/qBGUsdfYB4s",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "ddddr",
-    "link": "https://youtu.be/Q4KJPR7s9fE",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "ImOneOfThem",
-    "link": "https://youtu.be/vDSgYtoWDKk",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "ultracauaHD",
-    "link": "https://www.youtube.com/watch?v=WvgIYu7xxIM",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "lolwut",
-    "link": "https://www.youtube.com/watch?v=yAM0GMv39o4",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "[STAFF] Aphelix",
-    "link": "https://www.youtube.com/watch?v=3Jzy9972QG8",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "[BUDDY] jupi",
-    "link": "https://youtu.be/7fd4tl7bReg?si=xNLYwLkSrkfcmD2B",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+	"id": 38234257,
+	"name": "TeaM Z",
+	"author": "99Percent",
+	"creators": [
+		"Xyriak",
+		"99Percent",
+		"MoonSpark",
+		"Balli",
+		"talia",
+		"Rafer",
+		"ItzTropica",
+		"Destroyer6401",
+		"Pyndra",
+		"Nekasik"
+	],
+	"verifier": "Rain22",
+	"verification": "https://www.youtube.com/watch?v=zu21_854jXg",
+	"percentToQualify": 100,
+	"password": "000099",
+	"records": [
+		{
+			"user": "Bleamer",
+			"link": "https://www.youtube.com/watch?v=I0Q7G0HxUys",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "skycrab",
+			"link": "https://youtu.be/t37FSolj2_Q",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "DeltaPhantom1",
+			"link": "https://youtu.be/laQRSrVVCZ0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "plimbus",
+			"link": "https://youtu.be/setLrwJYAhI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Abr4h4M",
+			"link": "https://youtu.be/qBGUsdfYB4s",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "ddddr",
+			"link": "https://youtu.be/Q4KJPR7s9fE",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "ImOneOfThem",
+			"link": "https://youtu.be/vDSgYtoWDKk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ultracauaHD",
+			"link": "https://www.youtube.com/watch?v=WvgIYu7xxIM",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "lolwut",
+			"link": "https://www.youtube.com/watch?v=yAM0GMv39o4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "[STAFF] Aphelix",
+			"link": "https://www.youtube.com/watch?v=3Jzy9972QG8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "[BUDDY] jupi",
+			"link": "https://youtu.be/7fd4tl7bReg?si=xNLYwLkSrkfcmD2B",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "duhpowah",
+			"link": "https://www.youtube.com/watch?v=LQIj_n7y7-8",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
