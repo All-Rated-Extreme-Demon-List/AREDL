@@ -2,10 +2,31 @@
 	"id": 105095161,
 	"name": "Clock tower",
 	"author": "ThePurgatory115",
-	"creators": ["iDemian"," ADrone"," NDERR"," egg."," DemOne"," Apstrom"," Lev1fun"," Xlone"," LifeCheck"," NextPhase"," Aquarware"," xtibite"," Bedrock"],
+	"creators": [
+		"iDemian",
+		" ADrone",
+		" NDERR",
+		" egg.",
+		" DemOne",
+		" Apstrom",
+		" Lev1fun",
+		" Xlone",
+		" LifeCheck",
+		" NextPhase",
+		" Aquarware",
+		" xtibite",
+		" Bedrock"
+	],
 	"verifier": "TheGrozGD",
 	"verification": "https://youtu.be/S7IBVmryXZE?si=FcWRWO8qJRCeWrhu",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "[Staff] MobileBot",
+			"link": "https://youtu.be/ujK9XuxohkA?si=VbnSQeo3M91XoXet",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
