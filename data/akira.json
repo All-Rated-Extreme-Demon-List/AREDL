@@ -6,11 +6,17 @@
 		"Denni",
 		"Eridani"
 	],
-	"verifier": "Denni",
-	"verification": "https://www.youtube.com/watch?v=lAgPh86coPQ",
+	"verifier": "Solus",
+	"verification": "https://youtu.be/RHCCZkf4UFM?si=gKg6BI9bpGf_5cT6",
 	"percentToQualify": 100,
 	"password": "999999",
 	"records": [
+		{
+			"user": "Denni",
+			"link": "https://www.youtube.com/watch?v=lAgPh86coPQ",
+			"percent": 100,
+			"hz": 360
+		},
 		{
 			"user": "theworldofme",
 			"link": "https://www.youtube.com/watch?v=C48-Xw8D0sw",
