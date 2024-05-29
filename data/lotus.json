@@ -2,10 +2,33 @@
 	"id": 104619741,
 	"name": "Lotus",
 	"author": "ZeroSR",
-	"creators": ["Codex"," Dawnfall"," Vapen"," ZeroSR"," Scrumpy"," Ewop"," Darwin"," Jenkins"," Linus02"," Giammix"," Arclia"," Endevvor"," Deadlox"," James"," Juhou"],
+	"creators": [
+		"Codex",
+		" Dawnfall",
+		" Vapen",
+		" ZeroSR",
+		" Scrumpy",
+		" Ewop",
+		" Darwin",
+		" Jenkins",
+		" Linus02",
+		" Giammix",
+		" Arclia",
+		" Endevvor",
+		" Deadlox",
+		" James",
+		" Juhou"
+	],
 	"verifier": "ZeroSR",
 	"verification": "https://www.youtube.com/live/j3j1H66vs8c?si=62f5pQiSa_oJ-BIU",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "J03B",
+			"link": "https://youtu.be/3tSKzy2cQQY?si=daGp1HgzRezTqqMl",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
