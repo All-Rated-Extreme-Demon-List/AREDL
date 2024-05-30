@@ -287,5 +287,15 @@
             "cerebral_hemorrhage"
         ],
         "colour": "linear-gradient(45deg, rgba(36,0,0,1) 0%, rgba(121,9,9,1) 35%, rgba(255,0,0,1) 100%)"
+    },
+    {   
+        "name": "Breaking Bad Pack",
+        "levels": [
+            "saul_goodman",
+            "walter_white",
+            "jesse_pinkman",
+            "gustavo_fring"
+        ],
+        "colour": "linear-gradient(90deg, rgba(2,102,53,1) 0%, rgba(9,73,61,1) 67%, rgba(0,0,0,1) 100%)"
     }
 ]
