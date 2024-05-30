@@ -402,6 +402,8 @@
     {
         "name": "Sonic Wave Pack",
         "levels": [
+            "sonic_wave_infinity",
+            "sonic_wave_rebirth",
             "sonic_wave",
             "generic_wave",
             "auditory_breaker"
