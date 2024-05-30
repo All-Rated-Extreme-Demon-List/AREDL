@@ -224,6 +224,61 @@
         "colour": "linear-gradient(45deg, rgba(128,132,181,1) 0%, rgba(163,112,167,1) 50%, rgba(235,238,148,1) 100%)"
     },
     {
+        "name": "Lyric Pack I",
+        "levels": [
+            "insaction",
+            "doradura",
+            "fish_fish_godmode",
+            "lost_love",
+            "it_back"
+        ],
+        "colour": "linear-gradient(90deg, rgba(255,151,151,1) 0%, rgba(156,253,255,1) 100%)"
+    },
+    {
+        "name": "Lyric Pack II",
+        "levels": [
+            "la_llorona",
+            "shape_of_the_sun",
+            "cupid",
+            "kingslayer",
+            "agen_wida"
+        ],
+        "colour": "linear-gradient(90deg, rgba(120,252,255,1) 0%, rgba(255,120,120,1) 100%)"
+    },
+    {
+        "name": "Lyric Pack III",
+        "levels": [
+            "overtime",
+            "electric_forest",
+            "moment",
+            "universe_on_fire",
+            "down_bass"
+        ],
+        "colour": "linear-gradient(90deg, rgba(255,89,89,1) 0%, rgba(84,210,255,1) 100%)"
+    },
+    {
+        "name": "Lyric Pack IV",
+        "levels": [
+            "low_death",
+            "removed_submission",
+            "untitled",
+            "explicit",
+            "hot_rod"
+        ],
+        "colour": "linear-gradient(90deg, rgba(25,193,254,1) 0%, rgba(252,37,37,1) 100%)"
+    },
+    {
+        "name": "Lyric Pack V",
+        "levels": [
+            "xo",
+            "ikaros",
+            "misfire",
+            "turn_the_lights_off",
+            "surge_of_the_shield"
+        ],
+        "colour": "radial-gradient(circle, rgba(0,174,255,1) 0%, rgba(255,0,0,1) 100%)"
+    },
+    {
         "name": "Memory Pack I",
         "levels": [
             "maybe_possibly_thing",
@@ -316,6 +371,24 @@
             "kuzureta"
         ],
         "colour": "linear-gradient(45deg, rgba(38,1,105,1) 0%, rgba(15,0,56,1) 48%, rgba(70,0,146,1) 100%)"
+    },
+    {
+        "name": "Solo 2P Pack I",
+        "levels": [
+            "headlock",
+            "welcome_to_your_mind",
+            "the_old_trail"
+        ],
+        "colour": "linear-gradient(200deg, rgba(251,255,0,1) 0%, rgba(255,0,0,1) 100%)"
+    },
+    {
+        "name": "Solo 2P Pack II",
+        "levels": [
+            "bang_gang_solo",
+            "based_gang_solo",
+            "gentlemens_clique_solo"
+        ],
+        "colour": "linear-gradient(200deg, rgba(255,0,0,1) 0%, rgba(251,255,0,1) 100%)"
     },
     {
         "name": "Sonic Series",
