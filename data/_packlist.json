@@ -29,6 +29,24 @@
         "colour": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,115,121,1) 49%, rgba(0,142,255,1) 100%)"
     },
     {
+        "name": "Anime Pack I",
+        "levels": [
+            "kuzureta",
+            "luxtra",
+            "surge_of_the_shield"
+        ],
+        "colour": "radial-gradient(circle, rgba(17,205,230,1) 0%, rgba(132,70,252,1) 100%)"
+    },
+    {
+        "name": "Anime Pack II",
+        "levels": [
+            "plus_ultra",
+            "overlord",
+            "niwa"
+        ],
+        "colour": "radial-gradient(circle, rgba(132,70,252,1) 0%, rgba(17,205,230,1) 100%)"
+    },
+    {
         "name": "Apocalyptic Trilogy",
         "levels": [
             "cataclysm",
@@ -165,7 +183,28 @@
         ],
         "colour": "linear-gradient(90deg, rgba(36,64,29,1) 0%, rgba(7,255,0,1) 46%, rgba(36,64,29,1) 100%)"
     },
-     {
+    {
+        "name": "The Hell Pack I",
+        "levels": [
+            "the_hell_nutz",
+            "the_hell_field",
+            "the_hell_world",
+            "the_hell_zone"
+        ],
+        "colour": "linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(0,0,0,1) 50%, rgba(255,0,0,1) 100%)"
+    },
+    {
+        "name": "The Hell Pack II",
+        "levels": [
+            "the_hell_origin",
+            "the_hell_inferno",
+            "the_hell_bird",
+            "the_hell_factory",
+            "the_hell_dignity"
+        ],
+        "colour": "linear-gradient(90deg, rgba(102,5,5,1) 0%, rgba(0,0,0,1) 50%, rgba(102,5,5,1) 100%)"
+    },
+    {
         "name": "KrmaL Pack I",
         "levels": [
             "conical_depression",
