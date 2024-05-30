@@ -353,5 +353,14 @@
             "carcano"
         ],
         "colour": "linear-gradient(90deg, rgba(147,0,255,1) 0%, rgba(12,39,139,1) 66%)"
+    },
+    {   
+        "name": "Weather Trilogy",
+        "levels": [
+            "arctic_lights",
+            "aquatic_auroras",
+            "aerial_gleam"
+        ],
+        "colour": "linear-gradient(90deg, rgba(203,222,240,1) 0%, rgba(4,110,143,1) 50%, rgba(203,222,240,1) 100%)"
     }
 ]
