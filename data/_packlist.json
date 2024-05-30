@@ -184,23 +184,23 @@
         "colour": "linear-gradient(90deg, rgba(36,64,29,1) 0%, rgba(7,255,0,1) 46%, rgba(36,64,29,1) 100%)"
     },
     {
-        "name": "The Hell Pack I",
+        "name": "The Hell Series",
         "levels": [
-            "the_hell_nutz",
             "the_hell_field",
             "the_hell_world",
-            "the_hell_zone"
+            "the_hell_zone",
+            "the_hell_origin",
+            "the_hell_inferno",
+            "the_hell_dignity"
         ],
         "colour": "linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(0,0,0,1) 50%, rgba(255,0,0,1) 100%)"
     },
     {
-        "name": "The Hell Pack II",
+        "name": "The Fake Hell Series",
         "levels": [
-            "the_hell_origin",
-            "the_hell_inferno",
+            "the_hell_nutz",
             "the_hell_bird",
-            "the_hell_factory",
-            "the_hell_dignity"
+            "the_hell_factory"
         ],
         "colour": "linear-gradient(90deg, rgba(102,5,5,1) 0%, rgba(0,0,0,1) 50%, rgba(102,5,5,1) 100%)"
     },
