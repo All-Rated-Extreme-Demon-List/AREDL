@@ -1,153 +1,12 @@
 [
     {   
-        "name": "Top 1 Pack",
+        "name": "1.0 Pack",
         "levels": [
-            "artificial_ascent",
-            "sakupen_hell",
-            "athanatos",
-            "bloodbath",
-            "cataclysm"
+            "xo",
+            "omorfia",
+            "conical_depression"
         ],
-        "colour": "radial-gradient(circle, rgba(117,0,0,1) 0%, rgba(0,0,0,1) 40%, rgba(43,39,39,1) 50%, rgba(0,0,0,1) 60%, rgba(117,0,0,1) 100%)"
-    },
-    {
-        "name": "Vortex Series",
-        "levels": [
-            "balengu_vortex",
-            "bausha_vortex",
-            "friday_vortex"
-        ],
-        "colour": "linear-gradient(45deg, rgba(136,0,255,1) 0%, rgba(239,0,255,1) 50%, rgba(255,192,250,1) 100%)"
-    },
-    {
-        "name": "Tech Series",
-        "levels": [
-            "artificial_ascent",
-            "digital_descent",
-            "cybernetic_crescent"
-        ],
-        "colour": "linear-gradient(45deg, rgba(136,0,255,1) 0%, rgba(0,172,255,1) 50%, rgba(10,255,0,1) 100%)"
-    },
-    {
-        "name": "Sonic Series",
-        "levels": [
-            "hypersonic",
-            "panasonic",
-            "subsonic"
-        ],
-        "colour": "linear-gradient(45deg, rgba(255,0,155,1) 0%, rgba(255,235,0,1) 50%, rgba(222,0,255,1) 100%)"
-    },
-    {
-        "name": "Quantum Series",
-        "levels": [
-            "quantum_processing",
-            "quantum_dynamix",
-            "quantum_theory"
-        ],
-        "colour": "linear-gradient(45deg, rgba(40,156,0,1) 0%, rgba(74,255,0,1) 50%, rgba(146,255,176,1) 100%)"
-    },
-    {
-        "name": "Apocalyptic Trilogy",
-        "levels": [
-            "cataclysm",
-            "bloodbath",
-            "aftermath"
-        ],
-        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,192,0,1) 50%, rgba(245,255,0,1) 100%)"
-    },
-    {
-        "name": "TeamN2 Trilogy",
-        "levels": [
-            "the_hell_factory",
-            "a_bizarre_phantasm",
-            "artificial_ideology"
-        ],
-        "colour": "linear-gradient(45deg, rgba(156,0,0,1) 0%, rgba(0,181,255,1) 100%)"
-    },
-    {
-        "name": "Greek Letter Trilogy",
-        "levels": [
-            "gamma",
-            "sigma",
-            "omega"
-        ],
-        "colour": "linear-gradient(45deg, rgba(255,0,147,1) 0%, rgba(255,0,207,1) 50%, rgba(255,179,0,1) 100%)"
-    },
-    {
-        "name": "Greek Interface Trilogy",
-        "levels": [
-            "delta_interface",
-            "sigma_interface",
-            "omega_interface"
-        ],
-        "colour": "linear-gradient(45deg, rgba(231,0,255,1) 0%, rgba(255,115,0,1) 100%)"
-    },
-    {
-        "name": "Natural Disaster Trilogy",
-        "levels": [
-            "cyclone",
-            "hurricane",
-            "tornado"
-        ],
-        "colour": "linear-gradient(90deg, rgba(238,207,237,1) 0%, rgba(255,255,255,1) 46%, rgba(212,242,241,1) 100%)"
-    },
-    {
-        "name": "Memory Pack I",
-        "levels": [
-            "maybe_possibly_thing",
-            "triple_six",
-            "killbot"
-        ],
-        "colour": "linear-gradient(45deg, rgba(0,0,0,1) 0%, rgba(0,255,3,1) 100%)"
-    },
-    {
-        "name": "Memory Pack II",
-        "levels": [
-            "super_probably_level",
-            "requiem",
-            "goner"
-        ],
-        
-        "colour": "linear-gradient(45deg, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 100%)"
-    },
-    {
-        "name": "Dorami Pack I",
-        "levels": [
-            "violently_x",
-            "firepower_mrlorenzo",
-            "elliptic_curve",
-            "empanadas_fugaces"
-        ],
-        "colour": "linear-gradient(45deg, rgba(252,0,255,1) 0%, rgba(255,252,0,1) 100%)"
-    },
-    {
-        "name": "Dorami Pack II",
-        "levels": [
-            "azure_fiesta",
-            "snowfall_fiesta",
-            "delebit_oblivio",
-            "the_yandere"
-        ],
-        "colour": "linear-gradient(45deg, rgba(252,0,255,1) 0%, rgba(255,252,0,1) 100%)"
-    },
-    {
-        "name": "KrmaL Pack I",
-        "levels": [
-            "conical_depression",
-            "elite_z_rebirth",
-            "heartbeat",
-            "falling_up"
-        ],
-        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,252,0,1) 50%, rgba(61,36,255,1) 100%)"
-    },
-    {
-        "name": "KrmaL Pack II",
-        "levels": [
-            "black_blizzard",
-            "low_death",
-            "xo"
-        ],
-        "colour": "linear-gradient(45deg, rgba(128,132,181,1) 0%, rgba(163,112,167,1) 50%, rgba(235,238,148,1) 100%)"
+        "colour": "linear-gradient(90deg, rgba(0,53,250,1) 0%, rgba(0,24,97,1) 50%, rgba(0,53,250,1) 100%)"
     },
     {
         "name": "ALL CAPS PACK I",
@@ -170,35 +29,35 @@
         "colour": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,115,121,1) 49%, rgba(0,142,255,1) 100%)"
     },
     {
-        "name": "RGB Pack",
+        "name": "Apocalyptic Trilogy",
         "levels": [
-            "yatagarasu",
-            "erebus_rustam",
-            "sonic_wave"
+            "cataclysm",
+            "bloodbath",
+            "aftermath"
         ],
-        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,136,0,1) 15%, rgba(245,255,0,1) 30%, rgba(0,255,12,1) 45%, rgba(0,255,243,1) 60%, rgba(16,0,255,1) 75%, rgba(255,0,241,1) 90%)"
+        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,192,0,1) 50%, rgba(245,255,0,1) 100%)"
     },
-    {
-        "name": "New RGB Pack",
+    {   
+        "name": "Artificial Pack",
         "levels": [
-            "tartarus",
-            "the_golden",
-            "sonic_wave_infinity"
+            "artificial_ascent",
+            "artificial_ideology",
+            "artificial_dream",
+            "artificial_climb"
         ],
-        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,136,0,1) 15%, rgba(245,255,0,1) 30%, rgba(0,255,12,1) 45%, rgba(0,255,243,1) 60%, rgba(16,0,255,1) 75%, rgba(255,0,241,1) 90%)"
+        "colour": "linear-gradient(90deg, rgba(156,167,162,1) 0%, rgba(0,0,0,1) 50%, rgba(156,167,162,1) 100%)"
     },
-    {
-        "name": "Fish Pack",
+    {   
+        "name": "Breaking Bad Pack",
         "levels": [
-            "fish_fish_godmode",
-            "prismatic_haze",
-            "lodin_da_fish_washer",
-            "le_fishe",
-            "a1330x"
+            "saul_goodman",
+            "walter_white",
+            "jesse_pinkman",
+            "gustavo_fring"
         ],
-        "colour": "url('https://www.msc.org/images/default-source/msc-english/content-banner/fish-to-eat/fish-to-eat---shorthand-style-912/herring_sh.tmb-labelhome.jpg?Status=Master&sfvrsn=864041bc_1')"
+        "colour": "linear-gradient(90deg, rgba(2,102,53,1) 0%, rgba(9,73,61,1) 67%, rgba(0,0,0,1) 100%)"
     },
-    {
+     {
         "name": "Beginner Pack I",
         "levels": [
             "acu",
@@ -216,14 +75,73 @@
         ],
         "colour": "linear-gradient(45deg, rgba(0,190,255,1) 0%, rgba(255,141,231,1) 50%, rgba(255,0,0,1) 100%)"
     },
-    {
-        "name": "Reta Pack",
+    {   
+        "name": "Claustrophobia Pack",
         "levels": [
-            "kowareta",
-            "wasureta",
-            "kuzureta"
+            "oblivion",
+            "cognition",
+            "hot_rod",
+            "carcano"
         ],
-        "colour": "linear-gradient(45deg, rgba(38,1,105,1) 0%, rgba(15,0,56,1) 48%, rgba(70,0,146,1) 100%)"
+        "colour": "linear-gradient(90deg, rgba(147,0,255,1) 0%, rgba(12,39,139,1) 66%)"
+    },
+    {
+        "name": "Dorami Pack I",
+        "levels": [
+            "violently_x",
+            "firepower_mrlorenzo",
+            "elliptic_curve",
+            "empanadas_fugaces"
+        ],
+        "colour": "linear-gradient(45deg, rgba(252,0,255,1) 0%, rgba(255,252,0,1) 100%)"
+    },
+    {
+        "name": "Dorami Pack II",
+        "levels": [
+            "azure_fiesta",
+            "snowfall_fiesta",
+            "delebit_oblivio",
+            "the_yandere"
+        ],
+        "colour": "linear-gradient(45deg, rgba(252,0,255,1) 0%, rgba(255,252,0,1) 100%)"
+    },
+    {
+        "name": "Fish Pack",
+        "levels": [
+            "fish_fish_godmode",
+            "prismatic_haze",
+            "lodin_da_fish_washer",
+            "le_fishe",
+            "a1330x"
+        ],
+        "colour": "url('https://www.msc.org/images/default-source/msc-english/content-banner/fish-to-eat/fish-to-eat---shorthand-style-912/herring_sh.tmb-labelhome.jpg?Status=Master&sfvrsn=864041bc_1')"
+    },
+    {
+        "name": "Greek Interface Trilogy",
+        "levels": [
+            "delta_interface",
+            "sigma_interface",
+            "omega_interface"
+        ],
+        "colour": "linear-gradient(45deg, rgba(231,0,255,1) 0%, rgba(255,115,0,1) 100%)"
+    },
+    {
+        "name": "Greek Letter Trilogy",
+        "levels": [
+            "gamma",
+            "sigma",
+            "omega"
+        ],
+        "colour": "linear-gradient(45deg, rgba(255,0,147,1) 0%, rgba(255,0,207,1) 50%, rgba(255,179,0,1) 100%)"
+    },
+    {   
+        "name": "Hate Pack",
+        "levels": [
+            "i_hate_you",
+            "hateful_reflection",
+            "i_hate_renn"
+        ],
+        "colour": "url(https://i.pinimg.com/originals/85/6c/72/856c72c52a0be9efbc5315927e1fff85.png)"
     },
     {
         "name": "Hack Verified Pack I",
@@ -247,34 +165,51 @@
         ],
         "colour": "linear-gradient(90deg, rgba(36,64,29,1) 0%, rgba(7,255,0,1) 46%, rgba(36,64,29,1) 100%)"
     },
-    {
-        "name": "Norse Mythology Pack",
+     {
+        "name": "KrmaL Pack I",
         "levels": [
-            "ragnarok",
-            "niflheim",
-            "mjolnir",
-            "niflhel"
+            "conical_depression",
+            "elite_z_rebirth",
+            "heartbeat",
+            "falling_up"
         ],
-        "colour": "linear-gradient(90deg, rgba(143,0,247,1) 0%, rgba(255,159,254,1) 46%, rgba(255,0,179,1) 100%)"
+        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,252,0,1) 50%, rgba(61,36,255,1) 100%)"
     },
     {
-        "name": "Sonic Wave Pack I",
+        "name": "KrmaL Pack II",
         "levels": [
-            "sonic_wave",
-            "generic_wave",
-            "auditory_breaker"
+            "black_blizzard",
+            "low_death",
+            "xo"
         ],
-        "colour": "linear-gradient(90deg, rgba(0,4,57,1) 0%, rgba(0,28,255,1) 25%, rgba(0,4,57,1) 50%, rgba(0,28,255,1) 75%, rgba(0,4,57,1) 100%)"
+        "colour": "linear-gradient(45deg, rgba(128,132,181,1) 0%, rgba(163,112,167,1) 50%, rgba(235,238,148,1) 100%)"
     },
     {
-        "name": "Terraria Pack",
+        "name": "Memory Pack I",
         "levels": [
-            "the_sulphur_sea",
-            "ancestral_calamity",
-            "anahita",
-            "brimtanic_paradise"
+            "maybe_possibly_thing",
+            "triple_six",
+            "killbot"
         ],
-        "colour": "linear-gradient(45deg, rgba(39,18,98,1) 0%, rgba(145,62,172,1) 50%, rgba(246,189,255,1) 100%)"
+        "colour": "linear-gradient(45deg, rgba(0,0,0,1) 0%, rgba(0,255,3,1) 100%)"
+    },
+    {
+        "name": "Memory Pack II",
+        "levels": [
+            "super_probably_level",
+            "requiem",
+            "goner"
+        ],
+        "colour": "linear-gradient(45deg, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 100%)"
+    },
+    {
+        "name": "Natural Disaster Trilogy",
+        "levels": [
+            "cyclone",
+            "hurricane",
+            "tornado"
+        ],
+        "colour": "linear-gradient(90deg, rgba(238,207,237,1) 0%, rgba(255,255,255,1) 46%, rgba(212,242,241,1) 100%)"
     },
     {
         "name": "Nine Circles Pack",
@@ -288,43 +223,15 @@
         ],
         "colour": "linear-gradient(45deg, rgba(36,0,0,1) 0%, rgba(121,9,9,1) 35%, rgba(255,0,0,1) 100%)"
     },
-    {   
-        "name": "Breaking Bad Pack",
+    {
+        "name": "Norse Mythology Pack",
         "levels": [
-            "saul_goodman",
-            "walter_white",
-            "jesse_pinkman",
-            "gustavo_fring"
+            "ragnarok",
+            "niflheim",
+            "mjolnir",
+            "niflhel"
         ],
-        "colour": "linear-gradient(90deg, rgba(2,102,53,1) 0%, rgba(9,73,61,1) 67%, rgba(0,0,0,1) 100%)"
-    },
-    {   
-        "name": "Artificial Pack",
-        "levels": [
-            "artificial_ascent",
-            "artificial_ideology",
-            "artificial_dream",
-            "artificial_climb"
-        ],
-        "colour": "linear-gradient(90deg, rgba(156,167,162,1) 0%, rgba(0,0,0,1) 50%, rgba(156,167,162,1) 100%)"
-    },
-    {   
-        "name": "Hate Pack",
-        "levels": [
-            "i_hate_you",
-            "hateful_reflection",
-            "i_hate_renn"
-        ],
-        "colour": "url(https://i.pinimg.com/originals/85/6c/72/856c72c52a0be9efbc5315927e1fff85.png)"
-    },
-    {   
-        "name": "Weather Pack",
-        "levels": [
-            "sunset_sandstorm",
-            "black_blizzard",
-            "misty_mountains"
-        ],
-        "colour": "linear-gradient(90deg, rgba(233,141,7,1) 0%, rgba(0,0,0,1) 50%, rgba(4,175,249,1) 100%)"
+        "colour": "linear-gradient(90deg, rgba(143,0,247,1) 0%, rgba(255,159,254,1) 46%, rgba(255,0,179,1) 100%)"
     },
     {   
         "name": "Party Pack",
@@ -335,24 +242,116 @@
         ],
         "colour": "linear-gradient(90deg, rgba(221,53,91,1) 0%, rgba(0,168,235,1) 50%, rgba(24,218,141,1) 100%)"
     },
-    {   
-        "name": "1.0 Pack",
+    {
+        "name": "Quantum Series",
         "levels": [
-            "xo",
-            "omorfia",
-            "conical_depression"
+            "quantum_processing",
+            "quantum_dynamix",
+            "quantum_theory"
         ],
-        "colour": "linear-gradient(90deg, rgba(0,53,250,1) 0%, rgba(0,24,97,1) 50%, rgba(0,53,250,1) 100%)"
+        "colour": "linear-gradient(45deg, rgba(40,156,0,1) 0%, rgba(74,255,0,1) 50%, rgba(146,255,176,1) 100%)"
+    },
+    {
+        "name": "RGB Pack",
+        "levels": [
+            "yatagarasu",
+            "erebus_rustam",
+            "sonic_wave"
+        ],
+        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,136,0,1) 15%, rgba(245,255,0,1) 30%, rgba(0,255,12,1) 45%, rgba(0,255,243,1) 60%, rgba(16,0,255,1) 75%, rgba(255,0,241,1) 90%)"
+    },
+    {
+        "name": "New RGB Pack",
+        "levels": [
+            "tartarus",
+            "the_golden",
+            "sonic_wave_infinity"
+        ],
+        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,136,0,1) 15%, rgba(245,255,0,1) 30%, rgba(0,255,12,1) 45%, rgba(0,255,243,1) 60%, rgba(16,0,255,1) 75%, rgba(255,0,241,1) 90%)"
+    },
+    {
+        "name": "Reta Pack",
+        "levels": [
+            "kowareta",
+            "wasureta",
+            "kuzureta"
+        ],
+        "colour": "linear-gradient(45deg, rgba(38,1,105,1) 0%, rgba(15,0,56,1) 48%, rgba(70,0,146,1) 100%)"
+    },
+    {
+        "name": "Sonic Series",
+        "levels": [
+            "hypersonic",
+            "panasonic",
+            "subsonic"
+        ],
+        "colour": "linear-gradient(45deg, rgba(255,0,155,1) 0%, rgba(255,235,0,1) 50%, rgba(222,0,255,1) 100%)"
+    },
+    {
+        "name": "Sonic Wave Pack",
+        "levels": [
+            "sonic_wave",
+            "generic_wave",
+            "auditory_breaker"
+        ],
+        "colour": "linear-gradient(90deg, rgba(0,4,57,1) 0%, rgba(0,28,255,1) 25%, rgba(0,4,57,1) 50%, rgba(0,28,255,1) 75%, rgba(0,4,57,1) 100%)"
+    },
+     {
+        "name": "TeamN2 Trilogy",
+        "levels": [
+            "the_hell_factory",
+            "a_bizarre_phantasm",
+            "artificial_ideology"
+        ],
+        "colour": "linear-gradient(45deg, rgba(156,0,0,1) 0%, rgba(0,181,255,1) 100%)"
+    },
+    {
+        "name": "Tech Series",
+        "levels": [
+            "artificial_ascent",
+            "digital_descent",
+            "cybernetic_crescent"
+        ],
+        "colour": "linear-gradient(45deg, rgba(136,0,255,1) 0%, rgba(0,172,255,1) 50%, rgba(10,255,0,1) 100%)"
+    },
+    {
+        "name": "Terraria Pack",
+        "levels": [
+            "the_sulphur_sea",
+            "ancestral_calamity",
+            "anahita",
+            "brimtanic_paradise"
+        ],
+        "colour": "linear-gradient(45deg, rgba(39,18,98,1) 0%, rgba(145,62,172,1) 50%, rgba(246,189,255,1) 100%)"
     },
     {   
-        "name": "Claustrophobia Pack",
+        "name": "Top 1 Pack",
         "levels": [
-            "oblivion",
-            "cognition",
-            "hot_rod",
-            "carcano"
+            "artificial_ascent",
+            "sakupen_hell",
+            "athanatos",
+            "bloodbath",
+            "cataclysm"
         ],
-        "colour": "linear-gradient(90deg, rgba(147,0,255,1) 0%, rgba(12,39,139,1) 66%)"
+        "colour": "radial-gradient(circle, rgba(117,0,0,1) 0%, rgba(0,0,0,1) 40%, rgba(43,39,39,1) 50%, rgba(0,0,0,1) 60%, rgba(117,0,0,1) 100%)"
+    },
+    {
+        "name": "Vortex Series",
+        "levels": [
+            "balengu_vortex",
+            "bausha_vortex",
+            "friday_vortex"
+        ],
+        "colour": "linear-gradient(45deg, rgba(136,0,255,1) 0%, rgba(239,0,255,1) 50%, rgba(255,192,250,1) 100%)"
+    },
+    {   
+        "name": "Weather Pack",
+        "levels": [
+            "sunset_sandstorm",
+            "black_blizzard",
+            "misty_mountains"
+        ],
+        "colour": "linear-gradient(90deg, rgba(233,141,7,1) 0%, rgba(0,0,0,1) 50%, rgba(4,175,249,1) 100%)"
     },
     {   
         "name": "Weather Trilogy",
