@@ -401,4 +401,13 @@
         ],
         "colour": "linear-gradient(90deg, rgba(203,222,240,1) 0%, rgba(4,110,143,1) 50%, rgba(203,222,240,1) 100%)"
     }
+    {   
+        "name": "Zoink Pack",
+        "levels": [
+            "tidal_wave",
+            "avernus",
+            "acheron"
+        ],
+        "colour": "linear-gradient(90deg, rgba(2,242,246,1) 0%, rgba(255,255,255,1) 50%, rgba(2,242,246,1) 100%)"
+    }
 ]
