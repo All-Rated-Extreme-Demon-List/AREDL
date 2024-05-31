@@ -157,7 +157,8 @@
         "levels": [
             "i_hate_you",
             "hateful_reflection",
-            "i_hate_renn"
+            "i_hate_renn",
+            "hatred"
         ],
         "colour": "url(https://i.pinimg.com/originals/85/6c/72/856c72c52a0be9efbc5315927e1fff85.png)"
     },
@@ -297,6 +298,16 @@
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 100%)"
     },
     {
+        "name": "Molten Series",
+        "levels": [
+            "molten_gear",
+            "molten_core",
+            "molten_mercury"
+        ],
+        "colour": "radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(255,126,10,1) 25%, rgba(0,0,0,1) 75%, rgba(255,126,10,1) 100%)"
+    },
+    {
+    {
         "name": "Natural Disaster Trilogy",
         "levels": [
             "cyclone",
@@ -306,16 +317,70 @@
         "colour": "linear-gradient(90deg, rgba(238,207,237,1) 0%, rgba(255,255,255,1) 46%, rgba(212,242,241,1) 100%)"
     },
     {
-        "name": "Nine Circles Pack",
+        "name": "Nine Circles Pack I",
+        "levels": [
+            "cerebral_hemorrhage",
+            "cat_planet",
+            "down_bass",
+            "azurite_royen",
+            "astrophobia"
+        ],
+        "colour": "linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(0,0,0,1) 25%, rgba(253,0,0,1) 50%, rgba(0,0,0,1) 75%, rgba(255,0,0,1) 100%)"
+    },
+    {
+        "name": "Nine Circles Pack II",
+        "levels": [
+            "tenth_circle",
+            "hateful_reflection",
+            "poltergeist_reborn",
+            "abandoned_planet",
+            "mujigae"
+        ],
+        "colour": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 25%, rgba(0,0,0,1) 50%, rgba(255,0,0,1) 75%, rgba(0,0,0,1) 100%)"
+    },
+    {
+        "name": "Nine Circles Pack III",
+        "levels": [
+            "auditory_breaker",
+            "hyper_paradox",
+            "balengu_vortex",
+            "bausha_vortex",
+            "firepower"
+        ],
+        "colour": "linear-gradient(225deg, rgba(255,0,0,1) 0%, rgba(0,0,0,1) 25%, rgba(255,0,0,1) 50%, rgba(0,0,0,1) 75%, rgba(255,0,0,1) 100%)"
+    },
+    {
+        "name": "Nine Circles Pack IV",
+        "levels": [
+            "friday_vortex",
+            "bete_noire",
+            "generic_wave",
+            "sonic_wave",
+            "sonic_wave_rebirth"
+        ],
+        "colour": "linear-gradient(225deg, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 25%, rgba(0,0,0,1) 50%, rgba(255,0,0,1) 75%, rgba(0,0,0,1) 100%)"
+    },
+    {
+        "name": "Nine Circles Pack V",
         "levels": [
             "molten_core",
-            "hateful_reflection",
-            "mujigae",
-            "tenth_circle",
-            "cat_planet",
-            "cerebral_hemorrhage"
+            "hyper_paracosm",
+            "arctic_lights",
+            "aquatic_auroras",
+            "cosmic_cyclone"
         ],
-        "colour": "linear-gradient(45deg, rgba(36,0,0,1) 0%, rgba(121,9,9,1) 35%, rgba(255,0,0,1) 100%)"
+        "colour": "radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(0,0,0,1) 25%, rgba(255,0,0,1) 50%, rgba(0,0,0,1) 75%, rgba(255,0,0,1) 100%)"
+    },
+    {
+        "name": "Nine Circles Pack VI",
+        "levels": [
+            "crackhead_circles",
+            "sonic_wave_infinity",
+            "the_hallucination",
+            "solar_flare",
+            "sakupen_circles"
+        ],
+        "colour": "radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 25%, rgba(0,0,0,1) 50%, rgba(255,0,0,1) 75%, rgba(0,0,0,1) 100%)"
     },
     {
         "name": "Norse Mythology Pack",
@@ -410,7 +475,7 @@
         ],
         "colour": "linear-gradient(90deg, rgba(0,4,57,1) 0%, rgba(0,28,255,1) 25%, rgba(0,4,57,1) 50%, rgba(0,28,255,1) 75%, rgba(0,4,57,1) 100%)"
     },
-     {
+    {
         "name": "TeamN2 Trilogy",
         "levels": [
             "the_hell_factory",
@@ -418,6 +483,16 @@
             "artificial_ideology"
         ],
         "colour": "linear-gradient(45deg, rgba(156,0,0,1) 0%, rgba(0,181,255,1) 100%)"
+    },
+    {
+        "name": "Teamwork Pack",
+        "levels": [
+            "codependence_2p",
+            "crystal_crusher_2p",
+            "sides_of_my_mind_2p",
+            "beeline_2p"
+        ],
+        "colour": "linear-gradient(125deg, rgba(188,139,255,1) 0%, rgba(253,131,255,1) 100%)"
     },
     {
         "name": "Tech Series",
