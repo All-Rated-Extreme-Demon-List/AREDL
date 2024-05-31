@@ -135,15 +135,6 @@
         "colour": "url('https://www.msc.org/images/default-source/msc-english/content-banner/fish-to-eat/fish-to-eat---shorthand-style-912/herring_sh.tmb-labelhome.jpg?Status=Master&sfvrsn=864041bc_1')"
     },
     {
-        "name": "Freedom Series",
-        "levels": [
-            "freedom_08",
-            "freedom_19",
-            "freedom_16"
-        ],
-        "colour": "linear-gradient(125deg, rgba(244,58,126,1) 0%, rgba(156,36,194,1) 50%, rgba(80,203,244,1) 100%)"
-    },
-    {
         "name": "Greek Interface Trilogy",
         "levels": [
             "delta_interface",
