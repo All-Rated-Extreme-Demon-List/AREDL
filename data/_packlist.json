@@ -103,7 +103,7 @@
         "colour": "linear-gradient(45deg, rgba(0,190,255,1) 0%, rgba(255,141,231,1) 50%, rgba(255,0,0,1) 100%)"
     },
     {   
-        "name": "Claustrophobia Pack",
+        "name": "Cognition Pack",
         "levels": [
             "oblivion",
             "cognition",
@@ -111,6 +111,15 @@
             "carcano"
         ],
         "colour": "linear-gradient(90deg, rgba(147,0,255,1) 0%, rgba(12,39,139,1) 66%)"
+    },
+    {   
+        "name": "Claustrophobia Pack",
+        "levels": [
+            "combustion",
+            "acrozis",
+            "acropolix"
+        ],
+        "colour": "linear-gradient(32deg, rgba(0,58,255,1) 0%, rgba(216,0,255,1) 100%)"
     },
     {
         "name": "Dorami Pack I",
@@ -151,6 +160,16 @@
             "freedom16"
         ],
         "colour": "linear-gradient(125deg, rgba(244,58,126,1) 0%, rgba(156,36,194,1) 50%, rgba(80,203,244,1) 100%)"
+    },
+    {
+        "name": "Glitchy Pack",
+        "levels": [
+            "decay",
+            "neurostasis",
+            "broken signal",
+            "killbot"
+        ],
+        "colour": "linear-gradient(200deg, rgba(255,0,0,1) 0%, rgba(0,0,0,1) 50%, rgba(76,255,0,1) 100%)"
     },
     {
         "name": "Greek Interface Trilogy",
@@ -541,6 +560,17 @@
         ],
         "colour": "radial-gradient(circle, rgba(117,0,0,1) 0%, rgba(0,0,0,1) 40%, rgba(43,39,39,1) 50%, rgba(0,0,0,1) 60%, rgba(117,0,0,1) 100%)"
     },
+    {   
+        "name": "Top 1 Pack II",
+        "levels": [
+            "bloodlust",
+            "plasma_pulse_finale",
+            "crimson_planet",
+            "stalemate_redux",
+            "digital_descent"
+        ],
+        "colour": "radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 40%, rgba(0,0,0,1) 50%, rgba(88,2,2,1) 60%, rgba(255,0,0,1) 100%)"
+    },
     {
         "name": "Vortex Series",
         "levels": [
@@ -567,6 +597,15 @@
             "aerial_gleam"
         ],
         "colour": "linear-gradient(90deg, rgba(203,222,240,1) 0%, rgba(4,110,143,1) 50%, rgba(203,222,240,1) 100%)"
+    },
+    {   
+        "name": "The X Factor",
+        "levels": [
+            "acropolix",
+            "necropolix",
+            "ithacropolix"
+        ],
+        "colour": "linear-gradient(90deg, rgba(156,4,4,1) 0%, rgba(0,0,0,1) 50%, rgba(191,2,255,1) 100%)"
     },
     {   
         "name": "Zoink Pack",
