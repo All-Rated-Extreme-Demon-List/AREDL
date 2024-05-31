@@ -66,6 +66,15 @@
         "colour": "linear-gradient(90deg, rgba(156,167,162,1) 0%, rgba(0,0,0,1) 50%, rgba(156,167,162,1) 100%)"
     },
     {   
+        "name": "Brainrot Pack",
+        "levels": [
+            "sigma",
+            "misfire",
+            "the_wiener"
+        ],
+        "colour": "radial-gradient(circle, rgba(251,255,0,1) 0%, rgba(183,255,0,1) 10%, rgba(255,0,0,1) 20%, rgba(12,79,61,1) 30%, rgba(255,16,203,1) 40%, rgba(191,255,0,1) 50%, rgba(125,13,13,1) 60%, rgba(71,255,0,1) 70%, rgba(255,224,0,1) 80%, rgba(255,0,0,1) 90%, rgba(247,255,0,1) 100%)"
+    },
+    {   
         "name": "Breaking Bad Pack",
         "levels": [
             "saul_goodman",
