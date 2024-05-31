@@ -137,9 +137,9 @@
     {
         "name": "Freedom Series",
         "levels": [
-            "freedom_08",
-            "freedom_19",
-            "freedom_16"
+            "freedom08",
+            "freedom19",
+            "freedom16"
         ],
         "colour": "linear-gradient(125deg, rgba(244,58,126,1) 0%, rgba(156,36,194,1) 50%, rgba(80,203,244,1) 100%)"
     },
