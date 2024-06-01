@@ -8,6 +8,35 @@
         ],
         "colour": "linear-gradient(90deg, rgba(0,53,250,1) 0%, rgba(0,24,97,1) 50%, rgba(0,53,250,1) 100%)"
     },
+    {   
+        "name": "19 Pack",
+        "levels": [
+            "idol19",
+            "freedom19",
+            "sector19"
+        ],
+        "colour": "radial-gradient(circle, rgba(0,28,247,1) 0%, rgba(255,0,0,1) 40%, rgba(0,28,247,1) 75%, rgba(255,0,0,1) 100%)"
+    },
+    {   
+        "name": "????? Pack",
+        "levels": [
+            "kjdf8314jlfssf",
+            "pingas21",
+            "brkmgb8gjcz",
+            "ouroboros_startpos_2"
+        ],
+        "colour": "radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(255,255,255,1) 25%, rgba(0,0,0,1) 50%, rgba(255,255,255,1) 75%, rgba(0,0,0,1) 100%)"
+    },
+    {   
+        "name": "Air Pack",
+        "levels": [
+            "atmosphere",
+            "cloudscape",
+            "wind_storm",
+            "fog"
+        ],
+        "colour": "linear-gradient(225deg, rgba(135,131,131,1) 0%, rgba(255,255,255,1) 100%)"
+    },
     {
         "name": "ALL CAPS PACK I",
         "levels": [
@@ -102,6 +131,24 @@
         ],
         "colour": "linear-gradient(45deg, rgba(0,190,255,1) 0%, rgba(255,141,231,1) 50%, rgba(255,0,0,1) 100%)"
     },
+    {
+        "name": "Beginner Pack III",
+        "levels": [
+            "cyclone",
+            "reverence",
+            "glisten"
+        ],
+        "colour": "linear-gradient(45deg, rgba(0,190,255,1) 0%, rgba(255,141,231,1) 50%, rgba(255,0,0,1) 100%)"
+    },
+    {
+        "name": "Blade Pack",
+        "levels": [
+            "the_art_of_the_blade",
+            "blade_of_justice",
+            "edge_of_the_blade"
+        ],
+        "colour": "linear-gradient(135deg, rgba(14,62,197,1) 0%, rgba(36,169,189,1) 50%, rgba(14,62,197,1) 100%)"
+    },
     {   
         "name": "Cognition Pack",
         "levels": [
@@ -120,6 +167,25 @@
             "acropolix"
         ],
         "colour": "linear-gradient(32deg, rgba(0,58,255,1) 0%, rgba(216,0,255,1) 100%)"
+    },
+    {   
+        "name": "Clubstep Pack",
+        "levels": [
+            "deadlier_clubstep",
+            "silent_clubstep",
+            "silent_club"
+        ],
+        "colour": "linear-gradient(27deg, rgba(29,197,14,1) 0%, rgba(197,4,4,1) 25%, rgba(0,0,0,1) 50%, rgba(229,0,255,1) 75%, rgba(238,255,0,1) 100%)"
+    },
+    {   
+        "name": "Cold Pack",
+        "levels": [
+            "frost_spirit",
+            "arctic_lights",
+            "frozen_cave",
+            "storming_summit"
+        ],
+        "colour": "linear-gradient(27deg, rgba(154,216,255,1) 0%, rgba(0,110,255,1) 100%)"
     },
     {
         "name": "Dorami Pack I",
@@ -254,6 +320,25 @@
         "colour": "linear-gradient(90deg, rgba(102,5,5,1) 0%, rgba(0,0,0,1) 50%, rgba(102,5,5,1) 100%)"
     },
     {
+        "name": "Hot Pack",
+        "levels": [
+            "critical_heat",
+            "promethean",
+            "ouroboros",
+            "molten_gear"
+        ],
+        "colour": "linear-gradient(27deg, rgba(255,177,0,1) 0%, rgba(255,0,0,1) 100%)"
+    },
+    {
+        "name": "JonathanGD Pack",
+        "levels": [
+            "butiti_iii",
+            "the_lost_existence",
+            "dark_odyssey"
+        ],
+        "colour": "linear-gradient(170deg, rgba(0,212,12,1) 0%, rgba(255,192,99,1) 50%, rgba(0,212,12,1) 100%)"
+    },
+    {
         "name": "KrmaL Pack I",
         "levels": [
             "conical_depression",
@@ -281,6 +366,15 @@
             "court_circuit"
         ],
         "colour": "linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,255,255,1) 50%, rgba(255,0,0,1) 100%)"
+    },
+    {
+        "name": "Lemons Pack",
+        "levels": [
+            "paroxysm",
+            "anoxysm",
+            "wavebreaker"
+        ],
+        "colour": "linear-gradient(225deg, rgba(247,234,0,1) 0%, rgba(187,255,0,1) 100%)"
     },
     {
         "name": "Lyric Pack I",
@@ -449,6 +543,15 @@
         ],
         "colour": "linear-gradient(90deg, rgba(143,0,247,1) 0%, rgba(255,159,254,1) 46%, rgba(255,0,179,1) 100%)"
     },
+    {
+        "name": "Nuclear Trilogy",
+        "levels": [
+            "atomic_cannon",
+            "atomic_cannon_mk_ii",
+            "atomic_cannon_mk_iii"
+        ],
+        "colour": "linear-gradient(90deg, rgba(255,255,77,1) 0%, rgba(0,0,0,1) 25%, rgba(255,255,77,1) 37%, rgba(0,0,0,1) 50%, rgba(255,255,77,1) 62%, rgba(0,0,0,1) 75%, rgba(255,255,77,1) 100%)"
+    },
     {   
         "name": "Party Pack",
         "levels": [
@@ -457,6 +560,16 @@
             "night_party"
         ],
         "colour": "linear-gradient(90deg, rgba(221,53,91,1) 0%, rgba(0,168,235,1) 50%, rgba(24,218,141,1) 100%)"
+    },
+    {   
+        "name": "Polish Junk Pack",
+        "levels": [
+            "alcatraz",
+            "polish_alphabet",
+            "raindance",
+            "thunder_alphabet"
+        ],
+        "colour": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,0,0,1) 100%)"
     },
     {
         "name": "Quantum Series",
@@ -646,7 +759,8 @@
             "the_lost_existence",
             "light_travel",
             "eon",
-            "death"
+            "death",
+            "dark_odyssey"
         ],
         "colour": "linear-gradient(300deg, rgba(0,255,100,1) 0%, rgba(182,0,255,1) 100%)"
     },
