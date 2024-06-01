@@ -72,7 +72,7 @@
             "misfire",
             "the_wiener"
         ],
-        "colour": "radial-gradient(circle, rgba(251,255,0,1) 0%, rgba(183,255,0,1) 10%, rgba(255,0,0,1) 20%, rgba(12,79,61,1) 30%, rgba(255,16,203,1) 40%, rgba(191,255,0,1) 50%, rgba(125,13,13,1) 60%, rgba(71,255,0,1) 70%, rgba(255,224,0,1) 80%, rgba(255,0,0,1) 90%, rgba(247,255,0,1) 100%)"
+        "colour": "url('https://staticg.sportskeeda.com/editor/2024/01/8183b-17061693595930-1920.jpg')"
     },
     {   
         "name": "Breaking Bad Pack",
@@ -140,6 +140,17 @@
             "the_yandere"
         ],
         "colour": "linear-gradient(45deg, rgba(252,0,255,1) 0%, rgba(255,252,0,1) 100%)"
+    },
+    {
+        "name": "Dynamix Pack",
+        "levels": [
+            "fusiondynamix",
+            "rosedynamix",
+            "quantum_dynamix",
+            "qdynamix",
+            "flappy_dynamix_II"
+        ],
+        "colour": "linear-gradient(225deg, rgba(0,84,255,1) 0%, rgba(0,255,49,1) 100%)"
     },
     {
         "name": "Fish Pack",
@@ -260,6 +271,16 @@
             "xo"
         ],
         "colour": "linear-gradient(45deg, rgba(128,132,181,1) 0%, rgba(163,112,167,1) 50%, rgba(235,238,148,1) 100%)"
+    },
+    {
+        "name": "KrmaL Remake Pack",
+        "levels": [
+            "explosion",
+            "crippled_depression",
+            "bye",
+            "court_circuit"
+        ],
+        "colour": "linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,255,255,1) 50%, rgba(255,0,0,1) 100%)"
     },
     {
         "name": "Lyric Pack I",
@@ -512,6 +533,17 @@
         "colour": "linear-gradient(90deg, rgba(0,4,57,1) 0%, rgba(0,28,255,1) 25%, rgba(0,4,57,1) 50%, rgba(0,28,255,1) 75%, rgba(0,4,57,1) 100%)"
     },
     {
+        "name": "Stereo Madness Pack",
+        "levels": [
+            "conical_depression",
+            "the_hell_field",
+            "stereo_extremeness",
+            "cersia_madness",
+            "crippled_depression"
+        ],
+        "colour": "linear-gradient(225deg, rgba(0,84,255,1) 0%, rgba(0,84,255,1) 40%, rgba(255,0,0,1) 60%, rgba(255,0,0,1) 100%)"
+    },
+    {
         "name": "TeamN2 Trilogy",
         "levels": [
             "the_hell_factory",
@@ -608,6 +640,17 @@
         "colour": "linear-gradient(90deg, rgba(156,4,4,1) 0%, rgba(0,0,0,1) 50%, rgba(191,2,255,1) 100%)"
     },
     {   
+        "name": "XXXL Pack",
+        "levels": [
+            "cicada3302",
+            "the_lost_existence",
+            "light_travel",
+            "eon",
+            "death"
+        ],
+        "colour": "linear-gradient(300deg, rgba(0,255,100,1) 0%, rgba(182,0,255,1) 100%)"
+    },
+    {   
         "name": "Zoink Pack",
         "levels": [
             "tidal_wave",
@@ -615,5 +658,105 @@
             "acheron"
         ],
         "colour": "linear-gradient(90deg, rgba(2,242,246,1) 0%, rgba(255,255,255,1) 50%, rgba(2,242,246,1) 100%)"
+    },
+    {   
+        "name": "Owner Pack",
+        "levels": [
+            "power_grid",
+            "supercharged",
+            "athanatos",
+            "black_blizzard"
+        ],
+        "colour": "linear-gradient(225deg, rgba(91,244,255,1) 0%, rgba(91,244,255,1) 25%, rgba(4,159,0,1) 50%, rgba(91,244,255,1) 75%, rgba(91,244,255,1) 100%)"
+    },
+    {   
+        "name": "List Admin Pack",
+        "levels": [
+            "deception_dive",
+            "berserk",
+            "ruler_of_everything",
+            "reanimate"
+        ],
+        "colour": "linear-gradient(225deg, rgba(255,51,51,1) 0%, rgba(255,51,51,1) 100%)"
+    },
+    {   
+        "name": "Server Admin Pack",
+        "levels": [
+            "spectrum_cyclone",
+            "idols",
+            "anya_III"
+        ],
+        "colour": "linear-gradient(225deg, rgba(255,141,141,1) 0%, rgba(255,141,141,1) 100%)"
+    }, 
+    {   
+        "name": "List Moderator Pack",
+        "levels": [
+            "misfire",
+            "hot_rod",
+            "malware_II",
+            "mujigae",
+            "falling_up"
+        ],
+        "colour": "linear-gradient(225deg, rgba(100,0,236,1) 0%, rgba(100,0,236,1) 100%)"
+    }, 
+    {   
+        "name": "Server Moderator Pack",
+        "levels": [
+            "digital_descent",
+            "stalemate_redux",
+            "omicron",
+            "moment",
+            "wasureta",
+            "boogie"
+        ],
+        "colour": "linear-gradient(225deg, rgba(0,149,223,1) 0%, rgba(0,149,223,1) 100%)"
+    }, 
+    {   
+        "name": "List Helper Pack I",
+        "levels": [
+            "sunburn",
+            "broken_signal",
+            "niwa",
+            "to_the_blue_moon"
+        ],
+        "colour": "linear-gradient(225deg, rgba(255,252,87,1) 0%, rgba(255,252,87,1) 100%)"
+    }, 
+    {   
+        "name": "List Helper Pack II",
+        "levels": [
+            "gewerbix",
+            "bass_cave",
+            "cave_of_heart",
+            "sunk"
+        ],
+        "colour": "linear-gradient(225deg, rgba(255,252,87,1) 0%, rgba(255,252,87,1) 100%)"
+    }, 
+    {   
+        "name": "List Helper Pack III",
+        "levels": [
+            "hardry",
+            "goner",
+            "freedom08",
+            "killbot"
+        ],
+        "colour": "linear-gradient(225deg, rgba(255,252,87,1) 0%, rgba(255,252,87,1) 100%)"
+    }, 
+    {   
+        "name": "Developer Pack",
+        "levels": [
+            "crystal",
+            "sunset_sandstorm",
+            "lumina"
+        ],
+        "colour": "linear-gradient(225deg, rgba(175,26,26,1) 0%, rgba(175,26,26,1) 100%)"
+    }, 
+    {   
+        "name": "Project Manager Pack",
+        "levels": [
+            "darkened",
+            "headlock",
+            "aftermath"
+        ],
+        "colour": "linear-gradient(225deg, rgba(97,0,150,1) 0%, rgba(97,0,150,1) 100%)"
     }
 ]
