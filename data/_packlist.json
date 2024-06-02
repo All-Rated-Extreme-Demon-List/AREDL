@@ -15,7 +15,17 @@
             "freedom19",
             "sector_19"
         ],
-        "colour": "radial-gradient(circle, rgba(0,28,247,1) 0%, rgba(255,0,0,1) 40%, rgba(0,28,247,1) 75%, rgba(255,0,0,1) 100%)"
+        "colour": "linear-gradient(135deg, rgba(255,89,89,1) 0%, rgba(0,0,0,1) 50%, rgba(16,135,255,1) 100%)"
+    },
+    {   
+        "name": "2 Letter Pack",
+        "levels": [
+            "xo",
+            "x0",
+            "n0",
+            "ex"
+        ],
+        "colour": "linear-gradient(135deg, rgba(164,164,164,1) 0%, rgba(210,98,255,1) 100%)"
     },
     {   
         "name": "????? Pack",
@@ -149,6 +159,15 @@
         ],
         "colour": "linear-gradient(135deg, rgba(14,62,197,1) 0%, rgba(36,169,189,1) 50%, rgba(14,62,197,1) 100%)"
     },
+    {
+        "name": "ConTrilogy",
+        "levels": [
+            "controller",
+            "confusion",
+            "conclusion"
+        ],
+        "colour": "linear-gradient(42deg, rgba(255,105,43,1) 0%, rgba(220,75,240,1) 100%)"
+    },
     {   
         "name": "Cognition Pack",
         "levels": [
@@ -221,6 +240,15 @@
         "colour": "linear-gradient(225deg, rgba(0,84,255,1) 0%, rgba(0,255,49,1) 100%)"
     },
     {
+        "name": "Fake Platformer Pack",
+        "levels": [
+            "floating_maze",
+            "floating_outskirts",
+            "falling_maze"
+        ],
+        "colour": "linear-gradient(90deg, rgba(140,255,112,1) 0%, rgba(37,159,0,1) 100%)"
+    },
+    {
         "name": "Fish Pack",
         "levels": [
             "fish_fish_godmode",
@@ -246,7 +274,8 @@
             "decay",
             "neurostasis",
             "broken_signal",
-            "killbot"
+            "killbot",
+            "glitched_memories"
         ],
         "colour": "linear-gradient(200deg, rgba(255,0,0,1) 0%, rgba(0,0,0,1) 50%, rgba(76,255,0,1) 100%)"
     },
@@ -327,7 +356,8 @@
             "critical_heat",
             "promethean",
             "ouroboros",
-            "molten_gear"
+            "molten_gear",
+            "heat_wave"
         ],
         "colour": "linear-gradient(27deg, rgba(255,177,0,1) 0%, rgba(255,0,0,1) 100%)"
     },
@@ -339,6 +369,17 @@
             "dark_odyssey"
         ],
         "colour": "linear-gradient(170deg, rgba(0,212,12,1) 0%, rgba(255,192,99,1) 50%, rgba(0,212,12,1) 100%)"
+    },
+    {
+        "name": "Kill Pack",
+        "levels": [
+            "ego_killing",
+            "overkill",
+            "buzzkill",
+            "killbot",
+            "grill_kill"
+        ],
+        "colour": "linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(0,0,0,1) 50%, rgba(255,0,0,1) 100%)"
     },
     {
         "name": "KrmaL Pack I",
@@ -432,6 +473,18 @@
             "surge_of_the_shield"
         ],
         "colour": "radial-gradient(circle, rgba(0,174,255,1) 0%, rgba(255,0,0,1) 100%)"
+    },
+    {
+        "name": "Memories Pack",
+        "levels": [
+            "surge_of_memories",
+            "glitched_memories",
+            "memories",
+            "concaved_memories",
+            "enlightened_memories",
+            "memories_iii"
+        ],
+        "colour": "linear-gradient(145deg, rgba(124,236,255,1) 0%, rgba(154,161,247,1) 100%)"
     },
     {
         "name": "Memory Pack I",
@@ -610,6 +663,16 @@
         "colour": "linear-gradient(45deg, rgba(38,1,105,1) 0%, rgba(15,0,56,1) 48%, rgba(70,0,146,1) 100%)"
     },
     {
+        "name": "Reta Spinoff Pack",
+        "levels": [
+            "niwa",
+            "shukufuku",
+            "fragile",
+            "shukketsu"
+        ],
+        "colour": "linear-gradient(42deg, rgba(97,0,246,1) 0%, rgba(0,7,121,1) 100%)"
+    },
+    {
         "name": "Solo 2P Pack I",
         "levels": [
             "headlock",
@@ -646,6 +709,24 @@
             "auditory_breaker"
         ],
         "colour": "linear-gradient(90deg, rgba(0,4,57,1) 0%, rgba(0,28,255,1) 25%, rgba(0,4,57,1) 50%, rgba(0,28,255,1) 75%, rgba(0,4,57,1) 100%)"
+    },
+    {
+        "name": "Spam Pack",
+        "levels": [
+            "wow",
+            "game_over",
+            "black_flag"
+        ],
+        "colour": "linear-gradient(42deg, rgba(201,13,13,1) 0%, rgba(0,0,0,1) 30%, rgba(3,130,198,1) 50%, rgba(0,0,0,1) 70%, rgba(5,168,143,1) 100%)"
+    },
+    {
+        "name": "Spectrum Pack",
+        "levels": [
+            "spectrum_rave",
+            "spectrum_cyclone",
+            "spectrum_splot"
+        ],
+        "colour": "linear-gradient(90deg, rgba(255,89,89,1) 20%, rgba(83,255,65,1) 30%, rgba(121,188,255,1) 40%)"
     },
     {
         "name": "Stereo Madness Pack",
@@ -692,7 +773,8 @@
             "the_sulphur_sea",
             "ancestral_calamity",
             "anahita",
-            "brimtanic_paradise"
+            "brimtanic_paradise",
+            "helios"
         ],
         "colour": "linear-gradient(45deg, rgba(39,18,98,1) 0%, rgba(145,62,172,1) 50%, rgba(246,189,255,1) 100%)"
     },
@@ -727,6 +809,27 @@
         ],
         "colour": "linear-gradient(45deg, rgba(136,0,255,1) 0%, rgba(239,0,255,1) 50%, rgba(255,192,250,1) 100%)"
     },
+    {
+        "name": "Wave Challenge Pack",
+        "levels": [
+            "qoueo",
+            "amalgam",
+            "sazerix",
+            "excruciation_chamber",
+            "conical_depression"
+        ],
+        "colour": "linear-gradient(135deg, rgba(255,119,119,1) 0%, rgba(255,168,71,1) 100%)"
+    },
+    {
+        "name": "Wave Chokepoint Pack",
+        "levels": [
+            "uprise",
+            "fexty",
+            "zaphkiel",
+            "icotact"
+        ],
+        "colour": "linear-gradient(135deg, rgba(119,164,255,1) 0%, rgba(254,104,104,1) 100%)"
+    },
     {   
         "name": "Weather Pack",
         "levels": [
@@ -744,6 +847,15 @@
             "aerial_gleam"
         ],
         "colour": "linear-gradient(90deg, rgba(203,222,240,1) 0%, rgba(4,110,143,1) 50%, rgba(203,222,240,1) 100%)"
+    },
+    {
+        "name": "The World Wide Web",
+        "levels": [
+            "network_agat3",
+            "network_vandervals",
+            "netzwerk"
+        ],
+        "colour": "radial-gradient(circle, rgba(1,0,251,1) 0%, rgba(0,255,246,1) 100%)"
     },
     {   
         "name": "The X Factor",
