@@ -43,7 +43,8 @@
             "atmosphere",
             "cloudscape",
             "wind_storm",
-            "fog"
+            "fog",
+            "air_tech"
         ],
         "colour": "linear-gradient(225deg, rgba(135,131,131,1) 0%, rgba(255,255,255,1) 100%)"
     },
