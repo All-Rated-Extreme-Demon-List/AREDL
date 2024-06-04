@@ -18,6 +18,71 @@
         "colour": "linear-gradient(135deg, rgba(255,89,89,1) 0%, rgba(0,0,0,1) 50%, rgba(16,135,255,1) 100%)"
     },
     {   
+        "name": "1.9GDPS Pack I",
+        "levels": [
+            "idol19",
+            "robotchief_exposal",
+            "another_phase",
+            "recrystallize",
+            "sl8o"
+        ],
+        "colour": "linear-gradient(63deg, rgba(250,0,238,1) 0%, rgba(0,0,0,1) 50%, rgba(250,0,238,1) 100%)"
+    },
+    {   
+        "name": "1.9GDPS Pack II",
+        "levels": [
+            "4elements",
+            "nowdead",
+            "fellow_phobia",
+            "goldcrest_palace",
+            "azurite_royen"
+        ],
+        "colour": "linear-gradient(63deg, rgba(250,0,0,1) 0%, rgba(255,104,0,1) 20%, rgba(255,246,0,1) 40%, rgba(46,255,0,1) 60%, rgba(0,76,255,1) 80%, rgba(174,0,250,1) 100%)"
+    },
+    {   
+        "name": "1.9GDPS Pack III",
+        "levels": [
+            "supermayohateclub",
+            "astrophobia",
+            "supercharged",
+            "freedom19",
+            "microsoft_drivethru"
+        ],
+        "colour": "linear-gradient(63deg, rgba(0,154,250,1) 50%, rgba(251,255,0,1) 50%)"
+    },
+    {   
+        "name": "1.9GDPS Pack IV",
+        "levels": [
+            "dusker_processing",
+            "friday_vortex",
+            "thunderzone",
+            "brkmgb8gjcz",
+            "cersia_difficult"
+        ],
+        "colour": "linear-gradient(63deg, rgba(124,178,255,1) 0%, rgba(0,70,113,1) 50%, rgba(124,178,255,1) 100%)"
+    },
+    {   
+        "name": "1.9GDPS Pack V",
+        "levels": [
+            "the_hell_nutz",
+            "cersia_madness",
+            "sink",
+            "calamity",
+            "fragmented"
+        ],
+        "colour": "linear-gradient(63deg, rgba(255,89,89,1) 0%, rgba(113,0,0,1) 50%, rgba(255,89,89,1) 100%)"
+    },
+    {   
+        "name": "1.9GDPS Pack VI",
+        "levels": [
+            "pandemonium_cersia",
+            "sky_shredder",
+            "frost_spirit",
+            "deadlier_clubstep"
+        ],
+        "colour": "linear-gradient(63deg, rgba(232,120,252,1) 30%, rgba(255,255,255,1) 50%, rgba(232,120,252,1) 70%)"
+    },
+    {   
         "name": "2 Letter Pack",
         "levels": [
             "xo",
@@ -179,6 +244,16 @@
         ],
         "colour": "linear-gradient(42deg, rgba(255,105,43,1) 0%, rgba(220,75,240,1) 100%)"
     },
+    {
+        "name": "Control Pack",
+        "levels": [
+            "dmg_ctrl",
+            "mind_control",
+            "crowd_control",
+            "controller"
+        ],
+        "colour": "linear-gradient(144deg, rgba(229,127,247,1) 0%, rgba(255,101,101,1) 100%)"
+    },
     {   
         "name": "Cognition Pack",
         "levels": [
@@ -219,6 +294,15 @@
         ],
         "colour": "linear-gradient(27deg, rgba(154,216,255,1) 0%, rgba(0,110,255,1) 100%)"
     },
+    {   
+        "name": "Covid-19 Pack",
+        "levels": [
+            "delta",
+            "omicron",
+            "gamma"
+        ],
+        "colour": "url('https://digital.nhs.uk/binaries/content/gallery/website/brand-images/experience-pages/0389-website-imagery-home-corona.jpg')"
+    },
     {
         "name": "Dorami Pack I",
         "levels": [
@@ -240,6 +324,33 @@
         "colour": "linear-gradient(45deg, rgba(252,0,255,1) 0%, rgba(255,252,0,1) 100%)"
     },
     {
+        "name": "Death Lord Pack",
+        "levels": [
+            "the_reaper",
+            "athanatos",
+            "hades"
+        ],
+        "colour": "linear-gradient(90deg, rgba(93,8,8,1) 0%, rgba(140,3,3,1) 50%, rgba(0,0,0,1) 100%)"
+    },
+    {
+        "name": "Dream Pack",
+        "levels": [
+            "artificial_dream",
+            "endless_dream",
+            "faded_dream"
+        ],
+        "colour": "linear-gradient(261deg, rgba(225,192,201,1) 0%, rgba(172,151,180,1) 100%)"
+    },
+    {
+        "name": "Dream Pack II",
+        "levels": [
+            "fever_dream",
+            "eternal_dreams",
+            "i_never_dream"
+        ],
+        "colour": "radial-gradient(circle, rgba(225,192,201,1) 0%, rgba(172,151,180,1) 100%)"
+    },
+    {
         "name": "Dynamix Pack",
         "levels": [
             "fusiondynamix",
@@ -249,6 +360,35 @@
             "flappy_dynamix_ii"
         ],
         "colour": "linear-gradient(225deg, rgba(0,84,255,1) 0%, rgba(0,255,49,1) 100%)"
+    },
+    {
+        "name": "The Edgy Pack",
+        "levels": [
+            "edge_of_destiny",
+            "edge_of_the_world",
+            "edge_of_the_blade",
+        ],
+        "colour": "radial-gradient(circle, rgba(48,50,255,1) 0%, rgba(31,0,162,1) 50%, rgba(119,194,255,1) 100%)"
+    },
+    {
+        "name": "Electroman Adventures Pack I",
+        "levels": [
+            "sarryx_never_clear",
+            "static_ignition",
+            "cersia_difficult",
+            "sary_never_clear"
+        ],
+        "colour": "linear-gradient(144deg, rgba(49,255,0,1) 0%, rgba(255,254,0,1) 50%, rgba(237,0,255,1) 100%)"
+    },
+    {
+        "name": "Electroman Adventures Pack II",
+        "levels": [
+            "thunder_alphabet",
+            "alpha_baa_x",
+            "polish_alphabet",
+            "jeongi"
+        ],
+        "colour": "radial-gradient(circle, rgba(255,254,0,1) 50%, rgba(7,255,0,1) 100%)"
     },
     {
         "name": "Fake Platformer Pack",
@@ -278,6 +418,17 @@
             "freedom16"
         ],
         "colour": "linear-gradient(125deg, rgba(244,58,126,1) 0%, rgba(156,36,194,1) 50%, rgba(80,203,244,1) 100%)"
+    },
+    {
+        "name": "Gay Pack",
+        "levels": [
+            "quaoar_viprin",
+            "mujigae",
+            "visible_ray",
+            "spectrum_cyclone",
+            "crackhead_circles"
+        ],
+        "colour": "url('https://media.them.us/photos/5b1ef721bfa1890010f0e15e/master/pass/new-pride-flag-01.jpg')"
     },
     {
         "name": "Glitchy Pack",
@@ -391,6 +542,16 @@
             "grill_kill"
         ],
         "colour": "linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(0,0,0,1) 50%, rgba(255,0,0,1) 100%)"
+    },
+    {
+        "name": "Knobbelboy Pack",
+        "levels": [
+            "bloodlust",
+            "ragnarok",
+            "molten_gear",
+            "astral_divinity"
+        ],
+        "colour": "linear-gradient(63deg, rgba(250,148,9,1) 0%, rgba(199,91,0,1) 50%, rgba(250,148,9,1) 100%)"
     },
     {
         "name": "KrmaL Pack I",
@@ -618,6 +779,15 @@
         ],
         "colour": "linear-gradient(90deg, rgba(255,255,77,1) 0%, rgba(0,0,0,1) 25%, rgba(255,255,77,1) 37%, rgba(0,0,0,1) 50%, rgba(255,255,77,1) 62%, rgba(0,0,0,1) 75%, rgba(255,255,77,1) 100%)"
     },
+    {
+        "name": "Oxysm Pack",
+        "levels": [
+            "the_paroxysm_of_rage",
+            "paroxysm",
+            "anoxysm"
+        ],
+        "colour": "radial-gradient(circle, rgba(255,255,85,1) 0%, rgba(126,242,255,1) 50%, rgba(151,255,152,1) 100%)"
+    },
     {   
         "name": "Party Pack",
         "levels": [
@@ -633,7 +803,8 @@
             "alcatraz",
             "polish_alphabet",
             "raindance",
-            "thunder_alphabet"
+            "thunder_alphabet",
+            "acrozis"
         ],
         "colour": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,0,0,1) 100%)"
     },
@@ -645,6 +816,17 @@
             "quantum_theory"
         ],
         "colour": "linear-gradient(45deg, rgba(40,156,0,1) 0%, rgba(74,255,0,1) 50%, rgba(146,255,176,1) 100%)"
+    },
+    {
+    "name": "The Quiet Pack",
+        "levels": [
+            "silent_clubstep",
+            "sinister_silence",
+            "silent_club",
+            "silentium_clavas",
+            "silentium_gradas"
+        ],
+        "colour": "linear-gradient(141deg, rgba(0,0,0,1) 0%, rgba(82,82,82,1) 50%, rgba(0,0,0,1) 100%)"
     },
     {
         "name": "RGB Pack",
@@ -663,6 +845,15 @@
             "sonic_wave_infinity"
         ],
         "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,136,0,1) 15%, rgba(245,255,0,1) 30%, rgba(0,255,12,1) 45%, rgba(0,255,243,1) 60%, rgba(16,0,255,1) 75%, rgba(255,0,241,1) 90%)"
+    },
+    {
+        "name": "Re- Pack",
+        "levels": [
+            "realtered",
+            "reanimate",
+            "reunite"
+        ],
+        "colour": "linear-gradient(148deg, rgba(255,0,127,1) 0%, rgba(249,0,212,1) 30%, rgba(159,57,224,1) 50%)"
     },
     {
         "name": "Reta Pack",
@@ -801,6 +992,27 @@
             "digital_descent"
         ],
         "colour": "radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 40%, rgba(0,0,0,1) 50%, rgba(88,2,2,1) 60%, rgba(255,0,0,1) 100%)"
+    },
+    {   
+        "name": "Top 1 Pack III",
+        "levels": [
+            "zodiac",
+            "tartarus",
+            "the_golden",
+            "firework",
+            "slaughterhouse"
+        ],
+        "colour": "radial-gradient(circle, rgba(143,1,1,1) 0%, rgba(205,2,2,1) 50%, rgba(0,0,0,1) 100%)"
+    },
+    {   
+        "name": "Valentine's Day Pack",
+        "levels": [
+            "lost_love",
+            "turn_the_lights_off",
+            "the_wiener",
+            "smash"
+        ],
+        "colour": "radial-gradient(circle, rgba(152,0,0,1) 0%, rgba(249,0,0,1) 50%, rgba(255,156,156,1) 100%)"
     },
     {
         "name": "Vortex Series",
