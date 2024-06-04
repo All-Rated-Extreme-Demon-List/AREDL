@@ -161,6 +161,16 @@
         "colour": "linear-gradient(135deg, rgba(14,62,197,1) 0%, rgba(36,169,189,1) 50%, rgba(14,62,197,1) 100%)"
     },
     {
+        "name": "Cardiovascular System",
+        "levels": [
+            "heartbeat",
+            "myocardia",
+            "heart_attack",
+            "pulsation"
+        ],
+        "colour": "linear-gradient(141deg, rgba(255,0,0,1) 0%, rgba(255,47,47,1) 30%, rgba(84,103,255,1) 70%, rgba(29,54,255,1) 100%)"
+    },
+    {
         "name": "ConTrilogy",
         "levels": [
             "controller",
