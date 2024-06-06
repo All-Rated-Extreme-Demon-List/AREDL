@@ -2,7 +2,10 @@
 	"id": 14977845,
 	"name": "Uprise",
 	"author": "Blad3M",
-	"creators": ["Blad3M", "Menkatjezzz"],
+	"creators": [
+		"Blad3M",
+		"Menkatjezzz"
+	],
 	"verifier": "iNeo",
 	"verification": "https://www.youtube.com/watch?v=oQBMG-aacNo",
 	"percentToQualify": 100,
@@ -535,6 +538,12 @@
 		{
 			"user": "Andre89",
 			"link": "https://youtu.be/TkVrvHuP-8o?si=prfON9TFmOroQOQt",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "[STAFF] veshel",
+			"link": "https://youtu.be/kBOZFe-AA3A?si=u06_lOF5d7t1C3hh",
 			"percent": 100,
 			"hz": 360
 		}
