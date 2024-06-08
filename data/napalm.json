@@ -1525,6 +1525,13 @@
 			"link": "https://www.youtube.com/watch?v=kNeo3mLWoMI",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "Inspect",
+			"link": "https://youtu.be/h_w3r5ikhDY?si=8XJwjMJdHg8lV1WX",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
