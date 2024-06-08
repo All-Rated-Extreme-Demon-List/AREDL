@@ -16,6 +16,12 @@
 	"password": "No Copy",
 	"records": [
 		{
+			"user": "Ryclix",
+			"link": "https://www.youtube.com/watch?v=xrpK1jpwSu0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
 			"user": "nei",
 			"link": "https://youtu.be/0DQ_yvaxoVg",
 			"percent": 100,
@@ -66,12 +72,6 @@
 		{
 			"user": "DibiiziCookie",
 			"link": "https://youtu.be/HW33WWc4iow?si=1BJfComCnyut1Cs3",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "Ryclix",
-			"link": "https://www.youtube.com/watch?v=xrpK1jpwSu0",
 			"percent": 100,
 			"hz": 360
 		}

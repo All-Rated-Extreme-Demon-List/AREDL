@@ -9,6 +9,12 @@
 	"password": "030731",
 	"records": [
 		{
+			"user": "Ryclix",
+			"link": "https://www.youtube.com/watch?v=f9m1KwCzVjE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
 			"user": "ItzElectrix",
 			"link": "https://youtu.be/i8YqLMrxOT4",
 			"percent": 100,
@@ -77,12 +83,6 @@
 		{
 			"user": "A.P.",
 			"link": "https://youtu.be/OTHkOkhQPJE?si=ukpalOLiVEjzmt5A",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "Ryclix",
-			"link": "https://www.youtube.com/watch?v=f9m1KwCzVjE",
 			"percent": 100,
 			"hz": 360
 		}

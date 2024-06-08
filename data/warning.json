@@ -8,6 +8,12 @@
 	"percentToQualify": 100,
 	"records": [
 		{
+			"user": "Ryclix",
+			"link": "https://www.youtube.com/watch?v=nFSxxZv4Xrw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
 			"user": "HotNooB",
 			"link": "https://youtu.be/HNnfYXoCtDY",
 			"percent": 100,
@@ -184,12 +190,6 @@
 		{
 			"user": "awesomeme360",
 			"link": "https://youtu.be/0pHr-_GWb8g?si=6UZn-vB13OYUSbFN",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "Ryclix",
-			"link": "https://www.youtube.com/watch?v=nFSxxZv4Xrw",
 			"percent": 100,
 			"hz": 360
 		}
