@@ -1501,17 +1501,6 @@
         "colour": "linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 30%, rgba(255,255,255,1) 50%, rgba(0,0,0,1) 70%, rgba(255,255,255,1) 100%)"
     },
     {   
-        "name": "Threequel Pack",
-        "levels": [
-            "atomic_cannon_mk_iii",
-            "butiti_iii",
-            "plasma_pulse_iii",
-            "anya_iii",
-            "memories_iii"
-        ],
-        "colour": "linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 30%, rgba(255,255,255,1) 50%, rgba(0,0,0,1) 70%, rgba(255,255,255,1) 100%)"
-    },
-    {   
         "name": "Under Pack",
         "levels": [
             "hidden_in_the_sand",
