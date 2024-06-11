@@ -160,6 +160,17 @@
         ],
         "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,192,0,1) 50%, rgba(245,255,0,1) 100%)"
     },
+    {
+        "name": "Arthritis Pack",
+        "levels": [
+            "wasureta",
+            "overkill",
+            "wow",
+            "ouroboros_startpos_2",
+            "new_record"
+        ],
+        "colour": "linear-gradient(141deg, rgba(255,0,58,1) 0%, rgba(56,24,24,1) 25%, rgba(255,0,114,1) 50%, rgba(56,24,24,1) 75%, rgba(255,0,58,1) 100%)"
+    },
     {   
         "name": "Artificial Pack",
         "levels": [
@@ -175,7 +186,8 @@
         "levels": [
             "shardscapes",
             "congregation",
-            "the_moon_below"
+            "the_moon_below",
+            "atmospheric"
         ],
         "colour": "linear-gradient(184deg, rgba(59,61,246,1) 0%, rgba(255,99,211,1) 100%)"
     },
@@ -212,15 +224,6 @@
     {
         "name": "Beginner Pack I",
         "levels": [
-            "acu",
-            "cataclysm",
-            "niwa"
-        ],
-        "colour": "linear-gradient(45deg, rgba(0,190,255,1) 0%, rgba(255,141,231,1) 50%, rgba(255,0,0,1) 100%)"
-    },
-    {
-        "name": "Beginner Pack II",
-        "levels": [
             "troll_level",
             "azurite_sillow",
             "misty_mountains"
@@ -228,20 +231,29 @@
         "colour": "linear-gradient(45deg, rgba(0,190,255,1) 0%, rgba(255,141,231,1) 50%, rgba(255,0,0,1) 100%)"
     },
     {
+        "name": "Beginner Pack II",
+        "levels": [
+            "acu",
+            "cataclysm",
+            "niwa"
+        ],
+        "colour": "linear-gradient(45deg, rgba(0,190,255,1) 0%, rgba(255,141,231,1) 50%, rgba(255,0,0,1) 100%)"
+    },
+    {
         "name": "Beginner Pack III",
         "levels": [
-            "cyclone",
-            "reverence",
-            "glisten"
+            "hypersonic",
+            "forbidden_isle",
+            "make_it_drop"
         ],
         "colour": "linear-gradient(45deg, rgba(0,190,255,1) 0%, rgba(255,141,231,1) 50%, rgba(255,0,0,1) 100%)"
     },
     {
         "name": "Beginner Pack IV",
         "levels": [
-            "hypersonic",
-            "forbidden_isle",
-            "tantrum"
+            "cyclone",
+            "reverence",
+            "glisten"
         ],
         "colour": "linear-gradient(45deg, rgba(0,190,255,1) 0%, rgba(255,141,231,1) 50%, rgba(255,0,0,1) 100%)"
     },
@@ -577,6 +589,35 @@
         "colour": "linear-gradient(145deg, rgba(255,255,255,1) 0%, rgba(255,0,0,1) 30%, rgba(255,255,255,1) 50%, rgba(0,28,255,1) 70%, rgba(255,255,255,1) 100%)"
     },
     {
+        "name": "Flective Pack",
+        "levels": [
+            "deflective",
+            "reflective",
+            "inflective"
+        ],
+        "colour": "linear-gradient(141deg, rgba(255,255,255,1) 0%, rgba(77,77,77,1) 25%, rgba(255,139,139,1) 40%, rgba(101,230,255,1) 50%, rgba(129,255,197,1) 60%, rgba(77,77,77,1) 75%, rgba(247,247,247,1) 100%)"
+    },
+    {
+        "name": "Floral Pack",
+        "levels": [
+            "lotus_flower",
+            "wild_rose",
+            "into_petals"
+        ],
+        "colour": "linear-gradient(41deg, rgba(255,132,231,1) 0%, rgba(108,255,220,1) 100%)"
+    },
+    {
+        "name": "Former IDL Pack",
+        "levels": [
+            "final_epilogue",
+            "komodo",
+            "phantasmagoria",
+            "sigsegv",
+            "tesseract"
+        ],
+        "colour": "linear-gradient(41deg, rgba(255,139,139,1) 0%, rgba(255,202,118,1) 100%)"
+    },
+    {
         "name": "Freedom Series",
         "levels": [
             "freedom08",
@@ -601,7 +642,8 @@
             "basil",
             "lotus_flower",
             "wild_rose",
-            "gardening_map"
+            "gardening_map",
+            "niwa"
         ],
         "colour": "linear-gradient(90deg, rgba(121,255,128,1) 0%, rgba(0,115,28,1) 100%)"
     },
@@ -746,7 +788,7 @@
             "innards",
             "cerebral_hemorrhage"
         ],
-        "colour": "url('https://i.ytimg.com/vi/8NrXOOqpnd8/maxresdefault.jpg')"
+        "colour": "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAJR4S4Nv2KILkHJTkZy-5tmrRK3mI4X5Y1g&s')"
     },
     {
         "name": "Kill Pack",
@@ -797,6 +839,16 @@
             "court_circuit"
         ],
         "colour": "linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,255,255,1) 50%, rgba(255,0,0,1) 100%)"
+    },
+    {
+        "name": "Light Pack",
+        "levels": [
+            "blacklights",
+            "nightlights",
+            "backlights",
+            "lights_out"
+        ],
+        "colour": "radial-gradient(circle, rgba(255,250,0,1) 0%, rgba(255,253,189,1) 50%, rgba(0,0,0,1) 100%)"
     },
     {
         "name": "Lemons Pack",
@@ -940,6 +992,15 @@
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 100%)"
     },
     {
+        "name": "Miserable Pack (EDEL)",
+        "levels": [
+            "reeses_potentially",
+            "ego_killing",
+            "moving_forward"
+        ],
+        "colour": "url('https://cdn.pnggallery.com/wp-content/uploads/sad-emoji-01.png')"
+    },
+    {
         "name": "Molten Series",
         "levels": [
             "molten_gear",
@@ -949,6 +1010,16 @@
         "colour": "radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(255,126,10,1) 25%, rgba(0,0,0,1) 75%, rgba(255,126,10,1) 100%)"
     },
     {
+        "name": "Mountain Pack",
+        "levels": [
+            "frozen_cave",
+            "storming_summit",
+            "misty_mountains",
+            "beyond_the_summit"
+        ],
+        "colour": "linear-gradient(41deg, rgba(124,224,255,1) 0%, rgba(156,176,215,1) 50%, rgba(0,16,255,1) 100%)"
+    },
+    {
         "name": "Natural Disaster Trilogy",
         "levels": [
             "cyclone",
@@ -956,6 +1027,15 @@
             "tornado"
         ],
         "colour": "linear-gradient(90deg, rgba(238,207,237,1) 0%, rgba(255,255,255,1) 46%, rgba(212,242,241,1) 100%)"
+    },
+    {
+        "name": "Neon Pack",
+        "levels": [
+            "neon_skyline",
+            "neon_mixtape_tour",
+            "neon_guts"
+        ],
+        "colour": "linear-gradient(41deg, rgba(0,255,242,1) 35%, rgba(250,0,255,1) 50%, rgba(255,254,0,1) 65%)"
     },
     {
         "name": "Night Pack",
@@ -1053,6 +1133,15 @@
         "colour": "linear-gradient(90deg, rgba(255,255,77,1) 0%, rgba(0,0,0,1) 25%, rgba(255,255,77,1) 37%, rgba(0,0,0,1) 50%, rgba(255,255,77,1) 62%, rgba(0,0,0,1) 75%, rgba(255,255,77,1) 100%)"
     },
     {
+        "name": "Oppenheimer Pack",
+        "levels": [
+            "shatter",
+            "napalm",
+            "explosion"
+        ],
+        "colour": "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ07FsMbdqh6L1BjaAYnJWJMKST9OlJvVTvtA&s')"
+    },
+    {
         "name": "Oxysm Pack",
         "levels": [
             "the_paroxysm_of_rage",
@@ -1060,6 +1149,39 @@
             "anoxysm"
         ],
         "colour": "radial-gradient(circle, rgba(255,255,85,1) 0%, rgba(126,242,255,1) 50%, rgba(151,255,152,1) 100%)"
+    },
+    {
+        "name": "The Pack I",
+        "levels": [
+            "the_lost_existence",
+            "the_flawless",
+            "the_ultimate_demon",
+            "the_ultimate_pase",
+            "the_tears_beneath"
+        ],
+        "colour": "linear-gradient(145deg, rgba(164,255,215,1) 0%, rgba(255,144,66,1) 100%)"
+    },
+    {
+        "name": "The Pack II",
+        "levels": [
+            "the_first",
+            "the_sulphur_sea",
+            "the_moon_below",
+            "the_mainframe",
+            "the_cellar_path"
+        ],
+        "colour": "linear-gradient(145deg, rgba(174,164,255,1) 0%, rgba(66,255,197,1) 100%)"
+    },
+    {
+        "name": "The Pack III",
+        "levels": [
+            "the_golden",
+            "the_paroxysm_of_rage",
+            "the_rupture",
+            "the_art_of_the_blade",
+            "the_yandere"
+        ],
+        "colour": "linear-gradient(145deg, rgba(255,164,164,1) 0%, rgba(93,66,255,1) 100%)"
     },
     {   
         "name": "Party Pack",
@@ -1197,6 +1319,28 @@
         "colour": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(255,255,255,1) 30%, rgba(0,0,0,1) 50%, rgba(255,255,255,1) 70%, rgba(0,0,0,1) 100%)"
     },
     {
+        "name": "Slow Pack I",
+        "levels": [
+            "our_fountain",
+            "robi",
+            "hidden_in_the_sand",
+            "snowdrift",
+            "decay"
+        ],
+        "colour": "linear-gradient(41deg, rgba(255,132,132,1) 0%, rgba(93,37,86,1) 100%)"
+    },
+    {
+        "name": "Slow Pack II",
+        "levels": [
+            "hopping_over_puddles",
+            "graphite_world",
+            "loop",
+            "stand_in_the_snow",
+            "carbon"
+        ],
+        "colour": "linear-gradient(41deg, rgba(132,191,255,1) 0%, rgba(21,18,73,1) 100%)"
+    },
+    {
         "name": "Solar Pack",
         "levels": [
             "solar_flare",
@@ -1271,7 +1415,7 @@
             "cyberstorm",
             "wind_storm"
         ],
-        "colour": "linear-gradient(90deg, rgba(108,108,106,1) 0%, rgba(48,141,255,1) 50%, rgba(108,108,106,1) 100%)"
+        "colour": "linear-gradient(41deg, rgba(204,204,204,1) 0%, rgba(58,28,240,1) 100%)"
     },
     {
         "name": "Tally Hall Pack",
@@ -1355,7 +1499,7 @@
         "colour": "radial-gradient(circle, rgba(143,1,1,1) 0%, rgba(205,2,2,1) 50%, rgba(0,0,0,1) 100%)"
     },
     {   
-        "name": "Trequel Pack",
+        "name": "Threequel Pack",
         "levels": [
             "atomic_cannon_mk_iii",
             "butiti_iii",
@@ -1366,13 +1510,24 @@
         "colour": "linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 30%, rgba(255,255,255,1) 50%, rgba(0,0,0,1) 70%, rgba(255,255,255,1) 100%)"
     },
     {   
-        "name": "Upwards Pack",
+        "name": "Threequel Pack",
         "levels": [
-            "falling_up",
-            "uprise",
-            "uplink"
+            "atomic_cannon_mk_iii",
+            "butiti_iii",
+            "plasma_pulse_iii",
+            "anya_iii",
+            "memories_iii"
         ],
-        "colour": "linear-gradient(180deg, rgba(117,0,255,1) 0%, rgba(0,0,0,1) 100%)"
+        "colour": "linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 30%, rgba(255,255,255,1) 50%, rgba(0,0,0,1) 70%, rgba(255,255,255,1) 100%)"
+    },
+    {   
+        "name": "Under Pack",
+        "levels": [
+            "hidden_in_the_sand",
+            "the_tears_beneath",
+            "under_lavaland"
+        ],
+        "colour": "linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(255,108,108,1) 100%)"
     },
     {   
         "name": "Valentine's Day Pack",
@@ -1423,6 +1578,17 @@
             "icotact"
         ],
         "colour": "linear-gradient(135deg, rgba(119,164,255,1) 0%, rgba(254,104,104,1) 100%)"
+    },
+    {
+        "name": "Ways To Die Pack",
+        "levels": [
+            "paralysis",
+            "shotgun",
+            "heart_attack",
+            "burn_to_dust",
+            "the_wiener"
+        ],
+        "colour": "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpOlcMCK4fFikrDGq492gsbGuOOFfg4tUlsw&s')"
     },
     {   
         "name": "Weather Pack",
