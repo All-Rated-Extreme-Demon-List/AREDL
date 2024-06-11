@@ -1029,15 +1029,6 @@
         "colour": "linear-gradient(90deg, rgba(238,207,237,1) 0%, rgba(255,255,255,1) 46%, rgba(212,242,241,1) 100%)"
     },
     {
-        "name": "Neon Pack",
-        "levels": [
-            "neon_skyline",
-            "neon_mixtape_tour",
-            "neon_guts"
-        ],
-        "colour": "linear-gradient(41deg, rgba(0,255,242,1) 35%, rgba(250,0,255,1) 50%, rgba(255,254,0,1) 65%)"
-    },
-    {
         "name": "Night Pack",
         "levels": [
             "midnight",
