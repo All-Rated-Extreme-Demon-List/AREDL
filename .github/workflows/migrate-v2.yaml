@@ -1,0 +1,23 @@
+name: Migrate v2
+
+on:
+  workflow_dispatch:
+
+jobs:
+  migrate:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Copy data over to backend
+      uses: burnett01/rsync-deployments@6.0.0
+      with:
+        switches: -avz
+        path: ./data/
+        remote_path: ${{ secrets.DEPLOY_PATH }}/data/
+        remote_host: ${{ secrets.DEPLOY_HOST }}
+        remote_user: ${{ secrets.DEPLOY_USER }}
+        remote_key: ${{ secrets.DEPLOY_KEY }}
