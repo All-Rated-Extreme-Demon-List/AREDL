@@ -65,9 +65,6 @@ const mobile_list_expanded = ref(true)
           <p>
             - Raw footage (or a pointercrate record of the level) AND clicks will ALWAYS be required for levels in the top 250.
           </p>
-          <p>
-            - Refer to <a href="https://docs.google.com/spreadsheets/d/10AjUUcTpAzOqdfnbz0wtYskL9TdwT4Onv_Fldt5NXBg/edit?usp=sharing">-This Sheet-</a> for a list of allowed and disallowed hacks
-          </p>
           <h3>> Why was my record denied?</h3>
           <p>
             If your record was denied, please check the following:
