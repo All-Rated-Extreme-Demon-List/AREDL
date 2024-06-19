@@ -1,17 +1,48 @@
 {
-    "id": 92473158,
-    "name": "4ucked Up",
-    "author": "LordeQuacc",
-    "creators": ["LordeQuacc", "SEEL", "PDK", "Snowdrift", "Genoxide", "Anthrav", "TUUNS", "Ellip", "Mazzedy", "GDNeoz", "destriv", "Tahsen", "Xacrus", "KWMS", "APStrom", "Airsavage", "Khelado", "Mangosteen", "Giammix", "Dangerkat", "Cuaer", "Diamondskull", "Nekon", "Electro543"],
-    "verifier": "Azuvy",
-    "verification": "https://youtu.be/FRdIA_aiTvo?si=NdcqGnzqfNpENEoG",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "ddddr",
-            "link": "https://youtu.be/KxAkMp9o64I?si=GrijI2FpCJMG-7l4",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
-    }
+	"id": 92473158,
+	"name": "4ucked Up",
+	"author": "LordeQuacc",
+	"creators": [
+		"LordeQuacc",
+		"SEEL",
+		"PDK",
+		"Snowdrift",
+		"Genoxide",
+		"Anthrav",
+		"TUUNS",
+		"Ellip",
+		"Mazzedy",
+		"GDNeoz",
+		"destriv",
+		"Tahsen",
+		"Xacrus",
+		"KWMS",
+		"APStrom",
+		"Airsavage",
+		"Khelado",
+		"Mangosteen",
+		"Giammix",
+		"Dangerkat",
+		"Cuaer",
+		"Diamondskull",
+		"Nekon",
+		"Electro543"
+	],
+	"verifier": "Azuvy",
+	"verification": "https://youtu.be/FRdIA_aiTvo?si=NdcqGnzqfNpENEoG",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "ddddr",
+			"link": "https://youtu.be/KxAkMp9o64I?si=GrijI2FpCJMG-7l4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ultracauaHD",
+			"link": "https://www.youtube.com/watch?v=28CpFvVZAtA",
+			"percent": 100,
+			"hz": 360
+		}
+	]
+}
