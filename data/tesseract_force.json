@@ -1,10 +1,17 @@
 {
-    "id": 91413592,
-    "name": "Tesseract Force",
-    "author": "Edooox",
-    "creators": [],
-    "verifier": "chriservi",
-    "verification": "https://youtu.be/yGOOXL1e2UM?si=dBWjhsogZRTwUtPO",
-    "percentToQualify": 100,
-    "records": []
+	"id": 91413592,
+	"name": "Tesseract Force",
+	"author": "Edooox",
+	"creators": [],
+	"verifier": "chriservi",
+	"verification": "https://youtu.be/yGOOXL1e2UM?si=dBWjhsogZRTwUtPO",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "ultracauaHD",
+			"link": "https://www.youtube.com/watch?v=NXIhtt5DW_Y",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
