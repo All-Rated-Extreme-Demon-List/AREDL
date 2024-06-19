@@ -1,5 +1,5 @@
 [
-    {   
+    {
         "name": "1.0 Pack",
         "levels": [
             "xo",
@@ -8,7 +8,7 @@
         ],
         "colour": "linear-gradient(90deg, rgba(0,53,250,1) 0%, rgba(0,24,97,1) 50%, rgba(0,53,250,1) 100%)"
     },
-    {   
+    {
         "name": "19 Pack",
         "levels": [
             "idol19",
@@ -17,7 +17,7 @@
         ],
         "colour": "linear-gradient(135deg, rgba(255,89,89,1) 0%, rgba(0,0,0,1) 50%, rgba(16,135,255,1) 100%)"
     },
-    {   
+    {
         "name": "1.9GDPS Pack I",
         "levels": [
             "idol19",
@@ -28,7 +28,7 @@
         ],
         "colour": "linear-gradient(63deg, rgba(250,0,238,1) 0%, rgba(0,0,0,1) 50%, rgba(250,0,238,1) 100%)"
     },
-    {   
+    {
         "name": "1.9GDPS Pack II",
         "levels": [
             "a4elements",
@@ -39,7 +39,7 @@
         ],
         "colour": "linear-gradient(63deg, rgba(250,0,0,1) 0%, rgba(255,104,0,1) 20%, rgba(255,246,0,1) 40%, rgba(46,255,0,1) 60%, rgba(0,76,255,1) 80%, rgba(174,0,250,1) 100%)"
     },
-    {   
+    {
         "name": "1.9GDPS Pack III",
         "levels": [
             "supermayohateclub",
@@ -50,7 +50,7 @@
         ],
         "colour": "linear-gradient(63deg, rgba(0,154,250,1) 50%, rgba(251,255,0,1) 50%)"
     },
-    {   
+    {
         "name": "1.9GDPS Pack IV",
         "levels": [
             "dusker_processing",
@@ -61,7 +61,7 @@
         ],
         "colour": "linear-gradient(63deg, rgba(124,178,255,1) 0%, rgba(0,70,113,1) 50%, rgba(124,178,255,1) 100%)"
     },
-    {   
+    {
         "name": "1.9GDPS Pack V",
         "levels": [
             "the_hell_nutz",
@@ -72,7 +72,7 @@
         ],
         "colour": "linear-gradient(63deg, rgba(255,89,89,1) 0%, rgba(113,0,0,1) 50%, rgba(255,89,89,1) 100%)"
     },
-    {   
+    {
         "name": "1.9GDPS Pack VI",
         "levels": [
             "pandemonium_cersia",
@@ -82,7 +82,7 @@
         ],
         "colour": "linear-gradient(63deg, rgba(232,120,252,1) 30%, rgba(255,255,255,1) 50%, rgba(232,120,252,1) 70%)"
     },
-    {   
+    {
         "name": "2 Letter Pack",
         "levels": [
             "xo",
@@ -92,7 +92,7 @@
         ],
         "colour": "linear-gradient(135deg, rgba(164,164,164,1) 0%, rgba(210,98,255,1) 100%)"
     },
-    {   
+    {
         "name": "????? Pack",
         "levels": [
             "kjdf8314jlfssf",
@@ -102,7 +102,7 @@
         ],
         "colour": "radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(255,255,255,1) 25%, rgba(0,0,0,1) 50%, rgba(255,255,255,1) 75%, rgba(0,0,0,1) 100%)"
     },
-    {   
+    {
         "name": "Air Pack",
         "levels": [
             "atmosphere",
@@ -198,7 +198,7 @@
         ],
         "colour": "linear-gradient(141deg, rgba(255,0,58,1) 0%, rgba(56,24,24,1) 25%, rgba(255,0,114,1) 50%, rgba(56,24,24,1) 75%, rgba(255,0,58,1) 100%)"
     },
-    {   
+    {
         "name": "Artificial Pack",
         "levels": [
             "artificial_ascent",
@@ -208,7 +208,7 @@
         ],
         "colour": "linear-gradient(90deg, rgba(156,167,162,1) 0%, rgba(0,0,0,1) 50%, rgba(156,167,162,1) 100%)"
     },
-    {   
+    {
         "name": "Atmospheric Pack",
         "levels": [
             "shardscapes",
@@ -217,7 +217,7 @@
         ],
         "colour": "linear-gradient(184deg, rgba(59,61,246,1) 0%, rgba(255,99,211,1) 100%)"
     },
-    {   
+    {
         "name": "Aurora Pack",
         "levels": [
             "aquatic_auroras",
@@ -228,7 +228,7 @@
         ],
         "colour": "linear-gradient(45deg, rgba(119,81,169,1) 0%, rgba(18,57,79,1) 50%, rgba(21,103,8,1) 100%)"
     },
-    {   
+    {
         "name": "Brainrot Pack",
         "levels": [
             "sigma",
@@ -237,7 +237,7 @@
         ],
         "colour": "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1w1ZrCuWXXjTzXSgFZx0Ir9PQ-sZGIDomog&s')"
     },
-    {   
+    {
         "name": "Breaking Bad Pack",
         "levels": [
             "saul_goodman",
@@ -362,7 +362,7 @@
         ],
         "colour": "linear-gradient(144deg, rgba(229,127,247,1) 0%, rgba(255,101,101,1) 100%)"
     },
-    {   
+    {
         "name": "Cognition Pack",
         "levels": [
             "oblivion",
@@ -372,7 +372,7 @@
         ],
         "colour": "linear-gradient(90deg, rgba(147,0,255,1) 0%, rgba(12,39,139,1) 66%)"
     },
-    {   
+    {
         "name": "Claustrophobia Pack",
         "levels": [
             "combustion",
@@ -383,7 +383,7 @@
         ],
         "colour": "linear-gradient(32deg, rgba(0,58,255,1) 0%, rgba(216,0,255,1) 100%)"
     },
-    {   
+    {
         "name": "Clubstep Pack",
         "levels": [
             "deadlier_clubstep",
@@ -392,7 +392,7 @@
         ],
         "colour": "linear-gradient(27deg, rgba(29,197,14,1) 0%, rgba(197,4,4,1) 25%, rgba(0,0,0,1) 50%, rgba(229,0,255,1) 75%, rgba(238,255,0,1) 100%)"
     },
-    {   
+    {
         "name": "Cold Pack",
         "levels": [
             "frost_spirit",
@@ -402,7 +402,7 @@
         ],
         "colour": "linear-gradient(27deg, rgba(154,216,255,1) 0%, rgba(0,110,255,1) 100%)"
     },
-    {   
+    {
         "name": "Covid-19 Pack",
         "levels": [
             "delta",
@@ -411,7 +411,7 @@
         ],
         "colour": "url('https://www.3m.co.uk/wps/wcm/connect/6c67050c-4418-42a3-b9a5-292ca77ef278/Coronavirus_410x270px.jpg?MOD=AJPERES')"
     },
-    {   
+    {
         "name": "Crohn Pack",
         "levels": [
             "glide",
@@ -420,7 +420,7 @@
         ],
         "colour": "linear-gradient(90deg, rgba(255,147,0,1) 0%, rgba(0,0,0,1) 50%, rgba(255,147,0,1) 100%)"
     },
-    {   
+    {
         "name": "Cube Pack",
         "levels": [
             "dump",
@@ -431,7 +431,7 @@
         ],
         "colour": "radial-gradient(circle, rgba(0,255,14,1) 50%, rgba(0,251,255,1) 68%)"
     },
-    {   
+    {
         "name": "Cyka Blyat Pack",
         "levels": [
             "kocmoc",
@@ -440,7 +440,7 @@
         ],
         "colour": "radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(14,0,255,1) 50%, rgba(255,0,0,1) 100%)"
     },
-    {   
+    {
         "name": "Cyka Blyat Pack II",
         "levels": [
             "shinigami",
@@ -450,7 +450,7 @@
         ],
         "colour": "radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(14,0,255,1) 50%, rgba(255,255,255,1) 100%)"
     },
-    {   
+    {
         "name": "Dark Web Pack",
         "levels": [
             "slaughterhouse",
@@ -761,7 +761,7 @@
         ],
         "colour": "linear-gradient(45deg, rgba(255,0,147,1) 0%, rgba(255,0,207,1) 50%, rgba(255,179,0,1) 100%)"
     },
-    {   
+    {
         "name": "Hate Pack",
         "levels": [
             "i_hate_you",
@@ -1304,7 +1304,7 @@
         ],
         "colour": "linear-gradient(145deg, rgba(255,164,164,1) 0%, rgba(93,66,255,1) 100%)"
     },
-    {   
+    {
         "name": "Party Pack",
         "levels": [
             "sorryforpartyrocking",
@@ -1313,7 +1313,7 @@
         ],
         "colour": "linear-gradient(90deg, rgba(221,53,91,1) 0%, rgba(0,168,235,1) 50%, rgba(24,218,141,1) 100%)"
     },
-    {   
+    {
         "name": "Perfection Pack (EDEL)",
         "levels": [
             "apollo_11",
@@ -1324,7 +1324,7 @@
         ],
         "colour": "radial-gradient(circle, rgba(106,175,255,1) 0%, rgba(201,103,255,1) 100%)"
     },
-    {   
+    {
         "name": "Phase Pack",
         "levels": [
             "the_ultimate_phase",
@@ -1333,7 +1333,7 @@
         ],
         "colour": "linear-gradient(145deg, rgba(159,0,114,1) 0%, rgba(255,210,240,1) 100%)"
     },
-    {   
+    {
         "name": "Polish Junk Pack",
         "levels": [
             "alcatraz",
@@ -1344,7 +1344,7 @@
         ],
         "colour": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,0,0,1) 100%)"
     },
-    {   
+    {
         "name": "Power Outage Pack",
         "levels": [
             "lights_out",
@@ -1657,7 +1657,7 @@
         ],
         "colour": "radial-gradient(circle, rgba(91,189,255,1) 0%, rgba(78,101,255,1) 50%, rgba(185,108,255,1) 100%)"
     },
-    {   
+    {
         "name": "Top 1 Pack",
         "levels": [
             "artificial_ascent",
@@ -1668,7 +1668,7 @@
         ],
         "colour": "radial-gradient(circle, rgba(117,0,0,1) 0%, rgba(0,0,0,1) 40%, rgba(43,39,39,1) 50%, rgba(0,0,0,1) 60%, rgba(117,0,0,1) 100%)"
     },
-    {   
+    {
         "name": "Top 1 Pack II",
         "levels": [
             "bloodlust",
@@ -1679,7 +1679,7 @@
         ],
         "colour": "radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 40%, rgba(0,0,0,1) 50%, rgba(88,2,2,1) 60%, rgba(255,0,0,1) 100%)"
     },
-    {   
+    {
         "name": "Top 1 Pack III",
         "levels": [
             "zodiac",
@@ -1690,7 +1690,7 @@
         ],
         "colour": "radial-gradient(circle, rgba(143,1,1,1) 0%, rgba(205,2,2,1) 50%, rgba(0,0,0,1) 100%)"
     },
-    {   
+    {
         "name": "Threequel Pack",
         "levels": [
             "atomic_cannon_mk_iii",
@@ -1701,7 +1701,7 @@
         ],
         "colour": "linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 30%, rgba(255,255,255,1) 50%, rgba(0,0,0,1) 70%, rgba(255,255,255,1) 100%)"
     },
-    {   
+    {
         "name": "Under Pack",
         "levels": [
             "hidden_in_the_sand",
@@ -1710,7 +1710,7 @@
         ],
         "colour": "linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(255,108,108,1) 100%)"
     },
-    {   
+    {
         "name": "Valentine's Day Pack",
         "levels": [
             "lost_love",
@@ -1771,7 +1771,7 @@
         ],
         "colour": "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpOlcMCK4fFikrDGq492gsbGuOOFfg4tUlsw&s')"
     },
-    {   
+    {
         "name": "Weather Pack",
         "levels": [
             "sunset_sandstorm",
@@ -1780,7 +1780,7 @@
         ],
         "colour": "linear-gradient(90deg, rgba(233,141,7,1) 0%, rgba(0,0,0,1) 50%, rgba(4,175,249,1) 100%)"
     },
-    {   
+    {
         "name": "Weather Trilogy",
         "levels": [
             "arctic_lights",
@@ -1798,7 +1798,7 @@
         ],
         "colour": "radial-gradient(circle, rgba(1,0,251,1) 0%, rgba(0,255,246,1) 100%)"
     },
-    {   
+    {
         "name": "The X Factor",
         "levels": [
             "acropolix",
@@ -1807,7 +1807,7 @@
         ],
         "colour": "linear-gradient(90deg, rgba(156,4,4,1) 0%, rgba(0,0,0,1) 50%, rgba(191,2,255,1) 100%)"
     },
-    {   
+    {
         "name": "XXXL Pack",
         "levels": [
             "cicada3302",
@@ -1818,7 +1818,7 @@
         ],
         "colour": "linear-gradient(300deg, rgba(0,255,100,1) 0%, rgba(182,0,255,1) 100%)"
     },
-    {   
+    {
         "name": "Zoidy Pack",
         "levels": [
             "rtx_on",
@@ -1829,7 +1829,7 @@
         ],
         "colour": "linear-gradient(90deg, rgba(144,255,132,1) 0%, rgba(255,255,255,1) 50%, rgba(144,255,132,1) 100%)"
     },
-    {   
+    {
         "name": "Zoink Pack",
         "levels": [
             "tidal_wave",
@@ -1840,7 +1840,7 @@
         ],
         "colour": "linear-gradient(90deg, rgba(2,242,246,1) 0%, rgba(255,255,255,1) 50%, rgba(2,242,246,1) 100%)"
     },
-    {   
+    {
         "name": "Owner Pack",
         "levels": [
             "power_grid",
@@ -1850,7 +1850,7 @@
         ],
         "colour": "linear-gradient(225deg, rgba(91,244,255,1) 0%, rgba(91,244,255,1) 25%, rgba(4,159,0,1) 50%, rgba(91,244,255,1) 75%, rgba(91,244,255,1) 100%)"
     },
-    {   
+    {
         "name": "List Admin Pack",
         "levels": [
             "deception_dive",
@@ -1860,7 +1860,7 @@
         ],
         "colour": "linear-gradient(225deg, rgba(255,51,51,1) 0%, rgba(255,51,51,1) 100%)"
     },
-    {   
+    {
         "name": "Server Admin Pack",
         "levels": [
             "spectrum_cyclone",
@@ -1868,8 +1868,8 @@
             "anya_iii"
         ],
         "colour": "linear-gradient(225deg, rgba(255,141,141,1) 0%, rgba(255,141,141,1) 100%)"
-    }, 
-    {   
+    },
+    {
         "name": "List Moderator Pack",
         "levels": [
             "misfire",
@@ -1879,8 +1879,8 @@
             "falling_up"
         ],
         "colour": "linear-gradient(225deg, rgba(100,0,236,1) 0%, rgba(100,0,236,1) 100%)"
-    }, 
-    {   
+    },
+    {
         "name": "Server Moderator Pack",
         "levels": [
             "digital_descent",
@@ -1891,8 +1891,8 @@
             "boogie"
         ],
         "colour": "linear-gradient(225deg, rgba(0,149,223,1) 0%, rgba(0,149,223,1) 100%)"
-    }, 
-    {   
+    },
+    {
         "name": "List Helper Pack I",
         "levels": [
             "sunburn",
@@ -1901,8 +1901,8 @@
             "to_the_blue_moon"
         ],
         "colour": "linear-gradient(225deg, rgba(255,252,87,1) 0%, rgba(255,252,87,1) 100%)"
-    }, 
-    {   
+    },
+    {
         "name": "List Helper Pack II",
         "levels": [
             "gewerbix",
@@ -1911,8 +1911,8 @@
             "sunk"
         ],
         "colour": "linear-gradient(225deg, rgba(255,252,87,1) 0%, rgba(255,252,87,1) 100%)"
-    }, 
-    {   
+    },
+    {
         "name": "List Helper Pack III",
         "levels": [
             "hardry",
@@ -1921,8 +1921,8 @@
             "killbot"
         ],
         "colour": "linear-gradient(225deg, rgba(255,252,87,1) 0%, rgba(255,252,87,1) 100%)"
-    }, 
-    {   
+    },
+    {
         "name": "Developer Pack",
         "levels": [
             "crystal",
@@ -1930,8 +1930,8 @@
             "lumina"
         ],
         "colour": "linear-gradient(225deg, rgba(175,26,26,1) 0%, rgba(175,26,26,1) 100%)"
-    }, 
-    {   
+    },
+    {
         "name": "Project Manager Pack",
         "levels": [
             "darkened",

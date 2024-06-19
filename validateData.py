@@ -42,12 +42,48 @@ level_schema = {
     }
 }
 
+pack_tiers_schema = {
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "name": {"type": "string"},
+            "color": {"type": "string"},
+            "packs": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                }
+            }
+        }
+    }
+}
+
+pack_list_schema = {
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "name": {"type": "string"},
+            "colour": {"type": "string"},
+            "packs": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                }
+            }
+        }
+    }
+}
+
 
 def validate_data():
     validator = URLValidator()
     current_dir = os.path.join(os.getcwd(), "data")
     list_path = os.path.join(current_dir, "_list.json")
     legacy_list_path = os.path.join(current_dir, "_legacy.json")
+    pack_list_path = os.path.join(current_dir, "_packlist.json")
+    pack_tiers_path = os.path.join(current_dir, "_packtiers.json")
     had_error = False
     with open(list_path, "r", encoding='utf-8') as file:
         try:
@@ -70,6 +106,28 @@ def validate_data():
             sys.exit(1)
         except exceptions.ValidationError as e:
             print(f"Validation failed for _legacy.json: {str(e)}")
+            sys.exit(1)
+
+    with open(pack_list_path, "r", encoding='utf-8') as file:
+        try:
+            packs = json.load(file)
+            validate(instance=packs, schema=pack_list_schema)
+        except ValueError as e:
+            print(f"Invalid json in file _packlist.json: {str(e)}")
+            sys.exit(1)
+        except exceptions.ValidationError as e:
+            print(f"Validation failed for _packlist.json: {str(e)}")
+            sys.exit(1)
+            
+    with open(pack_tiers_path, "r", encoding='utf-8') as file:
+        try:
+            pack_tiers = json.load(file)
+            validate(instance=pack_tiers, schema=pack_list_schema)
+        except ValueError as e:
+            print(f"Invalid json in file _packtiers.json: {str(e)}")
+            sys.exit(1)
+        except exceptions.ValidationError as e:
+            print(f"Validation failed for _packtiers.json: {str(e)}")
             sys.exit(1)
 
     for filename in levels:
@@ -110,7 +168,7 @@ def validate_data():
                     except ValidationError:
                         had_error = True
                         print(f"Invalid Url: {filename} {name}: {url}")
-                
+
                 if "" in names:
                     had_error = True
                     print(f"Empty username in {filename}")
@@ -128,7 +186,36 @@ def validate_data():
         except FileNotFoundError:
             had_error = True
             print(f"Missing file {filename}")
-
+            
+    pack_names = []    
+    for pack in packs:
+        if pack["name"] in pack_names:
+            had_error = True
+            print(f"Duplicate pack name: \"{pack['name']}\"")
+            continue
+            
+        pack_names.append(pack["name"])
+        for level in pack["levels"]:
+            if level not in levels:
+                had_error = True
+                print(f"Unkown level {level} in Pack \"{pack['name']}\"")
+                
+    pack_names_used = []
+    for tier in pack_tiers:
+        for pack in tier["packs"]:
+            if pack not in pack_names:
+                had_error = True
+                print(f"Unkown pack \"{pack}\" in pack-tier \"{tier['name']}\"")
+            if pack in pack_names_used:
+                had_error = True
+                print(f"Pack \"{pack}\" was already used in another pack-tier than \"{tier['name']}\"")
+            pack_names_used.append(pack)
+            
+    pack_names_unused = list(set(pack_names) - set(pack_names_used))
+    for pack in pack_names_unused:
+        had_error = True
+        print(f"Pack \"{pack}\" is not assigned to a tier")
+                
     if had_error:
         sys.exit(1)
 
