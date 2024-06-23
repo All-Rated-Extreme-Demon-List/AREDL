@@ -1,10 +1,35 @@
 {
-    "id": 80529928,
-    "name": "Insane Techniques",
-    "author": "Exorsus12",
-    "creators": ["Azuler", "Limogema", "Hail", "Benja", "Simon", "Nainteils", "Zeithex", "Rexter", "BlueLite", "MatoSwag", "Superioxx", "Snikz", "Aniiuu", "Gryllex", "Sekya", "Rezy", "EVILSEPH"],
-    "verifier": "SrGuillester",
-    "verification": "https://youtu.be/sWeruKgwDwc",
-    "percentToQualify": 100,
-    "records": []
+	"id": 80529928,
+	"name": "Insane Techniques",
+	"author": "Exorsus12",
+	"creators": [
+		"Azuler",
+		"Limogema",
+		"Hail",
+		"Benja",
+		"Simon",
+		"Nainteils",
+		"Zeithex",
+		"Rexter",
+		"BlueLite",
+		"MatoSwag",
+		"Superioxx",
+		"Snikz",
+		"Aniiuu",
+		"Gryllex",
+		"Sekya",
+		"Rezy",
+		"EVILSEPH"
+	],
+	"verifier": "SrGuillester",
+	"verification": "https://youtu.be/sWeruKgwDwc",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "dasher9905",
+			"link": "https://youtu.be/wKWt3AxoICw?si=DUus6kzDY4tRt-pG",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
