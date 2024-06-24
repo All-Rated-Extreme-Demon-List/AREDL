@@ -1,10 +1,17 @@
 {
-    "id": 94120931,
-    "name": "Dust Bowl",
-    "author": "GDikonic",
-    "creators": [],
-    "verifier": "ProudGiraffe311",
-    "verification": "https://youtu.be/EXuxHOAAVrI",
-    "percentToQualify": 100,
-    "records": []
+	"id": 94120931,
+	"name": "Dust Bowl",
+	"author": "GDikonic",
+	"creators": [],
+	"verifier": "ProudGiraffe311",
+	"verification": "https://youtu.be/EXuxHOAAVrI",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Cookie",
+			"link": "https://www.youtube.com/watch?v=Bf6SBagklxo&t=7s",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
