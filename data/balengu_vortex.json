@@ -479,6 +479,13 @@
 			"link": "https://www.twitch.tv/videos/2142257919?filter=all&sort=time",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "DashY",
+			"link": "https://youtu.be/0y12vXiMv0Q?si=LeGVMIumChAZaNak",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
