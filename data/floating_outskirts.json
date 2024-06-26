@@ -1,10 +1,17 @@
 {
-    "id": 95435650,
-    "name": "Floating Outskirts",
-    "author": "YoReid",
-    "creators": [],
-    "verifier": "YoReid",
-    "verification": "https://youtu.be/Jb8zIqROu_w?si=6uDcK4l3RrZK3Tg0",
-    "percentToQualify": 100,
-    "records": []
+	"id": 95435650,
+	"name": "Floating Outskirts",
+	"author": "YoReid",
+	"creators": [],
+	"verifier": "YoReid",
+	"verification": "https://youtu.be/Jb8zIqROu_w?si=6uDcK4l3RrZK3Tg0",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "[BUDDY] APD9",
+			"link": "https://www.youtube.com/watch?v=_BuCm1wUOoc&ab_channel=APD9",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
