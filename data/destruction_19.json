@@ -1,10 +1,17 @@
 {
-    "id": 99495619,
-    "name": "Destruction 19",
-    "author": "bosjoker",
-    "creators": [],
-    "verifier": "razsta4ax",
-    "verification": "https://youtu.be/UUyzGg_4mqs?si=LDMjIy0cZkSJrb1C",
-    "percentToQualify": 100,
-    "records": []
+	"id": 99495619,
+	"name": "Destruction 19",
+	"author": "bosjoker",
+	"creators": [],
+	"verifier": "razsta4ax",
+	"verification": "https://youtu.be/UUyzGg_4mqs?si=LDMjIy0cZkSJrb1C",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Vikings",
+			"link": "https://youtu.be/au62NiMz0w4?si=bgJH2r4Ee_uFjDzl",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
