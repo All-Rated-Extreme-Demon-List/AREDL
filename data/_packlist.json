@@ -1233,7 +1233,7 @@
             "worstbrainmap",
             "connect",
             "nhelv",
-            "jupiter_my_favorite"
+            "jupiter_my_favourite"
         ],
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 0%, rgba(0,255,3,1) 100%)"
     },
@@ -1993,17 +1993,6 @@
             "dark_odyssey"
         ],
         "colour": "linear-gradient(300deg, rgba(0,255,100,1) 0%, rgba(182,0,255,1) 100%)"
-    },
-    {
-        "name": "Zoidy Pack",
-        "levels": [
-            "rtx_on",
-            "trollmachine",
-            "heart_attack",
-            "dumbest_girl_alive",
-            "cat_planet"
-        ],
-        "colour": "linear-gradient(90deg, rgba(144,255,132,1) 0%, rgba(255,255,255,1) 50%, rgba(144,255,132,1) 100%)"
     },
     {
         "name": "Zoink Pack",
