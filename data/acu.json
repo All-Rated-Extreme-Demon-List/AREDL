@@ -8802,9 +8802,15 @@
 			"hz": 360,
 			"mobile": true
 		},
-        {
+		{
 			"user": "LJoakoo",
 			"link": "https://www.youtube.com/watch?v=ccrfSmljdBU&t=10s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "neqron",
+			"link": "https://www.youtube.com/watch?v=zC0T6n3zZ7w&ab_channel=neqron",
 			"percent": 100,
 			"hz": 360
 		}
