@@ -2,10 +2,42 @@
 	"id": 106522770,
 	"name": "Dry Out Copyable 2",
 	"author": "tenzk",
-	"creators": ["robtobfreak"," parascleo"," shakenworm"," GreenCuber"," tenzk"," zoj"," Rathbuc"," mestupidgd"," yubimusic"," MoistyJc"," Sean124"," Dant876"," JoshTheB"," TREnderGaming1"," Desenkton"," lundshurk"," Drakosa"," jifya"," TropoGD"," Tilx"," rawtire"," notParollac","TheZinkYT", "RobTop"],
+	"creators": [
+		"robtobfreak",
+		" parascleo",
+		" shakenworm",
+		" GreenCuber",
+		" tenzk",
+		" zoj",
+		" Rathbuc",
+		" mestupidgd",
+		" yubimusic",
+		" MoistyJc",
+		" Sean124",
+		" Dant876",
+		" JoshTheB",
+		" TREnderGaming1",
+		" Desenkton",
+		" lundshurk",
+		" Drakosa",
+		" jifya",
+		" TropoGD",
+		" Tilx",
+		" rawtire",
+		" notParollac",
+		"TheZinkYT",
+		"RobTop"
+	],
 	"verifier": "s3batr0nic",
 	"verification": "https://youtu.be/FXW9J9CaREU?si=wPdVMia8vzDX9vhP",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "CookieIsMine",
+			"link": "https://youtu.be/yYRcpK9A4pg?si=8CxjFH6vThE85t7s",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
