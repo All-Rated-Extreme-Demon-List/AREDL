@@ -1,10 +1,17 @@
 {
-"id": 95089240,
-"name": "CONNECT",
-"author": "MCres",
-"creators": [],
-"verifier": "mac",
-"verification": "https://youtu.be/oo_PqnEHZvo?si=OUTGtS93m-9lzbY4",
-"percentToQualify": 100,
-"records": []
+	"id": 95089240,
+	"name": "CONNECT",
+	"author": "MCres",
+	"creators": [],
+	"verifier": "mac",
+	"verification": "https://youtu.be/oo_PqnEHZvo?si=OUTGtS93m-9lzbY4",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "BrowarKedawar",
+			"link": "https://www.youtube.com/watch?v=rv_ridIt5kY&t=1s&ab_channel=BrowarKedawar",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
