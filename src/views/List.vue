@@ -48,7 +48,7 @@ const mobile_list_expanded = ref(true)
             - The record has been achieved without using a secret way or a bugged route
           </p>
           <p>
-            - Cheat Indicator is required if you are using a mod menu that supports one, like Megahack v8.
+            - Cheat Indicator on Endscreen is required if you are using a mod menu that supports one, like Megahack v8.
           </p>
           <p>
             - End stats (The whole box must appear for at least one frame)
