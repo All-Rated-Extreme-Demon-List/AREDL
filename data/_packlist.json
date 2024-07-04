@@ -327,7 +327,7 @@
     {
         "name": "BoldStep Pack",
         "levels": [
-            "erebus_rustam",
+            "erebus_boldstep",
             "killbot",
             "glowy"
         ],
@@ -1622,7 +1622,7 @@
         "name": "RGB Pack",
         "levels": [
             "yatagarasu",
-            "erebus_rustam",
+            "erebus_boldstep",
             "sonic_wave"
         ],
         "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,136,0,1) 15%, rgba(245,255,0,1) 30%, rgba(0,255,12,1) 45%, rgba(0,255,243,1) 60%, rgba(16,0,255,1) 75%, rgba(255,0,241,1) 90%)"
