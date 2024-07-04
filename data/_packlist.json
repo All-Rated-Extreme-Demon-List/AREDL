@@ -93,6 +93,72 @@
         "colour": "linear-gradient(135deg, rgba(164,164,164,1) 0%, rgba(210,98,255,1) 100%)"
     },
     {
+        "name": "20 Letter Pack I",
+        "levels": [
+            "wacky_mcwhackface_v2",
+            "cerebral_hemorrhage",
+            "ZOOOOOOOOOOOOOOOOOOM",
+            "miscellaneous_memory",
+            "unknown_civilization"
+        ],
+        "colour": "linear-gradient(29deg, rgba(169,59,255,1) 25%, rgba(36,201,165,1) 75%)"
+    },
+    {
+        "name": "20 Letter Pack II",
+        "levels": [
+            "future_demon_machine",
+            "welcome_to_your_mind",
+            "inflammable_infusion",
+            "hopping_over_puddles",
+            "sorryforpartyrocking"
+        ],
+        "colour": "linear-gradient(90deg, rgba(169,59,255,1) 25%, rgba(36,201,165,1) 75%);"
+    },
+    {
+        "name": "20 Letter Pack III",
+        "levels": [
+            "twilight_coexistence",
+            "le_midd_mapperoonies",
+            "maelvolent_maelstrom",
+            "complementary_cruise",
+            "maybe_possibly_thing"
+        ],
+        "colour": "linear-gradient(146deg, rgba(169,59,255,1) 25%, rgba(36,201,165,1) 75%)"
+    },
+    {
+        "name": "20 Letter Pack IV",
+        "levels": [
+            "ouroboros_startpos_2",
+            "bbbbbbbbbbbbbbbbbbbb",
+            "my_worst_demon_level",
+            "coolie_mazie_paloozi",
+            "xuser_morelike_luser"
+        ],
+        "colour": "linear-gradient(207deg, rgba(169,59,255,1) 25%, rgba(36,201,165,1) 75%)"
+    },
+    {
+        "name": "20 Letter Pack V",
+        "levels": [
+            "excruciation_chamber",
+            "random_access_memory",
+            "dance_of_the_violins",
+            "dimensional_breaking",
+            "super_probably_level"
+        ],
+        "colour": "linear-gradient(329deg, rgba(169,59,255,1) 25%, rgba(36,201,165,1) 75%)"
+    },
+    {
+        "name": "20 Letter Pack VI",
+        "levels": [
+            "atomic_cannon_mk_iii",
+            "the_paroxysm_of_rage",
+            "jupiter_my_favourite",
+            "the_art_of_the_blade",
+            "barbarosfinalefinale"
+        ],
+        "colour": "linear-gradient(90deg, rgba(169,59,255,1) 12%, rgba(36,201,165,1) 25%, rgba(169,59,255,1) 50%, rgba(36,201,165,1) 75%, rgba(169,59,255,1) 100%)"
+    },
+    {
         "name": "????? Pack",
         "levels": [
             "kjdf8314jlfssf",
