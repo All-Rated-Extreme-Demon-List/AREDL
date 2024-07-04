@@ -100,6 +100,13 @@ def validate_data():
         try:
             legacy = json.load(file)
             validate(instance=legacy, schema=level_list_schema)
+            
+            level_conflicts = list(set(levels) & set(legacy))
+            
+            for level in level_conflicts:
+                print(f"Level {level} is both in legacy and main list!")
+                had_error = True
+            
             levels.extend(legacy)
         except ValueError as e:
             print(f"Invalid json in file _legacy.json: {str(e)}")
@@ -130,6 +137,7 @@ def validate_data():
             print(f"Validation failed for _packtiers.json: {str(e)}")
             sys.exit(1)
 
+    level_ids = {}
     for filename in levels:
         file_path = os.path.join(current_dir, f"{filename}.json")
         try:
@@ -145,6 +153,17 @@ def validate_data():
                     print(f"Validation failed for {filename}: {str(e)}")
                     had_error = True
                     continue
+                    
+                level_id = str(data["id"])
+                
+                if filename.endswith("2p"):
+                    level_id += "2p"
+                    
+                if level_id in level_ids:
+                    print(f"Duplicate gd level id in file {filename} with previous file {level_ids[level_id]}")
+                    had_error = True
+                    
+                level_ids[level_id] = filename
 
                 records = data["records"]
                 names = [data["verifier"].lower()]
