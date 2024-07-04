@@ -325,6 +325,15 @@
         "colour": "linear-gradient(135deg, rgba(14,62,197,1) 0%, rgba(36,169,189,1) 50%, rgba(14,62,197,1) 100%)"
     },
     {
+        "name": "BoldStep Pack",
+        "levels": [
+            "erebus",
+            "killbot",
+            "glowy"
+        ],
+        "colour": "linear-gradient(90deg, rgba(167,0,255,1) 0%, rgba(255,255,255,1) 50%, rgba(167,0,255,1) 100%)"
+    },
+    {
         "name": "Breakup Pack",
         "levels": [
             "wow",
@@ -376,7 +385,7 @@
         "colour": "linear-gradient(135deg, rgba(0,0,0,1) 0%, rgba(167,94,0,1) 50%, rgba(0,0,0,1) 100%)"
     },
     {
-        "name": "ConTrilogy",
+        "name": "ConGlomeration",
         "levels": [
             "controller",
             "confusion",
@@ -521,6 +530,15 @@
             "belloq"
         ],
         "colour": "linear-gradient(137deg, rgba(255,147,0,1) 0%, rgba(255,203,132,1) 100%)"
+    },
+    {
+        "name": "Deutsches Paket",
+        "levels": [
+            "falsch",
+            "edelweiss",
+            "netzwerk"
+        ],
+        "colour": "linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 50%, rgba(255,222,0,1) 100%)"
     },
     {
         "name": "Disco Pack",
@@ -1247,6 +1265,17 @@
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 0%, rgba(0,255,3,1) 100%)"
     },
     {
+        "name": "Minecraft Pack",
+        "levels": [
+            "speedrun",
+            "game_over",
+            "sodium",
+            "totem",
+            "any_percent"
+        ],
+        "colour": "url('https://upload.wikimedia.org/wikipedia/en/5/5f/Minecraft_%E2%80%93_Volume_Alpha.jpeg')"
+    },
+    {
         "name": "Miserable Pack (EDEL)",
         "levels": [
             "reeses_potentially",
@@ -1284,28 +1313,6 @@
             "beyond_the_summit"
         ],
         "colour": "linear-gradient(41deg, rgba(124,224,255,1) 0%, rgba(156,176,215,1) 50%, rgba(0,16,255,1) 100%)"
-    },
-    {
-        "name": "Name Pack I",
-        "levels": [
-            "thecinnybun",
-            "vaenstep",
-            "ziroikapi",
-            "i_hate_renn",
-            "cersia_difficult"
-        ],
-        "colour": "linear-gradient(135deg, rgba(255,74,91,1) 0%, rgba(164,0,255,1) 50%, rgba(66,0,255,1) 100%)"
-    },
-    {
-        "name": "Name Pack II",
-        "levels": [
-            "sary_never_clear",
-            "awedsy",
-            "th3dev0n",
-            "sink",
-            "cersia_madness"
-        ],
-        "colour": "linear-gradient(135deg, rgba(255,74,91,1) 0%, rgba(164,0,255,1) 50%, rgba(66,0,255,1) 100%)"
     },
     {
         "name": "Natural Disaster Trilogy",
@@ -1412,6 +1419,17 @@
         "colour": "linear-gradient(90deg, rgba(143,0,247,1) 0%, rgba(255,159,254,1) 46%, rgba(255,0,179,1) 100%)"
     },
     {
+        "name": "nSwish Pack",
+        "levels": [
+            "the_golden",
+            "cognition",
+            "kappa",
+            "eternal_moment",
+            "rage"
+        ],
+        "colour": "linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(167,0,255,1) 50%, rgba(255,255,255,1) 100%)"
+    },
+    {
         "name": "Nuclear Trilogy",
         "levels": [
             "atomic_cannon",
@@ -1419,6 +1437,15 @@
             "atomic_cannon_mk_iii"
         ],
         "colour": "linear-gradient(90deg, rgba(255,255,77,1) 0%, rgba(0,0,0,1) 25%, rgba(255,255,77,1) 37%, rgba(0,0,0,1) 50%, rgba(255,255,77,1) 62%, rgba(0,0,0,1) 75%, rgba(255,255,77,1) 100%)"
+    },
+    {
+        "name": "Olympic Games Pack",
+        "levels": [
+            "promethean",
+            "solarion",
+            "masochism"
+        ],
+        "colour": "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZIS7gOaVVsvZwH88mfiZKfl0SJFkNQ9DBw&s')"
     },
     {
         "name": "Oppenheimer Pack",
@@ -1499,6 +1526,48 @@
             "another_phase"
         ],
         "colour": "linear-gradient(145deg, rgba(159,0,114,1) 0%, rgba(255,210,240,1) 100%)"
+    },
+    {
+        "name": "Player Names Pack I",
+        "levels": [
+            "i_hate_renn",
+            "helix",
+            "frozen",
+            "aurora",
+            "apex"
+        ],
+        "colour": "linear-gradient(114deg, rgba(255,145,145,1) 0%, rgba(255,238,125,1) 100%)"
+    },
+    {
+        "name": "Player Names Pack II",
+        "levels": [
+            "thecinnybun",
+            "vaenstep",
+            "solarion",
+            "xuser_morelike_luser"
+        ],
+        "colour": "linear-gradient(114deg, rgba(255,238,125,1) 0%, rgba(255,145,145,1) 100%)"
+    },
+    {
+        "name": "Player Names Pack III",
+        "levels": [
+            "sink",
+            "cersia_madness",
+            "fusiondynamix",
+            "rosedynamix",
+            "ddiamond"
+        ],
+        "colour": "radial-gradient(circle, rgba(255,117,117,1) 0%, rgba(255,239,132,1) 100%)"
+    },
+    {
+        "name": "Player Names Pack IV",
+        "levels": [
+            "sary_never_clear",
+            "atomic_cannon",
+            "awedsy",
+            "th3dev0n"
+        ],
+        "colour": "radial-gradient(circle, rgba(255,117,117,1) 0%, rgba(255,239,132,1) 100%)"
     },
     {
         "name": "Polish Junk Pack",
@@ -1605,6 +1674,15 @@
         "colour": "linear-gradient(45deg, rgba(197,43,255,1) 0%, rgba(35,222,255,1) 100%)"
     },
     {
+        "name": "Road Pack",
+        "levels": [
+            "psychopath",
+            "tartarus",
+            "terminal_rampancy"
+        ],
+        "colour": "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHEgz2eytjY5Dc8Xhmqca6bDBsLaPxTbS7Jg&s')"
+    },
+    {
         "name": "Sequel Pack",
         "levels": [
             "atomic_cannon_mk_ii",
@@ -1614,6 +1692,16 @@
             "to_the_stars_ii"
         ],
         "colour": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(255,255,255,1) 30%, rgba(0,0,0,1) 50%, rgba(255,255,255,1) 70%, rgba(0,0,0,1) 100%)"
+    },
+    {
+        "name": "Slithium Pack",
+        "levels": [
+            "avernus",
+            "slaughterhouse",
+            "combustion",
+            "sonic_wave_infinity"
+        ],
+        "colour": "linear-gradient(90deg, rgba(255,149,0,1) 0%, rgba(0,168,255,1) 50%, rgba(255,149,0,1) 100%)"
     },
     {
         "name": "Slow Pack I",
@@ -1748,6 +1836,15 @@
         "colour": "linear-gradient(41deg, rgba(204,204,204,1) 0%, rgba(58,28,240,1) 100%)"
     },
     {
+        "name": "Sunix Pack",
+        "levels": [
+            "sonic_wave",
+            "devil_vortex",
+            "cadrega_city"
+        ],
+        "colour": "radial-gradient(circle, rgba(0,27,131,1) 0%, rgba(0,168,255,1) 50%, rgba(0,27,131,1) 100%)"
+    },
+    {
         "name": "Super Pack",
         "levels": [
             "superhatemeworld",
@@ -1803,6 +1900,17 @@
             "beeline_2p"
         ],
         "colour": "linear-gradient(125deg, rgba(188,139,255,1) 0%, rgba(253,131,255,1) 100%)"
+    },
+    {
+        "name": "Technical Pack",
+        "levels": [
+            "zodiac",
+            "ragnarok",
+            "ouroboros",
+            "shock_breaker",
+            "bang_gang_solo"
+        ],
+        "colour": "linear-gradient(90deg, rgba(0,233,7,1) 0%, rgba(167,0,255,1) 50%, rgba(0,233,7,1) 100%)"
     },
     {
         "name": "Tech Series",
@@ -1876,6 +1984,26 @@
             "memories_iii"
         ],
         "colour": "linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 30%, rgba(255,255,255,1) 50%, rgba(0,0,0,1) 70%, rgba(255,255,255,1) 100%)"
+    },
+    {
+        "name": "Transportation Pack I",
+        "levels": [
+            "macabre",
+            "speedrun",
+            "carcano",
+            "microsoft_drivethru"
+        ],
+        "colour": "linear-gradient(31deg, rgba(101,101,101,1) 0%, rgba(0,198,255,1) 50%, rgba(101,101,101,1) 100%)"
+    },
+    {
+        "name": "Transportation Pack II",
+        "levels": [
+            "combustion",
+            "crimson_planet",
+            "renevant",
+            "directions"
+        ],
+        "colour": "linear-gradient(31deg, rgba(101,101,101,1) 0%, rgba(0,198,255,1) 50%, rgba(101,101,101,1) 100%)"
     },
     {
         "name": "Under Pack",
@@ -1964,6 +2092,16 @@
             "aerial_gleam"
         ],
         "colour": "linear-gradient(90deg, rgba(203,222,240,1) 0%, rgba(4,110,143,1) 50%, rgba(203,222,240,1) 100%)"
+    },
+    {
+        "name": "Woodlands Pack",
+        "levels": [
+            "the_old_trail",
+            "wild_rose",
+            "thorny_path",
+            "cave_of_heart"
+        ],
+        "colour": "linear-gradient(133deg, rgba(115,79,40,1) 0%, rgba(0,155,23,1) 50%, rgba(115,79,40,1) 100%)"
     },
     {
         "name": "The World Wide Web",
