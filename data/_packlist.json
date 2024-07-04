@@ -2246,5 +2246,15 @@
             "idols"
         ],
         "colour": "linear-gradient(225deg, rgba(97,0,150,1) 0%, rgba(97,0,150,1) 100%)"
+    },
+    {
+        "name": "Pack.",
+        "levels": [
+            "tidal_wave",
+            "terror_core",
+            "miscellaneous_memory",
+            "cytokinesis"
+        ],
+        "colour": "radial-gradient(circle, rgba(245,255,0,1) 0%, rgba(231,71,71,1) 10%, rgba(211,119,193,1) 20%, rgba(166,198,83,1) 30%, rgba(20,92,3,1) 40%, rgba(70,44,1,1) 50%, rgba(255,255,255,1) 60%, rgba(101,0,85,1) 70%, rgba(18,255,0,1) 80%, rgba(68,69,0,1) 90%, rgba(219,255,0,1) 100%)"
     }
 ]
