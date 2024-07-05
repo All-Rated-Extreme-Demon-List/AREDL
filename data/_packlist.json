@@ -2216,7 +2216,7 @@
             "audio_expulsion",
             "headlock"
         ],
-        "colour": "url('https://imgur.com/a/rIcG1ed')"
+        "colour": "linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(0,0,255,1) 100%)"
     },
     {
         "name": "Megu Pack",
@@ -2225,7 +2225,7 @@
             "surge_of_the_shield",
             "shukufuku"
         ],
-        "colour": "url('https://imgur.com/a/0NyXKq0')"
+        "colour": "linear-gradient(45deg, rgba(252,181,255,1) 0%, rgba(160,255,255,1) 100%)"
     },
     {
         "name": "SEDTHEPRODIGY Pack",
@@ -2234,7 +2234,7 @@
             "allegiance",
             "la_llorona"
         ],
-        "colour": "url('https://imgur.com/a/ccPUFkP')"
+        "colour": "linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,125,255,1) 100%)"
     },
     {
         "name": "Minebox260 Pack",
@@ -2243,7 +2243,7 @@
             "athanatos",
             "retention"
         ],
-        "colour": "url('https://imgur.com/a/KioBIAT')"
+        "colour": "radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(0,255,255,1) 25%, rgba(255,255,255,1) 50%, rgba(0,255,255,1) 75%, rgba(255,255,255,1) 100%)"
     },
     {
         "name": "List Admin Pack",
