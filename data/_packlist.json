@@ -2210,14 +2210,40 @@
         "colour": "linear-gradient(90deg, rgba(2,242,246,1) 0%, rgba(255,255,255,1) 50%, rgba(2,242,246,1) 100%)"
     },
     {
-        "name": "Owner Pack",
+        "name": "iiLogan Pack",
         "levels": [
-            "power_grid",
-            "supercharged",
-            "athanatos",
-            "black_blizzard"
+            "fog",
+            "audio_expulsion",
+            "headlock"
         ],
-        "colour": "linear-gradient(225deg, rgba(91,244,255,1) 0%, rgba(91,244,255,1) 25%, rgba(4,159,0,1) 50%, rgba(91,244,255,1) 75%, rgba(91,244,255,1) 100%)"
+        "colour": "url('https://imgur.com/a/rIcG1ed')"
+    },
+    {
+        "name": "Megu Pack",
+        "levels": [
+            "digital_disarray",
+            "surge_of_the_shield",
+            "shukufuku"
+        ],
+        "colour": "url('https://imgur.com/a/0NyXKq0')"
+    },
+    {
+        "name": "SEDTHEPRODIGY Pack",
+        "levels": [
+            "insaction",
+            "allegiance",
+            "la_llorona"
+        ],
+        "colour": "url('https://imgur.com/a/ccPUFkP')"
+    },
+    {
+        "name": "Minebox260 Pack",
+        "levels": [
+            "static_ignition",
+            "athanatos",
+            "retention"
+        ],
+        "colour": "url('https://imgur.com/a/KioBIAT')"
     },
     {
         "name": "List Admin Pack",
