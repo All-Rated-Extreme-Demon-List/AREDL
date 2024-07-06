@@ -1,7 +1,12 @@
 {
 	"id": 85670310,
 	"name": "Horros (2P)",
-    "tags": ["2.1", "Long", "Duals", "Two Player"],
+	"tags": [
+		"2.1",
+		"Long",
+		"Duals",
+		"Two Player"
+	],
 	"author": "Shrc",
 	"creators": [],
 	"verifier": "Shrc",
@@ -29,6 +34,12 @@
 		{
 			"user": "HotNooB",
 			"link": "https://youtu.be/Z-yHgqgm1xs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "mcdogesterr",
+			"link": "https://medal.tv/games/geometry-dash/clips/idkJqm3LIopUNOzQG/d1337XtVnEuH?invite=cr-MSxlaGUsMTc1MTg4OTQs",
 			"percent": 100,
 			"hz": 360
 		}
