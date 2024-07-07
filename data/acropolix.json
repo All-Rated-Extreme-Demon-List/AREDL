@@ -1,7 +1,7 @@
 {
 	"id": 19300593,
 	"name": "AcropoliX",
-	"tags":[
+	"tags": [
 		"2.0",
 		"Long",
 		"Timings",
@@ -738,6 +738,12 @@
 		{
 			"user": "Bribo",
 			"link": "https://youtu.be/Wg5uDrxQQWo?si=ycU7eCoIU57ECe4T",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "kevinITA",
+			"link": "https://youtu.be/VrUXemFrtGI?si=KDeHETcQ1CALaM4y",
 			"percent": 100,
 			"hz": 360
 		}
