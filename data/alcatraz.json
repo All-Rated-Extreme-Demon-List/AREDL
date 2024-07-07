@@ -1,7 +1,7 @@
 {
 	"id": 57208977,
 	"name": "Alcatraz",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -546,6 +546,12 @@
 		{
 			"user": "Sinon",
 			"link": "https://www.youtube.com/watch?v=3F3F4KmwB3E",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "nish",
+			"link": "https://www.youtube.com/watch?v=L9-ie8R6Cno",
 			"percent": 100,
 			"hz": 360
 		}
