@@ -1,7 +1,7 @@
 {
 	"id": 52919433,
 	"name": "Arctic Lights",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Circles",
@@ -743,6 +743,12 @@
 		{
 			"user": "Glungus",
 			"link": "https://www.youtube.com/watch?v=o602Efy17-w",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ZakScotGames",
+			"link": "https://www.youtube.com/watch?v=m4VzH08rJMM",
 			"percent": 100,
 			"hz": 360
 		}
