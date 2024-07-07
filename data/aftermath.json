@@ -1,7 +1,7 @@
 {
 	"id": 25610878,
 	"name": "aftermath",
-	"tags":[
+	"tags": [
 		"2.0",
 		"Long",
 		"Fast-Paced",
@@ -2666,6 +2666,12 @@
 		{
 			"user": "FiNiTe",
 			"link": "https://www.youtube.com/watch?v=wsySTPsTACM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "PiotrekLXIX",
+			"link": "https://youtu.be/BbJ1l3sY4ls?si=1BFNNGXcPb5ihDyd&t=62",
 			"percent": 100,
 			"hz": 360
 		}
