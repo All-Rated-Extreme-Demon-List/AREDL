@@ -1,7 +1,7 @@
 {
 	"id": 62214792,
 	"name": "Azurite (Sillow)",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -2871,6 +2871,12 @@
 		{
 			"user": "Enders",
 			"link": "https://www.youtube.com/watch?v=QnKyzuQH1DE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DuperDerpyDragon",
+			"link": "https://youtu.be/Zr_5TNcJ3VU",
 			"percent": 100,
 			"hz": 360
 		}
