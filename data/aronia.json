@@ -1,7 +1,7 @@
 {
 	"id": 60564010,
 	"name": "Aronia",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -185,6 +185,13 @@
 			"link": "https://youtu.be/4RF_HnecGSY?si=5CDe7dWdRkVW3JpT",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "Coheton",
+			"link": "https://youtu.be/Yhe0jBiFhzs?si=ei8RN5D61CQ8xfMp",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
