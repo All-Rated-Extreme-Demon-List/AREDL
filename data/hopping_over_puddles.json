@@ -234,6 +234,19 @@
 			"link": "https://www.youtube.com/watch?v=V0N_la8--w4",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "Seb",
+			"link": "https://youtu.be/UJM4TdFROX0?si=8zIBRbclSI7appBk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Sanctum",
+			"link": "https://youtu.be/EYqSYW1ZCXA?si=WgXqn4Nh8U1b_qQ5",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
