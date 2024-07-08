@@ -1,7 +1,7 @@
 {
 	"id": 95675702,
 	"name": "Amalgam",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Clicksync",
@@ -86,6 +86,12 @@
 		{
 			"user": "Cookie",
 			"link": "https://www.youtube.com/watch?v=UBkJdIFfSPY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "kevinITA",
+			"link": "https://youtu.be/39TAzRB3EIQ?si=KyMJC7SauaxocJ2w",
 			"percent": 100,
 			"hz": 360
 		}
