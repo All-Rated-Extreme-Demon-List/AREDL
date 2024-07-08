@@ -1,7 +1,7 @@
 {
 	"id": 48679353,
 	"name": "Audio Expulsion",
-	"tags":[
+	"tags": [
 		"2.1",
 		"XL",
 		"Fast-Paced",
@@ -209,6 +209,12 @@
 		{
 			"user": "Vikings",
 			"link": "https://www.youtube.com/watch?v=Jf5U1M4BjMg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Andre89",
+			"link": "https://youtu.be/KShYHQU69QU?si=ndeeBioBm9GEN8q2",
 			"percent": 100,
 			"hz": 360
 		}

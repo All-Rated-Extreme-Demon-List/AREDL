@@ -1,7 +1,7 @@
 {
 	"id": 27908448,
 	"name": "Artificial Ideology",
-	"tags":[
+	"tags": [
 		"2.0",
 		"Long",
 		"Fast-Paced",
@@ -261,6 +261,12 @@
 		{
 			"user": "Hubertos",
 			"link": "https://youtu.be/PW5fiiyBc-k",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Aiden",
+			"link": "https://www.youtube.com/watch?v=g6FR7RGSMXw&ab_channel=AlmoAiden",
 			"percent": 100,
 			"hz": 360
 		}
