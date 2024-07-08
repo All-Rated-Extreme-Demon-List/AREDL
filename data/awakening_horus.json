@@ -1,7 +1,7 @@
 {
 	"id": 39458641,
 	"name": "Awakening Horus",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -993,6 +993,12 @@
 		{
 			"user": "Shuriken",
 			"link": "https://www.youtube.com/watch?v=C0W9l1UPlrE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Wolly Cay",
+			"link": "https://youtu.be/6a4bkQ6tagQ?si=0LURZqLbPuIYx406",
 			"percent": 100,
 			"hz": 360
 		}
