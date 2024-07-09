@@ -1,7 +1,7 @@
 {
 	"id": 77681476,
 	"name": "ATOMIC CANNON",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Clicksync",
@@ -330,6 +330,12 @@
 		{
 			"user": "Oblivionus",
 			"link": "https://youtu.be/SXU_2mrEOzM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Zephronox",
+			"link": "https://youtu.be/V87sbhw7Hcs?si=eIhC4y608MzoPqlK",
 			"percent": 100,
 			"hz": 360
 		}
