@@ -1,7 +1,7 @@
 {
 	"id": 87033090,
 	"name": "Artificial Climb",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -143,6 +143,12 @@
 		{
 			"user": "asdsdvb",
 			"link": "https://www.youtube.com/watch?v=c9xqyYp7n7I",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Hubertos",
+			"link": "https://youtu.be/J2gT7Lvuf4o",
 			"percent": 100,
 			"hz": 360
 		}
