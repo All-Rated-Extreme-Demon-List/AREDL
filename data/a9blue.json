@@ -1,7 +1,7 @@
 {
 	"id": 95061038,
 	"name": "9blue",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Clicksync",
@@ -333,6 +333,12 @@
 		{
 			"user": "freehamburger",
 			"link": "https://youtu.be/Ugn1Y0icXq4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "asdsdvb",
+			"link": "https://www.youtube.com/watch?v=1u0hDHnLOhc",
 			"percent": 100,
 			"hz": 360
 		}

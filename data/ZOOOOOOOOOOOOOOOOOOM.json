@@ -1,7 +1,13 @@
 {
 	"id": 95228237,
 	"name": "ZOOOOOOOOOOOOOOOOOOM",
-    "tags": ["2.1", "Long", "Fast-Paced", "Flow", "Overall"],
+	"tags": [
+		"2.1",
+		"Long",
+		"Fast-Paced",
+		"Flow",
+		"Overall"
+	],
 	"author": "Awesomeme360",
 	"creators": [],
 	"verifier": "Rqd",
@@ -361,6 +367,12 @@
 		{
 			"user": "ijacek_cz",
 			"link": "https://youtu.be/Wqg20EGLlyM?si=IrXOuyfavT-sh7Xp",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "asdsdvb",
+			"link": "https://www.youtube.com/watch?v=cUfJwVRdL40",
 			"percent": 100,
 			"hz": 360
 		}
