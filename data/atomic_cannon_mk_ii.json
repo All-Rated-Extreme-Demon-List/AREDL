@@ -1,7 +1,7 @@
 {
 	"id": 91180835,
 	"name": "ATOMIC CANNON Mk II",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Clicksync",
@@ -102,6 +102,13 @@
 			"link": "https://youtu.be/LTXck632ALg?si=3ORMopvVo9Z3s0r0",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "Space Invader",
+			"link": "https://youtu.be/AxctJy4eG7E?si=YvVL1-g2yNweTbGA",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
