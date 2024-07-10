@@ -7,5 +7,18 @@
 	"verification": "https://youtu.be/8EkT768IpxU?si=jKrMnsERocUwfmor",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "JustXSoos",
+			"link": "https://www.youtube.com/watch?v=JHvm6dLxJ9I",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "exerity",
+			"link": "https://youtu.be/7GYr5i58iLc",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

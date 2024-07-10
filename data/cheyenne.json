@@ -2,10 +2,28 @@
 	"id": 99992952,
 	"name": "Cheyenne",
 	"author": "TheJosiahTurner",
-	"creators": ["Valentine"," Celestia"," Neitharion"," TGPilar"," Lithifusion"," TheJosiahTurner"," ItsHybrid"," CrisisHedgehog"," Solarion", "Viper Arctarus"],
+	"creators": [
+		"Valentine",
+		" Celestia",
+		" Neitharion",
+		" TGPilar",
+		" Lithifusion",
+		" TheJosiahTurner",
+		" ItsHybrid",
+		" CrisisHedgehog",
+		" Solarion",
+		"Viper Arctarus"
+	],
 	"verifier": "snowkeo",
 	"verification": "https://youtu.be/18vy82H9luc?si=k_Ps2Rk1eq3lkV33",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "G0tzu",
+			"link": "https://www.youtube.com/watch?v=_ILkhotNAuM",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
