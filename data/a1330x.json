@@ -1,7 +1,16 @@
 {
 	"id": 78374157,
 	"name": "1330X",
-    "tags": ["2.1", "Long", "Clicksync", "Fast-Paced", "Chokepoints", "Ship", "Wave", "Overall"],
+	"tags": [
+		"2.1",
+		"Long",
+		"Clicksync",
+		"Fast-Paced",
+		"Chokepoints",
+		"Ship",
+		"Wave",
+		"Overall"
+	],
 	"author": "ewop",
 	"creators": [
 		"ewop",
@@ -307,6 +316,12 @@
 		{
 			"user": "ItzFestr",
 			"link": "https://www.youtube.com/watch?v=bNqA_o2TsyE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "wartgd",
+			"link": "https://www.youtube.com/watch?v=5uS0FTIhGZc&ab_channel=Ruchn1k",
 			"percent": 100,
 			"hz": 360
 		}
