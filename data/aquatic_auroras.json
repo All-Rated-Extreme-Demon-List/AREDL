@@ -1,7 +1,7 @@
 {
 	"id": 60740290,
 	"name": "Aquatic Auroras",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Circles",
@@ -245,6 +245,12 @@
 		{
 			"user": "Nexi",
 			"link": "https://youtu.be/h6f9a9tBy3M?si=CbeHU3Y_94JGixy9",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "M1nerB0ss",
+			"link": "https://youtu.be/7mpjZaBnm-Q?si=rYQno9_rdo-eObda",
 			"percent": 100,
 			"hz": 360
 		}
