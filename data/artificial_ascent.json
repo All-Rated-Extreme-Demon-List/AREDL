@@ -1,7 +1,7 @@
 {
 	"id": 27122654,
 	"name": "Artificial Ascent",
-	"tags":[
+	"tags": [
 		"2.0",
 		"XL",
 		"Fast-Paced",
@@ -1070,6 +1070,12 @@
 			"link": "https://youtu.be/aIn0qkiUwfE",
 			"percent": 100,
 			"hz": 480
+		},
+		{
+			"user": "neddix",
+			"link": "https://youtu.be/ZBcFCV3TzFk",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
