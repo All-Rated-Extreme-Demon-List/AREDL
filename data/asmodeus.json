@@ -1,7 +1,7 @@
 {
 	"id": 33670767,
 	"name": "Asmodeus",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Chokepoints",
@@ -180,6 +180,12 @@
 		{
 			"user": "Vikings",
 			"link": "https://www.youtube.com/watch?v=Jf5U1M4BjMg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Castro 13GD",
+			"link": "https://www.youtube.com/watch?v=qaXqZbSG9RM&t=27s",
 			"percent": 100,
 			"hz": 360
 		}

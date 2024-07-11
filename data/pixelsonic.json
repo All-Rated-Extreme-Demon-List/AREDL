@@ -2,10 +2,23 @@
 	"id": 44788659,
 	"name": "PixelSonic",
 	"author": "fhewi",
-	"creators": ["RateUnite"," Issacparklee"," Itztree"," Bipin"," Sirheon"],
+	"creators": [
+		"RateUnite",
+		" Issacparklee",
+		" Itztree",
+		" Bipin",
+		" Sirheon"
+	],
 	"verifier": "fhewi",
 	"verification": "https://youtu.be/9fJGTkKDiow?si=m37gwZDFtZU7I1os",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "Cylinderbox",
+			"link": "https://www.youtube.com/watch?v=2f661PYw0YM",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

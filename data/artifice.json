@@ -1,7 +1,7 @@
 {
 	"id": 57520174,
 	"name": "Artifice",
-	"tags":[
+	"tags": [
 		"2.1",
 		"XL",
 		"Clicksync",
@@ -514,6 +514,12 @@
 		{
 			"user": "Hubertos",
 			"link": "https://youtu.be/4ggKRcLNvp8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Castro 13GD",
+			"link": "https://www.youtube.com/watch?v=bhqRUGKxZaE&t=130s",
 			"percent": 100,
 			"hz": 360
 		}
