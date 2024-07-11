@@ -1,7 +1,7 @@
 {
 	"id": 48008831,
 	"name": "Annihilation Nation",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"High CPS",
@@ -464,6 +464,12 @@
 		{
 			"user": "[BUDDY] APD9",
 			"link": "https://www.youtube.com/watch?v=MztRsZDqANY&ab_channel=APD9",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "samort",
+			"link": "https://youtu.be/roPuJ-9xXuY",
 			"percent": 100,
 			"hz": 360
 		}

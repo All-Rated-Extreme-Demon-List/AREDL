@@ -1,7 +1,7 @@
 {
 	"id": 57430694,
 	"name": "Anoxysm",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -330,6 +330,12 @@
 		{
 			"user": "BrowarKedawar",
 			"link": "https://youtu.be/r5SWQmYU8nk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ultravioletRS",
+			"link": "https://www.youtube.com/watch?v=Q353ecHB0gA",
 			"percent": 100,
 			"hz": 360
 		}
