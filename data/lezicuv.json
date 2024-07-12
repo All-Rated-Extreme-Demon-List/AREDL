@@ -1,23 +1,29 @@
 {
-    "id": 13314218,
-    "name": "lezicuv",
-    "author": "Step4enko",
-    "creators": [],
-    "verifier": "Kevelia",
-    "verification": "https://www.youtube.com/watch?v=VLQ3bonuJo4",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Whacka",
-            "link": "https://youtu.be/-7OkIdFbznU",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Haze",
-            "link": "https://youtu.be/ShMEyZkKuwc",
-            "percent": 100,
-            "hz": 240
-}
-    ]
+	"id": 13314218,
+	"name": "lezicuv",
+	"author": "Step4enko",
+	"creators": [],
+	"verifier": "Kevelia",
+	"verification": "https://www.youtube.com/watch?v=VLQ3bonuJo4",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Whacka",
+			"link": "https://youtu.be/-7OkIdFbznU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Haze",
+			"link": "https://youtu.be/ShMEyZkKuwc",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "zHexya",
+			"link": "https://youtu.be/I0hy3ntNtuI?si=Nvjo9TZohSwwR9IS",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
