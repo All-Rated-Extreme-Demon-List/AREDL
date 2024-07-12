@@ -1,7 +1,7 @@
 {
 	"id": 63851728,
 	"name": "Auroral Darkness",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -67,6 +67,12 @@
 		{
 			"user": "kas ia",
 			"link": "https://youtu.be/DuzjxI6L2_8?si=xB_EjQyv_sQYAPqP",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ultravioletRS",
+			"link": "https://www.youtube.com/watch?v=-i8SEK1qiYI",
 			"percent": 100,
 			"hz": 360
 		}

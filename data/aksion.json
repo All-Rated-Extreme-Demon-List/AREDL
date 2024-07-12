@@ -1,7 +1,7 @@
 {
 	"id": 85937779,
 	"name": "Aksion",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -293,6 +293,12 @@
 		{
 			"user": "Hubertos",
 			"link": "https://youtu.be/33f2hDslNSM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bizdogg",
+			"link": "https://www.youtube.com/watch?v=In3XKMGqY2o",
 			"percent": 100,
 			"hz": 360
 		}
