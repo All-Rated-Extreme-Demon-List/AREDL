@@ -1,7 +1,7 @@
 {
 	"id": 81257586,
 	"name": "Anya III",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -598,6 +598,12 @@
 		{
 			"user": "sirperfecto",
 			"link": "https://www.youtube.com/watch?v=VWZBdU_lheg&t=28s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "tomboytinkerbell",
+			"link": "https://youtu.be/Czq2PzxsXVU",
 			"percent": 100,
 			"hz": 360
 		}
