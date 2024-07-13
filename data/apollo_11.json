@@ -1,7 +1,7 @@
 {
 	"id": 83164497,
 	"name": "Apollo 11",
-	"tags":[
+	"tags": [
 		"2.1",
 		"XXL",
 		"Timings",
@@ -73,6 +73,12 @@
 		{
 			"user": "ddddr",
 			"link": "https://youtu.be/vNbWl4RCyW0?si=AJIchsaY_X2DPNyP",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Gecko",
+			"link": "https://youtu.be/2xYgSPT05_Y",
 			"percent": 100,
 			"hz": 360
 		}

@@ -1,7 +1,7 @@
 {
 	"id": 22434793,
 	"name": "Audio Extraction",
-	"tags":[
+	"tags": [
 		"2.0",
 		"Long",
 		"Fast-Paced",
@@ -384,6 +384,12 @@
 		{
 			"user": "CarlaVeloso35P",
 			"link": "https://youtu.be/ayR3yaRqOSM?si=mo2z-wiZ4rQC_3vx",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "flipster09",
+			"link": "https://youtu.be/qo8eKkoEg8k?si=9dhU-94qU0DEbjKG",
 			"percent": 100,
 			"hz": 360
 		}
