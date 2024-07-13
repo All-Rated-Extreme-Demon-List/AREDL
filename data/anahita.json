@@ -1,7 +1,7 @@
 {
 	"id": 70406732,
 	"name": "Anahita",
-	"tags":[
+	"tags": [
 		"2.1",
 		"XL",
 		"Fast-Paced",
@@ -486,6 +486,12 @@
 		{
 			"user": "Hubertos",
 			"link": "https://youtu.be/6PN7z93jnfA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "scykic",
+			"link": "https://youtu.be/KFF0DneyT2M?si=lS_1VNuoywOV0CDE",
 			"percent": 100,
 			"hz": 360
 		}
