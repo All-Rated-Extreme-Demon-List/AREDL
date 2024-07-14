@@ -1,7 +1,7 @@
 {
 	"id": 71136146,
 	"name": "Acrozis",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Timings",
@@ -123,6 +123,12 @@
 		{
 			"user": "BrowarKedawar",
 			"link": "https://youtu.be/vXipFbFfm7A",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ytkerfuffles",
+			"link": "https://youtu.be/5x1o0HXhOFE?si=DRg8nQJHHDjFwkxH",
 			"percent": 100,
 			"hz": 360
 		}
