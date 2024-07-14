@@ -1,7 +1,7 @@
 {
 	"id": 42664144,
 	"name": "Atmosphere",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -91,6 +91,12 @@
 		{
 			"user": "kas ia",
 			"link": "https://youtu.be/a_IKfLj2Rp4?si=83Swv0gjFIBpM4Q2",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Chewit",
+			"link": "https://youtu.be/g7FEJQmPwa8",
 			"percent": 100,
 			"hz": 360
 		}
