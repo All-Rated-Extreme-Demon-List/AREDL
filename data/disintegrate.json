@@ -1,10 +1,32 @@
 {
-    "id": 106136331,
-    "name": "Disintegrate",
-    "author": "kingsman265",
-    "creators": ["badpurple", "derpyd3rp", "mateamargo12", "farstove", "db0yyt", "funkopop", "khenomy", "sebaka", "ishacb", "boritoman76", "fakediamondswor", "gdmonr3", "longnub", ""],
-    "verifier": "kingsman265",
-    "verification": "https://youtu.be/ylhn86qNmIQ?si=-eqmWNj5WOjAlwWJ",
-    "percentToQualify": 100,
-    "records": []
+	"id": 106136331,
+	"name": "Disintegrate",
+	"author": "kingsman265",
+	"creators": [
+		"badpurple",
+		"derpyd3rp",
+		"mateamargo12",
+		"farstove",
+		"db0yyt",
+		"funkopop",
+		"khenomy",
+		"sebaka",
+		"ishacb",
+		"boritoman76",
+		"fakediamondswor",
+		"gdmonr3",
+		"longnub",
+		""
+	],
+	"verifier": "kingsman265",
+	"verification": "https://youtu.be/ylhn86qNmIQ?si=-eqmWNj5WOjAlwWJ",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "ninezz",
+			"link": "https://youtu.be/BwiLkYOLkWk?si=upCLQ4iAzegTntgc",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
