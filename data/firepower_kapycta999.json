@@ -2,10 +2,21 @@
 	"id": 107281415,
 	"name": "FIREPOWER (Kapycta999)",
 	"author": "Kapycta999",
-	"creators": ["Kapycta999", "WarningGoat", "mordroc7"],
+	"creators": [
+		"Kapycta999",
+		"WarningGoat",
+		"mordroc7"
+	],
 	"verifier": "NikVer",
 	"verification": "https://youtu.be/Ndtz6_D4ILY?si=IoGJAu3UCKVMG89L",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "[BHO] ItzMira",
+			"link": "https://youtu.be/wfvH9K2LsK0?si=-3LjQvxYs0uZMgv5",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
