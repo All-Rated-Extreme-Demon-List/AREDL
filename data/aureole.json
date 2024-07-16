@@ -1,7 +1,7 @@
 {
 	"id": 66044291,
 	"name": "Aureole",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -89,6 +89,12 @@
 		{
 			"user": "DeltaPhantom1",
 			"link": "https://www.youtube.com/watch?v=61rBAFBIa0o",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BreadGuyGD",
+			"link": "https://www.youtube.com/watch?v=ymXD6K8gJ44",
 			"percent": 100,
 			"hz": 360
 		}

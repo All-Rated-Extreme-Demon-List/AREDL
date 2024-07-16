@@ -1,7 +1,14 @@
 {
 	"id": 63514295,
 	"name": "2 1 1",
-    "tags": ["2.1", "XL", "Fast-Paced", "Ship", "Wave", "Duals"],
+	"tags": [
+		"2.1",
+		"XL",
+		"Fast-Paced",
+		"Ship",
+		"Wave",
+		"Duals"
+	],
 	"author": "SrGuillester",
 	"creators": [
 		"SrGuillester",
@@ -109,9 +116,12 @@
 			"link": "https://youtu.be/1uYXQUitV50?si=etIBPIcV60jmW70R",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "BreadGuyGD",
+			"link": "https://www.youtube.com/watch?v=l6j5yTmgDSk",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
-
-
-
