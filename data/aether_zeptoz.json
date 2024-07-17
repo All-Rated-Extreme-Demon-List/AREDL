@@ -1,7 +1,7 @@
 {
 	"id": 77570274,
 	"name": "aether (Zeptoz)",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -199,6 +199,12 @@
 		{
 			"user": "ItzElectrix",
 			"link": "https://youtu.be/bp6wSs5_Bw0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Xixona",
+			"link": "https://youtu.be/jzMtsk8oRrY?si=hI6gGHkz4D3bIog5",
 			"percent": 100,
 			"hz": 360
 		}
