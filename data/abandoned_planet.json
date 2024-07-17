@@ -1,7 +1,7 @@
 {
 	"id": 46249401,
 	"name": "Abandoned Planet",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Circles",
@@ -84,6 +84,12 @@
 		{
 			"user": "RoBL",
 			"link": "https://youtu.be/PdQyMBA0668?si=9uTrsq-BU-sFWJow",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "w5678rr",
+			"link": "https://youtu.be/neq_sqOt80U?si=4lNTysVn-d5pfufk",
 			"percent": 100,
 			"hz": 360
 		}

@@ -1,7 +1,7 @@
 {
 	"id": 77698239,
 	"name": "Air Tech",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -411,6 +411,12 @@
 		{
 			"user": "asdsdvb",
 			"link": "https://www.youtube.com/watch?v=GcGdFlXBBJI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "PlatinaGD",
+			"link": "https://youtu.be/aZ5xr5DddZg",
 			"percent": 100,
 			"hz": 360
 		}
