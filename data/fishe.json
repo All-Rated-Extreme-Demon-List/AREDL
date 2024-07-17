@@ -1,11 +1,21 @@
 {
-    "id": 74914748,
-    "name": "Fishe",
-    "author": "SouljaBoyCrankD",
-    "creators": ["SouljaBoyCrankD", "DerpOverlord"],
-    "verifier": "KNOEPPEL",
-    "verification": "https://youtu.be/LV-FYzkaPQo?si=U-KKdtdp6khSSzg9",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records": []
+	"id": 74914748,
+	"name": "Fishe",
+	"author": "SouljaBoyCrankD",
+	"creators": [
+		"SouljaBoyCrankD",
+		"DerpOverlord"
+	],
+	"verifier": "KNOEPPEL",
+	"verification": "https://youtu.be/LV-FYzkaPQo?si=U-KKdtdp6khSSzg9",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "Reachify",
+			"link": "https://www.youtube.com/watch?v=49XvcLDdJjs&list=PLVEyNmaQ44-vcTY5kBvXwrS5hyir3241k&index=6",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
