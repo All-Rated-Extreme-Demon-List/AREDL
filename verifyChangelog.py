@@ -1,16 +1,16 @@
 import json
 import sys
 
-input_file = '_changelog.json'
+input_file = 'data/_changelog.json'
 
-level_input_file = '_list_init.json'
-legacy_input_file = '_legacy_init.json'
+level_input_file = 'data/_list_init.json'
+legacy_input_file = 'data/_legacy_init.json'
 
-list_output_file = '_generated_list.json'
-legacy_output_file = '_generated_legacy.json'
+list_output_file = 'data/_generated_list.json'
+legacy_output_file = 'data/_generated_legacy.json'
 
-reference_list_file = '_list.json'
-reference_legacy_file = '_legacy.json'
+reference_list_file = 'data/_list.json'
+reference_legacy_file = 'data/_legacy.json'
 
 do_output = False
 
