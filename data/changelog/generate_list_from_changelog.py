@@ -3,13 +3,6 @@ import sys
 
 input_file = 'parsed_data.json'
 output_file = 'generated_list.json'
-
-with open('name_map.json', "r", encoding='utf-8') as file:
-    try:
-        name_map = json.load(file)
-    except ValueError as e:
-        print(f"Invalid json in file name_map.json: {str(e)}")
-        sys.exit(1)
             
 with open('_list_init.json', "r", encoding='utf-8') as file:
     try:

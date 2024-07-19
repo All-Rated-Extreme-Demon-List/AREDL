@@ -28,7 +28,7 @@ for date, section in zip(dates, sections):
     actions = section.strip().split('\n')
     for action in actions:
         action_match = re.match(
-            r'(?:Due to an update, )?(.*?) has been (placed|raised|lowered) (?:from #(\d+) )?(?:to|at) #(\d+)(?:,(?: above (.*?) and)?(?: below (.*?))?)?(?:\.|,|$)',
+            r'(?:Due to an update, )?(.*?) has been (re-placed|placed|raised|lowered) (?:from #(\d+) )?(?:to|at) #(\d+)(?:,(?: above (.*?) and)?(?: below (.*?))?)?(?:\.|,|$)',
             action
         )
         swap_action_match = re.match(
@@ -58,10 +58,14 @@ for date, section in zip(dates, sections):
             else:
                 below = name_map[below.lower()] if below is not None else None
             
+            action = action_match.group(2)
+            if action == 're-placed':
+                action = 'fromlegacy'
+            
             parsed_data.append({
                 'date': date_obj.strftime('%d.%m.%Y %H:%M'),
                 'name': name,
-                'action': action_match.group(2),
+                'action': action,
                 'from_rank': int(action_match.group(3)) if action_match.group(3) is not None else None,
                 'to_rank': int(action_match.group(4)) if action_match.group(4) is not None else None,
                 'above': above,
@@ -88,10 +92,10 @@ for date, section in zip(dates, sections):
                 'date': date_obj.strftime('%d.%m.%Y %H:%M'),
                 'name': name,
                 'action': 'swapped',
-                'from_rank': int(swap_action_match.group(4)) - 1,
+                'from_rank': int(swap_action_match.group(4)) + 1,
                 'to_rank': int(swap_action_match.group(4)),
-                'above': None,
-                'below': below
+                'above': below,
+                'below': None
             })
         elif remove_action_match:
             name = remove_action_match.group(1).lower()
