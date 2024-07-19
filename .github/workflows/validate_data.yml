@@ -36,3 +36,6 @@ jobs:
           echo "Validation failed"
           exit 1
         fi
+
+    - name: Run changelog validation script
+      run: python verify_changelog.py
