@@ -1,7 +1,7 @@
 import json
 import sys
 
-input_file = 'changelog.json'
+input_file = '_changelog.json'
 
 level_input_file = '_list_init.json'
 legacy_input_file = '_legacy_init.json'
