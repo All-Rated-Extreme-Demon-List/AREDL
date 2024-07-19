@@ -38,4 +38,4 @@ jobs:
         fi
 
     - name: Run changelog validation script
-      run: python verify_changelog.py
+      run: python verifyChangelog.py
