@@ -2797,7 +2797,7 @@
 			"hz": 360
 		},
 		{
-			"user": "usb",
+			"user": "[HUB] usb",
 			"link": "https://youtu.be/xqM-lzEMu7k",
 			"percent": 100,
 			"hz": 360
@@ -2960,7 +2960,7 @@
 			"hz": 360
 		},
 		{
-			"user": "[POT] Haiku",
+			"user": "Haiku",
 			"link": "https://www.youtube.com/watch?v=z0gxAv6pHu4",
 			"percent": 100,
 			"hz": 360
