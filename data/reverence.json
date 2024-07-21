@@ -1396,6 +1396,13 @@
 			"link": "https://www.youtube.com/watch?v=bSJrTfrOzI8",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "Lisp",
+			"link": "https://youtu.be/BIMyGUANHoM",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
