@@ -2869,5 +2869,14 @@
 		"from_rank": null,
 		"above": "crippled_depression",
 		"below": "monstrosity"
+	},
+	{
+		"date": 1721571081,
+		"action": "placed",
+		"name": "corrosion",
+		"to_rank": 914,
+		"from_rank": null,
+		"above": "hades",
+		"below": "falsch"
 	}
 ]
