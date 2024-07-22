@@ -7,5 +7,12 @@
 	"verification": "https://youtu.be/l1OxtmeZOUc?si=wXX81uisRdcEZfd5",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "maxler",
+			"link": "https://www.youtube.com/watch?v=pQP8jCRJohg",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
