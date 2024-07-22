@@ -2905,5 +2905,14 @@
 		"from_rank": 820,
 		"above": "vignette",
 		"below": "the_flawless"
+	},
+	{
+		"date": 1721651456,
+		"action": "lowered",
+		"name": "apparition",
+		"to_rank": 706,
+		"from_rank": 668,
+		"above": "fingerdash_v3",
+		"below": "sl8o"
 	}
 ]
