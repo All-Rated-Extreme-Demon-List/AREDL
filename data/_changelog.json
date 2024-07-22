@@ -2878,5 +2878,14 @@
 		"from_rank": null,
 		"above": "hades",
 		"below": "falsch"
+	},
+	{
+		"date": 1721648445,
+		"action": "lowered",
+		"name": "napalm",
+		"to_rank": 812,
+		"from_rank": 777,
+		"above": "ilovecyan",
+		"below": "uprise"
 	}
 ]
