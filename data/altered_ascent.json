@@ -1,7 +1,7 @@
 {
 	"id": 60698989,
 	"name": "Altered Ascent",
-	"tags":[
+	"tags": [
 		"2.1",
 		"XL",
 		"Fast-Paced",
@@ -109,6 +109,12 @@
 		{
 			"user": "ElcriperGD",
 			"link": "https://youtu.be/RTYb0hCATZE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Silverdynamix",
+			"link": "https://youtu.be/eGUNe4HUpnw?si=sH85EGE8g3sPpBIW",
 			"percent": 100,
 			"hz": 360
 		}
