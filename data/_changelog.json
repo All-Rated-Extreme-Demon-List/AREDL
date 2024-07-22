@@ -2896,5 +2896,14 @@
 		"from_rank": null,
 		"above": "eko",
 		"below": "aftermath"
+	},
+	{
+		"date": 1721651239,
+		"action": "lowered",
+		"name": "absurdia",
+		"to_rank": 840,
+		"from_rank": 820,
+		"above": "vignette",
+		"below": "the_flawless"
 	}
 ]
