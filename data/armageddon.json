@@ -1,7 +1,7 @@
 {
 	"id": 62781860,
 	"name": "Armageddon",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -154,6 +154,12 @@
 		{
 			"user": "crawscat",
 			"link": "https://www.youtube.com/watch?v=zGSG6JG_kfw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Silverdynamix",
+			"link": "https://youtu.be/Cinh7Dt7EQM?si=urtJWQz7OvSFWn0V",
 			"percent": 100,
 			"hz": 360
 		}
