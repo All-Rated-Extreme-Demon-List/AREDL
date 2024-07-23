@@ -2914,5 +2914,14 @@
 		"from_rank": 668,
 		"above": "fingerdash_v3",
 		"below": "sl8o"
+	},
+	{
+		"date": 1721748896,
+		"action": "raised",
+		"name": "fingerdash_v3",
+		"to_rank": 644,
+		"from_rank": 707,
+		"above": "libertas",
+		"below": "marathon"
 	}
 ]
