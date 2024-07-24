@@ -2923,5 +2923,14 @@
 		"from_rank": 707,
 		"above": "libertas",
 		"below": "marathon"
+	},
+	{
+		"date": 1721795140,
+		"action": "raised",
+		"name": "network_agat3",
+		"to_rank": 44,
+		"from_rank": 49,
+		"above": "shukketsu",
+		"below": "delta"
 	}
 ]
