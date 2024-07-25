@@ -996,7 +996,6 @@
 			"percent": 100,
 			"hz": 360
 		},
-
 		{
 			"user": "spryzen",
 			"link": "https://m.youtube.com/watch?v=bU9ck7Z99hY&list=PLXZD8IZLcsVfN9bTMBWSDF55QXrED2ZRb&index=30&pp=gAQBiAQBsAQB",
@@ -1032,6 +1031,13 @@
 			"link": "https://youtu.be/wEfJs042cVQ?si=-kQ0ojFL_MGcVUiq",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "YocoSapph",
+			"link": "https://youtu.be/WwcORg4CUUI?si=5Q5T8feEO8KYUi26",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
