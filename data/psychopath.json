@@ -7,5 +7,12 @@
 	"verification": "https://youtu.be/1luL7tTE8p8",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records" : [
+		{
+			"user": "Zoink",
+			"link": "https://youtu.be/EXJtwtOMxw4?si=hOpZCAhlRTdij-WN",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
