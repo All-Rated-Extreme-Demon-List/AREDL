@@ -578,7 +578,6 @@
 			"hz": 360,
 			"mobile": true
 		},
-
 		{
 			"user": "DuckOfSxness",
 			"link": "https://www.youtube.com/watch?v=oy1a27dvhUE",
@@ -675,6 +674,12 @@
 		{
 			"user": "CaveMelv",
 			"link": "https://youtu.be/kABm-AuK9rc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "[24hs] nugbloxx",
+			"link": "https://youtu.be/kOZcOeJll2Y?si=ixHW-bwgATQxT-zk",
 			"percent": 100,
 			"hz": 360
 		}
