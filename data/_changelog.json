@@ -2950,5 +2950,14 @@
 		"from_rank": null,
 		"above": "broken_signal",
 		"below": "the_ultimate_phase"
+	},
+	{
+		"date": 1722000393,
+		"action": "placed",
+		"name": "intrusive_id",
+		"to_rank": 528,
+		"from_rank": null,
+		"above": "deogen",
+		"below": "water_demon"
 	}
 ]
