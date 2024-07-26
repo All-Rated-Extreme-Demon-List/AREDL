@@ -2959,5 +2959,14 @@
 		"from_rank": null,
 		"above": "deogen",
 		"below": "water_demon"
+	},
+	{
+		"date": 1722000541,
+		"action": "placed",
+		"name": "infinite_highway",
+		"to_rank": 438,
+		"from_rank": null,
+		"above": "curie",
+		"below": "fabricated_thoughts"
 	}
 ]
