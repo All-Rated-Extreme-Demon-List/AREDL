@@ -3004,5 +3004,14 @@
 		"from_rank": 714,
 		"above": "dance_til_dawn",
 		"below": "sky_tech"
+	},
+	{
+		"date": 1722059242,
+		"action": "lowered",
+		"name": "ouroboros_startpos_2",
+		"to_rank": 429,
+		"from_rank": 334,
+		"above": "speedrun",
+		"below": "dusker_processing"
 	}
 ]
