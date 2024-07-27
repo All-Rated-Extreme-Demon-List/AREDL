@@ -2,10 +2,41 @@
 	"id": 106945900,
 	"name": "Project Nexus",
 	"author": "NEKONGAMES",
-	"creators": ["RedlixHD"," AppleCr"," Dolb1natoR"," PreeZee"," Apunch"," AssBreaker"," Apstrom"," GamerKnight"," Kivvvi"," Xatz"," Cynixx"," ADrone"," Helpegasus"," Sycor"," Destriv"," AirSavage"," MothEye"," Fgoll"," Kr4t"," FallingStar"," Lagnugg"," LengthyRat"," CreatorMY"],
+	"creators": [
+		"RedlixHD",
+		" AppleCr",
+		" Dolb1natoR",
+		" PreeZee",
+		" Apunch",
+		" AssBreaker",
+		" Apstrom",
+		" GamerKnight",
+		" Kivvvi",
+		" Xatz",
+		" Cynixx",
+		" ADrone",
+		" Helpegasus",
+		" Sycor",
+		" Destriv",
+		" AirSavage",
+		" MothEye",
+		" Fgoll",
+		" Kr4t",
+		" FallingStar",
+		" Lagnugg",
+		" LengthyRat",
+		" CreatorMY"
+	],
 	"verifier": "LordVadercraft",
 	"verification": "https://youtu.be/3wf67Kt9gjE?si=HbAHUZePpMuL1vv7",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "BreadGuyGD",
+			"link": "https://www.youtube.com/watch?v=OsEnaejaK2I",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
