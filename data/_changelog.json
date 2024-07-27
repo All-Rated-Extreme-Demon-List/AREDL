@@ -2977,5 +2977,14 @@
 		"from_rank": 795,
 		"above": "beyond_the_summit",
 		"below": "vignette"
+	},
+	{
+		"date": 1722058244,
+		"action": "placed",
+		"name": "ordinary",
+		"to_rank": 55,
+		"from_rank": null,
+		"above": "kenos",
+		"below": "esfera"
 	}
 ]
