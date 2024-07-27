@@ -3013,5 +3013,14 @@
 		"from_rank": 334,
 		"above": "speedrun",
 		"below": "dusker_processing"
+	},
+	{
+		"date": 1722072871,
+		"action": "raised",
+		"name": "project_nexus",
+		"to_rank": 313,
+		"from_rank": 322,
+		"above": "luxtra",
+		"below": "future_chaos"
 	}
 ]
