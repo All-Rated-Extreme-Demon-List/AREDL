@@ -2995,5 +2995,14 @@
 		"from_rank": null,
 		"above": "yuh",
 		"below": "aesthetic"
+	},
+	{
+		"date": 1722058463,
+		"action": "lowered",
+		"name": "la_llorona",
+		"to_rank": 814,
+		"from_rank": 714,
+		"above": "dance_til_dawn",
+		"below": "sky_tech"
 	}
 ]
