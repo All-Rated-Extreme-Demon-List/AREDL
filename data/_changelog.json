@@ -2986,5 +2986,14 @@
 		"from_rank": null,
 		"above": "kenos",
 		"below": "esfera"
+	},
+	{
+		"date": 1722058384,
+		"action": "placed",
+		"name": "project_nexus",
+		"to_rank": 322,
+		"from_rank": null,
+		"above": "yuh",
+		"below": "aesthetic"
 	}
 ]
