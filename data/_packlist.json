@@ -93,6 +93,83 @@
         "colour": "linear-gradient(135deg, rgba(164,164,164,1) 0%, rgba(210,98,255,1) 100%)"
     },
     {
+        "name": "2017 Top 5 Pack",
+        "levels": [
+            "plasma_pulse_finale",
+            "gamma",
+            "sonic_wave",
+            "yatagarasu",
+            "erebus_boldstep"
+        ],
+        "colour": "linear-gradient(338deg, rgba(215,0,0,1) 0%, rgba(55,0,0,1) 100%);"
+    },
+    {
+        "name": "2018 Top 5 Pack",
+        "levels": [
+            "bloodlust",
+            "plasma_pulse_finale",
+            "spacial_rend",
+            "gamma",
+            "sonic_wave"
+        ],
+        "colour": "linear-gradient(49deg, rgba(215,0,0,1) 0%, rgba(55,0,0,1) 100%);"
+    },
+    {
+        "name": "2019 Top 5 Pack",
+        "levels": [
+            "zodiac",
+            "kenos",
+            "crimson_planet",
+            "renevant",
+            "bloodlust"
+        ],
+        "colour": "linear-gradient(197deg, rgba(215,0,0,1) 0%, rgba(255,92,92,1) 50%, rgba(55,0,0,1) 100%);"
+    },
+    {
+        "name": "2020 Top 5 Pack",
+        "levels": [
+            "tartarus",
+            "the_golden",
+            "zodiac",
+            "kenos",
+            "crimson_planet"
+        ],
+        "colour": "linear-gradient(30deg, rgba(150,0,0,1) 0%, rgba(0,163,155,1) 100%);"
+    },
+    {
+        "name": "2021 Top 5 Pack",
+        "levels": [
+            "slaughterhouse",
+            "firework",
+            "arcturus",
+            "tartarus",
+            "trueffet"
+        ],
+        "colour": "linear-gradient(166deg, rgba(150,0,0,1) 0%, rgba(0,13,163,1) 100%);"
+    },
+    {
+        "name": "2022 Top 5 Pack",
+        "levels": [
+            "acheron",
+            "silent_clubstep",
+            "abyss_of_darkness",
+            "slaughterhouse",
+            "sakupen_circles"
+        ],
+        "colour": "radial-gradient(circle, rgba(163,0,73,1) 0%, rgba(255,164,31,1) 50%, rgba(163,0,73,1) 100%);"
+    },
+    {
+        "name": "2023 Top 5 Pack",
+        "levels": [
+            "acheron",
+            "silent_clubstep",
+            "avernus",
+            "abyss_of_darkness",
+            "kyouki"
+        ],
+        "colour": "radial-gradient(circle, rgba(143,0,0,1) 0%, rgba(55,0,0,1) 25%, rgba(143,0,0,1) 50%, rgba(55,0,0,1) 100%);"
+    },
+    {
         "name": "20 Letter Pack I",
         "levels": [
             "wacky_mcwhackface_v2",
@@ -818,6 +895,15 @@
         "colour": "linear-gradient(239deg, rgba(89,144,190,1) 0%, rgba(65,46,160,1) 100%)"
     },
     {
+        "name": "Firepower Pack",
+        "levels": [
+            "firepower_sillow",
+            "firepower_mrlorenzo",
+            "firepower_kapycta999"
+        ],
+        "colour": "linear-gradient(137deg, rgba(215,0,0,1) 0%, rgba(255,177,46,1) 66%, rgba(255,254,46,1) 100%);"
+    },
+    {
         "name": "Fish Pack",
         "levels": [
             "fish_fish_godmode",
@@ -1505,6 +1591,16 @@
         "colour": "linear-gradient(90deg, rgba(255,255,77,1) 0%, rgba(0,0,0,1) 25%, rgba(255,255,77,1) 37%, rgba(0,0,0,1) 50%, rgba(255,255,77,1) 62%, rgba(0,0,0,1) 75%, rgba(255,255,77,1) 100%)"
     },
     {
+        "name": "Obesity Pack",
+        "levels": [
+            "reeses_potentially",
+            "very_rusty_pipeline",
+            "boogie",
+            "heart_attack"
+        ],
+        "colour": "url('https://unherd.com/wp-content/uploads/2023/11/Boogie2988.jpg')"
+    },
+    {
         "name": "Olympic Games Pack",
         "levels": [
             "promethean",
@@ -1576,11 +1672,11 @@
     {
         "name": "Perfection Pack (EDEL)",
         "levels": [
-            "apollo_11",
+            "death",
             "neurostasis",
-            "coolie_mazie_paloozi",
-            "minimum",
-            "callisto"
+            "out_of_chaos",
+            "callisto",
+            "coolie_mazie_paloozi"
         ],
         "colour": "radial-gradient(circle, rgba(106,175,255,1) 0%, rgba(201,103,255,1) 100%)"
     },
@@ -2079,6 +2175,46 @@
             "under_lavaland"
         ],
         "colour": "linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(255,108,108,1) 100%)"
+    },
+    {
+        "name": "Unknown Beginners Pack I",
+        "levels": [
+            "dreamers",
+            "komodo",
+            "ion",
+            "twitch_denan"
+        ],
+        "colour": "linear-gradient(35deg, rgba(46,129,255,1) 0%, rgba(255,0,0,1) 33%, rgba(0,217,255,1) 66%, rgba(23,0,255,1) 100%);"
+    },
+    {
+        "name": "Unknown Beginners Pack II",
+        "levels": [
+            "boreas",
+            "finkor",
+            "obscura",
+            "dismal_duststorm"
+        ],
+        "colour": "linear-gradient(35deg, rgba(0,24,255,1) 0%, rgba(0,217,255,1) 35%, rgba(0,142,6,1) 62%, rgba(46,129,255,1) 100%);"
+    },
+    {
+        "name": "Unknown Beginners Pack III",
+        "levels": [
+            "cosmic_cluster",
+            "beyond_the_summit",
+            "court_circuit",
+            "clock_tower"
+        ],
+        "colour": "linear-gradient(35deg, rgba(117,0,255,1) 0%, rgba(205,208,0,1) 33%, rgba(180,0,0,1) 66%, rgba(184,87,255,1) 100%);"
+    },
+    {
+        "name": "Unknown Beginners Pack IV",
+        "levels": [
+            "the_tears_beneath",
+            "kub",
+            "carbon",
+            "vacant"
+        ],
+        "colour": "linear-gradient(40deg, rgba(123,255,0,1) 0%, rgba(183,0,208,1) 50%, rgba(87,255,255,1) 100%);"
     },
     {
         "name": "Valentine's Day Pack",
