@@ -2,17 +2,26 @@
 	"id": 87071894,
 	"name": "The Paroxysm of Rage",
 	"author": "Zacanaii",
-	"creators": ["Zacanaii"," Evil Buds"],
+	"creators": [
+		"Zacanaii",
+		" Evil Buds"
+	],
 	"verifier": "Turtel",
 	"verification": "https://youtu.be/nq3i1qJQeEk",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : [
+	"records": [
 		{
 			"user": "s3batr0nic",
 			"link": "https://youtu.be/9me55MtJNEY?si=ClraJvFeGy1yf5cG",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "Trick",
+			"link": "https://www.youtube.com/watch?v=c9ic1813hz4",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
