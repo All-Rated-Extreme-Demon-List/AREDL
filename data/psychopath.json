@@ -7,10 +7,16 @@
 	"verification": "https://youtu.be/1luL7tTE8p8",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : [
+	"records": [
 		{
 			"user": "Zoink",
 			"link": "https://youtu.be/EXJtwtOMxw4?si=hOpZCAhlRTdij-WN",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Trick",
+			"link": "https://www.youtube.com/watch?v=iSU5IC0ucn0",
 			"percent": 100,
 			"hz": 360
 		}
