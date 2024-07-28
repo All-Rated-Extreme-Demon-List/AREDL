@@ -1,7 +1,7 @@
 {
 	"id": 86513236,
 	"name": "Agen Wida",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -158,6 +158,12 @@
 		{
 			"user": "1zyphex",
 			"link": "https://youtu.be/Cs25y4cQRSE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "naro",
+			"link": "https://youtu.be/_UeZhmECGcQ?si=IWLe5hnlsaZCibBU",
 			"percent": 100,
 			"hz": 360
 		}
