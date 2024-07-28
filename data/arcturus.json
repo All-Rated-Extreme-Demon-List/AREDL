@@ -1,7 +1,7 @@
 {
 	"id": 72315402,
 	"name": "arcturus",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -62,6 +62,12 @@
 		{
 			"user": "DibiiziCookie",
 			"link": "https://youtu.be/AqKBny7eX5Q?si=dAEZ44mGJ3y69vvX",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Trick",
+			"link": "https://www.youtube.com/watch?v=79JoUS_buQo",
 			"percent": 100,
 			"hz": 360
 		}

@@ -1,7 +1,7 @@
 {
 	"id": 79771070,
 	"name": "Aerial Gleam",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"NONG",
@@ -67,6 +67,12 @@
 			"link": "https://www.youtube.com/watch?v=StE-fOWkTns",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "Trick",
+			"link": "https://www.youtube.com/watch?v=orkS7Z7CGRk",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }

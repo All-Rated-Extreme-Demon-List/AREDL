@@ -1,7 +1,7 @@
 {
 	"id": 89496627,
 	"name": "Avernus",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -30,5 +30,12 @@
 	"verification": "https://www.youtube.com/watch?v=16Zh8jssanc",
 	"percentToQualify": 100,
 	"password": "30607",
-	"records": []
+	"records": [
+		{
+			"user": "Trick",
+			"link": "https://www.youtube.com/watch?v=aWyNtYYpjy8",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

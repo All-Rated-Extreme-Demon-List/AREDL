@@ -1,10 +1,20 @@
 {
-    "id": 95049815,
-    "name": "Climax",
-    "author": "HushLC",
-    "creators": ["HushLC", "Wain"],
-    "verifier": "Wain",
-    "verification": "https://youtu.be/E4ppq2WeAAs?si=OfCyOq8Kb5MNN5xb",
-    "percentToQualify": 100,
-    "records": []
+	"id": 95049815,
+	"name": "Climax",
+	"author": "HushLC",
+	"creators": [
+		"HushLC",
+		"Wain"
+	],
+	"verifier": "Wain",
+	"verification": "https://youtu.be/E4ppq2WeAAs?si=OfCyOq8Kb5MNN5xb",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Trick",
+			"link": "https://www.youtube.com/watch?v=uMx_3xupnlA",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

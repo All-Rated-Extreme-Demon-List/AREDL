@@ -1,10 +1,20 @@
 {
-    "id": 94969889,
-    "name": "Belladonna",
-    "author": "cherryteam",
-    "creators": ["Vernam", "itami"],
-    "verifier": "exsii",
-    "verification": "https://youtu.be/saHSgoU1JQQ?si=hh8J-IN1Za-SmlnG",
-    "percentToQualify": 100,
-    "records": []
+	"id": 94969889,
+	"name": "Belladonna",
+	"author": "cherryteam",
+	"creators": [
+		"Vernam",
+		"itami"
+	],
+	"verifier": "exsii",
+	"verification": "https://youtu.be/saHSgoU1JQQ?si=hh8J-IN1Za-SmlnG",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Trick",
+			"link": "https://www.youtube.com/watch?v=FXYp8_K240k",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

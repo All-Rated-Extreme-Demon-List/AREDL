@@ -1,7 +1,7 @@
 {
 	"id": 49896559,
 	"name": "Abyss of Darkness",
-	"tags":[
+	"tags": [
 		"2.1",
 		"XL",
 		"Gimmicky",
@@ -55,7 +55,12 @@
 			"link": "https://youtu.be/Dj5WbdlC6go?si=HM6mikCGye2N4JR3",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "Trick",
+			"link": "https://www.youtube.com/watch?v=wZwCXjVdqz0",
+			"percent": 100,
+			"hz": 360
 		}
-
 	]
 }
