@@ -576,6 +576,13 @@
 			"link": "https://www.youtube.com/watch?v=53eMdkJW4yo",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "Clickdash",
+			"link": "https://www.youtube.com/watch?v=ob5J9va0nxQ",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }

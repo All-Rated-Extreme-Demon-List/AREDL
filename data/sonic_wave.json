@@ -1386,6 +1386,20 @@
 			"link": "https://www.youtube.com/watch?v=4seDmUXr_Fs",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "Clickdash",
+			"link": "https://www.youtube.com/watch?v=niJJ3AVhNh8",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		},
+		{
+			"user": "Russoboy",
+			"link": "https://www.youtube.com/watch?v=b14yNjOybTg",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
