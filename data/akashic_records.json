@@ -1,7 +1,7 @@
 {
 	"id": 58150142,
 	"name": "Akashic Records",
-	"tags":[
+	"tags": [
 		"2.1",
 		"XL",
 		"Fast-Paced",
@@ -80,6 +80,12 @@
 		{
 			"user": "Vikings",
 			"link": "https://www.youtube.com/watch?v=EC3Rl8Z0lB0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "wPopoff",
+			"link": "https://www.youtube.com/watch?v=b-vVzVBt6aA",
 			"percent": 100,
 			"hz": 360
 		}
