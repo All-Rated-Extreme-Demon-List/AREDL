@@ -1,7 +1,7 @@
 {
 	"id": 62100870,
 	"name": "Alpha Baa X",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Timings",
@@ -59,6 +59,12 @@
 		{
 			"user": "plimbus",
 			"link": "https://youtu.be/js6meyhUVbw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "skzyl",
+			"link": "https://www.youtube.com/watch?v=YLaRf_Xknm0",
 			"percent": 100,
 			"hz": 360
 		}
