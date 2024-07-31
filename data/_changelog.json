@@ -3058,5 +3058,14 @@
 		"from_rank": null,
 		"above": "nhelv",
 		"below": "ithacropolix"
+	},
+	{
+		"date": 1722398057,
+		"action": "placed",
+		"name": "brain_power",
+		"to_rank": 768,
+		"from_rank": null,
+		"above": "pound_town",
+		"below": "zenith"
 	}
 ]
