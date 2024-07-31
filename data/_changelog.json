@@ -3085,5 +3085,14 @@
 		"from_rank": 569,
 		"above": "dream_city",
 		"below": "molten_mercury"
+	},
+	{
+		"date": 1722465197,
+		"action": "raised",
+		"name": "bloodbath",
+		"to_rank": 543,
+		"from_rank": 608,
+		"above": "siniristi",
+		"below": "helix"
 	}
 ]
