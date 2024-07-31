@@ -3076,5 +3076,14 @@
 		"from_rank": 518,
 		"above": "eko",
 		"below": "all_in"
+	},
+	{
+		"date": 1722451931,
+		"action": "raised",
+		"name": "prismatic_haze",
+		"to_rank": 517,
+		"from_rank": 569,
+		"above": "dream_city",
+		"below": "molten_mercury"
 	}
 ]
