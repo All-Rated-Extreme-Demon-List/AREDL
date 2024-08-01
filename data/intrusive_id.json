@@ -7,5 +7,12 @@
 	"verification": "https://youtu.be/E2CbZec7J7A?si=MUvzuhbhn3Xx2qKy",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "Gecko",
+			"link": "https://youtu.be/o3hj01srVSc",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

@@ -2,10 +2,55 @@
 	"id": 104444534,
 	"name": "Brain Power",
 	"author": "Zaphkiel7",
-	"creators": ["ARtu"," DYZEX"," DavidProduction"," ShawDowBoy"," Miguel135"," SrAntho"," Sagascius"," DolliaX"," JairoP18"," Kava"," iboii"," Vyu74"," AppleCr"," Byomix"," iTzRolexio18"," iMeox"," TheElectro"," Sekya"," The Shoot"," xThundra"," Mangosteen"," nsMonster"," Zaphkiel7"," SrLuiPech"," Vermnt"," FallingstarGD"," Ashene"," Jairo"," iHanzu"," Ryaldymont"," djsahrpnel"],
+	"creators": [
+		"ARtu",
+		" DYZEX",
+		" DavidProduction",
+		" ShawDowBoy",
+		" Miguel135",
+		" SrAntho",
+		" Sagascius",
+		" DolliaX",
+		" JairoP18",
+		" Kava",
+		" iboii",
+		" Vyu74",
+		" AppleCr",
+		" Byomix",
+		" iTzRolexio18",
+		" iMeox",
+		" TheElectro",
+		" Sekya",
+		" The Shoot",
+		" xThundra",
+		" Mangosteen",
+		" nsMonster",
+		" Zaphkiel7",
+		" SrLuiPech",
+		" Vermnt",
+		" FallingstarGD",
+		" Ashene",
+		" Jairo",
+		" iHanzu",
+		" Ryaldymont",
+		" djsahrpnel"
+	],
 	"verifier": "Nexus",
 	"verification": "https://www.youtube.com/watch?v=ThroGkahQFw",
 	"percentToQualify": 100,
 	"password": "Free to Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "MrBeanScout",
+			"link": "https://youtu.be/ck9iMVPDdAg?si=ntVWPhQg_XbVt6Yq",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Jegorkaro",
+			"link": "https://youtu.be/zq9zEyO16ts",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
