@@ -1,7 +1,7 @@
 {
 	"id": 77690694,
 	"name": "AUX cord",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -114,6 +114,12 @@
 		{
 			"user": "Seko",
 			"link": "https://www.youtube.com/watch?v=2qTmKMkioBU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "SkeletalVirus",
+			"link": "https://youtu.be/N238zrZlSAI",
 			"percent": 100,
 			"hz": 360
 		}
