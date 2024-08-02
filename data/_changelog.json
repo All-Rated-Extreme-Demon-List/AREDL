@@ -3139,5 +3139,14 @@
 		"from_rank": 345,
 		"above": "photovoltaic_ii",
 		"below": "jamboree"
+	},
+	{
+		"date": 1722570958,
+		"action": "lowered",
+		"name": "glisten",
+		"to_rank": 921,
+		"from_rank": 864,
+		"above": "azurite_sillow",
+		"below": "anya_iii"
 	}
 ]
