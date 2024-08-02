@@ -3193,5 +3193,14 @@
 		"from_rank": null,
 		"above": "dismal_duststorm",
 		"below": "lost_love"
+	},
+	{
+		"date": 1722573113,
+		"action": "placed",
+		"name": "seaglass_foundry",
+		"to_rank": 808,
+		"from_rank": null,
+		"above": "cyberstorm",
+		"below": "zettabyte"
 	}
 ]
