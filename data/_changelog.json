@@ -3121,5 +3121,14 @@
 		"from_rank": null,
 		"above": "keres",
 		"below": "dry_out_copyable_2"
+	},
+	{
+		"date": 1722570617,
+		"action": "placed",
+		"name": "natural_disaster",
+		"to_rank": 40,
+		"from_rank": null,
+		"above": "the_golden",
+		"below": "oblivion"
 	}
 ]
