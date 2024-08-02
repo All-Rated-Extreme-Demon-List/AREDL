@@ -3175,5 +3175,14 @@
 		"from_rank": 770,
 		"above": "necropolix",
 		"below": "apparition"
+	},
+	{
+		"date": 1722571770,
+		"action": "raised",
+		"name": "aftermath",
+		"to_rank": 595,
+		"from_rank": 609,
+		"above": "cluttered_confusion",
+		"below": "to_the_blue_moon"
 	}
 ]
