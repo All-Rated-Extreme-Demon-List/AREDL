@@ -3130,5 +3130,14 @@
 		"from_rank": null,
 		"above": "the_golden",
 		"below": "oblivion"
+	},
+	{
+		"date": 1722570767,
+		"action": "raised",
+		"name": "crystal",
+		"to_rank": 273,
+		"from_rank": 345,
+		"above": "photovoltaic_ii",
+		"below": "jamboree"
 	}
 ]
