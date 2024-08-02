@@ -3211,5 +3211,14 @@
 		"from_rank": null,
 		"above": "pound_town",
 		"below": "zenith"
+	},
+	{
+		"date": 1722573987,
+		"action": "placed",
+		"name": "begin",
+		"to_rank": 580,
+		"from_rank": null,
+		"above": "artificial_ideology",
+		"below": "arctic_arena"
 	}
 ]
