@@ -3103,5 +3103,14 @@
 		"from_rank": 206,
 		"above": "firepower_sillow",
 		"below": "apollo_11"
+	},
+	{
+		"date": 1722569097,
+		"action": "placed",
+		"name": "pentakill",
+		"to_rank": 927,
+		"from_rank": null,
+		"above": "xx11",
+		"below": "decay"
 	}
 ]
