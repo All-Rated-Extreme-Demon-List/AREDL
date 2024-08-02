@@ -3148,5 +3148,14 @@
 		"from_rank": 864,
 		"above": "azurite_sillow",
 		"below": "anya_iii"
+	},
+	{
+		"date": 1722571194,
+		"action": "lowered",
+		"name": "broken_signal",
+		"to_rank": 820,
+		"from_rank": 798,
+		"above": "hydratic",
+		"below": "dance_til_dawn"
 	}
 ]
