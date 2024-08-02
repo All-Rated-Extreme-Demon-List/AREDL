@@ -3166,5 +3166,14 @@
 		"from_rank": 906,
 		"above": "wintertime",
 		"below": "cosmorush_21"
+	},
+	{
+		"date": 1722571601,
+		"action": "raised",
+		"name": "brain_power",
+		"to_rank": 717,
+		"from_rank": 770,
+		"above": "necropolix",
+		"below": "apparition"
 	}
 ]
