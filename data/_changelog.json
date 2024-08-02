@@ -3094,5 +3094,14 @@
 		"from_rank": 608,
 		"above": "siniristi",
 		"below": "helix"
+	},
+	{
+		"date": 1722568730,
+		"action": "lowered",
+		"name": "tenochtitlan",
+		"to_rank": 281,
+		"from_rank": 206,
+		"above": "firepower_sillow",
+		"below": "apollo_11"
 	}
 ]
