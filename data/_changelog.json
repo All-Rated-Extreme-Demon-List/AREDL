@@ -3184,5 +3184,14 @@
 		"from_rank": 609,
 		"above": "cluttered_confusion",
 		"below": "to_the_blue_moon"
+	},
+	{
+		"date": 1722572483,
+		"action": "placed",
+		"name": "turnt_temp",
+		"to_rank": 918,
+		"from_rank": null,
+		"above": "dismal_duststorm",
+		"below": "lost_love"
 	}
 ]
