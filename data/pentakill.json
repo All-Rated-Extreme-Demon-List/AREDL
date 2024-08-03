@@ -2,10 +2,20 @@
 	"id": 20142657,
 	"name": "Pentakill",
 	"author": "WOOGI1411",
-	"creators": ["WOOGI1411"," Xaro"],
+	"creators": [
+		"WOOGI1411",
+		" Xaro"
+	],
 	"verifier": "WOOGI1411",
 	"verification": "https://youtu.be/AJvPrk_PeF8",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "Weenside",
+			"link": "https://youtu.be/vTWXHkjp1zc?si=ZHAj-KK4PoHlcCFz",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

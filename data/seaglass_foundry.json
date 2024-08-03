@@ -2,10 +2,19 @@
 	"id": 105189665,
 	"name": "Seaglass Foundry",
 	"author": "SundayGMD",
-	"creators": ["SundayGMD"],
+	"creators": [
+		"SundayGMD"
+	],
 	"verifier": "SundayGMD",
 	"verification": "https://www.youtube.com/watch?v=6fc9CoYtNFw",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "mcdogesterr",
+			"link": "https://medal.tv/games/geometry-dash/clips/inHXic2v1KZzICr4-/d1337rXuqbo9?invite=cr-MSxuTmUsMTc1MTg4OTQs",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
