@@ -2,10 +2,46 @@
 	"id": 108016996,
 	"name": "Turnt Temp",
 	"author": "BiBox",
-	"creators": ["Drunya Drewch"," kalvinn1"," Kodex360gdm"," HarekuGD"," xVolo2"," PDKhoa"," goldeneragd7563"," _ego11"," ENCEL4DUX"," notredboi634"," Antobyy"," testicle49"," khronos4687"," BiBox"," humbyjumby"," synage3211"," Rupellar"," Opry_GD"," slayerzgmd"," TheRealJustJrock"," xe_nithhhh"],
+	"creators": [
+		"Drunya Drewch",
+		" kalvinn1",
+		" Kodex360gdm",
+		" HarekuGD",
+		" xVolo2",
+		" PDKhoa",
+		" goldeneragd7563",
+		" _ego11",
+		" ENCEL4DUX",
+		" notredboi634",
+		" Antobyy",
+		" testicle49",
+		" khronos4687",
+		" BiBox",
+		" humbyjumby",
+		" synage3211",
+		" Rupellar",
+		" Opry_GD",
+		" slayerzgmd",
+		" TheRealJustJrock",
+		" xe_nithhhh"
+	],
 	"verifier": "GD mrperson",
 	"verification": "https://www.youtube.com/watch?v=mXfuJmb50Ho&pp=ygUNdHVybnQgdGVtcCBnZA%3D%3D",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "wheelbarrow",
+			"link": "https://m.youtube.com/watch?v=kjUfEkT6eho&t=34s",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		},
+		{
+			"user": "[BHO] carv",
+			"link": "https://youtu.be/VDsmY0ILu5c?si=9Bcep6B6JQ6sEc34",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
