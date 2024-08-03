@@ -19,18 +19,5 @@
 	"verification": "https://www.youtube.com/watch?v=2CxE-UWCIG4&pp=ygUPa29jbW9jIHZlcmlmaWVk",
 	"percentToQualify": 100,
 	"password": "1441",
-	"records": [
-		{
-			"user": "Trick",
-			"link": "https://www.youtube.com/watch?v=6pl-Rb2mIPA",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "Doggie",
-			"link": "https://youtu.be/y6d00_nYgZA?si=yX3H6N7Zs7JXckSg",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+	"records": []
 }

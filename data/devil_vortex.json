@@ -296,24 +296,15 @@
 			"link": "https://youtu.be/hMs17QXkqyw?si=bRSdWdCn9cSbqK5R",
 			"percent": 100,
 			"hz": 360
-		},
-		{
-			"user": "wPopoff",
-			"link": "https://www.twitch.tv/videos/1566065820",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "Doggie",
-			"link": "https://youtu.be/OrzNGe6SU4U?si=l_eaZSkYl6ta_MFQ",
-			"percent": 100,
-			"hz": 360
+<<<<<<< HEAD
+=======
 		},
 		{
 			"user": "jupi",
 			"link": "https://youtu.be/3ipHqzTB3fo",
 			"percent": 100,
 			"hz": 360
+>>>>>>> 00a76dcb7a679821309473054b26d44e8733d458
 		}
 	]
 }

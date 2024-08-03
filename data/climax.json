@@ -9,18 +9,5 @@
 	"verifier": "Wain",
 	"verification": "https://youtu.be/E4ppq2WeAAs?si=OfCyOq8Kb5MNN5xb",
 	"percentToQualify": 100,
-	"records": [
-		{
-			"user": "Trick",
-			"link": "https://www.youtube.com/watch?v=uMx_3xupnlA",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "wPopoff",
-			"link": "https://www.youtube.com/watch?v=FpGydc3fu8E",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+	"records": []
 }
