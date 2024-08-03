@@ -3220,5 +3220,14 @@
 		"from_rank": null,
 		"above": "artificial_ideology",
 		"below": "arctic_arena"
+	},
+	{
+		"date": 1722647469,
+		"action": "raised",
+		"name": "make_it_drop",
+		"to_rank": 898,
+		"from_rank": 939,
+		"above": "wintertime",
+		"below": "brimtanic_paradise"
 	}
 ]
