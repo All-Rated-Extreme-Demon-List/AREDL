@@ -30,18 +30,5 @@
 	"verifier": "RyuDieDragon",
 	"verification": "https://youtu.be/e93d3aEskFY",
 	"percentToQualify": 100,
-	"records": [
-		{
-			"user": "ddddr",
-			"link": "https://youtu.be/jmsBxhj1Jlc?si=7WTxQ1vSueNQUeHC",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "skzyl",
-			"link": "https://www.youtube.com/watch?v=gM4oxa1lM1E",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+	"records": []
 }
