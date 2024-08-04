@@ -3229,5 +3229,14 @@
 		"from_rank": 939,
 		"above": "wintertime",
 		"below": "brimtanic_paradise"
+	},
+	{
+		"date": 1722790650,
+		"action": "raised",
+		"name": "saryyx_never_clear",
+		"to_rank": 31,
+		"from_rank": 34,
+		"above": "arcturus",
+		"below": "psychopath"
 	}
 ]
