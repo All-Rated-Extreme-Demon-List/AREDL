@@ -3238,5 +3238,14 @@
 		"from_rank": 34,
 		"above": "arcturus",
 		"below": "psychopath"
+	},
+	{
+		"date": 1722880982,
+		"action": "placed",
+		"name": "guideless_goobering",
+		"to_rank": 85,
+		"from_rank": null,
+		"above": "sary_never_clear",
+		"below": "amalgam"
 	}
 ]
