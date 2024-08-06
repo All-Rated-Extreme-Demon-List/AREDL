@@ -3247,5 +3247,14 @@
 		"from_rank": null,
 		"above": "sary_never_clear",
 		"below": "amalgam"
+	},
+	{
+		"date": 1722974637,
+		"action": "raised",
+		"name": "combustion",
+		"to_rank": 23,
+		"from_rank": 26,
+		"above": "edge_of_destiny",
+		"below": "the_hallucination"
 	}
 ]
