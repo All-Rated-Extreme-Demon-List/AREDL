@@ -3256,5 +3256,14 @@
 		"from_rank": 26,
 		"above": "edge_of_destiny",
 		"below": "the_hallucination"
+	},
+	{
+		"date": 1722988407,
+		"action": "lowered",
+		"name": "xronier",
+		"to_rank": 292,
+		"from_rank": 238,
+		"above": "zaphkiel",
+		"below": "cadrega_city"
 	}
 ]
