@@ -3265,5 +3265,14 @@
 		"from_rank": 238,
 		"above": "zaphkiel",
 		"below": "cadrega_city"
+	},
+	{
+		"date": 1722988455,
+		"action": "raised",
+		"name": "astral_divinity",
+		"to_rank": 350,
+		"from_rank": 398,
+		"above": "rate_demon",
+		"below": "desolate"
 	}
 ]
