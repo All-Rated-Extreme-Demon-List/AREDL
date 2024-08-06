@@ -3274,5 +3274,14 @@
 		"from_rank": 398,
 		"above": "rate_demon",
 		"below": "desolate"
+	},
+	{
+		"date": 1722988472,
+		"action": "raised",
+		"name": "dismal_duststorm",
+		"to_rank": 840,
+		"from_rank": 924,
+		"above": "night_party",
+		"below": "lights_out"
 	}
 ]
