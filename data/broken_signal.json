@@ -1,7 +1,7 @@
 {
 	"id": 69108628,
 	"name": "Broken Signal",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Clicksync",
@@ -1325,6 +1325,12 @@
 		{
 			"user": "GalwayGuy",
 			"link": "https://youtu.be/BaEgKpRIs6U?si=lFC2fjT2gW3Zb64B",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "rFire",
+			"link": "https://youtu.be/HU7FxXIijFE",
 			"percent": 100,
 			"hz": 360
 		}

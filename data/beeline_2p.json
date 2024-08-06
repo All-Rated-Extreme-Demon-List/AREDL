@@ -1,7 +1,7 @@
 {
 	"id": 93792764,
 	"name": "BEELINE (2P)",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"2P",
@@ -65,6 +65,12 @@
 		{
 			"user": "JesanaBanana",
 			"link": "https://youtu.be/-5EgUu60tJM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "TimBoThePro",
+			"link": "https://youtu.be/mYRb_Zdl9ZI",
 			"percent": 100,
 			"hz": 360
 		}
