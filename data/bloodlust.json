@@ -1,7 +1,7 @@
 {
 	"id": 42584142,
 	"name": "Bloodlust",
-	"tags":  [
+	"tags": [
 		"2.1",
 		"XL",
 		"Ship",
@@ -692,6 +692,12 @@
 		{
 			"user": "xVince2002",
 			"link": "https://www.youtube.com/watch?v=KY7cidrVomI&t=1s&ab_channel=xVince2002",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "JustRizxx",
+			"link": "https://youtu.be/86Nj5MphXbQ?si=8YtX4pW3n8mXphFb",
 			"percent": 100,
 			"hz": 360
 		}
