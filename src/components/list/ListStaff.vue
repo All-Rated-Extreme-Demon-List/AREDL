@@ -18,7 +18,7 @@ onMounted(async () => {
     loading_status.value = LoadingStatus.ERROR;
     return;
   }
-  const staff_roles = ["listOwner", "listCoOwner", "listAdmin", "developer", "listMod", "listHelper"]
+  const staff_roles = ["listOwner", "listAdmin", "developer", "listMod", "listHelper"]
   const supporter_roles = ["aredlPlus"]
   const staffData = {}
   for (const role of staff_roles) {
