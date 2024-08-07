@@ -1,7 +1,7 @@
 {
 	"id": 64148732,
 	"name": "Carcano",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Pased",
@@ -1596,6 +1596,12 @@
 		{
 			"user": "Aremi",
 			"link": "https://youtu.be/XhDG5E1yylE?si=eHUBZ7tJd3veW0BN",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Aerodynosaur",
+			"link": "https://youtu.be/fyrcDTQQfeo?si=UG4OjwINDpqlCGb8",
 			"percent": 100,
 			"hz": 360
 		}
