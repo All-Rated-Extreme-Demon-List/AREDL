@@ -3292,5 +3292,14 @@
 		"from_rank": 826,
 		"above": "idol19",
 		"below": "cataclysm"
+	},
+	{
+		"date": 1723017932,
+		"action": "raised",
+		"name": "mystic_bounds",
+		"to_rank": 946,
+		"from_rank": 977,
+		"above": "shotgun",
+		"below": "me_lin_a"
 	}
 ]
