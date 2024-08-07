@@ -3283,5 +3283,14 @@
 		"from_rank": 924,
 		"above": "night_party",
 		"below": "lights_out"
+	},
+	{
+		"date": 1723017534,
+		"action": "lowered",
+		"name": "uprise",
+		"to_rank": 895,
+		"from_rank": 826,
+		"above": "idol19",
+		"below": "cataclysm"
 	}
 ]
