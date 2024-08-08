@@ -3301,5 +3301,14 @@
 		"from_rank": 977,
 		"above": "shotgun",
 		"below": "me_lin_a"
+	},
+	{
+		"date": 1723139660,
+		"action": "lowered",
+		"name": "akira",
+		"to_rank": 177,
+		"from_rank": 165,
+		"above": "of_ambrosia",
+		"below": "requiem"
 	}
 ]
