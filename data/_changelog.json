@@ -3319,5 +3319,14 @@
 		"from_rank": 944,
 		"above": "firepower_kapycta999",
 		"below": "snowdrift"
+	},
+	{
+		"date": 1723140218,
+		"action": "raised",
+		"name": "crowd_control",
+		"to_rank": 848,
+		"from_rank": 869,
+		"above": "faith",
+		"below": "witching_hour"
 	}
 ]
