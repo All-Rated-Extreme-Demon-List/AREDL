@@ -1,7 +1,7 @@
 {
 	"id": 55385816,
 	"name": "Balengu Vortex",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Circles",
@@ -561,6 +561,12 @@
 		{
 			"user": "Honeybee343",
 			"link": "https://youtu.be/OF3A7H5HSis?si=jc2aKh7hQxOHYp1y",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DijonGD",
+			"link": "https://youtu.be/bmV25T3vLcg?si=Or3GnXn-fBYrqvmo",
 			"percent": 100,
 			"hz": 360
 		}
