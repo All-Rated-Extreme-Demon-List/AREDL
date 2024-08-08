@@ -1,6 +1,14 @@
 {
 	"id": 78530747,
 	"name": "Circuit Breaker",
+	"tags":[
+		"2.1",
+		"Medium",
+		"Timings",
+		"Precision",
+		"Duals",
+		"Overall"
+	],
 	"author": "efext",
 	"creators": [],
 	"verifier": "efext",
