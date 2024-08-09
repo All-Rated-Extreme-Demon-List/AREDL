@@ -1,7 +1,7 @@
 {
 	"id": 20329544,
 	"name": "Betrayal of Fate",
-	"tags":[
+	"tags": [
 		"2.0",
 		"Long",
 		"Timings",
@@ -263,6 +263,12 @@
 		{
 			"user": "jacketchair",
 			"link": "https://www.youtube.com/watch?v=FnOBVjjN6nI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Fluorine",
+			"link": "https://www.youtube.com/watch?v=KO-6qrMWDt8",
 			"percent": 100,
 			"hz": 360
 		}
