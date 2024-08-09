@@ -3328,5 +3328,14 @@
 		"from_rank": 869,
 		"above": "faith",
 		"below": "witching_hour"
+	},
+	{
+		"date": 1723190509,
+		"action": "raised",
+		"name": "niwa",
+		"to_rank": 936,
+		"from_rank": 961,
+		"above": "pentakill",
+		"below": "decay"
 	}
 ]
