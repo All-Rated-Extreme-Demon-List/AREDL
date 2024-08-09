@@ -1,7 +1,7 @@
 {
 	"id": 60130895,
 	"name": "Berserk",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"NONG",
@@ -358,6 +358,12 @@
 		{
 			"user": "Bibox",
 			"link": "https://youtu.be/opvO3CjTikg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DijonGD",
+			"link": "https://youtu.be/b8DNJN1mKJc?si=3vyJwSDWB1HWMxk9",
 			"percent": 100,
 			"hz": 360
 		}
