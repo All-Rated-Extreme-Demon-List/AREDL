@@ -20,10 +20,6 @@
         "role": "admin",
         "members": [
             {
-                "name": "jacob",
-                "link": "https://youtube.com/@smjacob."
-            },
-            {
                 "name": "Kuzzi",
                 "link": "https://www.youtube.com/channel/UCtLuHWMWDEulHAYA5GJyGHA"
             },
@@ -46,7 +42,7 @@
         ]
     },
     {
-        "role": "trial",
+        "role": "mod",
         "members": [
             {
                 "name": "faulheitsmensch",
@@ -67,6 +63,10 @@
             {
                 "name": "IvanCrafter026",
                 "link": "https://www.youtube.com/channel/UCnRHi7-GOiXeVtvHgp1Xcxw"
+            },
+            {
+                "name": "Shyne",
+                "link": ""
             },
             {
                 "name": "Pentu",
@@ -122,10 +122,6 @@
                 "link": ""
             },
             {
-                "name": "Shyne",
-                "link": ""
-            },
-            {
                 "name": "[FOWL] dartlolz",
                 "link": ""
             },
@@ -143,6 +139,10 @@
             },
             {
                 "name": "GJosh2",
+                "link": ""
+            },
+            {
+                "name": "AzaFTW",
                 "link": ""
             }
         ] 
