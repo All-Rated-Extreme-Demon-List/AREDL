@@ -3337,5 +3337,14 @@
 		"from_rank": 961,
 		"above": "pentakill",
 		"below": "decay"
+	},
+	{
+		"date": 1723190524,
+		"action": "lowered",
+		"name": "cupid",
+		"to_rank": 759,
+		"from_rank": 750,
+		"above": "sorryforpartyrocking",
+		"below": "pumped_up_kicks"
 	}
 ]
