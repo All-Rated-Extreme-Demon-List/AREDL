@@ -1,7 +1,7 @@
 {
 	"id": 93941971,
 	"name": "Cicatrize",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Clicksync",
@@ -46,6 +46,12 @@
 		{
 			"user": "nilcoheff",
 			"link": "https://youtu.be/k9PNuf_JN2U?si=4-p0cnUo-tJiPHv4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "naro",
+			"link": "https://youtu.be/oZ3GMxAg9kM?si=fj9kPVtLXLUG1LFp",
 			"percent": 100,
 			"hz": 360
 		}
