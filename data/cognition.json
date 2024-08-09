@@ -1,7 +1,7 @@
 {
 	"id": 57600307,
 	"name": "Cognition",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Pased",
@@ -636,6 +636,12 @@
 		{
 			"user": "DijonGD",
 			"link": "https://youtu.be/U8Xj0X36VwE?si=zW2Bp8UavRwg9DYZ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "nilcoheff",
+			"link": "https://youtu.be/aWJUhPuFthI?si=ROb2avbctsGzjuQu",
 			"percent": 100,
 			"hz": 360
 		}

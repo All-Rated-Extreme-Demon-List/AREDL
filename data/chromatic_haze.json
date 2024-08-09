@@ -1,7 +1,7 @@
 {
 	"id": 62869408,
 	"name": "Chromatic Haze",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Pased",
@@ -505,6 +505,18 @@
 		{
 			"user": "Nexi",
 			"link": "https://www.youtube.com/watch?v=i1OFWdO2q7I",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DrakoAK",
+			"link": "https://youtu.be/gQiH-zV1BR0?si=1_GqFqix_HzGwRD6",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "shouko652",
+			"link": "https://www.youtube.com/watch?v=SQes3Yu0BYs",
 			"percent": 100,
 			"hz": 360
 		}
