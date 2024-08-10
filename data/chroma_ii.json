@@ -1,7 +1,7 @@
 {
 	"id": 70187443,
 	"name": "CHROMA II",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Pased",
@@ -235,6 +235,12 @@
 		{
 			"user": "Tasgod",
 			"link": "https://youtu.be/XY-yevo70zc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BigFatLuke",
+			"link": "https://www.youtube.com/watch?v=ok5I2IWs9xY",
 			"percent": 100,
 			"hz": 360
 		}
