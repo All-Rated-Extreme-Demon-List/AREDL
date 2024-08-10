@@ -1,7 +1,7 @@
 {
 	"id": 56916170,
 	"name": "Bang Gang (Solo)",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Pased",
@@ -67,6 +67,12 @@
 		{
 			"user": "Ryclix",
 			"link": "https://www.youtube.com/watch?v=5sI1tgxlHHU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HG14mmar",
+			"link": "https://www.youtube.com/live/OSbIWzw6ybk?si=pVdVicJbAWyruqFW&t=3621",
 			"percent": 100,
 			"hz": 360
 		}
