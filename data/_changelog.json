@@ -3373,5 +3373,14 @@
 		"from_rank": 594,
 		"above": "arctic_arena",
 		"below": "aurora"
+	},
+	{
+		"date": 1723313466,
+		"action": "raised",
+		"name": "recrystallize",
+		"to_rank": 680,
+		"from_rank": 721,
+		"above": "ninobytte",
+		"below": "torsion"
 	}
 ]
