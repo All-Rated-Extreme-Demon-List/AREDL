@@ -1,7 +1,7 @@
 {
 	"id": 63996127,
 	"name": "Cold Sweat",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"NONG",
@@ -152,6 +152,12 @@
 		{
 			"user": "Tai0",
 			"link": "https://youtu.be/xTv2s6Mhokc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "tiredfish",
+			"link": "https://www.youtube.com/watch?v=87aDxEJc1co",
 			"percent": 100,
 			"hz": 360
 		}

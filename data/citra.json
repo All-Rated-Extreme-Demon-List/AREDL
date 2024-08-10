@@ -1,7 +1,7 @@
 {
 	"id": 80966089,
 	"name": "CITRA",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Medium",
 		"Fast-Pased",
@@ -278,6 +278,12 @@
 		{
 			"user": "DijonGD",
 			"link": "https://youtu.be/Ed_-wpNDU9w?si=MsBPo5gmXGLwTxaR",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "tiredfish",
+			"link": "https://www.youtube.com/watch?v=i-8uBwNe_x8",
 			"percent": 100,
 			"hz": 360
 		}
