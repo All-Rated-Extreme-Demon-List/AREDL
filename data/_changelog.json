@@ -3364,5 +3364,14 @@
 		"from_rank": 652,
 		"above": "solstice",
 		"below": "flamethrower"
+	},
+	{
+		"date": 1723313448,
+		"action": "raised",
+		"name": "electric_forest",
+		"to_rank": 580,
+		"from_rank": 594,
+		"above": "arctic_arena",
+		"below": "aurora"
 	}
 ]
