@@ -33,37 +33,22 @@ const mobile_list_expanded = ref(true)
             When submitting your record, please ensure that it complies with the following guidelines:
           </p>
           <p>
-            - Your recording is a complete playthrough of the level from 0-100 without any cuts (if there are cuts in your video, please include an uncut raw footage)
+            1. Your record must have clicks, COMPLETELY audible throughout the whole level. Not audible sometimes, at the end, or the beginning the whole level. "But what if there was a mistake with the-" We apologize, but we have to be able to hear full audible clicks throughout your video. (Taps, if you're playing on mobile. Same rules apply.)
           </p>
           <p>
-            - Your completion needs to have clicks. If it doesn't (or if it only does for a part of the level, and not the entire run), you have to provide a raw footage with clicks. If you don't, your record will be rejected. Mobile players are NOT exempt from this rule, recorded taps are required.
-          </p>
-             <p>
-                    - Your completion must contain at least a second of a previous attempt, including the death. If the completion does not comply, it will be denied and you will be asked to provide raw footage. If the record was achieved on the first attempt it is exempt from this rule.
-                </p>
-          <p>
-            - Achieved the record on the level that is listed on the site (or an approved LDM of it) - please check the level ID before you submit a record
+            2. Your record must have a cheat indicator either overlaid in your level, or located on the end screen. However, there are exceptions to this rule. If you're playing vanilla GD, or you have a mod menu that does not use a cheat indicator/older version of mega hack. However, you have to put that in your notes, we are not responsible for figuring out which mod menu you used, or if you're playing on vanilla.
           </p>
           <p>
-            - The record has been achieved without using a secret way or a bugged route
+            3. If you are using an LDM, or a bugfix copy of a level, it must either be approved by list staff, or obviously fine. Use your best judgement here, if you are uncertain whether or not your bugfix copy/LDM of a level can be accepted, file a support ticket with the level ID. However, if you're absolutely certain that your copy is fine, you don't need to get it approved in order to get your record accepted. If you're unaware of what an "acceptable" copy would be, go ahead and file a support ticket. (We deny copies that either change gameplay of the level, or remove so much detail that it makes the level easier.
           </p>
           <p>
-            - Cheat Indicator on Endscreen is required if you are using a mod menu that supports one, like Megahack v8.
+            4. Your record must have an uncut end screen. If your video ends before we see the end screen, and your stats are not visible, it is not an acceptable record.
           </p>
           <p>
-            - End stats (The whole box must appear for at least one frame)
+            5. If your record is found in the top 250, you must have raw footage linked, no matter what. However, if you have the record on your Pointercrate profile, you may submit that in the additional info instead, and we will accept your record.
           </p>
           <p>
-            - FPS/TPS counter is required only on 2.1 GDPS up to 360 fps/tps
-          </p>
-          <p>
-            - Using physics bypass on any level in 2.2 is not allowed, and will get your record rejected
-          </p>
-          <p>
-            - Using the 2.1 GDPS is allowed for levels verified in 2.1, up to 360 FPS/TPS
-          </p>
-          <p>
-            - Raw footage (or a pointercrate record of the level) AND clicks will ALWAYS be required for levels in the top 250.
+            6. This should be obvious, but your record may not be completed with any disallowed mods. This information (of what we allow and don't allow) can be found on our website. This rule also applies to having a red/blue cheat indicator, obvious hacked completions, and bots.
           </p>
           <h3>> Why was my record denied?</h3>
           <p>
