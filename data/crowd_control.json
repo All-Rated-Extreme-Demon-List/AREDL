@@ -1,7 +1,7 @@
 {
 	"id": 69491632,
 	"name": "Crowd Control",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -2007,6 +2007,12 @@
 		{
 			"user": "RAASU",
 			"link": "https://youtu.be/XHPC_0ywIJY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "SkylerNotSkylar",
+			"link": "https://www.youtube.com/watch?v=F1tHrwrM06s&t=21s",
 			"percent": 100,
 			"hz": 360
 		}
