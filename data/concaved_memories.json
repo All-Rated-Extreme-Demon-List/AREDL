@@ -1,7 +1,7 @@
 {
 	"id": 57559425,
 	"name": "Concaved Memories",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Pased",
@@ -738,6 +738,12 @@
 		{
 			"user": "El Calvo Tóxico",
 			"link": "https://www.youtube.com/watch?v=FHuy8gIsFtY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "AkO",
+			"link": "https://youtu.be/OD-rwuLvuFo?si=cXZhNeyARYIptnbr",
 			"percent": 100,
 			"hz": 360
 		}
