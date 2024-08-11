@@ -3391,5 +3391,14 @@
 		"from_rank": 148,
 		"above": "farthest_outpost",
 		"below": "sand_sailor"
+	},
+	{
+		"date": 1723399988,
+		"action": "raised",
+		"name": "advent_aurora",
+		"to_rank": 315,
+		"from_rank": 500,
+		"above": "quantum_dynamix",
+		"below": "effect_ii"
 	}
 ]
