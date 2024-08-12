@@ -2090,12 +2090,12 @@
         ],
         "colour": "linear-gradient(90deg, rgba(143,47,47,1) 0%, rgba(0,0,0,1) 48%, rgba(255,0,0,1) 100%)"
     }, 
-{
-        "name": "The Hell Pack II",
+    {
+        "name": "The Hell Pack III",
         "levels": [
-            "the_hell_inferno",
-            "the_hell_origin",
-            "the_hell_zone"
+            "the_hell_world",
+            "the_hell_field",
+            "the_hell_nutz"
         ],
         "colour": "linear-gradient(90deg, rgba(143,47,47,1) 0%, rgba(0,0,0,1) 48%, rgba(255,0,0,1) 100%)"
     },
