@@ -1,7 +1,7 @@
 {
 	"id": 68668045,
 	"name": "Congregation",
-	"tags":[
+	"tags": [
 		"2.1",
 		"XXL",
 		"Timings",
@@ -258,6 +258,12 @@
 		{
 			"user": "[FOWL] Telex",
 			"link": "https://youtu.be/Tkf74JJBaWw?si=cyne2b-fOtCfWuIm",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Oblivionus",
+			"link": "https://youtu.be/-ruPYiTMpqI",
 			"percent": 100,
 			"hz": 360
 		}
