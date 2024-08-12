@@ -1,7 +1,7 @@
 {
 	"id": 79006927,
 	"name": "Black Flag",
-	"tags" : [
+	"tags": [
 		"2.1",
 		"XL",
 		"UFO",
@@ -226,6 +226,12 @@
 		{
 			"user": "[24hs] [24hs] voicechatping",
 			"link": "https://www.youtube.com/watch?v=Lxlxa4aVmso",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "[Diddy] Bionik",
+			"link": "https://www.youtube.com/watch?v=M7l_TnKu6pU",
 			"percent": 100,
 			"hz": 360
 		}
