@@ -1,10 +1,24 @@
 {
-    "id": 95294285,
-    "name": "GBS",
-    "author": "Kapinapi",
-    "creators": ["verticallity", "para", "CuLuC", "Kapinapi", "Jenkins", "ViralDL"],
-    "verifier": "Luqualizer",
-    "verification": "https://youtu.be/zBmIYg2dpk4?si=fv-aZqXc2e5GKowP",
-    "percentToQualify": 100,
-    "records": []
+	"id": 95294285,
+	"name": "GBS",
+	"author": "Kapinapi",
+	"creators": [
+		"verticallity",
+		"para",
+		"CuLuC",
+		"Kapinapi",
+		"Jenkins",
+		"ViralDL"
+	],
+	"verifier": "Luqualizer",
+	"verification": "https://youtu.be/zBmIYg2dpk4?si=fv-aZqXc2e5GKowP",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "wispie",
+			"link": "https://youtu.be/OLBEbwNFW88?si=g6_gyMmPS9XBR2gd",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
