@@ -616,6 +616,15 @@
         "colour": "radial-gradient(circle, rgba(0,255,14,1) 50%, rgba(0,251,255,1) 68%)"
     },
     {
+        "name": "Cairox Trilogy",
+        "levels": [
+            "lucid_nightmares",
+            "lucid_chaos",
+            "concaved_memories"
+        ],
+        "colour": "linear-gradient(240deg, rgba(0,255,49,1) 0%, rgba(0,255,207,1) 100%)"
+    },
+    {
         "name": "Cyka Blyat Pack",
         "levels": [
             "kocmoc",
@@ -634,6 +643,16 @@
         ],
         "colour": "radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(14,0,255,1) 50%, rgba(255,255,255,1) 100%)"
     },
+    {
+        "name": "Doggie Pack",
+        "levels": [
+            "slaughterhouse",
+            "delta",
+            "deimos_itshybrid",
+            "aerial_gleam"
+        ],
+        "colour": "linear-gradient(240deg, rgba(255,254,0,1) 0%, rgba(246,0,255,1) 100%)"
+    }, 
     {
         "name": "Dark Web Pack",
         "levels": [
@@ -828,6 +847,15 @@
             "eternal_dreams"
         ],
         "colour": "linear-gradient(37deg, rgba(60,151,255,1) 0%, rgba(117,255,160,1) 50%, rgba(60,151,255,1) 100%)"
+    },
+    {
+        "name": "Enfur's Entourage",
+        "levels": [
+            "miscellaneous_memory",
+            "guideless_goobering",
+            "cluttered_confusion"
+        ],
+        "colour": "linear-gradient(90deg, rgba(214,36,197,1) 0%, rgba(198,216,35,1) 4%, rgba(33,205,179,1) 9%, rgba(131,48,191,1) 15%, rgba(128,132,76,1) 23%, rgba(41,162,95,1) 28%, rgba(151,56,78,1) 33%, rgba(115,121,60,1) 37%, rgba(49,64,163,1) 41%, rgba(144,57,146,1) 47%, rgba(147,121,69,1) 50%, rgba(152,86,111,1) 54%, rgba(44,169,156,1) 59%, rgba(144,87,75,1) 65%, rgba(54,176,94,1) 75%, rgba(134,122,71,1) 81%, rgba(52,166,108,1) 86%, rgba(111,149,61,1) 87%, rgba(106,62,139,1) 92%, rgba(47,143,127,1) 94%, rgba(255,0,0,1) 100%)"
     },
     {
         "name": "Extreme Pack I",
@@ -1268,6 +1296,15 @@
         "colour": "linear-gradient(144deg, rgba(0,11,255,1) 0%, rgba(0,0,0,1) 100%)"
     },
     {
+        "name": "Lovely Pack",
+        "levels": [
+            "lovel",
+            "lost_love",
+            "cupid"
+        ],
+        "colour": "linear-gradient(90deg, rgba(255,151,151,1) 0%, rgba(213,125,204,1) 20%, rgba(153,88,88,1) 48%, rgba(214,36,197,1) 76%, rgba(255,0,0,1) 95%)"
+    }, 
+    {
         "name": "Lyric Pack I",
         "levels": [
             "insaction",
@@ -1580,6 +1617,15 @@
             "rage"
         ],
         "colour": "linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(167,0,255,1) 50%, rgba(255,255,255,1) 100%)"
+    },
+    {
+        "name": "New RGB Lite",
+        "levels": [
+            "kenos",
+            "keres",
+            "frost_spirit"
+        ],
+        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,136,0,1) 15%, rgba(245,255,0,1) 30%, rgba(0,255,12,1) 45%, rgba(0,255,243,1) 60%, rgba(16,0,255,1) 75%, rgba(255,0,241,1) 90%)"
     },
     {
         "name": "Nuclear Trilogy",
@@ -2324,6 +2370,24 @@
         "colour": "radial-gradient(circle, rgba(1,0,251,1) 0%, rgba(0,255,246,1) 100%)"
     },
     {
+        "name": "XXXL Pack I",
+        "levels": [
+            "death",
+            "the_lost_existence",
+            "eon"
+        ],
+        "colour": "linear-gradient(300deg, rgba(0,255,100,1) 0%, rgba(182,0,255,1) 100%)"
+    },
+    {
+        "name": "XXXL Pack II",
+        "levels": [
+            "light_travel",
+            "cicada3302",
+            "dark_odyssey"
+        ],
+        "colour": "linear-gradient(300deg, rgba(0,255,100,1) 0%, rgba(182,0,255,1) 100%)"
+    },
+    {
         "name": "The X Factor",
         "levels": [
             "acropolix",
@@ -2331,6 +2395,15 @@
             "ithacropolix"
         ],
         "colour": "linear-gradient(90deg, rgba(156,4,4,1) 0%, rgba(0,0,0,1) 50%, rgba(191,2,255,1) 100%)"
+    },
+    {
+        "name": "Zephirox Special",
+        "levels": [
+            "macabre",
+            "penombre",
+            "catalyze"
+        ],
+        "colour": "radial-gradient(circle, rgba(149,255,0,1) 9%, rgba(255,117,0,1) 22%, rgba(0,29,255,1) 36%, rgba(255,0,0,1) 50%, rgba(0,117,255,1) 63%, rgba(255,139,0,1) 76%, rgba(243,255,0,1) 91%, rgba(0,255,181,1) 98%)"
     },
     {
         "name": "Zoink Pack",
@@ -2378,5 +2451,24 @@
             "retention"
         ],
         "colour": "radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(0,255,255,1) 25%, rgba(255,255,255,1) 50%, rgba(0,255,255,1) 75%, rgba(255,255,255,1) 100%)"
+    },
+    {
+        "name": "JayG's Pack",
+        "levels": [
+            "black_blizzard",
+            "a9blue",
+            "kuzureta"
+        ],
+        "linear-gradient(90deg, rgba(47,61,143,1) 0%, rgba(255,0,0,1) 100%)": "gradient"
+    },
+    {
+        "name": "YeahSlayed's Pack",
+        "levels": [
+            "zodiac",
+            "low_death",
+            "killbot",
+            "fragile"
+        ],
+        "colour": "linear-gradient(90deg, rgba(0,166,255,1) 0%, rgba(255,255,255,1) 48%, rgba(0,166,255,1) 100%)"
     }
 ]
