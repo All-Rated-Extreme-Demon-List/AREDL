@@ -3454,5 +3454,14 @@
 		"from_rank": 529,
 		"above": "oopz",
 		"below": "siniristi"
+	},
+	{
+		"date": 1723569453,
+		"action": "lowered",
+		"name": "athanatos",
+		"to_rank": 438,
+		"from_rank": 431,
+		"above": "shock_breaker",
+		"below": "kinetic_bypass"
 	}
 ]
