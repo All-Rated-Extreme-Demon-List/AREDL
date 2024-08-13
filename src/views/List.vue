@@ -3,6 +3,7 @@ import {ref} from "vue";
 import LevelView from "@/components/list/LevelView.vue";
 import ListStaff from "@/components/list/ListStaff.vue";
 import ListView from "@/components/list/ListView.vue";
+import {ColorPicker} from "vue-accessible-color-picker";
 
 const selected_level = ref()
 
@@ -16,7 +17,6 @@ const mobile_list_expanded = ref(true)
     <div class="list-tab tab" :class="!mobile_list_expanded && 'hidden-mobile'">
       <ListView @select="(selected) => {selected_level = selected; if (mobile_list_expanded) mobile_list_expanded = selected.init}"></ListView>
     </div>
-    <button class="mobile-expand" @click="mobile_list_expanded = !mobile_list_expanded">{{mobile_list_expanded ? "<" : ">"}}</button>
     <div class="level-tab tab" :class="mobile_list_expanded && 'hidden-mobile'">
       <LevelView :selected_level="selected_level" class="level-view"></LevelView>
     </div>
@@ -26,7 +26,7 @@ const mobile_list_expanded = ref(true)
         <div class="info-text">
           <h3>> How to Submit Records</h3>
           <p>
-            Join our discord server, and  use /record submit
+            Join our <a href="https://discord.gg/aredl">discord server</a>, and  use /record submit
           </p>
           <h3>> Submission Requirements</h3>
           <p>
@@ -131,11 +131,11 @@ const mobile_list_expanded = ref(true)
 }
 
 @media (max-width: 880px) {
-  .hidden-mobile {
+  /* .hidden-mobile {
     display: none;
-  }
+  } */
 
-  .mobile-expand {
+  /* .mobile-expand {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -143,24 +143,59 @@ const mobile_list_expanded = ref(true)
     height: 100%;
     background: color-mix(in srgb, var(--color-background), rgba(255, 255, 255) 15%);
     border: none;
-  }
+  } */
 
   .page {
-    overflow: hidden;
+    /* overflow: hidden; */
     height: 100%;
     display: flex;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
   }
 
   .info-tab {
-    display: none;
+    width: 67%;
+    flex-shrink: 0;
+    scroll-snap-align: center;
+  }
+
+  .level-tab {
+    width: 67%;
+    flex-shrink: 0;
+  }
+
+  .list-tab {
+    width: 33%;
+    flex-shrink: 0;
+    scroll-snap-align: center;
+  }
+}
+
+@media (max-width: 600px) {
+  .page {
+    /* overflow: hidden; */
+    height: 100%;
+    display: flex;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+  }
+
+  .info-tab {
+    width: 100%;
+    flex-shrink: 0;
+    scroll-snap-align: center;
   }
 
   .level-tab {
     width: 100%;
+    flex-shrink: 0;
+    scroll-snap-align: center;
   }
 
   .list-tab {
     width: 100%;
+    flex-shrink: 0;
+    scroll-snap-align: center;
   }
 }
 

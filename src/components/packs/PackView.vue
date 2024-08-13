@@ -110,4 +110,10 @@ watch(props, () => {
 .pack_view:hover .pack_header {
   background: rgba(0, 0, 0, 0.3);
 }
+
+@media (max-width: 550px) {
+  .pack_view {
+    width: 100%;
+  }
+}
 </style>

@@ -51,4 +51,15 @@ onMounted(async () => {
 .container {
   overflow: auto;
 }
+
+@media (max-width: 550px) {
+  .pack_display {
+  display: flex;
+  width: 100%;
+  flex-flow: column;
+  padding: 1rem;
+  gap: 0.75rem;
+  justify-content: center;
+}
+}
 </style>

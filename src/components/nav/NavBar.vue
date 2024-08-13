@@ -38,12 +38,10 @@ const toggleNavMenu = () => {
     <div class="right-nav">
       <button class="nav_toggle_button" @click="toggleNavMenu">
         <div class="menu-icon">
-          <div></div>
-          <div></div>
-          <div></div>
+        <img src="@/assets/navmenu.svg" alt="Navigation Menu" style="width: 120%; translate: 0px -7px;"/>
         </div>
       </button>
-      <a class="nav_icon" href="https://discord.gg/aredl">
+      <a class="nav_icon discord_button" href="https://discord.gg/aredl">
         <img src="@/assets/discord.svg" alt="Discord Logo" />
       </a>
       <button class="settings nav_icon" @click="isColorPickerOpen = !isColorPickerOpen">
@@ -228,6 +226,19 @@ const toggleNavMenu = () => {
 
   .nav .nav_tab.router-link-active, .nav .nav_tab:hover {
     background-color: color-mix(in srgb, var(--color-background), rgba(255, 255, 255) 20%);
+  }
+
+  @media (max-width: 500px) {
+
+    .discord_button {
+      display: none;
+    }
+
+    .nav_bar {
+      column-gap: 1rem;
+    }
+
+
   }
 
 }
