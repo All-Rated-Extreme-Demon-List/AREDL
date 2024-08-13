@@ -1,7 +1,7 @@
 {
 	"id": 79054135,
 	"name": "Barbaros Finale",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Pased",
@@ -277,6 +277,12 @@
 		{
 			"user": "sebv",
 			"link": "https://www.youtube.com/watch?v=FjaVDaO9qvw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Detrezo",
+			"link": "https://youtu.be/_uU1WZO6oqc?si=rGvzO4DChKLqam-T",
 			"percent": 100,
 			"hz": 360
 		}

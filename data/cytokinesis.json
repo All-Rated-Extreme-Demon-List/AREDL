@@ -1,7 +1,7 @@
 {
 	"id": 93752979,
 	"name": "cytokinesis",
-	"tags":[
+	"tags": [
 		"2.1",
 		"XL",
 		"Fast-Paced",
@@ -393,6 +393,12 @@
 		{
 			"user": "Experience",
 			"link": "https://youtu.be/Q-04cYSv3lA?si=IXErhmlE4V7e1vTR",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Detrezo",
+			"link": "https://youtu.be/uL3dDW2vFww?si=a8U2vCTW-_O1clU8",
 			"percent": 100,
 			"hz": 360
 		}
