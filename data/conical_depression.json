@@ -1,7 +1,7 @@
 {
 	"id": 17711004,
 	"name": "Conical Depression",
-	"tags":[
+	"tags": [
 		"2.0",
 		"Timings",
 		"Precision",
@@ -860,6 +860,12 @@
 		{
 			"user": "The Spoodster",
 			"link": "https://youtu.be/8mhERCHKOYQ?si=GniZSWd-dryxuMZU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "tiredfish",
+			"link": "https://youtu.be/ZGMt4kB3Nqg",
 			"percent": 100,
 			"hz": 360
 		}
