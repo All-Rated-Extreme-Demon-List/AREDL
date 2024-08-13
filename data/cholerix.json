@@ -1,7 +1,7 @@
 {
 	"id": 40902405,
 	"name": "CholeriX",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"2P",
@@ -142,6 +142,12 @@
 		{
 			"user": "Hubertos",
 			"link": "https://youtu.be/GeqxpgO5I_M",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Motor8",
+			"link": "https://youtu.be/tAvskVGrrqA?si=evX5AWO65u8ENPKN",
 			"percent": 100,
 			"hz": 360
 		}

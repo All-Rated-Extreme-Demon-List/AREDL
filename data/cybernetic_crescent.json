@@ -1,7 +1,7 @@
 {
 	"id": 66291197,
 	"name": "Cybernetic Crescent",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Timings",
@@ -336,6 +336,12 @@
 		{
 			"user": "DijonGD",
 			"link": "https://youtu.be/M3aHyMz0usY?si=5i8CJ6TFW06Il9Yj",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "theMightyGecko",
+			"link": "https://youtu.be/5mYCoEcdTa0",
 			"percent": 100,
 			"hz": 360
 		}

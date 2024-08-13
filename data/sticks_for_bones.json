@@ -1,23 +1,29 @@
 {
-    "id": 85219126,
-    "name": "STICKS FOR BONES",
-    "author": "koko43",
-    "creators": [],
-    "verifier": "spcreat",
-    "verification": "https://www.youtube.com/watch?v=BlHSbCan6bI",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "NUwUxuz",
-            "link": "https://www.youtube.com/watch?v=PkfRe_dbn5g",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "baechugimchi",
-            "link": "https://youtu.be/5Q1WGfuZgTU",
-            "percent": 100,
-            "hz": 360
-}
-               ]
+	"id": 85219126,
+	"name": "STICKS FOR BONES",
+	"author": "koko43",
+	"creators": [],
+	"verifier": "spcreat",
+	"verification": "https://www.youtube.com/watch?v=BlHSbCan6bI",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "NUwUxuz",
+			"link": "https://www.youtube.com/watch?v=PkfRe_dbn5g",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "baechugimchi",
+			"link": "https://youtu.be/5Q1WGfuZgTU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Motor8",
+			"link": "https://youtu.be/nq8OhansEwk?si=1UYYazsj7iBE0sHF",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
