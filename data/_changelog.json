@@ -3409,5 +3409,14 @@
 		"from_rank": 119,
 		"above": "bloodlust",
 		"below": "the_art_of_the_blade"
+	},
+	{
+		"date": 1723569162,
+		"action": "lowered",
+		"name": "devil_vortex",
+		"to_rank": 323,
+		"from_rank": 260,
+		"above": "gentlemens_clique_solo",
+		"below": "bang_gang_solo"
 	}
 ]
