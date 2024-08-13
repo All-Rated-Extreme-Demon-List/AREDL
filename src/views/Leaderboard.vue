@@ -14,7 +14,7 @@ const mobile_list_expanded = ref(true)
     <div class="leaderboard-tab tab" :class="!mobile_list_expanded && 'hidden-mobile'">
       <LeaderboardView @select="(selected) => {selected_user = selected.id; if (mobile_list_expanded) mobile_list_expanded = selected.init}"></LeaderboardView>
     </div>
-    <button class="mobile-expand" @click="mobile_list_expanded = !mobile_list_expanded">{{mobile_list_expanded ? "<" : ">"}}</button>
+    <!-- <button class="mobile-expand" @click="mobile_list_expanded = !mobile_list_expanded">{{mobile_list_expanded ? "<" : ">"}}</button> -->
     <div class="profile-tab tab" :class="mobile_list_expanded && 'hidden-mobile'">
       <ProfileView :user_id="selected_user"></ProfileView>
     </div>
@@ -38,6 +38,7 @@ const mobile_list_expanded = ref(true)
   @media (min-width: 880px) {
     & .leaderboard-tab {
       flex: 1;
+      overflow-x: hidden;
     }
 
     & .profile-tab {
@@ -51,11 +52,11 @@ const mobile_list_expanded = ref(true)
 }
 
 @media (max-width: 880px) {
-  .hidden-mobile {
+  /* .hidden-mobile {
     display: none;
-  }
+  } */
 
-  .mobile-expand {
+  /* .mobile-expand {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -63,7 +64,7 @@ const mobile_list_expanded = ref(true)
     height: 100%;
     background: color-mix(in srgb, var(--color-background), rgba(255, 255, 255) 15%);
     border: none;
-  }
+  } */
 
   .page {
     overflow: hidden;
@@ -72,8 +73,30 @@ const mobile_list_expanded = ref(true)
     display: flex;
   }
 
-  .tab {
+  .leaderboard_tab {
+    width: 67%;
+  }
+
+  .profile_tab {
+    width: 33%;
+  }
+
+  @media (max-width: 750px) {
+    .page {
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+    height: 100%;
     width: 100%;
+    display: flex;
+  }
+
+  .tab {
+    flex-shrink: 0;
+    overflow-x: hidden;
+    width: 100%;
+    scroll-snap-align: center;
+  }
+
   }
 }
 
