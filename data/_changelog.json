@@ -3418,5 +3418,14 @@
 		"from_rank": 260,
 		"above": "gentlemens_clique_solo",
 		"below": "bang_gang_solo"
+	},
+	{
+		"date": 1723569178,
+		"action": "raised",
+		"name": "wasureta",
+		"to_rank": 194,
+		"from_rank": 198,
+		"above": "dedohexdragon",
+		"below": "gbs"
 	}
 ]
