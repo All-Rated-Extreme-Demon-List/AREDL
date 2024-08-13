@@ -3427,5 +3427,14 @@
 		"from_rank": 198,
 		"above": "dedohexdragon",
 		"below": "gbs"
+	},
+	{
+		"date": 1723569203,
+		"action": "lowered",
+		"name": "hyper_paracosm",
+		"to_rank": 196,
+		"from_rank": 190,
+		"above": "iris_of_a_puppeteer",
+		"below": "ryft"
 	}
 ]
