@@ -1,7 +1,7 @@
 {
 	"id": 91701349,
 	"name": "Backlights",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Pased",
@@ -472,6 +472,12 @@
 		{
 			"user": "spryzen",
 			"link": "https://youtu.be/NRsUtlnJII0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "[LAV] Null",
+			"link": "https://youtu.be/jKZhMmngKlA",
 			"percent": 100,
 			"hz": 360
 		}

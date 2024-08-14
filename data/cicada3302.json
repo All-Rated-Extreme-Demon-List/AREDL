@@ -1,7 +1,7 @@
 {
 	"id": 96036893,
 	"name": "CICADA3302",
-	"tags":[
+	"tags": [
 		"2.1",
 		"XXXXXXL",
 		"Fast-Pased",
@@ -124,6 +124,12 @@
 		{
 			"user": "HotNooB",
 			"link": "https://youtu.be/muuTVP5TqUc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "scooby235",
+			"link": "https://drive.google.com/drive/folders/1xLAW4vM3IlywAQzF2JtMsNXDTCl5RJcp?usp=sharing",
 			"percent": 100,
 			"hz": 360
 		}
