@@ -1,7 +1,7 @@
 {
 	"id": 12437428,
 	"name": "Bass Cave",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Pased",
@@ -66,6 +66,12 @@
 		{
 			"user": "Maruigi",
 			"link": "https://youtu.be/76FXDADbMwA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Pulse",
+			"link": "https://youtu.be/tbwk9kdcrbI?si=0lCg3aeMyj0-X4l4",
 			"percent": 100,
 			"hz": 360
 		}
