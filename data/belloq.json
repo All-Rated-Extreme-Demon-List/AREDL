@@ -1,7 +1,7 @@
 {
 	"id": 55610687,
 	"name": "Belloq",
-	"tags":[
+	"tags": [
 		"2.1",
 		"XL",
 		"Clicksync",
@@ -171,6 +171,12 @@
 		{
 			"user": "xspiralix",
 			"link": "https://youtu.be/hXp7_dOm_tE?feature=shared",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Pulse",
+			"link": "https://youtu.be/5ATxrQF8qyE?si=J29rJl1dkHaoQ8CU",
 			"percent": 100,
 			"hz": 360
 		}

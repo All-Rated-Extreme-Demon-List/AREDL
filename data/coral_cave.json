@@ -1,7 +1,7 @@
 {
 	"id": 90891227,
 	"name": "Coral Cave",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Precision",
@@ -26,6 +26,12 @@
 		{
 			"user": "DJ1482",
 			"link": "https://youtu.be/eC0XnkkrE3A",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Pulse",
+			"link": "https://youtu.be/Y3o6ppAJbgA?si=BS5hKPmdwtzeRq65",
 			"percent": 100,
 			"hz": 360
 		}
