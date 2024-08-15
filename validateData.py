@@ -12,6 +12,13 @@ level_list_schema = {
     }
 }
 
+banned_schema = {
+    "type": "array",
+    "items": {
+        "type": "string"
+    }
+}
+
 level_schema = {
     "type": "object",
     "properties": {
@@ -82,6 +89,7 @@ def validate_data():
     current_dir = os.path.join(os.getcwd(), "data")
     list_path = os.path.join(current_dir, "_list.json")
     legacy_list_path = os.path.join(current_dir, "_legacy.json")
+    banned_path = os.path.join(current_dir, "_leaderboard_banned.json")
     pack_list_path = os.path.join(current_dir, "_packlist.json")
     pack_tiers_path = os.path.join(current_dir, "_packtiers.json")
     had_error = False
@@ -94,6 +102,17 @@ def validate_data():
             sys.exit(1)
         except exceptions.ValidationError as e:
             print(f"Validation failed for _list.json: {str(e)}")
+            sys.exit(1)
+            
+    with open(banned_path, "r", encoding='utf-8') as file:
+        try:
+            banned = json.load(file)
+            validate(instance=banned, schema=banned_schema)
+        except ValueError as e:
+            print(f"Invalid json in file _leaderboard_banned.json: {str(e)}")
+            sys.exit(1)
+        except exceptions.ValidationError as e:
+            print(f"Validation failed for _leaderboard_banned.json: {str(e)}")
             sys.exit(1)
 
     with open(legacy_list_path, "r", encoding='utf-8') as file:
