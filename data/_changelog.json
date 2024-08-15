@@ -3472,5 +3472,14 @@
 		"from_rank": 341,
 		"above": "gentlemens_clique_solo",
 		"below": "devil_vortex"
+	},
+	{
+		"date": 1723756965,
+		"action": "raised",
+		"name": "menace",
+		"to_rank": 11,
+		"from_rank": 12,
+		"above": "firework",
+		"below": "kocmoc"
 	}
 ]
