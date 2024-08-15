@@ -1,7 +1,7 @@
 {
 	"id": 73645039,
 	"name": "Crystal",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Clicksync",
@@ -348,6 +348,12 @@
 		{
 			"user": "runi",
 			"link": "https://youtu.be/Bpk82okdoQk?si=EkseOmJdKRyUfLTC",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "The16FigureLimit",
+			"link": "https://www.youtube.com/watch?v=AH9PrnUfO_M",
 			"percent": 100,
 			"hz": 360
 		}
