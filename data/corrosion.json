@@ -1,7 +1,7 @@
 {
 	"id": 58385535,
 	"name": "Corrosion",
-	"tags":[
+	"tags": [
 		"1.9PS",
 		"XXXL",
 		"Precision",
@@ -109,6 +109,12 @@
 		{
 			"user": "Donevo",
 			"link": "https://www.youtube.com/watch?v=IDiO1rV_1zA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Azaelf",
+			"link": "https://youtu.be/7PxTsMlpO90?si=I3w5fmuchhYrbOPF&t=1100",
 			"percent": 100,
 			"hz": 360
 		}

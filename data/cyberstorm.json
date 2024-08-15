@@ -1,7 +1,7 @@
 {
 	"id": 87668112,
 	"name": "Cyberstorm",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -84,6 +84,12 @@
 		{
 			"user": "[MOAT] Lukrasz",
 			"link": "https://youtu.be/QYOJoAQQbO8?si=IOY5feodJMVC53CJ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Azaelf",
+			"link": "https://youtu.be/yv_LB4JnX3U?si=N5M428MGOzPgZcvL",
 			"percent": 100,
 			"hz": 360
 		}

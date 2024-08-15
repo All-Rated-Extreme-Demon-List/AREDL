@@ -1,7 +1,7 @@
 {
 	"id": 63862905,
 	"name": "Ballistic Funk",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Clicksync",
@@ -115,6 +115,12 @@
 		{
 			"user": "polygd",
 			"link": "https://youtu.be/E1-JFnTmyCw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Azaelf",
+			"link": "https://youtu.be/-PgCRVaK98M?si=u8WqmsgM9wkUwBmH",
 			"percent": 100,
 			"hz": 360
 		}
