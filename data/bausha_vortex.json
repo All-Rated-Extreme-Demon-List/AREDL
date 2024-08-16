@@ -1,7 +1,7 @@
 {
 	"id": 30380566,
 	"name": "Bausha Vortex",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Circles",
@@ -323,6 +323,18 @@
 		{
 			"user": "Silverdynamix",
 			"link": "https://youtu.be/kt0X73-BXYs?si=V58PwWgIYmzpv9ai",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Clara",
+			"link": "https://youtu.be/AwLHy48tL9s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "[HUB] Slijee",
+			"link": "https://youtu.be/urDIX_BdyaQ?si=mHza55LUBNv7LmE_",
 			"percent": 100,
 			"hz": 360
 		}
