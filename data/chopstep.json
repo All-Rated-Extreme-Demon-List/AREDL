@@ -1,7 +1,7 @@
 {
 	"id": 87333912,
 	"name": "ChopStep",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Pased",
@@ -364,6 +364,13 @@
 			"link": "https://youtu.be/3A5VQ28G0FY",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "kayser",
+			"link": "https://youtu.be/tzCXemQdGL4?si=8nRi7wK2HjHZt91B",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
