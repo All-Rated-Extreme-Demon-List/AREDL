@@ -3481,5 +3481,14 @@
 		"from_rank": 12,
 		"above": "firework",
 		"below": "kocmoc"
+	},
+	{
+		"date": 1723842458,
+		"action": "raised",
+		"name": "coral_cave",
+		"to_rank": 106,
+		"from_rank": 115,
+		"above": "congregation",
+		"below": "omega_interface"
 	}
 ]
