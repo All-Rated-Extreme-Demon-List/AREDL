@@ -3490,5 +3490,14 @@
 		"from_rank": 115,
 		"above": "congregation",
 		"below": "omega_interface"
+	},
+	{
+		"date": 1723932455,
+		"action": "placed",
+		"name": "viprin_ufo",
+		"to_rank": 40,
+		"from_rank": null,
+		"above": "natural_disaster",
+		"below": "oblivion"
 	}
 ]
