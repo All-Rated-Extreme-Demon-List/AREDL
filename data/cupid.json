@@ -1,7 +1,7 @@
 {
 	"id": 95757926,
 	"name": "Cupid",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -481,6 +481,12 @@
 		{
 			"user": "ChairmanOC",
 			"link": "https://youtu.be/m7ZAO8npdXM?si=DS-o6JxqyLwzqfHr",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Fixtopx",
+			"link": "https://youtu.be/12_PrfcWCa4?si=7L2aC19uzI9lA4K-",
 			"percent": 100,
 			"hz": 360
 		}
