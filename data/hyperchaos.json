@@ -9,5 +9,12 @@
 	"verifier": "ArtsiBurn",
 	"verification": "https://youtu.be/LJ0yJWzNt8c?si=YcYzOWHUNldX8XYs",
 	"percentToQualify": 100,
-	"records": []
+	"records": [
+		{
+			"user": "Iconic",
+			"link": "https://drive.google.com/file/d/1EWVv3lPglbzpsCbz2dw5M-jHrnF7q8KC/view?usp=drive_link",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
