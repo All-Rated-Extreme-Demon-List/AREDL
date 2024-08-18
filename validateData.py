@@ -19,13 +19,31 @@ banned_schema = {
     }
 }
 
+tags_schema = {
+    "type": "array",
+    "items": {
+        "type": "object",
+		"properties": {
+            "name": {"type": "string"},
+            "description": {"type": "string"}
+        }
+    }
+}
+
 level_schema = {
     "type": "object",
     "properties": {
         "id": {"type": "number"},
         "name": {"type": "string"},
+        "description": {"type": "string"},
         "author": {"type": "string"},
         "creators": {
+            "type": "array",
+            "items": {
+                "type": "string",
+            }
+        },
+        "tags": {
             "type": "array",
             "items": {
                 "type": "string",
@@ -92,7 +110,9 @@ def validate_data():
     banned_path = os.path.join(current_dir, "_leaderboard_banned.json")
     pack_list_path = os.path.join(current_dir, "_packlist.json")
     pack_tiers_path = os.path.join(current_dir, "_packtiers.json")
+    tags_path = os.path.join(current_dir, "_tags.json")
     had_error = False
+
     with open(list_path, "r", encoding='utf-8') as file:
         try:
             levels = json.load(file)
@@ -114,6 +134,20 @@ def validate_data():
         except exceptions.ValidationError as e:
             print(f"Validation failed for _leaderboard_banned.json: {str(e)}")
             sys.exit(1)
+
+    available_tags = set()
+    with open(tags_path, "r", encoding='utf-8') as file:
+        try:
+            tags = json.load(file)
+            validate(instance=tags, schema=tags_schema)
+            available_tags = {tag["name"] for tag in tags}
+        except ValueError as e:
+            print(f"Invalid json in file _tags.json: {str(e)}")
+            sys.exit(1)
+        except exceptions.ValidationError as e:
+            print(f"Validation failed for _tags.json: {str(e)}")
+            sys.exit(1)
+
 
     with open(legacy_list_path, "r", encoding='utf-8') as file:
         try:
@@ -210,6 +244,12 @@ def validate_data():
                 if "" in names:
                     had_error = True
                     print(f"Empty username in {filename}")
+
+                if "tags" in data:
+                    for tag_name in data["tags"]:
+                        if tag_name not in available_tags:
+                            had_error = True
+                            print(f"Unrecognized tag: {filename}: {tag_name}")
 
                 creators = []
                 for creator in data["creators"]:
