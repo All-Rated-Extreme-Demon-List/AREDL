@@ -1,7 +1,7 @@
 {
 	"id": 87816034,
 	"name": "Curie",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -94,6 +94,12 @@
 		{
 			"user": "[BHO] ItzMira",
 			"link": "https://youtu.be/UPYMPtpj9ZU?si=UtVVP-sNq_zQ1SCV",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Dep96",
+			"link": "https://www.youtube.com/watch?v=NYsYmwOcDMQ",
 			"percent": 100,
 			"hz": 360
 		}
