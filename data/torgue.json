@@ -1,7 +1,16 @@
 {
 	"id": 60516506,
 	"name": "Torgue",
-	"tags": ["2.1", "Long", "Fast-Paced", "Timings", "Learny", "High CPS", "Flow", "Overall"],
+	"tags": [
+		"2.1",
+		"Long",
+		"Fast-Paced",
+		"Timings",
+		"Learny",
+		"High CPS",
+		"Flow",
+		"Overall"
+	],
 	"author": "Ryder",
 	"creators": [
 		"Lipz",
@@ -411,6 +420,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "Gecko",
+			"link": "https://youtu.be/QaGz2vq7lZg",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }

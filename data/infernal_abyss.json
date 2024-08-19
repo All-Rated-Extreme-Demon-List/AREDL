@@ -1,7 +1,18 @@
 {
 	"id": 27379546,
 	"name": "Infernal Abyss",
-	"tags": ["2.0", "Long", "Timings", "Chokepoints", "Gimmicky", "Nerve Control", "Ship", "UFO", "Wave", "Overall"],
+	"tags": [
+		"2.0",
+		"Long",
+		"Timings",
+		"Chokepoints",
+		"Gimmicky",
+		"Nerve Control",
+		"Ship",
+		"UFO",
+		"Wave",
+		"Overall"
+	],
 	"author": "GgB0y",
 	"creators": [
 		"BIANOX",
@@ -540,6 +551,12 @@
 		{
 			"user": "JOPER",
 			"link": "https://youtu.be/qTtV6TOgTJg?si=hSuitDZAgNefmRb-",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "spw_maniac",
+			"link": "https://youtu.be/xE6RZ9sa42Y",
 			"percent": 100,
 			"hz": 360
 		}
