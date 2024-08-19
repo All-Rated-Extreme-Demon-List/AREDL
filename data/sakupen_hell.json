@@ -1,7 +1,14 @@
 {
 	"id": 23262780,
 	"name": "Sakupen Hell",
-	"tags": ["2.0", "Medium", "Fast-Paced", "Chokepoints", "Ship", "Wave"],
+	"tags": [
+		"2.0",
+		"Medium",
+		"Fast-Paced",
+		"Chokepoints",
+		"Ship",
+		"Wave"
+	],
 	"author": "TrusTa",
 	"creators": [
 		"Noobas"
@@ -1996,6 +2003,12 @@
 		{
 			"user": "Meatballmoose",
 			"link": "https://youtube.com/live/DxkcJoW1YEg?feature=share",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ModamerXD",
+			"link": "https://www.youtube.com/watch?v=_mNxqYsBIUo",
 			"percent": 100,
 			"hz": 360
 		}
