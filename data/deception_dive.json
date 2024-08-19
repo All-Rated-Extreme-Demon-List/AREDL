@@ -1,7 +1,15 @@
 {
 	"id": 34379100,
 	"name": "Deception Dive",
-	"tags": ["2.1", "XL", "Fast-Paced", "Chokepoints", "High CPS", "Wave", "Overall"],
+	"tags": [
+		"2.1",
+		"XL",
+		"Fast-Paced",
+		"Chokepoints",
+		"High CPS",
+		"Wave",
+		"Overall"
+	],
 	"author": "Rustam",
 	"creators": [
 		"Berke423",
@@ -1968,6 +1976,12 @@
 		{
 			"user": "Bruno27YT",
 			"link": "https://youtu.be/6f42iwKU8Is?si=Btj9ALnRtp4tVEDw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ModamerXD",
+			"link": "https://www.youtube.com/watch?v=fkiZirVuN8o",
 			"percent": 100,
 			"hz": 360
 		}
