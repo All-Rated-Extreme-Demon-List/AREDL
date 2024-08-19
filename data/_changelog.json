@@ -3499,5 +3499,14 @@
 		"from_rank": null,
 		"above": "natural_disaster",
 		"below": "oblivion"
+	},
+	{
+		"date": 1724081582,
+		"action": "lowered",
+		"name": "crystal",
+		"to_rank": 292,
+		"from_rank": 273,
+		"above": "zaphkiel",
+		"below": "xronier"
 	}
 ]
