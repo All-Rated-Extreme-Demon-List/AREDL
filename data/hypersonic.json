@@ -1,7 +1,15 @@
 {
 	"id": 30219145,
 	"name": "HyperSonic",
-	"tags": ["2.1", "Long", "Timings", "Gimmicky", "Wave", "Duals", "Overall"],
+	"tags": [
+		"2.1",
+		"Long",
+		"Timings",
+		"Gimmicky",
+		"Wave",
+		"Duals",
+		"Overall"
+	],
 	"author": "ViPriN",
 	"creators": [
 		"Dudex",
@@ -3333,6 +3341,12 @@
 		{
 			"user": "Ramp1941",
 			"link": "https://youtu.be/Tih47Kje5QI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Maybenotriver [FOWL]",
+			"link": "https://www.youtube.com/watch?v=z_qIrLPQDJI",
 			"percent": 100,
 			"hz": 360
 		}
