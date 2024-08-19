@@ -1,7 +1,17 @@
 {
 	"id": 87481937,
 	"name": "Hidden in the Sand",
-	"tags": ["2.1", "Long", "NONG", "Clicksync", "Timings", "Gimmicky", "Slow-Paced", "Ship", "Overall"],
+	"tags": [
+		"2.1",
+		"Long",
+		"NONG",
+		"Clicksync",
+		"Timings",
+		"Gimmicky",
+		"Slow-Paced",
+		"Ship",
+		"Overall"
+	],
 	"author": "ASBCHazel",
 	"creators": [
 		"ASBCHazel",
@@ -1022,6 +1032,12 @@
 		{
 			"user": "xAntisune",
 			"link": "https://youtu.be/DxEt2_yGaM0?si=If9C7_NKmpskUHRr",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Joshua83",
+			"link": "https://youtu.be/bLGXJReiDiw",
 			"percent": 100,
 			"hz": 360
 		}
