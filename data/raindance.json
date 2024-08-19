@@ -1,7 +1,14 @@
 {
 	"id": 57019271,
 	"name": "Raindance",
-	"tags": ["2.1", "Long", "Fast-Paced", "Timings", "Chokepoints", "Overall"],
+	"tags": [
+		"2.1",
+		"Long",
+		"Fast-Paced",
+		"Timings",
+		"Chokepoints",
+		"Overall"
+	],
 	"author": "Milos482",
 	"creators": [
 		"Patchimator",
@@ -697,6 +704,12 @@
 		{
 			"user": "7N",
 			"link": "https://youtu.be/uSEH-GoeK8M",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "drigeordraig",
+			"link": "https://www.youtube.com/watch?v=CaVqNqeY7Ao&lc=Ugwt0vjsBzfn2dgXJLp4AaABAg",
 			"percent": 100,
 			"hz": 360
 		}
