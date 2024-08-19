@@ -1,7 +1,7 @@
 {
 	"id": 21604884,
 	"name": "Cosmorush 21",
-	"tags":[
+	"tags": [
 		"2.0",
 		"Long",
 		"Fast-Paced",
@@ -287,6 +287,12 @@
 		{
 			"user": "Silverdynamix",
 			"link": "https://youtu.be/HvmDRIo17nQ?si=iv3C3oY7fvO85SoK",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "[HUB] Aphelix",
+			"link": "https://www.youtube.com/watch?v=uUJI5kiiKZM",
 			"percent": 100,
 			"hz": 360
 		}
