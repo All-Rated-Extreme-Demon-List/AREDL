@@ -1,7 +1,18 @@
 {
 	"id": 80335620,
 	"name": "Reanimate",
-	"tags": ["2.1", "XL", "Clicksync", "Fast-Paced", "Learny", "High CPS", "Flow", "Nerve Control", "Duals", "Overall"],
+	"tags": [
+		"2.1",
+		"XL",
+		"Clicksync",
+		"Fast-Paced",
+		"Learny",
+		"High CPS",
+		"Flow",
+		"Nerve Control",
+		"Duals",
+		"Overall"
+	],
 	"author": "ilnm",
 	"creators": [
 		"Gaudium",
@@ -527,6 +538,12 @@
 		{
 			"user": "imnoahe",
 			"link": "https://www.youtube.com/watch?v=Mc8t-rnhOTI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "astroIO",
+			"link": "https://www.youtube.com/watch?v=Y-FFUIk4Na0",
 			"percent": 100,
 			"hz": 360
 		}
