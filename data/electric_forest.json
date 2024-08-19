@@ -1,7 +1,18 @@
 {
 	"id": 93490967,
 	"name": "Electric Forest",
-	"tags": ["2.1", "XL", "NONG", "Clicksync", "Fast-Paced", "Timings", "Learny", "High CPS", "Ship", "Wave"],
+	"tags": [
+		"2.1",
+		"XL",
+		"NONG",
+		"Clicksync",
+		"Fast-Paced",
+		"Timings",
+		"Learny",
+		"High CPS",
+		"Ship",
+		"Wave"
+	],
 	"author": "motheye",
 	"creators": [],
 	"verifier": "swiborg",
@@ -144,6 +155,12 @@
 		{
 			"user": "FSyn",
 			"link": "https://youtu.be/9KAvUBGz4y0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "thuddingpizza",
+			"link": "https://youtu.be/72cz1fhyjPk?si=fhBp6Q3d-5kT0oyj",
 			"percent": 100,
 			"hz": 360
 		}
