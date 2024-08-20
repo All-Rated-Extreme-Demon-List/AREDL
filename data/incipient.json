@@ -1,7 +1,16 @@
 {
 	"id": 32688321,
 	"name": "Incipient",
-	"tags": ["2.1", "Long", "Fast-Paced", "Timings", "Chokepoints", "Gimmicky", "Flow", "Overall"],
+	"tags": [
+		"2.1",
+		"Long",
+		"Fast-Paced",
+		"Timings",
+		"Chokepoints",
+		"Gimmicky",
+		"Flow",
+		"Overall"
+	],
 	"author": "Jenkins GD",
 	"creators": [],
 	"verifier": "Jenkins GD",
@@ -1426,6 +1435,13 @@
 			"link": "https://youtu.be/60ZRghbNww4",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "BOSTONTHEKIDRS",
+			"link": "https://www.youtube.com/watch?v=pSM6C9oFYM0&t=515s",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
