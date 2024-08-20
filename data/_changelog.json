@@ -3526,5 +3526,14 @@
 		"from_rank": null,
 		"above": "to_the_blue_moon",
 		"below": "annihilation_nation"
+	},
+	{
+		"date": 1724132136,
+		"action": "placed",
+		"name": "checked_steam",
+		"to_rank": 49,
+		"from_rank": null,
+		"above": "climax",
+		"below": "terminal_rampancy"
 	}
 ]
