@@ -1,7 +1,16 @@
 {
 	"id": 74924716,
 	"name": "GLISTEN",
-	"tags": ["2.1", "Medium", "Clicksync", "Fast-Paced", "Timings", "Learny", "Ball", "Spider"],
+	"tags": [
+		"2.1",
+		"Medium",
+		"Clicksync",
+		"Fast-Paced",
+		"Timings",
+		"Learny",
+		"Ball",
+		"Spider"
+	],
 	"author": "Squizaaard",
 	"creators": [
 		"onvil",
@@ -1280,6 +1289,12 @@
 		{
 			"user": "DIAH314",
 			"link": "https://www.youtube.com/watch?v=EK3pwWxvUi4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "erzor",
+			"link": "https://youtu.be/f5Lt-wnXKhs?si=4I9dNGR0292Abp4S",
 			"percent": 100,
 			"hz": 360
 		}
