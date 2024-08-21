@@ -75,6 +75,7 @@ watch(props, () => {
   & .pack_content {
     height: 100%;
     padding: 5px;
+    overflow: hidden;
     background-color: color-mix(in srgb, var(--color-background), rgba(255, 255, 255, 5%) 6.5%);
     border-radius: 0.5rem;
     text-shadow: 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background), 0 0 2px var(--color-background);
