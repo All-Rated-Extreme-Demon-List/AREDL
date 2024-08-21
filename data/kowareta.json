@@ -1,7 +1,19 @@
 {
 	"id": 46763581,
 	"name": "kowareta",
-	"tags": ["2.1", "Medium", "NONG", "Fast-Paced", "Timings", "Learny", "High CPS", "Gimmicky", "Flow", "Wave", "Overall"],
+	"tags": [
+		"2.1",
+		"Medium",
+		"NONG",
+		"Fast-Paced",
+		"Timings",
+		"Learny",
+		"High CPS",
+		"Gimmicky",
+		"Flow",
+		"Wave",
+		"Overall"
+	],
 	"author": "Gablor",
 	"creators": [
 		"Minaxa",
@@ -699,6 +711,12 @@
 		{
 			"user": "Timy",
 			"link": "https://youtu.be/UoQZHz6iIYk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "celineum",
+			"link": "https://www.youtube.com/watch?v=3CS8YOinsBo",
 			"percent": 100,
 			"hz": 360
 		}
