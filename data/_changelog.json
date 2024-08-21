@@ -3571,5 +3571,14 @@
 		"from_rank": null,
 		"above": "nowdead",
 		"below": "elite_z_rebirth"
+	},
+	{
+		"date": 1724267333,
+		"action": "raised",
+		"name": "beeline_2p",
+		"to_rank": 622,
+		"from_rank": 743,
+		"above": "nerual",
+		"below": "karma"
 	}
 ]
