@@ -3562,5 +3562,14 @@
 		"from_rank": 684,
 		"above": "omorfia",
 		"below": "monstercat"
+	},
+	{
+		"date": 1724266883,
+		"action": "placed",
+		"name": "vast_waters",
+		"to_rank": 670,
+		"from_rank": null,
+		"above": "nowdead",
+		"below": "elite_z_rebirth"
 	}
 ]
