@@ -3589,5 +3589,14 @@
 		"from_rank": 667,
 		"above": "the_antimatter",
 		"below": "limitless"
+	},
+	{
+		"date": 1724279859,
+		"action": "raised",
+		"name": "ordinary",
+		"to_rank": 53,
+		"from_rank": 58,
+		"above": "critical_heat",
+		"below": "aerial_gleam"
 	}
 ]
