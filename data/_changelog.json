@@ -3535,5 +3535,14 @@
 		"from_rank": null,
 		"above": "climax",
 		"below": "terminal_rampancy"
+	},
+	{
+		"date": 1724203139,
+		"action": "lowered",
+		"name": "trollmachine",
+		"to_rank": 837,
+		"from_rank": 786,
+		"above": "plus_ultra",
+		"below": "m_a_n_i_x"
 	}
 ]
