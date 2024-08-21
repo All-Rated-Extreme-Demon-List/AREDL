@@ -1,7 +1,16 @@
 {
 	"id": 37456092,
 	"name": "Digital Descent",
-	"tags": ["2.1", "XL", "Fast-Paced", "Chokepoints", "Gimmicky", "Nerve Control", "Wave", "Overall"],
+	"tags": [
+		"2.1",
+		"XL",
+		"Fast-Paced",
+		"Chokepoints",
+		"Gimmicky",
+		"Nerve Control",
+		"Wave",
+		"Overall"
+	],
 	"author": "ViPriN",
 	"creators": [
 		"Codex",
@@ -1129,6 +1138,12 @@
 		{
 			"user": "wetsack",
 			"link": "https://youtu.be/Y5pgjvadNaQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "KyrdaX16",
+			"link": "https://www.youtube.com/watch?v=F6IcTghT9PA",
 			"percent": 100,
 			"hz": 360
 		}

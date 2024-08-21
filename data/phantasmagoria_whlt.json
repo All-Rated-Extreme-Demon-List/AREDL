@@ -1,7 +1,18 @@
 {
 	"id": 76670086,
 	"name": "phantasmagoria (whlt)",
-	"tags": ["2.1", "Medium", "Clicksync", "Timings", "Learny", "Gimmicky", "Slow-Paced", "Ship", "Ball", "Spider"],
+	"tags": [
+		"2.1",
+		"Medium",
+		"Clicksync",
+		"Timings",
+		"Learny",
+		"Gimmicky",
+		"Slow-Paced",
+		"Ship",
+		"Ball",
+		"Spider"
+	],
 	"author": "whlt",
 	"creators": [],
 	"verifier": "whlt",
@@ -828,6 +839,12 @@
 		{
 			"user": "Fatigued.",
 			"link": "https://medal.tv/games/geometry-dash/clips/itaxgmCpNdVq26yyU/d1337Wgs9KX1?invite=cr-MSxEc0csMTkxMjk4ODgyLA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "jupi",
+			"link": "https://youtu.be/0i6uh9D-drE",
 			"percent": 100,
 			"hz": 360
 		}
