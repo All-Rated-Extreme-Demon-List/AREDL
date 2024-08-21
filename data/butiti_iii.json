@@ -1,7 +1,7 @@
 {
 	"id": 57433866,
 	"name": "BuTiTi III",
-	"tags":[
+	"tags": [
 		"2.1",
 		"XXL",
 		"Chokepoints",
@@ -121,6 +121,12 @@
 		{
 			"user": "Tasgod",
 			"link": "https://youtu.be/OopiQKfZ4eE?si=d9XYnpg2zEviR7OK",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Nocciii",
+			"link": "https://youtu.be/4R7h9pw7E_U",
 			"percent": 100,
 			"hz": 360
 		}
