@@ -1,7 +1,18 @@
 {
 	"id": 56460850,
 	"name": "Triple Six",
-	"tags": ["2.1", "Long", "NONG", "Fast-Paced", "Timings", "Chokepoints", "Memory", "Gimmicky", "Mirror", "Overall"],
+	"tags": [
+		"2.1",
+		"Long",
+		"NONG",
+		"Fast-Paced",
+		"Timings",
+		"Chokepoints",
+		"Memory",
+		"Gimmicky",
+		"Mirror",
+		"Overall"
+	],
 	"author": "Zylenox",
 	"creators": [],
 	"verifier": "Zylenox",
@@ -504,6 +515,12 @@
 		{
 			"user": "Santipapas",
 			"link": "https://www.youtube.com/watch?v=RpZlz_SO77Y",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "kamuiman89",
+			"link": "https://youtu.be/q0nRSN_wJi0?si=8uVNSXR-Qf102LmE",
 			"percent": 100,
 			"hz": 360
 		}
