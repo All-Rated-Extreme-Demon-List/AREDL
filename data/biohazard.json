@@ -1,7 +1,7 @@
 {
 	"id": 61997741,
 	"name": "Biohazard",
-	"tags":[
+	"tags": [
 		"2.1",
 		"XL",
 		"Timings",
@@ -331,6 +331,12 @@
 		{
 			"user": "SkeletalVirus",
 			"link": "https://youtu.be/HeUHSYMXKSM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "TheFrGames",
+			"link": "https://youtu.be/Iw2mjl-nVqc",
 			"percent": 100,
 			"hz": 360
 		}
