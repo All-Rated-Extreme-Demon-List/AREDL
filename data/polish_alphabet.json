@@ -1,7 +1,16 @@
 {
 	"id": 48765988,
 	"name": "Polish Alphabet",
-	"tags": ["2.1", "Long", "Timings", "Chokepoints", "Gimmicky", "Nerve Control", "Duals", "Overall"],
+	"tags": [
+		"2.1",
+		"Long",
+		"Timings",
+		"Chokepoints",
+		"Gimmicky",
+		"Nerve Control",
+		"Duals",
+		"Overall"
+	],
 	"author": "Patchimator",
 	"creators": [
 		"Patchimator",
@@ -606,6 +615,12 @@
 		{
 			"user": "RoBL",
 			"link": "https://youtu.be/WN33wlV-Q2E?si=_2hSx8idWC-YEIbu",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "nyxen",
+			"link": "https://youtu.be/Wx3XzuPvZwU?si=xBeYd4Tv7FnsF9oY",
 			"percent": 100,
 			"hz": 360
 		}

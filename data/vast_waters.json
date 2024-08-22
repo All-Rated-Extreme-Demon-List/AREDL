@@ -7,5 +7,12 @@
 	"verification": "https://youtu.be/Q2Oa7Gdw3A4?si=d1qkWGcT8Ra9pECx",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "CubicMind",
+			"link": "https://youtu.be/jSesVMggE7w?si=0VBlJqIKKWl4ZPgV",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
