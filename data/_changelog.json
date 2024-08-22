@@ -3598,5 +3598,14 @@
 		"from_rank": 58,
 		"above": "critical_heat",
 		"below": "aerial_gleam"
+	},
+	{
+		"date": 1724314073,
+		"action": "raised",
+		"name": "nhelv",
+		"to_rank": 139,
+		"from_rank": 140,
+		"above": "pootis_engage_xtreme",
+		"below": "ithacropolix"
 	}
 ]
