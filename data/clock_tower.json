@@ -1,7 +1,7 @@
 {
 	"id": 105095161,
 	"name": "Clock tower",
-	"tags":[
+	"tags": [
 		"2.2",
 		"Long",
 		"Clicksync",
@@ -106,6 +106,12 @@
 		{
 			"user": "HotNooB",
 			"link": "https://youtu.be/Xh3dYpv3nxQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lady_Pirriot",
+			"link": "https://www.youtube.com/watch?v=o3Ou7J9TE8c&t=14s",
 			"percent": 100,
 			"hz": 360
 		}

@@ -1,7 +1,17 @@
 {
 	"id": 71912451,
 	"name": "RUST",
-	"tags": ["2.1", "Long", "Clicksync", "Timings", "Chokepoints", "Learny", "Gimmicky", "Nerve Control", "Overall"],
+	"tags": [
+		"2.1",
+		"Long",
+		"Clicksync",
+		"Timings",
+		"Chokepoints",
+		"Learny",
+		"Gimmicky",
+		"Nerve Control",
+		"Overall"
+	],
 	"author": "neigefeu",
 	"creators": [],
 	"verifier": "Keir",
@@ -408,6 +418,12 @@
 		{
 			"user": "[BUDDY] Bulbazorio",
 			"link": "https://www.youtube.com/watch?v=InHRHxTrAjI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Stoicism",
+			"link": "https://youtu.be/9pAstmLkPM0?si=J10u7hs5KnLqt8zR",
 			"percent": 100,
 			"hz": 360
 		}

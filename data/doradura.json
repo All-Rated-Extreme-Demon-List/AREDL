@@ -1,7 +1,17 @@
 {
 	"id": 77114615,
 	"name": "doradura",
-	"tags": ["2.1", "Long", "NONG", "Clicksync", "Fast-Paced", "Timings", "Chokepoints", "Flow", "Overall"],
+	"tags": [
+		"2.1",
+		"Long",
+		"NONG",
+		"Clicksync",
+		"Fast-Paced",
+		"Timings",
+		"Chokepoints",
+		"Flow",
+		"Overall"
+	],
 	"author": "IvashkaUA",
 	"creators": [],
 	"verifier": "Diamond",
@@ -1289,6 +1299,12 @@
 		{
 			"user": "PawianGD",
 			"link": "https://www.youtube.com/watch?v=-xiqi2QQAlI&t=2s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "redd",
+			"link": "https://www.youtube.com/watch?v=04kco_82VOc",
 			"percent": 100,
 			"hz": 360
 		}

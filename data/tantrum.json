@@ -1,7 +1,16 @@
 {
 	"id": 61910810,
 	"name": "TANTRUM",
-	"tags": ["2.1", "Long", "Timings", "Chokepoints", "Gimmicky", "Ship", "Wave", "Overall"],
+	"tags": [
+		"2.1",
+		"Long",
+		"Timings",
+		"Chokepoints",
+		"Gimmicky",
+		"Ship",
+		"Wave",
+		"Overall"
+	],
 	"author": "Danzmen",
 	"creators": [
 		"flash",
@@ -982,6 +991,12 @@
 		{
 			"user": "ItzEnvYx",
 			"link": "https://youtu.be/dOvVJS9SVhM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "TheJaco9",
+			"link": "https://www.youtube.com/watch?v=QHeG2bnGjOk",
 			"percent": 100,
 			"hz": 360
 		}

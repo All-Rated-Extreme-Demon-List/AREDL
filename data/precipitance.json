@@ -1,7 +1,13 @@
 {
 	"id": 60197839,
 	"name": "Precipitance",
-	"tags": ["2.1", "Long", "Fast-Paced", "Fast-Paced", "Overall"],
+	"tags": [
+		"2.1",
+		"Long",
+		"Fast-Paced",
+		"Fast-Paced",
+		"Overall"
+	],
 	"author": "Extravagon",
 	"creators": [],
 	"verifier": "Extravagon",
@@ -1642,6 +1648,12 @@
 		{
 			"user": "JorgeCZR",
 			"link": "https://youtu.be/tFwkcgWp7JI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MonolithGD",
+			"link": "https://youtu.be/Pi8SnPBaUtU?si=nJUdqPngh2UfpKuL",
 			"percent": 100,
 			"hz": 360
 		}

@@ -1,7 +1,14 @@
 {
 	"id": 89807521,
 	"name": "FISH FISH GODMODE",
-	"tags": ["2.1", "Long", "Fast-Paced", "Timings", "Gimmicky", "Overall"],
+	"tags": [
+		"2.1",
+		"Long",
+		"Fast-Paced",
+		"Timings",
+		"Gimmicky",
+		"Overall"
+	],
 	"author": "whoiskeve",
 	"creators": [],
 	"verifier": "skzyl",
@@ -1220,6 +1227,12 @@
 		{
 			"user": "Whacka",
 			"link": "https://youtu.be/4qZMlRMxZc8?si=sZadCg-nIzgi86oo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Stoicism",
+			"link": "https://youtu.be/SnJHgtxqEfw?si=gEUwa1EzOpnQ_rlI",
 			"percent": 100,
 			"hz": 360
 		}
