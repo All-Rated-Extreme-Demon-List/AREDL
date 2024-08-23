@@ -1,7 +1,7 @@
 {
 	"id": 48981134,
 	"name": "Cadrega Mode",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -139,6 +139,12 @@
 		{
 			"user": "cuin894",
 			"link": "https://www.youtube.com/watch?v=3PJ8QPgSU0w",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "TheJaco9",
+			"link": "https://www.youtube.com/watch?v=xDQ3O_d-1Wc",
 			"percent": 100,
 			"hz": 360
 		}

@@ -1,7 +1,15 @@
 {
 	"id": 48454650,
 	"name": "Penombre",
-	"tags": ["2.1", "Long", "Fast-Paced", "Chokepoints", "Wave", "Old Swing", "Overall"],
+	"tags": [
+		"2.1",
+		"Long",
+		"Fast-Paced",
+		"Chokepoints",
+		"Wave",
+		"Old Swing",
+		"Overall"
+	],
 	"author": "ZephiroX",
 	"creators": [],
 	"verifier": "MrSpaghetti",
@@ -1421,6 +1429,12 @@
 		{
 			"user": "wigl3tt",
 			"link": "https://www.youtube.com/watch?v=Yeg8o-ZHDoo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Majax",
+			"link": "https://youtu.be/SirgVs7lULc",
 			"percent": 100,
 			"hz": 360
 		}
