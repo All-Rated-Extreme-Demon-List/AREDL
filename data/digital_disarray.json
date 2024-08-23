@@ -1,7 +1,16 @@
 {
 	"id": 57390806,
 	"name": "Digital Disarray",
-	"tags": ["2.1", "Long", "Fast-Paced", "Timings", "Chokepoints", "Ship", "Wave", "Overall"],
+	"tags": [
+		"2.1",
+		"Long",
+		"Fast-Paced",
+		"Timings",
+		"Chokepoints",
+		"Ship",
+		"Wave",
+		"Overall"
+	],
 	"author": "Giron",
 	"creators": [
 		"Giron",
@@ -389,6 +398,12 @@
 		{
 			"user": "[BHO] Iconic",
 			"link": "https://drive.google.com/file/d/1xCxjuD604D07xR10a0dGjCi2P9Q5dsoD/view?usp=drive_link",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Majax",
+			"link": "https://youtu.be/jxqGaN-X1G4",
 			"percent": 100,
 			"hz": 360
 		}
