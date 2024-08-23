@@ -3616,5 +3616,14 @@
 		"from_rank": null,
 		"above": "me_lin_a",
 		"below": "jeongi"
+	},
+	{
+		"date": 1724382936,
+		"action": "raised",
+		"name": "tunnel_of_despair",
+		"to_rank": 5,
+		"from_rank": 7,
+		"above": "abyss_of_darkness",
+		"below": "avernus"
 	}
 ]
