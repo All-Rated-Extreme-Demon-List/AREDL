@@ -858,6 +858,17 @@
         "colour": "linear-gradient(90deg, rgba(214,36,197,1) 0%, rgba(198,216,35,1) 4%, rgba(33,205,179,1) 9%, rgba(131,48,191,1) 15%, rgba(128,132,76,1) 23%, rgba(41,162,95,1) 28%, rgba(151,56,78,1) 33%, rgba(115,121,60,1) 37%, rgba(49,64,163,1) 41%, rgba(144,57,146,1) 47%, rgba(147,121,69,1) 50%, rgba(152,86,111,1) 54%, rgba(44,169,156,1) 59%, rgba(144,87,75,1) 65%, rgba(54,176,94,1) 75%, rgba(134,122,71,1) 81%, rgba(52,166,108,1) 86%, rgba(111,149,61,1) 87%, rgba(106,62,139,1) 92%, rgba(47,143,127,1) 94%, rgba(255,0,0,1) 100%)"
     },
     {
+        "name": "Extension Pack",
+        "levels": [
+            "bloodlust",
+            "the_rupture",
+            "fragile",
+            "keres",
+            "kenos"
+        ],
+        "colour": "linear-gradient(90deg, rgba(2,0,36,0.7749474789915967) 0%, rgba(9,121,64,1) 35%, rgba(0,212,255,1) 100%)"
+    },
+    {
         "name": "Extreme Pack I",
         "levels": [
             "celestial_force",
