@@ -1,7 +1,21 @@
 {
 	"id": 48175126,
 	"name": "Idols",
-	"tags": ["2.1", "XXL", "NONG", "Fast-Paced", "Timings", "Learny", "Gimmicky", "Flow", "Slow-Paced", "Nerve Control", "Old Swing", "Duals", "Overall"],
+	"tags": [
+		"2.1",
+		"XXL",
+		"NONG",
+		"Fast-Paced",
+		"Timings",
+		"Learny",
+		"Gimmicky",
+		"Flow",
+		"Slow-Paced",
+		"Nerve Control",
+		"Old Swing",
+		"Duals",
+		"Overall"
+	],
 	"author": "Zafkiel7",
 	"creators": [
 		"Herdys",
@@ -975,6 +989,12 @@
 		{
 			"user": "Whacka",
 			"link": "https://youtu.be/-hrKFZHxO7k?si=XJOuMNCFi5WSzD6i",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "iiLogan",
+			"link": "https://youtu.be/EuHPGPApndA?si=dlV2AlymI-87umCG",
 			"percent": 100,
 			"hz": 360
 		}
