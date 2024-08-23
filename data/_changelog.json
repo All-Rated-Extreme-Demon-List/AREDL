@@ -3607,5 +3607,14 @@
 		"from_rank": 140,
 		"above": "pootis_engage_xtreme",
 		"below": "ithacropolix"
+	},
+	{
+		"date": 1724382787,
+		"action": "placed",
+		"name": "mind_machine",
+		"to_rank": 950,
+		"from_rank": null,
+		"above": "me_lin_a",
+		"below": "jeongi"
 	}
 ]
