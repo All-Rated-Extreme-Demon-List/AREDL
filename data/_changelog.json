@@ -3625,5 +3625,14 @@
 		"from_rank": 7,
 		"above": "abyss_of_darkness",
 		"below": "avernus"
+	},
+	{
+		"date": 1724463512,
+		"action": "raised",
+		"name": "gustavo_fring",
+		"to_rank": 145,
+		"from_rank": 158,
+		"above": "friday",
+		"below": "sand_sailor"
 	}
 ]
