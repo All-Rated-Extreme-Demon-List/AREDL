@@ -1903,7 +1903,7 @@
             "volume",
             "skrrah"
         ],
-        "colour": "linear-gradient(135deg, rgba(119,164,255,1) 0%, rgba(254,104,104,1) 100%)"
+        "colour": "radial-gradient(circle, rgba(255,86,150,1) 0%, rgba(47,142,238,1) 100%)"
     },
     {
         "name": "Wave Chokepoint Pack II",
@@ -1913,7 +1913,7 @@
             "zaphkiel",
             "icotact"
         ],
-        "colour": "linear-gradient(135deg, rgba(119,164,255,1) 0%, rgba(254,104,104,1) 100%)"
+        "colour": "radial-gradient(circle, rgba(157,14,68,1) 0%, rgba(13,50,87,1) 100%)"
     },
     {
         "name": "Ways To Die Pack",
