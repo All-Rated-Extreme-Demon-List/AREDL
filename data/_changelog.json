@@ -3634,5 +3634,14 @@
 		"from_rank": 158,
 		"above": "friday",
 		"below": "sand_sailor"
+	},
+	{
+		"date": 1724530407,
+		"action": "placed",
+		"name": "cityfade",
+		"to_rank": 936,
+		"from_rank": null,
+		"above": "falsch",
+		"below": "overlord"
 	}
 ]
