@@ -39,3 +39,11 @@ jobs:
     - name: Check exit code
       if: ${{ failure() }}
       run: exit 1
+
+    - name: Restart backend
+      uses: appleboy/ssh-action@v1.0.0
+      with:
+        host: ${{ secrets.DEPLOY_HOST }}
+        username: ${{ secrets.DEPLOY_USER }}
+        key: ${{ secrets.DEPLOY_KEY }}
+        script: sudo systemctl restart aredl-backend-v2
