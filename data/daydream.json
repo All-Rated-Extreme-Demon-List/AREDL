@@ -1,7 +1,20 @@
 {
 	"id": 65633532,
 	"name": "Daydream",
-	"tags": ["2.1", "Long", "Fast-Paced", "Timings", "Chokepoints", "High CPS", "Gimmicky", "Ship", "Ball", "UFO", "Wave", "Overall"],
+	"tags": [
+		"2.1",
+		"Long",
+		"Fast-Paced",
+		"Timings",
+		"Chokepoints",
+		"High CPS",
+		"Gimmicky",
+		"Ship",
+		"Ball",
+		"UFO",
+		"Wave",
+		"Overall"
+	],
 	"author": "Yendis",
 	"creators": [],
 	"verifier": "Yendis",
@@ -1213,6 +1226,12 @@
 		{
 			"user": "TriBOTz",
 			"link": "https://youtu.be/qCktori3AvQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "xwisteria",
+			"link": "https://youtu.be/IS02BmcVg2o",
 			"percent": 100,
 			"hz": 360
 		}

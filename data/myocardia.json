@@ -1,7 +1,18 @@
 {
 	"id": 75248070,
 	"name": "Myocardia",
-	"tags": ["2.1", "Long", "Clicksync", "Fast-Paced", "Timings", "Chokepoints", "Gimmicky", "Ship", "Wave", "Overall"],
+	"tags": [
+		"2.1",
+		"Long",
+		"Clicksync",
+		"Fast-Paced",
+		"Timings",
+		"Chokepoints",
+		"Gimmicky",
+		"Ship",
+		"Wave",
+		"Overall"
+	],
 	"author": "Toughfey",
 	"creators": [],
 	"verifier": "Toughfey",
@@ -378,6 +389,12 @@
 		{
 			"user": "Reffman",
 			"link": "https://youtu.be/Ncrz1ecjUXU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "runner",
+			"link": "https://youtu.be/26gKF5hFcyY",
 			"percent": 100,
 			"hz": 360
 		}
