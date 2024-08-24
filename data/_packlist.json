@@ -1528,6 +1528,17 @@
         "colour": "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ07FsMbdqh6L1BjaAYnJWJMKST9OlJvVTvtA&s')"
     },
     {
+        "name": "osu! pack",
+        "levels": [
+            "brain_power",
+            "freedom08",
+            "new_record",
+            "untitled",
+            "protoflicker"
+        ],
+        "colour": "radial-gradient(circle, rgba(109,242,204,1) 0%, rgba(0,0,0,1) 100%)"
+    },
+    {
         "name": "Oxysm Pack",
         "levels": [
             "the_paroxysm_of_rage",
@@ -2205,13 +2216,22 @@
         "colour": "linear-gradient(133deg, rgba(115,79,40,1) 0%, rgba(0,155,23,1) 50%, rgba(115,79,40,1) 100%)"
     },
     {
-        "name": "The World Wide Web",
+        "name": "World Wide Web",
         "levels": [
             "network_agat3",
             "network_vandervals",
             "netzwerk"
         ],
         "colour": "radial-gradient(circle, rgba(1,0,251,1) 0%, rgba(0,255,246,1) 100%)"
+    },
+    {
+        "name": "Woogi Pack",
+        "levels": [
+            "Libertas",
+            "Retention",
+            "Pentakill"
+        ],
+        "colour": "linear-gradient(0deg, rgba(191,41,98,1) 0%, rgba(81,47,238,1) 100%)"
     },
     {
         "name": "XXXL Pack I",
