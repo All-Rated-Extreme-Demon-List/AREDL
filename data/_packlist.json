@@ -355,15 +355,6 @@
         "colour": "linear-gradient(135deg, rgba(14,62,197,1) 0%, rgba(36,169,189,1) 50%, rgba(14,62,197,1) 100%)"
     },
     {
-        "name": "BoldStep Pack",
-        "levels": [
-            "erebus_boldstep",
-            "killbot",
-            "glowy"
-        ],
-        "colour": "linear-gradient(90deg, rgba(167,0,255,1) 0%, rgba(255,255,255,1) 50%, rgba(167,0,255,1) 100%)"
-    },
-    {
         "name": "Breakup Pack",
         "levels": [
             "wow",
@@ -486,17 +477,6 @@
         ],
         "colour": "radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(14,0,255,1) 50%, rgba(255,255,255,1) 100%)"
     },
-    {
-        "name": "Doggie Pack",
-        "levels": [
-            "slaughterhouse",
-            "delta",
-            "deimos_itshybrid",
-            "timor",
-            "aerial_gleam"
-        ],
-        "colour": "linear-gradient(240deg, rgba(255,254,0,1) 0%, rgba(246,0,255,1) 100%)"
-    }, 
      {
         "name": "Dentist Pack",
         "levels": [
@@ -1299,17 +1279,6 @@
         "colour": "linear-gradient(90deg, rgba(143,0,247,1) 0%, rgba(255,159,254,1) 46%, rgba(255,0,179,1) 100%)"
     },
     {
-        "name": "nSwish Pack",
-        "levels": [
-            "the_golden",
-            "cognition",
-            "kappa",
-            "eternal_moment",
-            "rage"
-        ],
-        "colour": "linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(167,0,255,1) 50%, rgba(255,255,255,1) 100%)"
-    },
-    {
         "name": "Nuclear Trilogy",
         "levels": [
             "atomic_cannon",
@@ -1652,15 +1621,6 @@
         "colour": "linear-gradient(41deg, rgba(204,204,204,1) 0%, rgba(58,28,240,1) 100%)"
     },
     {
-        "name": "Sunix Pack",
-        "levels": [
-            "sonic_wave",
-            "devil_vortex",
-            "cadrega_city"
-        ],
-        "colour": "radial-gradient(circle, rgba(0,27,131,1) 0%, rgba(0,168,255,1) 50%, rgba(0,27,131,1) 100%)"
-    },
-    {
         "name": "Super Pack",
         "levels": [
             "superhatemeworld",
@@ -1698,17 +1658,6 @@
             "beeline_2p"
         ],
         "colour": "linear-gradient(125deg, rgba(188,139,255,1) 0%, rgba(253,131,255,1) 100%)"
-    },
-    {
-        "name": "Technical Pack",
-        "levels": [
-            "zodiac",
-            "ragnarok",
-            "ouroboros",
-            "shock_breaker",
-            "bang_gang_2p"
-        ],
-        "colour": "linear-gradient(90deg, rgba(0,233,7,1) 0%, rgba(167,0,255,1) 50%, rgba(0,233,7,1) 100%)"
     },
     {
         "name": "Tech Series",
@@ -2042,15 +1991,4 @@
         ],
         "colour": "radial-gradient(circle, rgba(149,255,0,1) 9%, rgba(255,117,0,1) 22%, rgba(0,29,255,1) 36%, rgba(255,0,0,1) 50%, rgba(0,117,255,1) 63%, rgba(255,139,0,1) 76%, rgba(243,255,0,1) 91%, rgba(0,255,181,1) 98%)"
     },
-    {
-        "name": "Zoink Pack",
-        "levels": [
-            "tidal_wave",
-            "avernus",
-            "acheron",
-            "tunnel_of_despair",
-            "kocmoc"
-        ],
-        "colour": "linear-gradient(90deg, rgba(2,242,246,1) 0%, rgba(255,255,255,1) 50%, rgba(2,242,246,1) 100%)"
-    }
 ]
