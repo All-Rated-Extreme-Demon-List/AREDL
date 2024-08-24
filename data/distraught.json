@@ -1,7 +1,18 @@
 {
 	"id": 55224007,
 	"name": "distraught",
-	"tags": ["2.1", "Long", "Fast-Paced", "Timings", "Chokepoints", "Gimmicky", "Cube", "Ship", "Wave", "Overall"],
+	"tags": [
+		"2.1",
+		"Long",
+		"Fast-Paced",
+		"Timings",
+		"Chokepoints",
+		"Gimmicky",
+		"Cube",
+		"Ship",
+		"Wave",
+		"Overall"
+	],
 	"author": "alkali",
 	"creators": [
 		"Eggnog",
@@ -301,6 +312,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "detected",
+			"link": "https://youtu.be/REbl9apldiI",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
