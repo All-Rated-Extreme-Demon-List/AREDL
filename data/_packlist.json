@@ -2227,9 +2227,9 @@
     {
         "name": "Woogi Pack",
         "levels": [
-            "Libertas",
-            "Retention",
-            "Pentakill"
+            "libertas",
+            "retention",
+            "pentakill"
         ],
         "colour": "linear-gradient(0deg, rgba(191,41,98,1) 0%, rgba(81,47,238,1) 100%)"
     },
