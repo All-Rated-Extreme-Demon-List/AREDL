@@ -319,18 +319,18 @@
     {
         "name": "Anime Pack I",
         "levels": [
-            "kuzureta",
-            "luxtra",
-            "surge_of_the_shield"
+            "plus_ultra",
+            "overlord",
+            "niwa"
         ],
         "colour": "radial-gradient(circle, rgba(17,205,230,1) 0%, rgba(132,70,252,1) 100%)"
     },
     {
         "name": "Anime Pack II",
         "levels": [
-            "plus_ultra",
-            "overlord",
-            "niwa"
+            "kuzureta",
+            "luxtra",
+            "surge_of_the_shield"
         ],
         "colour": "radial-gradient(circle, rgba(132,70,252,1) 0%, rgba(17,205,230,1) 100%)"
     },
@@ -389,6 +389,7 @@
         "levels": [
             "sigma",
             "misfire",
+            "aura",
             "the_wiener"
         ],
         "colour": "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1w1ZrCuWXXjTzXSgFZx0Ir9PQ-sZGIDomog&s')"
@@ -504,6 +505,7 @@
             "coral_cave",
             "frozen_cave",
             "bass_cave",
+            "la_cueva",
             "cave_of_heart"
         ],
         "colour": "linear-gradient(135deg, rgba(0,0,0,1) 0%, rgba(167,94,0,1) 50%, rgba(0,0,0,1) 100%)"
@@ -554,6 +556,7 @@
             "frost_spirit",
             "arctic_lights",
             "frozen_cave",
+            "frozen",
             "storming_summit"
         ],
         "colour": "linear-gradient(27deg, rgba(154,216,255,1) 0%, rgba(0,110,255,1) 100%)"
@@ -588,10 +591,11 @@
         "colour": "radial-gradient(circle, rgba(0,255,14,1) 50%, rgba(0,251,255,1) 68%)"
     },
     {
-        "name": "Cairox Trilogy",
+        "name": "CairoX Pack",
         "levels": [
             "lucid_nightmares",
             "lucid_chaos",
+            "metal_requiem",
             "concaved_memories"
         ],
         "colour": "linear-gradient(240deg, rgba(0,255,49,1) 0%, rgba(0,255,207,1) 100%)"
@@ -612,6 +616,7 @@
             "slaughterhouse",
             "delta",
             "deimos_itshybrid",
+            "timor",
             "aerial_gleam"
         ],
         "colour": "linear-gradient(240deg, rgba(255,254,0,1) 0%, rgba(246,0,255,1) 100%)"
@@ -633,6 +638,7 @@
             "sand_sailor",
             "sunset_sandstorm",
             "dust_bowl",
+            "dismal_duststorm",
             "belloq"
         ],
         "colour": "linear-gradient(137deg, rgba(255,147,0,1) 0%, rgba(255,203,132,1) 100%)"
@@ -649,7 +655,7 @@
     {
         "name": "Disco Pack",
         "levels": [
-            "sorryforpartyrocking",
+            "devils_disco",
             "party_rock_anthem",
             "dance_til_dawn",
             "night_party",
@@ -729,20 +735,20 @@
     {
         "name": "Electroman Adventures Pack I",
         "levels": [
-            "saryyx_never_clear",
-            "static_ignition",
-            "cersia_difficult",
-            "sary_never_clear"
+            "thunder_alphabet",
+            "alpha_baa_x",
+            "polish_alphabet",
+            "jeongi"
         ],
         "colour": "linear-gradient(144deg, rgba(49,255,0,1) 0%, rgba(255,254,0,1) 50%, rgba(237,0,255,1) 100%)"
     },
     {
         "name": "Electroman Adventures Pack II",
         "levels": [
-            "thunder_alphabet",
-            "alpha_baa_x",
-            "polish_alphabet",
-            "jeongi"
+            "saryyx_never_clear",
+            "static_ignition",
+            "cersia_difficult",
+            "sary_never_clear"
         ],
         "colour": "radial-gradient(circle, rgba(255,254,0,1) 50%, rgba(7,255,0,1) 100%)"
     },
@@ -751,6 +757,7 @@
         "levels": [
             "ion",
             "carbon",
+            "sodium",
             "iridium"
         ],
         "colour": "linear-gradient(143deg, rgba(106,217,255,1) 0%, rgba(0,57,77,1) 50%, rgba(106,217,255,1) 100%)"
@@ -819,6 +826,7 @@
         "levels": [
             "nhelv",
             "goner",
+            "overkill",
             "rainbow_girl",
             "killbot"
         ],
@@ -857,6 +865,7 @@
         "levels": [
             "plasma_pulse_finale",
             "chroma_finale",
+            "barbarosfinalefinale",
             "barbaros_finale"
         ],
         "colour": "linear-gradient(239deg, rgba(89,144,190,1) 0%, rgba(65,46,160,1) 100%)"
@@ -877,7 +886,7 @@
             "prismatic_haze",
             "lodin_da_fish_washer",
             "le_fishe",
-            "a1330x"
+            "Fishe"
         ],
         "colour": "url('https://www.msc.org/images/default-source/msc-english/content-banner/fish-to-eat/fish-to-eat---shorthand-style-912/herring_sh.tmb-labelhome.jpg?Status=Master&sfvrsn=864041bc_1')"
     },
@@ -904,6 +913,8 @@
         "levels": [
             "lotus_flower",
             "wild_rose",
+            "moment",
+            "lotus",
             "into_petals"
         ],
         "colour": "linear-gradient(41deg, rgba(255,132,231,1) 0%, rgba(108,255,220,1) 100%)"
@@ -913,6 +924,7 @@
         "levels": [
             "final_epilogue",
             "komodo",
+            "fishe",
             "phantasmagoria_janucha",
             "sigsegv"
         ],
@@ -952,7 +964,7 @@
         "levels": [
             "quaoar_viprin",
             "mujigae",
-            "visible_ray",
+            "misfire",
             "spectrum_cyclone",
             "qdynamix"
         ],
@@ -970,15 +982,6 @@
         "colour": "linear-gradient(200deg, rgba(255,0,0,1) 0%, rgba(0,0,0,1) 50%, rgba(76,255,0,1) 100%)"
     },
     {
-        "name": "Greek Interface Trilogy",
-        "levels": [
-            "delta_interface",
-            "sigma_interface",
-            "omega_interface"
-        ],
-        "colour": "linear-gradient(45deg, rgba(231,0,255,1) 0%, rgba(255,115,0,1) 100%)"
-    },
-    {
         "name": "Greek Letter Trilogy",
         "levels": [
             "gamma",
@@ -991,6 +994,7 @@
         "name": "Hate Pack",
         "levels": [
             "i_hate_you",
+            "supermayohateclub",
             "hateful_reflection",
             "i_hate_renn",
             "hatred"
@@ -1004,7 +1008,7 @@
             "red_world",
             "the_ultimate_phase",
             "fexty",
-            "sakupen_hell"
+            "le_fishe"
         ],
         "colour": "linear-gradient(90deg, rgba(36,64,29,1) 0%, rgba(7,255,0,1) 46%, rgba(36,64,29,1) 100%)"
     },
@@ -1012,7 +1016,7 @@
         "name": "Hack Verified Pack II",
         "levels": [
             "mujigae",
-            "le_fishe",
+            "sakupen_hell",
             "phobos",
             "zaphkiel",
             "devil_vortex"
@@ -1038,27 +1042,6 @@
         "colour": "linear-gradient(135deg, rgba(255,123,0,1) 0%, rgba(241,0,253,1) 100%)"
     },
     {
-        "name": "The Hell Series",
-        "levels": [
-            "the_hell_field",
-            "the_hell_world",
-            "the_hell_zone",
-            "the_hell_origin",
-            "the_hell_inferno",
-            "the_hell_dignity"
-        ],
-        "colour": "linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(0,0,0,1) 50%, rgba(255,0,0,1) 100%)"
-    },
-    {
-        "name": "The Fake Hell Series",
-        "levels": [
-            "the_hell_nutz",
-            "the_hell_bird",
-            "the_hell_factory"
-        ],
-        "colour": "linear-gradient(90deg, rgba(102,5,5,1) 0%, rgba(0,0,0,1) 50%, rgba(102,5,5,1) 100%)"
-    },
-    {
         "name": "Hot Pack",
         "levels": [
             "critical_heat",
@@ -1075,6 +1058,7 @@
             "geode",
             "cave_of_heart",
             "memories",
+            "dissonance",
             "eternal"
         ],
         "colour": "linear-gradient(144deg, rgba(52,232,255,1) 0%, rgba(194,141,255,1) 84%)"
@@ -1119,7 +1103,7 @@
     {
         "name": "Kill Pack",
         "levels": [
-            "ego_killing",
+            "pentakill",
             "overkill",
             "buzzkill",
             "killbot",
@@ -1140,7 +1124,7 @@
     {
         "name": "KrmaL Pack I",
         "levels": [
-            "conical_depression",
+            "m_a_n_i_x",
             "elite_z_rebirth",
             "heartbeat",
             "falling_up"
@@ -1151,6 +1135,7 @@
         "name": "KrmaL Pack II",
         "levels": [
             "black_blizzard",
+            "conical_depression",
             "low_death",
             "xo"
         ],
@@ -1172,6 +1157,7 @@
             "blacklights",
             "nightlights",
             "backlights",
+            "lonely_lights",
             "lights_out"
         ],
         "colour": "radial-gradient(circle, rgba(255,250,0,1) 0%, rgba(255,253,189,1) 50%, rgba(0,0,0,1) 100%)"
@@ -1379,6 +1365,8 @@
         "levels": [
             "reeses_potentially",
             "ego_killing",
+            "acheron",
+            "abyss_of_darkness",
             "moving_forward"
         ],
         "colour": "url('https://cdn.pnggallery.com/wp-content/uploads/sad-emoji-01.png')"
@@ -1400,6 +1388,7 @@
             "frozen_cave",
             "storming_summit",
             "misty_mountains",
+            "the_old_trail",
             "beyond_the_summit"
         ],
         "colour": "linear-gradient(41deg, rgba(124,224,255,1) 0%, rgba(156,176,215,1) 50%, rgba(0,16,255,1) 100%)"
@@ -1548,39 +1537,6 @@
         "colour": "radial-gradient(circle, rgba(255,255,85,1) 0%, rgba(126,242,255,1) 50%, rgba(151,255,152,1) 100%)"
     },
     {
-        "name": "The Pack I",
-        "levels": [
-            "the_lost_existence",
-            "the_flawless",
-            "the_ultimate_demon",
-            "the_ultimate_phase",
-            "the_tears_beneath"
-        ],
-        "colour": "linear-gradient(145deg, rgba(164,255,215,1) 0%, rgba(255,144,66,1) 100%)"
-    },
-    {
-        "name": "The Pack II",
-        "levels": [
-            "the_first",
-            "the_sulphur_sea",
-            "the_moon_below",
-            "the_mainframe",
-            "the_cellar_path"
-        ],
-        "colour": "linear-gradient(145deg, rgba(174,164,255,1) 0%, rgba(66,255,197,1) 100%)"
-    },
-    {
-        "name": "The Pack III",
-        "levels": [
-            "the_golden",
-            "the_paroxysm_of_rage",
-            "the_rupture",
-            "the_art_of_the_blade",
-            "the_yandere"
-        ],
-        "colour": "linear-gradient(145deg, rgba(255,164,164,1) 0%, rgba(93,66,255,1) 100%)"
-    },
-    {
         "name": "Perfection Pack (EDEL)",
         "levels": [
             "death",
@@ -1601,6 +1557,15 @@
         "colour": "linear-gradient(145deg, rgba(159,0,114,1) 0%, rgba(255,210,240,1) 100%)"
     },
     {
+        "name": "Platnuu Trilogy",
+        "levels": [
+            "delta_interface",
+            "sigma_interface",
+            "omega_interface"
+        ],
+        "colour": "linear-gradient(45deg, rgba(231,0,255,1) 0%, rgba(255,115,0,1) 100%)"
+    },
+    {
         "name": "Player Names Pack I",
         "levels": [
             "i_hate_renn",
@@ -1616,7 +1581,7 @@
         "levels": [
             "thecinnybun",
             "vaenstep",
-            "solarion",
+            "",
             "xuser_morelike_luser"
         ],
         "colour": "linear-gradient(114deg, rgba(255,238,125,1) 0%, rgba(255,145,145,1) 100%)"
@@ -1672,24 +1637,13 @@
         "colour": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 100%)"
     },
     {
-        "name": "Quantum Series",
+        "name": "Quantum Pack",
         "levels": [
             "quantum_processing",
             "quantum_dynamix",
             "quantum_theory"
         ],
         "colour": "linear-gradient(45deg, rgba(40,156,0,1) 0%, rgba(74,255,0,1) 50%, rgba(146,255,176,1) 100%)"
-    },
-    {
-        "name": "The Quiet Pack",
-        "levels": [
-            "silent_clubstep",
-            "sinister_silence",
-            "silent_club",
-            "silentium_clavas",
-            "silentium_gradas"
-        ],
-        "colour": "linear-gradient(141deg, rgba(0,0,0,1) 0%, rgba(82,82,82,1) 50%, rgba(0,0,0,1) 100%)"
     },
     {
         "name": "RGB Pack",
@@ -1710,7 +1664,7 @@
         "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,136,0,1) 15%, rgba(245,255,0,1) 30%, rgba(0,255,12,1) 45%, rgba(0,255,243,1) 60%, rgba(16,0,255,1) 75%, rgba(255,0,241,1) 90%)"
     },
     {
-        "name": "RGB Pack at Home",
+        "name": "RGB at Home",
         "levels": [
             "the_flawless",
             "erebus_platnuu",
@@ -1766,7 +1720,7 @@
             "snowdrift",
             "decay"
         ],
-        "colour": "linear-gradient(41deg, rgba(255,132,132,1) 0%, rgba(93,37,86,1) 100%)"
+        "colour": "linear-gradient(90deg, rgba(2,0,36,0.7749474789915967) 0%, rgba(31,86,255,1) 35%, rgba(0,212,255,1) 100%)"
     },
     {
         "name": "Slow Pack II",
@@ -1777,7 +1731,29 @@
             "stand_in_the_snow",
             "carbon"
         ],
-        "colour": "linear-gradient(41deg, rgba(132,191,255,1) 0%, rgba(21,18,73,1) 100%)"
+        "colour": "linear-gradient(90deg, rgba(2,0,36,0.7749474789915967) 0%, rgba(22,60,175,1) 35%, rgba(0,212,255,1) 100%)"
+    },
+    {
+        "name": "Slow Pack III",
+        "levels": [
+            "darkened",
+            "alpha_baa_x",
+            "le_fishe",
+            "sigma_interface",
+            "xeriscape"
+        ],
+        "colour": "linear-gradient(90deg, rgba(2,0,36,0.7749474789915967) 0%, rgba(11,30,88,1) 35%, rgba(0,212,255,1) 100%)"
+    },
+    {
+        "name": "Slow Pack IV",
+        "levels": [
+            "dubkore_x",
+            "tapwreck",
+            "lodin_da_fish_washer",
+            "hatred",
+            "miss_you"
+        ],
+        "colour": "linear-gradient(90deg, rgba(2,0,36,0.7749474789915967) 0%, rgba(0,0,0,1) 35%, rgba(0,212,255,1) 100%)"
     },
     {
         "name": "Solar Pack",
@@ -1785,6 +1761,7 @@
             "solar_flare",
             "shape_of_the_sun",
             "sunset_sandstorm",
+            "sunburn",
             "blue_suns_zenith"
         ],
         "colour": "linear-gradient(90deg, rgba(255,250,0,1) 0%, rgba(255,156,0,1) 100%)"
@@ -1801,7 +1778,7 @@
     {
         "name": "Solo 2P Pack II",
         "levels": [
-            "bang_gang_solo",
+            "_solo",
             "based_gang_solo",
             "gentlemens_clique_solo"
         ],
@@ -1867,6 +1844,8 @@
         "levels": [
             "dismal_duststorm",
             "cyberstorm",
+            "snowfall_storm",
+            "boreas",
             "wind_storm"
         ],
         "colour": "linear-gradient(41deg, rgba(204,204,204,1) 0%, rgba(58,28,240,1) 100%)"
@@ -1944,7 +1923,7 @@
             "ragnarok",
             "ouroboros",
             "shock_breaker",
-            "bang_gang_solo"
+            "bang_gang_2p"
         ],
         "colour": "linear-gradient(90deg, rgba(0,233,7,1) 0%, rgba(167,0,255,1) 50%, rgba(0,233,7,1) 100%)"
     },
@@ -1967,6 +1946,81 @@
             "helios"
         ],
         "colour": "linear-gradient(45deg, rgba(39,18,98,1) 0%, rgba(145,62,172,1) 50%, rgba(246,189,255,1) 100%)"
+    },
+    {
+        "name": "The Hell Knockoffs",
+        "levels": [
+            "the_hell_nutz",
+            "the_hell_bird",
+            "the_hell_factory"
+        ],
+        "colour": "linear-gradient(90deg, rgba(102,5,5,1) 0%, rgba(0,0,0,1) 50%, rgba(102,5,5,1) 100%)"
+    },
+    {
+        "name": "The Hell Series",
+        "levels": [
+            "the_hell_field",
+            "the_hell_world",
+            "the_hell_zone",
+            "the_hell_origin",
+            "the_hell_inferno",
+            "the_hell_dignity"
+        ],
+        "colour": "linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(0,0,0,1) 50%, rgba(255,0,0,1) 100%)"
+    },
+    {
+        "name": "The Pack I",
+        "levels": [
+            "the_lost_existence",
+            "the_flawless",
+            "the_ultimate_demon",
+            "the_ultimate_phase",
+            "the_tears_beneath"
+        ],
+        "colour": "linear-gradient(145deg, rgba(164,255,215,1) 0%, rgba(255,144,66,1) 100%)"
+    },
+    {
+        "name": "The Pack II",
+        "levels": [
+            "the_first",
+            "the_sulphur_sea",
+            "the_moon_below",
+            "the_mainframe",
+            "the_cellar_path"
+        ],
+        "colour": "linear-gradient(145deg, rgba(174,164,255,1) 0%, rgba(66,255,197,1) 100%)"
+    },
+    {
+        "name": "The Pack III",
+        "levels": [
+            "the_golden",
+            "the_paroxysm_of_rage",
+            "the_rupture",
+            "the_art_of_the_blade",
+            "the_yandere"
+        ],
+        "colour": "linear-gradient(145deg, rgba(255,164,164,1) 0%, rgba(93,66,255,1) 100%)"
+    },
+    {
+        "name": "The Quiet Pack",
+        "levels": [
+            "silent_clubstep",
+            "sinister_silence",
+            "silent_club",
+            "silentium_clavas",
+            "silentium_gradas"
+        ],
+        "colour": "linear-gradient(141deg, rgba(0,0,0,1) 0%, rgba(82,82,82,1) 50%, rgba(0,0,0,1) 100%)"
+    },
+    {
+        "name": "The X Factor",
+        "levels": [
+            "acropolix",
+            "necropolix",
+            "dubkore_x",
+            "ithacropolix"
+        ],
+        "colour": "linear-gradient(90deg, rgba(156,4,4,1) 0%, rgba(0,0,0,1) 50%, rgba(191,2,255,1) 100%)"
     },
     {
         "name": "To The Pack",
@@ -2106,7 +2160,7 @@
             "amalgam",
             "sazerix",
             "excruciation_chamber",
-            "conical_depression"
+            "dance_of_the_violens"
         ],
         "colour": "linear-gradient(135deg, rgba(255,119,119,1) 0%, rgba(255,168,71,1) 100%)"
     },
@@ -2178,19 +2232,11 @@
         "colour": "linear-gradient(300deg, rgba(0,255,100,1) 0%, rgba(182,0,255,1) 100%)"
     },
     {
-        "name": "The X Factor",
-        "levels": [
-            "acropolix",
-            "necropolix",
-            "ithacropolix"
-        ],
-        "colour": "linear-gradient(90deg, rgba(156,4,4,1) 0%, rgba(0,0,0,1) 50%, rgba(191,2,255,1) 100%)"
-    },
-    {
-        "name": "Zephirox Special",
+        "name": "ZephiroX Special",
         "levels": [
             "macabre",
             "penombre",
+            "solarion",
             "catalyze"
         ],
         "colour": "radial-gradient(circle, rgba(149,255,0,1) 9%, rgba(255,117,0,1) 22%, rgba(0,29,255,1) 36%, rgba(255,0,0,1) 50%, rgba(0,117,255,1) 63%, rgba(255,139,0,1) 76%, rgba(243,255,0,1) 91%, rgba(0,255,181,1) 98%)"
