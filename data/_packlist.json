@@ -84,83 +84,6 @@
         "colour": "linear-gradient(135deg, rgba(164,164,164,1) 0%, rgba(210,98,255,1) 100%)"
     },
     {
-        "name": "2017 Top 5 Pack",
-        "levels": [
-            "plasma_pulse_finale",
-            "gamma",
-            "sonic_wave",
-            "yatagarasu",
-            "erebus_boldstep"
-        ],
-        "colour": "linear-gradient(338deg, rgba(215,0,0,1) 0%, rgba(55,0,0,1) 100%)"
-    },
-    {
-        "name": "2018 Top 5 Pack",
-        "levels": [
-            "bloodlust",
-            "plasma_pulse_finale",
-            "spacial_rend",
-            "gamma",
-            "sonic_wave"
-        ],
-        "colour": "linear-gradient(49deg, rgba(215,0,0,1) 0%, rgba(55,0,0,1) 100%)"
-    },
-    {
-        "name": "2019 Top 5 Pack",
-        "levels": [
-            "zodiac",
-            "kenos",
-            "crimson_planet",
-            "renevant",
-            "bloodlust"
-        ],
-        "colour": "linear-gradient(197deg, rgba(215,0,0,1) 0%, rgba(255,92,92,1) 50%, rgba(55,0,0,1) 100%)"
-    },
-    {
-        "name": "2020 Top 5 Pack",
-        "levels": [
-            "tartarus",
-            "the_golden",
-            "zodiac",
-            "kenos",
-            "crimson_planet"
-        ],
-        "colour": "linear-gradient(30deg, rgba(150,0,0,1) 0%, rgba(0,163,155,1) 100%)"
-    },
-    {
-        "name": "2021 Top 5 Pack",
-        "levels": [
-            "slaughterhouse",
-            "firework",
-            "arcturus",
-            "tartarus",
-            "trueffet"
-        ],
-        "colour": "linear-gradient(166deg, rgba(150,0,0,1) 0%, rgba(0,13,163,1) 100%)"
-    },
-    {
-        "name": "2022 Top 5 Pack",
-        "levels": [
-            "acheron",
-            "silent_clubstep",
-            "abyss_of_darkness",
-            "slaughterhouse",
-            "sakupen_circles"
-        ],
-        "colour": "radial-gradient(circle, rgba(163,0,73,1) 0%, rgba(255,164,31,1) 50%, rgba(163,0,73,1) 100%)"
-    },
-    {
-        "name": "2023 Top 5 Pack",
-        "levels": [
-            "acheron",
-            "silent_clubstep",
-            "avernus",
-            "abyss_of_darkness",
-            "kyouki"
-        ],
-        "colour": "radial-gradient(circle, rgba(143,0,0,1) 0%, rgba(55,0,0,1) 25%, rgba(143,0,0,1) 50%, rgba(55,0,0,1) 100%)"
-    },
-    {
         "name": "20 Letter Pack I",
         "levels": [
             "wacky_mcwhackface_v2",
@@ -288,33 +211,6 @@
             "speedrun"
         ],
         "colour": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,115,121,1) 49%, rgba(0,142,255,1) 100%)"
-    },
-    {
-        "name": "Amateur Pack I",
-        "levels": [
-            "daydream",
-            "wind_storm",
-            "kingslayer"
-        ],
-        "colour": "linear-gradient(135deg, rgba(182,105,255,1) 0%, rgba(255,106,106,1) 100%)"
-    },
-    {
-        "name": "Amateur Pack II",
-        "levels": [
-            "prismatic_haze",
-            "sigma_interface",
-            "plasma_pulse_iii"
-        ],
-        "colour": "linear-gradient(135deg, rgba(182,105,255,1) 0%, rgba(255,106,106,1) 100%)"
-    },
-    {
-        "name": "Amateur Pack III",
-        "levels": [
-            "carcano",
-            "moment",
-            "down_bass"
-        ],
-        "colour": "linear-gradient(135deg, rgba(131,0,255,1) 0%, rgba(255,0,0,1) 100%)"
     },
     {
         "name": "Anime Pack I",
@@ -479,17 +375,6 @@
         "colour": "url('https://static-00.iconduck.com/assets.00/broken-heart-emoji-512x460-fhpmsnqu.png')"
     },
     {
-        "name": "Broken Phone Pack",
-        "levels": [
-            "broken_signal",
-            "malware_ii",
-            "circuit_breaker",
-            "corrupted_volume",
-            "faulty_code"
-        ],
-        "colour": "linear-gradient(145deg, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 30%, rgba(0,0,0,1) 50%, rgba(67,255,0,1) 70%, rgba(0,0,0,1) 100%)"
-    },
-    {
         "name": "Cardiovascular System",
         "levels": [
             "heartbeat",
@@ -560,15 +445,6 @@
             "storming_summit"
         ],
         "colour": "linear-gradient(27deg, rgba(154,216,255,1) 0%, rgba(0,110,255,1) 100%)"
-    },
-    {
-        "name": "Covid-19 Pack",
-        "levels": [
-            "delta",
-            "omicron",
-            "gamma"
-        ],
-        "colour": "url('https://www.3m.co.uk/wps/wcm/connect/6c67050c-4418-42a3-b9a5-292ca77ef278/Coronavirus_410x270px.jpg?MOD=AJPERES')"
     },
     {
         "name": "Crohn Pack",
@@ -733,24 +609,15 @@
         "colour": "linear-gradient(225deg, rgba(0,84,255,1) 0%, rgba(0,255,49,1) 100%)"
     },
     {
-        "name": "Electroman Adventures Pack I",
+        "name": "Electroman Adventures Pack",
         "levels": [
             "thunder_alphabet",
             "alpha_baa_x",
+            "static_ignition",
             "polish_alphabet",
             "jeongi"
         ],
         "colour": "linear-gradient(144deg, rgba(49,255,0,1) 0%, rgba(255,254,0,1) 50%, rgba(237,0,255,1) 100%)"
-    },
-    {
-        "name": "Electroman Adventures Pack II",
-        "levels": [
-            "saryyx_never_clear",
-            "static_ignition",
-            "cersia_difficult",
-            "sary_never_clear"
-        ],
-        "colour": "radial-gradient(circle, rgba(255,254,0,1) 50%, rgba(7,255,0,1) 100%)"
     },
     {
         "name": "Elemental Pack",
@@ -802,24 +669,6 @@
             "kenos"
         ],
         "colour": "linear-gradient(90deg, rgba(2,0,36,0.7749474789915967) 0%, rgba(9,121,64,1) 35%, rgba(0,212,255,1) 100%)"
-    },
-    {
-        "name": "Extreme Pack I",
-        "levels": [
-            "celestial_force",
-            "catalyze",
-            "paroxysm"
-        ],
-        "colour": "linear-gradient(135deg, rgba(255,106,106,1) 0%, rgba(124,49,49,1) 100%)"
-    },
-    {
-        "name": "Extreme Pack II",
-        "levels": [
-            "edge_of_the_blade",
-            "titan_complex",
-            "kuzureta"
-        ],
-        "colour": "linear-gradient(135deg, rgba(255,0,0,1) 0%, rgba(122,0,0,1) 100%)"
     },
     {
         "name": "Eyemelt Pack",
@@ -911,7 +760,6 @@
     {
         "name": "Floral Pack",
         "levels": [
-            "lotus_flower",
             "wild_rose",
             "moment",
             "lotus",
@@ -974,12 +822,22 @@
         "name": "Glitchy Pack",
         "levels": [
             "decay",
-            "neurostasis",
             "broken_signal",
-            "killbot",
-            "glitched_memories"
+            "malware_ii",
+            "circuit_breaker",
+            "corrupted_volume"
         ],
         "colour": "linear-gradient(200deg, rgba(255,0,0,1) 0%, rgba(0,0,0,1) 50%, rgba(76,255,0,1) 100%)"
+    },
+    {
+        "name": "Glitchy Pack II",
+        "levels": [ 
+            "glitched_memories",
+            "neurostasis",
+            "killbot",
+            "faulty_code"
+        ],
+        "colour": "linear-gradient(145deg, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 30%, rgba(0,0,0,1) 50%, rgba(67,255,0,1) 70%, rgba(0,0,0,1) 100%)"
     },
     {
         "name": "Greek Letter Trilogy",
@@ -1024,24 +882,6 @@
         "colour": "linear-gradient(90deg, rgba(36,64,29,1) 0%, rgba(7,255,0,1) 46%, rgba(36,64,29,1) 100%)"
     },
     {
-        "name": "Hard Pack I",
-        "levels": [
-            "shock_therapy",
-            "breakout_redux",
-            "athanatos"
-        ],
-        "colour": "linear-gradient(135deg, rgba(255,172,95,1) 0%, rgba(248,114,255,1) 100%)"
-    },
-    {
-        "name": "Hard Pack II",
-        "levels": [
-            "audio_expulsion",
-            "anoxysm",
-            "subsonic"
-        ],
-        "colour": "linear-gradient(135deg, rgba(255,123,0,1) 0%, rgba(241,0,253,1) 100%)"
-    },
-    {
         "name": "Hot Pack",
         "levels": [
             "critical_heat",
@@ -1058,28 +898,9 @@
             "geode",
             "cave_of_heart",
             "memories",
-            "dissonance",
             "eternal"
         ],
         "colour": "linear-gradient(144deg, rgba(52,232,255,1) 0%, rgba(194,141,255,1) 84%)"
-    },
-    {
-        "name": "Insane Pack I",
-        "levels": [
-            "quantum_processing",
-            "ethereal_artifice",
-            "chroma_ii"
-        ],
-        "colour": "linear-gradient(135deg, rgba(101,121,255,1) 0%, rgba(95,255,158,1) 100%)"
-    },
-    {
-        "name": "Insane Pack II",
-        "levels": [
-            "black_blizzard",
-            "missing_benefits",
-            "artificial_ascent"
-        ],
-        "colour": "linear-gradient(135deg, rgba(0,33,255,1) 0%, rgba(0,255,100,1) 100%)"
     },
     {
         "name": "JonathanGD Pack",
@@ -1361,17 +1182,6 @@
         "colour": "url('https://upload.wikimedia.org/wikipedia/en/5/5f/Minecraft_%E2%80%93_Volume_Alpha.jpeg')"
     },
     {
-        "name": "Miserable Pack (EDEL)",
-        "levels": [
-            "reeses_potentially",
-            "ego_killing",
-            "acheron",
-            "abyss_of_darkness",
-            "moving_forward"
-        ],
-        "colour": "url('https://cdn.pnggallery.com/wp-content/uploads/sad-emoji-01.png')"
-    },
-    {
         "name": "Montage Pack",
         "levels": [
             "glitched_memories",
@@ -1539,15 +1349,6 @@
         "colour": "radial-gradient(circle, rgba(109,242,204,1) 0%, rgba(0,0,0,1) 100%)"
     },
     {
-        "name": "Oxysm Pack",
-        "levels": [
-            "the_paroxysm_of_rage",
-            "paroxysm",
-            "anoxysm"
-        ],
-        "colour": "radial-gradient(circle, rgba(255,255,85,1) 0%, rgba(126,242,255,1) 50%, rgba(151,255,152,1) 100%)"
-    },
-    {
         "name": "Perfection Pack (EDEL)",
         "levels": [
             "death",
@@ -1693,16 +1494,6 @@
         "colour": "linear-gradient(45deg, rgba(38,1,105,1) 0%, rgba(15,0,56,1) 48%, rgba(70,0,146,1) 100%)"
     },
     {
-        "name": "Reta Spinoff Pack",
-        "levels": [
-            "niwa",
-            "shukufuku",
-            "fragile",
-            "shukketsu"
-        ],
-        "colour": "linear-gradient(42deg, rgba(97,0,246,1) 0%, rgba(0,7,121,1) 100%)"
-    },
-    {
         "name": "Riot Pack",
         "levels": [
             "quantum_processing",
@@ -1769,7 +1560,6 @@
     {
         "name": "Solar Pack",
         "levels": [
-            "solar_flare",
             "shape_of_the_sun",
             "sunset_sandstorm",
             "sunburn",
@@ -1880,24 +1670,6 @@
             "supermayohateclub"
         ],
         "colour": "linear-gradient(37deg, rgba(140,60,255,1) 0%, rgba(255,117,117,1) 50%, rgba(140,60,255,1) 100%)"
-    },
-    {
-        "name": "Supreme Pack I",
-        "levels": [
-            "edge_of_the_world",
-            "tenochtitlan",
-            "shmarley_ville"
-        ],
-        "colour": "radial-gradient(circle, rgba(113,87,255,1) 0%, rgba(102,59,123,1) 100%)"
-    },
-    {
-        "name": "Supreme Pack II",
-        "levels": [
-            "spectrum_cyclone",
-            "shutdown",
-            "eternal_moment"
-        ],
-        "colour": "radial-gradient(circle, rgba(39,0,255,1) 0%, rgba(86,0,128,1) 100%)"
     },
     {
         "name": "Tally Hall Pack",
@@ -2078,7 +1850,6 @@
     {
         "name": "Threequel Pack",
         "levels": [
-            "atomic_cannon_mk_iii",
             "butiti_iii",
             "plasma_pulse_iii",
             "anya_iii",
@@ -2180,6 +1951,16 @@
         "levels": [
             "uprise",
             "fexty",
+            "volume",
+            "skrrah"
+        ],
+        "colour": "linear-gradient(135deg, rgba(119,164,255,1) 0%, rgba(254,104,104,1) 100%)"
+    },
+    {
+        "name": "Wave Chokepoint Pack II",
+        "levels": [
+            "berserk",
+            "caution",
             "zaphkiel",
             "icotact"
         ],
@@ -2192,7 +1973,7 @@
             "shotgun",
             "heart_attack",
             "burn_to_dust",
-            "the_wiener"
+            "flamethrower"
         ],
         "colour": "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpOlcMCK4fFikrDGq492gsbGuOOFfg4tUlsw&s')"
     },
