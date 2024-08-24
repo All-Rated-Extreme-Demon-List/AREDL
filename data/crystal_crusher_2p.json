@@ -1,7 +1,7 @@
 {
 	"id": 93732702,
 	"name": "Crystal Crusher (2P)",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"2P",
@@ -34,6 +34,12 @@
 		{
 			"user": "HotNooB",
 			"link": "https://youtu.be/kah3KhKljwE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DogeGoWoof",
+			"link": "https://www.youtube.com/watch?v=JP4RIAR8gt0",
 			"percent": 100,
 			"hz": 360
 		}
