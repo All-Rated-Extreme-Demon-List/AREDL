@@ -337,15 +337,6 @@
         "colour": "linear-gradient(45deg, rgba(0,190,255,1) 0%, rgba(255,141,231,1) 50%, rgba(255,0,0,1) 100%)"
     },
     {
-        "name": "Black Pack",
-        "levels": [
-            "black_flag",
-            "black_blizzard",
-            "blacklights"
-        ],
-        "colour": "linear-gradient(31deg, rgba(0,0,0,1) 0%, rgba(115,115,115,1) 100%)"
-    },
-    {
         "name": "Blade Pack",
         "levels": [
             "the_art_of_the_blade",
@@ -1142,15 +1133,6 @@
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 0%, rgba(0,255,3,1) 100%)"
     },
     {
-        "name": "Memory Mastery",
-        "levels": [
-            "me_when_machine_gang_solo",
-            "conclusion",
-            "limbo"
-        ],
-        "colour": "linear-gradient(45deg, rgba(0,0,0,1) 0%, rgba(0,255,3,1) 100%)"
-    },
-    {
         "name": "Minecraft Pack",
         "levels": [
             "speedrun",
@@ -1350,43 +1332,21 @@
         "name": "Player Names Pack I",
         "levels": [
             "i_hate_renn",
-            "helix",
-            "frozen",
-            "aurora",
-            "apex"
+            "robotchief_exposal",
+            "m_a_n_i_x",
+            "xuser_morelike_luser"
         ],
         "colour": "linear-gradient(114deg, rgba(255,145,145,1) 0%, rgba(255,238,125,1) 100%)"
     },
     {
         "name": "Player Names Pack II",
         "levels": [
-            "thecinnybun",
             "vaenstep",
-            "solarion",
-            "xuser_morelike_luser"
-        ],
-        "colour": "linear-gradient(114deg, rgba(255,238,125,1) 0%, rgba(255,145,145,1) 100%)"
-    },
-    {
-        "name": "Player Names Pack III",
-        "levels": [
             "sink",
             "cersia_madness",
-            "fusiondynamix",
-            "rosedynamix",
-            "ddiamond"
+            "rosedynamix"
         ],
-        "colour": "radial-gradient(circle, rgba(255,117,117,1) 0%, rgba(255,239,132,1) 100%)"
-    },
-    {
-        "name": "Player Names Pack IV",
-        "levels": [
-            "sary_never_clear",
-            "atomic_cannon",
-            "awedsy",
-            "th3dev0n"
-        ],
-        "colour": "radial-gradient(circle, rgba(255,117,117,1) 0%, rgba(255,239,132,1) 100%)"
+        "colour": "linear-gradient(114deg, rgba(255,238,125,1) 0%, rgba(255,145,145,1) 100%)"
     },
     {
         "name": "Polish Junk Pack",
@@ -1899,14 +1859,24 @@
         "name": "Wave Chokepoint Pack",
         "levels": [
             "uprise",
+            "skrrah",
             "fexty",
-            "volume",
-            "skrrah"
+            "volume"
         ],
         "colour": "radial-gradient(circle, rgba(255,86,150,1) 0%, rgba(47,142,238,1) 100%)"
     },
     {
         "name": "Wave Chokepoint Pack II",
+        "levels": [
+            "a1330x",
+            "a2marbl",
+            "innards",
+            "darkened"
+        ],
+        "colour": "radial-gradient(circle, rgba(255,86,150,1) 0%, rgba(47,142,238,1) 100%)"
+    },
+    {
+        "name": "Wave Chokepoint Pack III",
         "levels": [
             "berserk",
             "caution",
@@ -1964,19 +1934,12 @@
         "colour": "linear-gradient(0deg, rgba(191,41,98,1) 0%, rgba(81,47,238,1) 100%)"
     },
     {
-        "name": "XXXL Pack I",
+        "name": "XXXL Pack",
         "levels": [
             "death",
-            "the_lost_existence",
-            "eon"
-        ],
-        "colour": "linear-gradient(300deg, rgba(0,255,100,1) 0%, rgba(182,0,255,1) 100%)"
-    },
-    {
-        "name": "XXXL Pack II",
-        "levels": [
             "light_travel",
             "cicada3302",
+            "eon",
             "dark_odyssey"
         ],
         "colour": "linear-gradient(300deg, rgba(0,255,100,1) 0%, rgba(182,0,255,1) 100%)"
