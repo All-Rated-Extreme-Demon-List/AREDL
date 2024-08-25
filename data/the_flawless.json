@@ -1,7 +1,14 @@
 {
 	"id": 21280210,
 	"name": "The Flawless",
-	"tags": ["2.0", "Long", "Timings", "Chokepoints", "Ship", "Overall"],
+	"tags": [
+		"2.0",
+		"Long",
+		"Timings",
+		"Chokepoints",
+		"Ship",
+		"Overall"
+	],
 	"author": "IIIRyanIII",
 	"creators": [
 		"atheoz",
@@ -1616,6 +1623,12 @@
 		{
 			"user": "BOOF",
 			"link": "https://www.youtube.com/watch?v=cbo489qOxpM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "VinniboyGD",
+			"link": "https://drive.google.com/file/d/1FJlMPaHy9zqKVHb19N483fp77oAUvhXK/view?usp=sharing",
 			"percent": 100,
 			"hz": 360
 		}
