@@ -1534,9 +1534,8 @@
             "ultrasans",
             "niflhel",
             "air_tech"
-
         ],
-        "colour": "radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%)"
+        "colour": "linear-gradient(90deg, rgba(252,69,69,1) 9%, rgba(0,255,10,1) 20%, rgba(0,98,255,1) 41%, rgba(0,98,255,1) 58%, rgba(0,255,10,1) 76%, rgba(252,69,69,1) 88%)"
     },
     {
         "name": "Spinoff Pack II",
@@ -1546,9 +1545,19 @@
             "the_hell_bird",
             "ecstasy_sleygd",
             "maybe_possibly_thing"
-
         ],
-        "colour": "radial-gradient(circle, rgba(0,212,255,1) 0%, rgba(9,9,121,1) 35%, rgba(2,0,36,1) 100%)"
+        "colour": "linear-gradient(90deg, rgba(0,98,255,1) 9%, rgba(252,69,69,1) 20%, rgba(0,255,10,1) 41%, rgba(0,255,10,1) 58%, rgba(252,69,69,1) 76%, rgba(0,98,255,1) 88%)"
+    },
+    {
+        "name": "Spinoff Pack III",
+        "levels": [
+            "balengu_vortex",
+            "ziroikapi",
+            "hot_rod",
+            "dusker_processing",
+            "masochism"
+        ],
+        "colour": "linear-gradient(90deg, rgba(0,255,10,1) 9%, rgba(0,98,255,1) 20%, rgba(252,69,69,1) 41%, rgba(252,69,69,1) 58%, rgba(0,98,255,1) 76%, rgba(0,255,10,1) 88%)"
     },
     {
         "name": "Stereo Madness Pack",
@@ -1945,5 +1954,15 @@
             "catalyze"
         ],
         "colour": "radial-gradient(circle, rgba(149,255,0,1) 9%, rgba(255,117,0,1) 22%, rgba(0,29,255,1) 36%, rgba(255,0,0,1) 50%, rgba(0,117,255,1) 63%, rgba(255,139,0,1) 76%, rgba(243,255,0,1) 91%, rgba(0,255,181,1) 98%)"
+    },
+    {
+        "name": "Former Owner Pack",
+        "levels": [
+            "audio_expulsion",
+            "supercharged",
+            "glide",
+            "universe_on_fire"
+        ],
+        "colour": "radial-gradient(circle, rgba(157,14,68,1) 0%, rgba(0,0,0,1) 100%)"
     }
 ]
