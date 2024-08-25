@@ -1583,11 +1583,11 @@
     {
         "name": "Teamwork Pack",
         "levels": [
-            "horros_2p",
+            "Horros_2p",
             "based_gang_2p",
             "bang_gang_2p",
             "gentlemens_clique_2p",
-            "me_when_machine_gane_2p"
+            "me_when_machine_gang_2p"
         ],
         "colour": "radial-gradient(circle, rgba(241,230,179,1) 0%, rgba(255,136,64,1) 60%, rgba(254,0,255,1) 100%)"
     },
