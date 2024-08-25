@@ -337,15 +337,6 @@
         "colour": "linear-gradient(45deg, rgba(0,190,255,1) 0%, rgba(255,141,231,1) 50%, rgba(255,0,0,1) 100%)"
     },
     {
-        "name": "Blade Pack",
-        "levels": [
-            "the_art_of_the_blade",
-            "blade_of_justice",
-            "edge_of_the_blade"
-        ],
-        "colour": "linear-gradient(135deg, rgba(14,62,197,1) 0%, rgba(36,169,189,1) 50%, rgba(14,62,197,1) 100%)"
-    },
-    {
         "name": "Breakup Pack",
         "levels": [
             "wow",
