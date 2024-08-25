@@ -161,7 +161,7 @@
         "colour": "radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(255,255,255,1) 25%, rgba(0,0,0,1) 50%, rgba(255,255,255,1) 75%, rgba(0,0,0,1) 100%)"
     },
     {
-        "name": "The Acuniverse",
+        "name": "Acuniverse",
         "levels": [
             "acu",
             "wacky_mcwhackface_v2",
@@ -713,7 +713,7 @@
         "colour": "linear-gradient(145deg, rgba(255,255,255,1) 0%, rgba(255,0,0,1) 30%, rgba(255,255,255,1) 50%, rgba(0,28,255,1) 70%, rgba(255,255,255,1) 100%)"
     },
     {
-        "name": "Flective Pack",
+        "name": "Flective Trio",
         "levels": [
             "deflective",
             "reflective",
@@ -760,16 +760,6 @@
             "memories"
         ],
         "colour": "linear-gradient(145deg, rgba(96,1,1,1) 0%, rgba(0,0,0,1) 50%, rgba(96,1,1,1) 100%)"
-    },
-    {
-        "name": "Garden Pack",
-        "levels": [
-            "basil",
-            "wild_rose",
-            "gardening_map",
-            "niwa"
-        ],
-        "colour": "linear-gradient(90deg, rgba(121,255,128,1) 0%, rgba(0,115,28,1) 100%)"
     },
     {
         "name": "Gay Pack",
@@ -874,16 +864,6 @@
             "dark_odyssey"
         ],
         "colour": "linear-gradient(170deg, rgba(0,212,12,1) 0%, rgba(255,192,99,1) 50%, rgba(0,212,12,1) 100%)"
-    },
-    {
-        "name": "Just A Prank Pack",
-        "levels": [
-            "bang_gang_solo",
-            "burn_to_dust",
-            "innards",
-            "cerebral_hemorrhage"
-        ],
-        "colour": "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAJR4S4Nv2KILkHJTkZy-5tmrRK3mI4X5Y1g&s')"
     },
     {
         "name": "Kill Pack",
@@ -1417,8 +1397,8 @@
     {
         "name": "Sequel Pack",
         "levels": [
-            "atomic_cannon_mk_ii",
             "photovoltaic_ii",
+            "effect_ii",
             "chroma_ii",
             "malware_ii",
             "to_the_stars_ii"
@@ -1575,7 +1555,6 @@
     {
         "name": "Super Pack",
         "levels": [
-            "superhatemeworld",
             "super_probably_level",
             "super_kontik",
             "supercharged",
@@ -1604,12 +1583,24 @@
     {
         "name": "Teamwork Pack",
         "levels": [
-            "codependence_2p",
-            "crystal_crusher_2p",
+            "horros_2p",
+            "based_gang_2p",
+            "bang_gang_2p",
+            "gentlemens_clique_2p",
+            "me_when_machine_gane_2p"
+        ],
+        "colour": "radial-gradient(circle, rgba(241,230,179,1) 0%, rgba(255,136,64,1) 60%, rgba(254,0,255,1) 100%)"
+    },
+    {
+        "name": "Teamwork Pack II",
+        "levels": [
             "sides_of_my_mind_2p",
+            "crystal_crusher_2p",
+            "codependence_2p",
+            "we_are_not_the_same_2p",
             "beeline_2p"
         ],
-        "colour": "linear-gradient(125deg, rgba(188,139,255,1) 0%, rgba(253,131,255,1) 100%)"
+        "radial-gradient(circle, rgba(255,210,0,1) 0%, rgba(198,74,0,1) 60%, rgba(113,0,113,1) 100%)"
     },
     {
         "name": "Tech Series",
@@ -1686,22 +1677,12 @@
         "colour": "linear-gradient(145deg, rgba(255,164,164,1) 0%, rgba(93,66,255,1) 100%)"
     },
     {
-        "name": "The Quiet Pack",
-        "levels": [
-            "silent_clubstep",
-            "sinister_silence",
-            "silent_club",
-            "silentium_clavas",
-            "silentium_gradas"
-        ],
-        "colour": "linear-gradient(141deg, rgba(0,0,0,1) 0%, rgba(82,82,82,1) 50%, rgba(0,0,0,1) 100%)"
-    },
-    {
         "name": "The X Factor",
         "levels": [
             "acropolix",
             "necropolix",
-            "dubkore_x",
+            "gewerbix",
+            "cholerix",
             "ithacropolix"
         ],
         "colour": "linear-gradient(90deg, rgba(156,4,4,1) 0%, rgba(0,0,0,1) 50%, rgba(191,2,255,1) 100%)"
@@ -1855,7 +1836,7 @@
             "fexty",
             "volume"
         ],
-        "colour": "radial-gradient(circle, rgba(255,86,150,1) 0%, rgba(47,142,238,1) 100%)"
+        "colour": "radial-gradient(circle, rgba(255,181,181,1) 0%, rgba(237,124,255,1) 60%, rgba(0,226,255,1) 100%)"
     },
     {
         "name": "Wave Chokepoint Pack II",
@@ -1865,7 +1846,7 @@
             "innards",
             "darkened"
         ],
-        "colour": "radial-gradient(circle, rgba(255,86,150,1) 0%, rgba(47,142,238,1) 100%)"
+        "colour": "radial-gradient(circle, rgba(221,171,171,1) 0%, rgba(205,98,222,1) 60%, rgba(0,183,207,1) 100%)"
     },
     {
         "name": "Wave Chokepoint Pack III",
@@ -1875,7 +1856,7 @@
             "zaphkiel",
             "icotact"
         ],
-        "colour": "radial-gradient(circle, rgba(157,14,68,1) 0%, rgba(13,50,87,1) 100%)"
+        "colour": "radial-gradient(circle, rgba(204,130,130,1) 0%, rgba(153,55,168,1) 60%, rgba(0,108,122,1) 100%)"
     },
     {
         "name": "Ways To Die Pack",
@@ -1908,15 +1889,6 @@
         "colour": "linear-gradient(133deg, rgba(115,79,40,1) 0%, rgba(0,155,23,1) 50%, rgba(115,79,40,1) 100%)"
     },
     {
-        "name": "World Wide Web",
-        "levels": [
-            "network_agat3",
-            "network_vandervals",
-            "netzwerk"
-        ],
-        "colour": "radial-gradient(circle, rgba(1,0,251,1) 0%, rgba(0,255,246,1) 100%)"
-    },
-    {
         "name": "Woogi Pack",
         "levels": [
             "libertas",
@@ -1945,6 +1917,16 @@
             "catalyze"
         ],
         "colour": "radial-gradient(circle, rgba(149,255,0,1) 9%, rgba(255,117,0,1) 22%, rgba(0,29,255,1) 36%, rgba(255,0,0,1) 50%, rgba(0,117,255,1) 63%, rgba(255,139,0,1) 76%, rgba(243,255,0,1) 91%, rgba(0,255,181,1) 98%)"
+    },
+    {
+        "name": "Owner Pack",
+        "levels": [
+            "idols",
+            "surge_of_the_shield",
+            "niwa",
+            "trollmachine"
+        ],
+        "colour": "radial-gradient(circle, rgba(157,14,68,1) 0%, rgba(0,0,0,1) 100%)"
     },
     {
         "name": "Former Owner Pack",
