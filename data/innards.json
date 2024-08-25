@@ -1,7 +1,18 @@
 {
 	"id": 54588072,
 	"name": "INNARDS",
-	"tags": ["2.1", "Long", "Fast-Paced", "Timings", "Chokepoints", "Gimmicky", "Bossfight", "Wave", "Duals", "Overall"],
+	"tags": [
+		"2.1",
+		"Long",
+		"Fast-Paced",
+		"Timings",
+		"Chokepoints",
+		"Gimmicky",
+		"Bossfight",
+		"Wave",
+		"Duals",
+		"Overall"
+	],
 	"author": "Kaito",
 	"creators": [],
 	"verifier": "Cinci",
@@ -991,6 +1002,12 @@
 		{
 			"user": "Lundino",
 			"link": "https://youtu.be/CO2VK6oOYu4?si=6Py1GMXCfsvTHSGB",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Laffey",
+			"link": "https://youtu.be/JKHJbQHtPmM",
 			"percent": 100,
 			"hz": 360
 		}
