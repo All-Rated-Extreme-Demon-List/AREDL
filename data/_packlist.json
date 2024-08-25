@@ -1600,7 +1600,7 @@
             "we_are_not_the_same_2p",
             "beeline_2p"
         ],
-        "radial-gradient(circle, rgba(255,210,0,1) 0%, rgba(198,74,0,1) 60%, rgba(113,0,113,1) 100%)"
+        "colour": "radial-gradient(circle, rgba(255,210,0,1) 0%, rgba(198,74,0,1) 60%, rgba(113,0,113,1) 100%)"
     },
     {
         "name": "Tech Series",
