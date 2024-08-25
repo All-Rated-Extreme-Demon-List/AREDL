@@ -533,18 +533,20 @@
     {
         "name": "Dream Pack",
         "levels": [
-            "artificial_dream",
-            "endless_dream",
-            "faded_dream"
+            "daydream",
+            "dreaming",
+            "i_never_dream",
+            "artificial_dream"
         ],
         "colour": "linear-gradient(261deg, rgba(225,192,201,1) 0%, rgba(172,151,180,1) 100%)"
     },
     {
         "name": "Dream Pack II",
         "levels": [
-            "fever_dream",
             "eternal_dreams",
-            "i_never_dream"
+            "dream_city",
+            "endless_dream",
+            "faded_dream"
         ],
         "colour": "radial-gradient(circle, rgba(225,192,201,1) 0%, rgba(172,151,180,1) 100%)"
     },
@@ -1173,16 +1175,6 @@
             "tornado"
         ],
         "colour": "linear-gradient(90deg, rgba(238,207,237,1) 0%, rgba(255,255,255,1) 46%, rgba(212,242,241,1) 100%)"
-    },
-    {
-        "name": "Night Pack",
-        "levels": [
-            "midnight",
-            "nightshade",
-            "nightmare_chasm",
-            "night_party"
-        ],
-        "colour": "linear-gradient(135deg, rgba(2,0,36,1) 0%, rgba(194,0,255,1) 40%, rgba(0,230,255,1) 60%, rgba(0,0,0,1) 100%)"
     },
     {
         "name": "Nine Circles Pack I",
