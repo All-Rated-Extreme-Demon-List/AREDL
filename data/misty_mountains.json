@@ -1,13 +1,12 @@
 {
 	"id": 60708767,
 	"name": "Misty Mountains",
-	"tags":[
+	"tags": [
 		"2.1",
 		"XL",
 		"Timings",
 		"Chokepoints",
 		"Duals"
-
 	],
 	"author": "We4therMan",
 	"creators": [],
@@ -1829,6 +1828,18 @@
 		{
 			"user": "Majax",
 			"link": "https://youtu.be/tNlZucpPVTk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "zorsti",
+			"link": "https://youtu.be/N44IC_15jH0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Garasu",
+			"link": "https://youtu.be/zkPuXqdikzI",
 			"percent": 100,
 			"hz": 360
 		}
