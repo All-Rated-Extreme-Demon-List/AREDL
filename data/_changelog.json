@@ -3661,5 +3661,14 @@
 		"from_rank": 67,
 		"above": "promethean",
 		"below": "crackhead_circles"
+	},
+	{
+		"date": 1724634278,
+		"action": "lowered",
+		"name": "checked_steam",
+		"to_rank": 66,
+		"from_rank": 49,
+		"above": "crackhead_circles",
+		"below": "frost_spirit"
 	}
 ]
