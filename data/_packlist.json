@@ -532,6 +532,26 @@
         "colour": "linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 50%, rgba(255,222,0,1) 100%)"
     },
     {
+        "name": "Development Hell I",
+        "levels": [
+            "libertas",
+            "time_pulse",
+            "yggdrasil",
+            "armageddon"
+        ],
+        "colour": "linear-gradient(90deg, rgba(0,0,0,1) 9%, rgba(99,10,10,1) 20%, rgba(255,0,0,1) 41%, rgba(255,0,0,1) 58%, rgba(99,10,10,1) 76%, rgba(0,0,0,1) 88%)"
+    },
+    {
+        "name": "Development Hell II",
+        "levels": [
+            "cheyenne",
+            "remember",
+            "fusion_z",
+            "reactor_core"
+        ],
+        "colour": "linear-gradient(90deg, rgba(0,0,0,1) 9%, rgba(99,10,10,1) 20%, rgba(255,0,0,1) 41%, rgba(255,0,0,1) 58%, rgba(99,10,10,1) 76%, rgba(0,0,0,1) 88%)"
+    },
+    {
         "name": "Disco Pack",
         "levels": [
             "devils_disco",
