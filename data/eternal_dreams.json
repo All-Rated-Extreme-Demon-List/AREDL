@@ -8,6 +8,12 @@
 	"percentToQualify": 100,
 	"records": [
 		{
+			"user": "Lia",
+			"link": "https://youtu.be/JrjX10yijnc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
 			"user": "J03B",
 			"link": "https://youtu.be/urUuchnziw8?si=mI6dK2kDBj4HhWOY",
 			"percent": 100,
@@ -58,12 +64,6 @@
 		{
 			"user": "tomboytinkerbell",
 			"link": "https://youtu.be/hdXofRgrRwM?si=J5y6ndN_aOQ-5Fp3",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "Lia",
-			"link": "https://youtu.be/JrjX10yijnc",
 			"percent": 100,
 			"hz": 360
 		}
