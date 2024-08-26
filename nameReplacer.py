@@ -21,6 +21,7 @@ id_lower = 10**(id_digits-1)
 id_upper = 10**id_digits - 1
 
 def get_id(username):
+    username = username.strip()
     if username.lower() in lookup_map:
         return lookup_map[username.lower()]
         
