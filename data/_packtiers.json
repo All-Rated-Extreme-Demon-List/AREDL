@@ -193,6 +193,7 @@
             "Dentist Pack",
             "Electroman Adventures Pack",
             "Extension Pack",
+            "GALACTIC TRIO PACK",
             "Gay Pack",
             "Hot Pack",
             "Memory Pack V",
@@ -221,6 +222,7 @@
         "name": "Diamond Tier",
         "color": "linear-gradient(31deg, rgba(0,172,181,1) 0%, rgba(0,245,255,1) 50%, rgba(0,172,181,1) 100%)",
         "packs": [
+            "Demishio Pack",
             "Nine Circles Pack VI",
             "Top 1 Pack III"
         ]
