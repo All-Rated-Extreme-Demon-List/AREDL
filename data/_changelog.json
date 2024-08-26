@@ -3670,5 +3670,14 @@
 		"from_rank": 49,
 		"above": "crackhead_circles",
 		"below": "frost_spirit"
+	},
+	{
+		"date": 1724646537,
+		"action": "lowered",
+		"name": "cataclysm",
+		"to_rank": 926,
+		"from_rank": 899,
+		"above": "outside_eyesight",
+		"below": "firepower_kapycta999"
 	}
 ]
