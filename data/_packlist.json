@@ -491,7 +491,7 @@
         ],
         "colour": "radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(14,0,255,1) 50%, rgba(255,255,255,1) 100%)"
     },
-     {
+    {
         "name": "Dentist Pack",
         "levels": [
             "neutra",
@@ -501,6 +501,15 @@
             "sink"
         ],
         "colour": "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0U6nCQrYzbVdLhOdGMbBmzxUcxnJ_juH6g&s')"
+    },
+    {
+        "name": "Demishio Pack",
+        "levels": [
+            "kyouki",
+            "ourwa",
+            "widestep"
+        ],
+        "colour": "radial-gradient(circle, rgba(57,0,255,1) 18%, rgba(30,34,75,1) 69%, rgba(130,0,130,1) 100%)"
     },
     {
         "name": "Desert Pack",
@@ -792,6 +801,15 @@
             "memories"
         ],
         "colour": "linear-gradient(145deg, rgba(96,1,1,1) 0%, rgba(0,0,0,1) 50%, rgba(96,1,1,1) 100%)"
+    },
+    {
+        "name": "GALACTIC TRIO PACK",
+        "levels": [
+            "knights_of_thunder",
+            "eternal_moment",
+            "kowareta"
+        ],
+        "colour": "linear-gradient(90deg, rgba(0,0,0,1) 9%, rgba(83,0,255,1) 20%, rgba(252,69,206,1) 41%, rgba(252,69,206,1) 58%, rgba(83,0,255,1) 76%, rgba(0,0,0,1) 88%)"
     },
     {
         "name": "Gay Pack",
