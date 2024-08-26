@@ -240,6 +240,17 @@
         "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,192,0,1) 50%, rgba(245,255,0,1) 100%)"
     },
     {
+        "name": "A.R.E.D.L Pack",
+        "levels": [
+            "annihilation_nation",
+            "reflective",
+            "ex",
+            "doradura",
+            "lost_love"
+        ],
+        "colour": "radial-gradient(circle, rgba(0,255,237,1) 3%, rgba(0,153,255,1) 19%, rgba(238,61,23,1) 88%)"
+    },
+    {
         "name": "Arthritis Pack",
         "levels": [
             "wasureta",
@@ -289,6 +300,16 @@
             "the_wiener"
         ],
         "colour": "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1w1ZrCuWXXjTzXSgFZx0Ir9PQ-sZGIDomog&s')"
+    },
+    {
+        "name": "Breaker Pack",
+        "levels": [
+            "shock_breaker",
+            "dimension_breaker",
+            "circuit_breaker",
+            "wavebreaker"
+        ],
+        "colour": "radial-gradient(circle, rgba(42,152,52,1) 0%, rgba(55,147,168,1) 60%, rgba(24,195,217,1) 100%)"
     },
     {
         "name": "Breaking Bad Pack",
@@ -346,6 +367,17 @@
             "bye"
         ],
         "colour": "url('https://static-00.iconduck.com/assets.00/broken-heart-emoji-512x460-fhpmsnqu.png')"
+    },
+    {
+        "name": "Camellia Pack",
+        "levels": [
+            "crystal",
+            "delta_interface",
+            "quaoar_flosia",
+            "speedrun",
+            "karma"
+        ],
+        "colour": "radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(68,172,196,1) 60%, rgba(255,104,255,1) 100%)"
     },
     {
         "name": "Cardiovascular System",
@@ -517,7 +549,7 @@
             "azure_fiesta",
             "snowfall_fiesta",
             "delebit_oblivio",
-            "the_yandere"
+            "_yandere"
         ],
         "colour": "linear-gradient(45deg, rgba(252,0,255,1) 0%, rgba(255,252,0,1) 100%)"
     },
@@ -1642,39 +1674,6 @@
             "the_hell_dignity"
         ],
         "colour": "linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(0,0,0,1) 50%, rgba(255,0,0,1) 100%)"
-    },
-    {
-        "name": "The Pack I",
-        "levels": [
-            "the_lost_existence",
-            "the_flawless",
-            "the_ultimate_demon",
-            "the_ultimate_phase",
-            "the_tears_beneath"
-        ],
-        "colour": "linear-gradient(145deg, rgba(164,255,215,1) 0%, rgba(255,144,66,1) 100%)"
-    },
-    {
-        "name": "The Pack II",
-        "levels": [
-            "the_first",
-            "the_sulphur_sea",
-            "the_moon_below",
-            "the_mainframe",
-            "the_cellar_path"
-        ],
-        "colour": "linear-gradient(145deg, rgba(174,164,255,1) 0%, rgba(66,255,197,1) 100%)"
-    },
-    {
-        "name": "The Pack III",
-        "levels": [
-            "the_golden",
-            "the_paroxysm_of_rage",
-            "the_rupture",
-            "the_art_of_the_blade",
-            "the_yandere"
-        ],
-        "colour": "linear-gradient(145deg, rgba(255,164,164,1) 0%, rgba(93,66,255,1) 100%)"
     },
     {
         "name": "The X Factor",
