@@ -1,7 +1,7 @@
 {
 	"id": 89794133,
 	"name": "Chub Chub",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -43,6 +43,12 @@
 		{
 			"user": "ultrakawaHD",
 			"link": "https://www.youtube.com/watch?v=7VGeFdnMYeY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Chubs Dubs",
+			"link": "https://www.youtube.com/watch?v=ev9jmG-VWro",
 			"percent": 100,
 			"hz": 360
 		}

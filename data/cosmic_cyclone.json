@@ -1,7 +1,7 @@
 {
 	"id": 76159410,
 	"name": "Cosmic Cyclone",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Circles",
@@ -160,6 +160,12 @@
 		{
 			"user": "bytrif",
 			"link": "https://youtu.be/biwg_58rae8?si=JE_v0tHnUSMOXdv2",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Bamvie",
+			"link": "https://youtu.be/4teaQBgi60E?si=siazk1_zw097ZvT3",
 			"percent": 100,
 			"hz": 360
 		}
