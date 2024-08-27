@@ -3679,5 +3679,14 @@
 		"from_rank": 899,
 		"above": "outside_eyesight",
 		"below": "firepower_kapycta999"
+	},
+	{
+		"date": 1724724430,
+		"action": "lowered",
+		"name": "congregation",
+		"to_rank": 129,
+		"from_rank": 110,
+		"above": "aronia",
+		"below": "awedsy"
 	}
 ]
