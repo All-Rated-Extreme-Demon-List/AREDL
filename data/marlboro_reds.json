@@ -1,7 +1,7 @@
 {
 	"id": 103953282,
 	"name": "Marlboro reds",
-	"tags":[
+	"tags": [
 		"2.2",
 		"Long",
 		"Timings",
@@ -373,6 +373,12 @@
 		{
 			"user": "runi",
 			"link": "https://youtu.be/A7IUs0o08Rs?si=bqK9yFtVU-vuSZRm",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "xope",
+			"link": "https://youtu.be/yhq7agl_o2o?si=i9Lj1-tyG-EBzqet",
 			"percent": 100,
 			"hz": 360
 		}
