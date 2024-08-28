@@ -3706,5 +3706,14 @@
 		"from_rank": 875,
 		"above": "a4elements",
 		"below": "enlightened_memories"
+	},
+	{
+		"date": 1724871937,
+		"action": "lowered",
+		"name": "fog",
+		"to_rank": 124,
+		"from_rank": 117,
+		"above": "sazerix",
+		"below": "citra"
 	}
 ]
