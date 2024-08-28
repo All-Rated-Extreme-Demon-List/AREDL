@@ -3697,5 +3697,14 @@
 		"from_rank": null,
 		"above": "penombre",
 		"below": "obscura"
+	},
+	{
+		"date": 1724869085,
+		"action": "raised",
+		"name": "court_circuit",
+		"to_rank": 701,
+		"from_rank": 875,
+		"above": "a4elements",
+		"below": "enlightened_memories"
 	}
 ]
