@@ -1,7 +1,7 @@
 {
 	"id": 47446042,
 	"name": "BBBBBBBBBBBBBBBBBBBB",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Timings",
@@ -87,6 +87,12 @@
 		{
 			"user": "BrowarKedawar",
 			"link": "https://youtu.be/BH-1blrv6I0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Vikings",
+			"link": "https://www.youtube.com/watch?v=-muQQ1T_JU8&t=900s",
 			"percent": 100,
 			"hz": 360
 		}

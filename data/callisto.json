@@ -1,7 +1,7 @@
 {
 	"id": 86069819,
 	"name": "Callisto",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -80,6 +80,12 @@
 		{
 			"user": "Edduh",
 			"link": "https://www.youtube.com/watch?v=A8XmphQjRGg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Vikings",
+			"link": "https://www.youtube.com/watch?v=-muQQ1T_JU8&t=900s",
 			"percent": 100,
 			"hz": 360
 		}
