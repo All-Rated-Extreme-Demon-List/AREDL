@@ -3751,5 +3751,14 @@
 		"from_rank": 456,
 		"above": "molten_mercury",
 		"below": "poltergeist_reborn"
+	},
+	{
+		"date": 1724935634,
+		"action": "lowered",
+		"name": "disruption",
+		"to_rank": 899,
+		"from_rank": 885,
+		"above": "idol19",
+		"below": "uprise"
 	}
 ]
