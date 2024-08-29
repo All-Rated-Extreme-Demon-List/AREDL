@@ -3760,5 +3760,14 @@
 		"from_rank": 885,
 		"above": "idol19",
 		"below": "uprise"
+	},
+	{
+		"date": 1724937947,
+		"action": "lowered",
+		"name": "acrozis",
+		"to_rank": 734,
+		"from_rank": 694,
+		"above": "yggdrasil",
+		"below": "artificial_dream"
 	}
 ]
