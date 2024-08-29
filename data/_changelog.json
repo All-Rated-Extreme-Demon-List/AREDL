@@ -3724,5 +3724,14 @@
 		"from_rank": 144,
 		"above": "atomic_cannon",
 		"below": "moving_forward"
+	},
+	{
+		"date": 1724927549,
+		"action": "lowered",
+		"name": "dry_out_copyable_2",
+		"to_rank": 65,
+		"from_rank": 61,
+		"above": "checked_steam",
+		"below": "frost_spirit"
 	}
 ]
