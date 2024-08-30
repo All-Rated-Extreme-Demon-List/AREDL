@@ -1,7 +1,7 @@
 {
 	"id": 52527538,
 	"name": "MELTDOWN",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -727,6 +727,12 @@
 		{
 			"user": "TheJaco9",
 			"link": "https://www.youtube.com/watch?v=C7ZZWJJNMbA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Urufii",
+			"link": "https://youtu.be/M2W3HRlgixA",
 			"percent": 100,
 			"hz": 360
 		}

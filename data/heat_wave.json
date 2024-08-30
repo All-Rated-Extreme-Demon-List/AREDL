@@ -1,7 +1,16 @@
 {
 	"id": 45818014,
 	"name": "Heat Wave",
-	"tags": ["2.1", "Long", "Fast-Paced", "Timings", "Chokepoints", "Nerve Control", "Ship", "Overall"],
+	"tags": [
+		"2.1",
+		"Long",
+		"Fast-Paced",
+		"Timings",
+		"Chokepoints",
+		"Nerve Control",
+		"Ship",
+		"Overall"
+	],
 	"author": "Nico99",
 	"creators": [
 		"Nico99",
@@ -334,6 +343,12 @@
 		{
 			"user": "asdsdvb",
 			"link": "https://www.youtube.com/watch?v=f6oDT6NDdMg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Urufii",
+			"link": "https://youtu.be/2oAlkne1WZ0",
 			"percent": 100,
 			"hz": 360
 		}
