@@ -7,5 +7,12 @@
 	"verification": "https://youtu.be/-Nj1KrAUhTo?si=O55EdCJ6yPQlD9aa",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "Majax",
+			"link": "https://youtu.be/JekKRsSgfW4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
