@@ -1,7 +1,7 @@
 {
 	"id": 64766514,
 	"name": "Calamity",
-	"tags":[
+	"tags": [
 		"2.1",
 		"XL",
 		"Fast-Paced",
@@ -179,6 +179,12 @@
 		{
 			"user": "MyRougeYoshi",
 			"link": "https://youtu.be/nOgqs9N4wmk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Meep",
+			"link": "https://youtu.be/RneCHz7Hxfk",
 			"percent": 100,
 			"hz": 360
 		}
