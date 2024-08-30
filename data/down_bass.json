@@ -1,7 +1,14 @@
 {
 	"id": 8147005,
 	"name": "Down Bass",
-	"tags": ["2.0", "Long", "Circles", "Fast-Paced", "Chokepoints", "Wave"],
+	"tags": [
+		"2.0",
+		"Long",
+		"Circles",
+		"Fast-Paced",
+		"Chokepoints",
+		"Wave"
+	],
 	"author": "Spectra",
 	"creators": [
 		"WoodedGold",
@@ -613,7 +620,6 @@
 			"percent": 100,
 			"hz": 360
 		},
-
 		{
 			"user": "Koish",
 			"link": "https://www.youtube.com/watch?v=sXpRfSyj8oU&list=PLPbuN85Y0alC-miDV6xsY60LKbGh_7YwT",
@@ -839,6 +845,12 @@
 		{
 			"user": "DarthSkril",
 			"link": "https://youtu.be/K_foNmWuEZc?si=iagM1hevI0CrIPvW",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Hawk Tuah",
+			"link": "https://www.youtube.com/watch?v=lPnbp3u1xrE",
 			"percent": 100,
 			"hz": 360
 		}
