@@ -2,10 +2,19 @@
 	"id": 102243781,
 	"name": "Pootis Engage XTREME",
 	"author": "AAAAAlex",
-	"creators": ["AAAAAlex"],
+	"creators": [
+		"AAAAAlex"
+	],
 	"verifier": "falloostic",
 	"verification": "https://www.youtube.com/watch?v=2SqKRRphIVI&pp=ygUXcG9vdGlzIGVuZ2FnZSB4dHJlbWUgZ2Q%3D",
 	"percentToQualify": 100,
 	"password": "Free to Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "BrowarKedawar",
+			"link": "https://youtu.be/FxuEHVP19Kw",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

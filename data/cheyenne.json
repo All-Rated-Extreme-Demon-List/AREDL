@@ -1,7 +1,7 @@
 {
 	"id": 99992952,
 	"name": "Cheyenne",
-	"tags":[
+	"tags": [
 		"2.2",
 		"Long",
 		"Fast-Paced",
@@ -48,6 +48,12 @@
 		{
 			"user": "Cobra",
 			"link": "https://youtu.be/ikh_mM_Sy94?si=tW57YqtJ7i65zc6S",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BrowarKedawar",
+			"link": "https://youtu.be/PrjnyOr-OmI",
 			"percent": 100,
 			"hz": 360
 		}
