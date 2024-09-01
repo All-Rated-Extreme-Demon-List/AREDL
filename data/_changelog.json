@@ -3769,5 +3769,14 @@
 		"from_rank": 694,
 		"above": "yggdrasil",
 		"below": "artificial_dream"
+	},
+	{
+		"date": 1725229471,
+		"action": "lowered",
+		"name": "advent_aurora",
+		"to_rank": 502,
+		"from_rank": 317,
+		"above": "help",
+		"below": "remember"
 	}
 ]
