@@ -3787,5 +3787,14 @@
 		"from_rank": 145,
 		"above": "omega_interface",
 		"below": "descent_into_exile"
+	},
+	{
+		"date": 1725248525,
+		"action": "lowered",
+		"name": "kowareta",
+		"to_rank": 153,
+		"from_rank": 152,
+		"above": "dump",
+		"below": "xray"
 	}
 ]
