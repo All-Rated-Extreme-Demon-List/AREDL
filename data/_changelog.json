@@ -3778,5 +3778,14 @@
 		"from_rank": 317,
 		"above": "help",
 		"below": "remember"
+	},
+	{
+		"date": 1725246524,
+		"action": "raised",
+		"name": "sand_sailor",
+		"to_rank": 108,
+		"from_rank": 145,
+		"above": "omega_interface",
+		"below": "descent_into_exile"
 	}
 ]
