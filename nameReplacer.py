@@ -7,6 +7,8 @@ current_dir = os.path.join(os.getcwd(), "data")
 output_path = os.path.join(current_dir, "_name_map.json")
 countries_path = os.path.join(current_dir, "_countries.json")
 
+write_only_name_map = True
+
 name_map={}
 lookup_map={}
 
@@ -48,9 +50,11 @@ with open(countries_path, 'r+', encoding='utf-8') as file:
     for country in countries:
         replace_users(country['users'])
     
-    file.seek(0)
-    json.dump(countries, file, ensure_ascii=False, indent="\t")
-    file.truncate()
+    if not write_only_name_map:
+        file.seek(0)
+        json.dump(countries, file, ensure_ascii=False, indent="\t")
+        file.truncate()
+    
 
 with open(os.path.join(current_dir, "_editors.json"), 'r+', encoding='utf-8') as file:
     editors = json.load(file)
@@ -63,9 +67,10 @@ with open(os.path.join(current_dir, "_editors.json"), 'r+', encoding='utf-8') as
                 continue
             members[i]['name'] = get_id(name)
     
-    file.seek(0)
-    json.dump(editors, file, ensure_ascii=False, indent="\t")
-    file.truncate()
+    if not write_only_name_map:
+        file.seek(0)
+        json.dump(editors, file, ensure_ascii=False, indent="\t")
+        file.truncate()
     
 with open(os.path.join(current_dir, "_supporters.json"), 'r+', encoding='utf-8') as file:
     supporters = json.load(file)
@@ -78,18 +83,21 @@ with open(os.path.join(current_dir, "_supporters.json"), 'r+', encoding='utf-8')
                 continue
             members[i]['name'] = get_id(name)
     
-    file.seek(0)
-    json.dump(supporters, file, ensure_ascii=False, indent="\t")
-    file.truncate()
+    
+    if not write_only_name_map:
+        file.seek(0)
+        json.dump(supporters, file, ensure_ascii=False, indent="\t")
+        file.truncate()
     
 with open(os.path.join(current_dir, "_leaderboard_banned.json"), 'r+', encoding='utf-8') as file:
     banned = json.load(file)
     
     replace_users(banned)
     
-    file.seek(0)
-    json.dump(banned, file, ensure_ascii=False, indent="\t")
-    file.truncate()
+    if not write_only_name_map:
+        file.seek(0)
+        json.dump(banned, file, ensure_ascii=False, indent="\t")
+        file.truncate()
     
 levels = []
 
@@ -119,9 +127,10 @@ for level_name in levels:
                 continue
             level['records'][i]['user'] = get_id(name)
     
-        file.seek(0)
-        json.dump(level, file, ensure_ascii=False, indent="\t")
-        file.truncate()
+        if not write_only_name_map:
+            file.seek(0)
+            json.dump(level, file, ensure_ascii=False, indent="\t")
+            file.truncate()
 
 
 name_map = dict(sorted(name_map.items(), key=lambda x: x[1]))
