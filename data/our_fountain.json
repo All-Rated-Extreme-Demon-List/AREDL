@@ -1,7 +1,17 @@
 {
 	"id": 58023558,
 	"name": "Our Fountain",
-	"tags": ["2.1", "Long", "Timings", "Chokepoints", "Learny", "Gimmicky", "Slow-Paced", "Wave", "Overall"],
+	"tags": [
+		"2.1",
+		"Long",
+		"Timings",
+		"Chokepoints",
+		"Learny",
+		"Gimmicky",
+		"Slow-Paced",
+		"Wave",
+		"Overall"
+	],
 	"author": "LP44",
 	"creators": [],
 	"verifier": "Rynoxious",
@@ -240,6 +250,12 @@
 		{
 			"user": "Zesorqe",
 			"link": "https://youtu.be/dV0Mr5JX3zQ?si=BlBHLrmKMQeuRMG1",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "[Space] Grifonzo",
+			"link": "https://youtu.be/Crdbyj_OM1g",
 			"percent": 100,
 			"hz": 360
 		}
