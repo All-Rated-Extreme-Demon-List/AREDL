@@ -124,6 +124,8 @@ for level_name in levels:
         file.truncate()
 
 
+name_map = dict(sorted(name_map.items(), key=lambda x: x[1]))
+
 with open(output_path, 'w+', encoding='utf-8') as file:
     json.dump(name_map, file, ensure_ascii=False, indent="\t")
     print("Written names to file")
