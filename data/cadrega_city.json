@@ -1,7 +1,7 @@
 {
 	"id": 37255449,
 	"name": "Cadrega City",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Timings",
@@ -177,6 +177,12 @@
 		{
 			"user": "[MOAT] MushroomB0i",
 			"link": "https://www.youtube.com/watch?v=XT4GzeLYARA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Warrion004",
+			"link": "https://www.youtube.com/watch?v=X0i63cW0VMw",
 			"percent": 100,
 			"hz": 360
 		}
