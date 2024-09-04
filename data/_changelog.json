@@ -3796,5 +3796,14 @@
 		"from_rank": 152,
 		"above": "dump",
 		"below": "xray"
+	},
+	{
+		"date": 1725420852,
+		"action": "raised",
+		"name": "widestep",
+		"to_rank": 64,
+		"from_rank": 75,
+		"above": "frost_spirit",
+		"below": "fragile"
 	}
 ]
