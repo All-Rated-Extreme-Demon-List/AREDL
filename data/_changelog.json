@@ -3832,5 +3832,14 @@
 		"from_rank": 872,
 		"above": "m_a_n_i_x",
 		"below": "oxi"
+	},
+	{
+		"date": 1725489318,
+		"action": "lowered",
+		"name": "prismatic_haze",
+		"to_rank": 548,
+		"from_rank": 523,
+		"above": "bloodbath",
+		"below": "helix"
 	}
 ]
