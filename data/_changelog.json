@@ -3823,5 +3823,14 @@
 		"from_rank": 971,
 		"above": "delirium_tremens",
 		"below": "sigsegv"
+	},
+	{
+		"date": 1725487660,
+		"action": "raised",
+		"name": "ferrum_frenzy",
+		"to_rank": 839,
+		"from_rank": 872,
+		"above": "m_a_n_i_x",
+		"below": "oxi"
 	}
 ]
