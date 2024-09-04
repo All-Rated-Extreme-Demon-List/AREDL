@@ -3814,5 +3814,14 @@
 		"from_rank": 832,
 		"above": "cyberstorm",
 		"below": "seaglass_foundry"
+	},
+	{
+		"date": 1725486100,
+		"action": "lowered",
+		"name": "red_world",
+		"to_rank": 984,
+		"from_rank": 971,
+		"above": "delirium_tremens",
+		"below": "sigsegv"
 	}
 ]
