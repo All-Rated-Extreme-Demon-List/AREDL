@@ -3841,5 +3841,14 @@
 		"from_rank": 523,
 		"above": "bloodbath",
 		"below": "helix"
+	},
+	{
+		"date": 1725489504,
+		"action": "raised",
+		"name": "blade_of_justice",
+		"to_rank": 479,
+		"from_rank": 495,
+		"above": "dimension_breaker",
+		"below": "vendetta"
 	}
 ]
