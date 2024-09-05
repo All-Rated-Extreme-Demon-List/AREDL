@@ -3868,5 +3868,14 @@
 		"from_rank": 878,
 		"above": "dismal_duststorm",
 		"below": "lights_out"
+	},
+	{
+		"date": 1725568854,
+		"action": "lowered",
+		"name": "unknown",
+		"to_rank": 33,
+		"from_rank": 28,
+		"above": "sonic_wave_infinity",
+		"below": "sinister_silence"
 	}
 ]
