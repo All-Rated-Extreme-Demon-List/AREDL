@@ -3877,5 +3877,14 @@
 		"from_rank": 28,
 		"above": "sonic_wave_infinity",
 		"below": "sinister_silence"
+	},
+	{
+		"date": 1725576092,
+		"action": "lowered",
+		"name": "limbo",
+		"to_rank": 23,
+		"from_rank": 16,
+		"above": "edge_of_destiny",
+		"below": "combustion"
 	}
 ]
