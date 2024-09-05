@@ -3850,5 +3850,14 @@
 		"from_rank": 495,
 		"above": "dimension_breaker",
 		"below": "vendetta"
+	},
+	{
+		"date": 1725560480,
+		"action": "lowered",
+		"name": "a2marbl",
+		"to_rank": 729,
+		"from_rank": 655,
+		"above": "malware_ii",
+		"below": "cholerix"
 	}
 ]
