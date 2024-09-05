@@ -3859,5 +3859,14 @@
 		"from_rank": 655,
 		"above": "malware_ii",
 		"below": "cholerix"
+	},
+	{
+		"date": 1725563545,
+		"action": "raised",
+		"name": "marlboro_reds",
+		"to_rank": 846,
+		"from_rank": 878,
+		"above": "dismal_duststorm",
+		"below": "lights_out"
 	}
 ]
