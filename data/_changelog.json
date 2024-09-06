@@ -3886,5 +3886,14 @@
 		"from_rank": 16,
 		"above": "edge_of_destiny",
 		"below": "combustion"
+	},
+	{
+		"date": 1725665006,
+		"action": "raised",
+		"name": "ego_killing",
+		"to_rank": 162,
+		"from_rank": 169,
+		"above": "fragmented",
+		"below": "worstbrainmap"
 	}
 ]
