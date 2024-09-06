@@ -1,7 +1,7 @@
 {
 	"id": 74986585,
 	"name": "Betelgeuse",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Fast-Paced",
@@ -162,6 +162,12 @@
 		{
 			"user": "tetra",
 			"link": "https://youtu.be/aVg4izNrhXM?si=7q-FgoOw6mc4BVAf",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MaxMi1610",
+			"link": "https://youtu.be/BpJRy851E4U",
 			"percent": 100,
 			"hz": 360
 		}

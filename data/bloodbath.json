@@ -1,7 +1,7 @@
 {
 	"id": 10565740,
 	"name": "Bloodbath",
-	"description": "The most popular extreme demon, known for being the hardest of its time, due to the ship parts being near impossible at the time, Nowadays a pretty tough level, with Michigun's part being arguably the most difficult.", 
+	"description": "The most popular extreme demon, known for being the hardest of its time, due to the ship parts being near impossible at the time, Nowadays a pretty tough level, with Michigun's part being arguably the most difficult.",
 	"tags": [
 		"1.9",
 		"Long",
@@ -7604,6 +7604,18 @@
 		{
 			"user": "Magnetar",
 			"link": "https://www.youtube.com/watch?v=gN_EfxeizjA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Anima",
+			"link": "https://www.youtube.com/watch?v=fQFdtWVWgjU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "hydraniac",
+			"link": "https://youtu.be/DuBGIYz1NKc?si=eBXxO8C3qQNggQP6",
 			"percent": 100,
 			"hz": 360
 		}
