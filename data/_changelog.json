@@ -3922,5 +3922,14 @@
 		"from_rank": 308,
 		"above": "tempered_steel",
 		"below": "omicron"
+	},
+	{
+		"date": 1725730078,
+		"action": "raised",
+		"name": "adrenaline",
+		"to_rank": 427,
+		"from_rank": 433,
+		"above": "breakout_redux",
+		"below": "singularity"
 	}
 ]
