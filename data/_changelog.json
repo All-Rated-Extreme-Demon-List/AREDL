@@ -3967,5 +3967,14 @@
 		"from_rank": 966,
 		"above": "insaction",
 		"below": "acu"
+	},
+	{
+		"date": 1725749251,
+		"action": "lowered",
+		"name": "mystic_bounds",
+		"to_rank": 975,
+		"from_rank": 955,
+		"above": "acu",
+		"below": "encroaching_dark"
 	}
 ]
