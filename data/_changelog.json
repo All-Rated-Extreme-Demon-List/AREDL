@@ -3958,5 +3958,14 @@
 		"from_rank": 194,
 		"above": "mirrored_calamity",
 		"below": "controller"
+	},
+	{
+		"date": 1725746165,
+		"action": "lowered",
+		"name": "delirium_tremens",
+		"to_rank": 977,
+		"from_rank": 966,
+		"above": "insaction",
+		"below": "acu"
 	}
 ]
