@@ -1,23 +1,29 @@
 {
-    "id": 57571964,
-    "name": "Fever Dream",
-    "author": "icedcave",
-    "creators": [],
-    "verifier": "BGram",
-    "verification": "https://youtu.be/Mc3vZeM_VYw?si=7MKxqxIgBnl_vJS_",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "woi",
-            "link": "https://youtu.be/mWs4cdbE5OI",
-            "percent": 100,
-            "hz": 312
-        },
-        {
-            "user": "iiLogan",
-            "link": "https://youtu.be/feOek9LoGp8",
-            "percent": 100,
-            "hz": 240
-    }
-    ]
+	"id": 57571964,
+	"name": "Fever Dream",
+	"author": "icedcave",
+	"creators": [],
+	"verifier": "BGram",
+	"verification": "https://youtu.be/Mc3vZeM_VYw?si=7MKxqxIgBnl_vJS_",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "woi",
+			"link": "https://youtu.be/mWs4cdbE5OI",
+			"percent": 100,
+			"hz": 312
+		},
+		{
+			"user": "iiLogan",
+			"link": "https://youtu.be/feOek9LoGp8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Hipo",
+			"link": "https://youtu.be/pORuZZZJ_5E",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
