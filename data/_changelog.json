@@ -3913,5 +3913,14 @@
 		"from_rank": 985,
 		"above": "high_heat",
 		"below": "ion"
+	},
+	{
+		"date": 1725730002,
+		"action": "raised",
+		"name": "auroral_darkness",
+		"to_rank": 304,
+		"from_rank": 308,
+		"above": "tempered_steel",
+		"below": "omicron"
 	}
 ]
