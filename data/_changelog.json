@@ -3940,5 +3940,14 @@
 		"from_rank": null,
 		"above": "misty_mountains",
 		"below": "insaction"
+	},
+	{
+		"date": 1725731468,
+		"action": "raised",
+		"name": "artifice",
+		"to_rank": 495,
+		"from_rank": 505,
+		"above": "unsaved_changes",
+		"below": "super_kontik"
 	}
 ]
