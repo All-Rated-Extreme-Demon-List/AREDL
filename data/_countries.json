@@ -84,7 +84,8 @@
 			"Marwec",
 			"Tombstone",
 			"nicor77",
-			"GD_Basti"
+			"GD_Basti",
+			"Flamongo"
 		]
 	},
 	{
@@ -223,6 +224,13 @@
 		"name": "Portugal",
 		"users": [
 			"LunarSpark"
+		]		
+	},
+	{
+		"code": 752,
+		"name": "Sweden",
+		"users": [
+			"RobTop"
 		]		
 	}
 ]
