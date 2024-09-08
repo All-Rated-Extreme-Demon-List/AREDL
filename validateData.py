@@ -198,9 +198,8 @@ def validate_data():
             print(f"Invalid json in file _name_map.json: {str(e)}")
             sys.exit(1)
 
-    def resolve_name(user_id):
-        return name_map.get(str(user_id), f"Unknown ID: {user_id}")
-
+    def validate_user(user_id):
+        return str(user_id) in name_map
 
     level_ids = {}
     for filename in levels:
@@ -232,6 +231,11 @@ def validate_data():
 
                 records = data["records"]
                 names = [data["verifier"]]
+
+                if not validate_user(data["verifier"]):
+                    had_error = True
+                    print(f"Invalid verifier: {filename}: {data['verifier']}")
+                
                 try:
                     validator(data["verification"])
                 except ValidationError:
@@ -245,6 +249,10 @@ def validate_data():
                         had_error = True
                         print(f"Duplicate Record: {filename}: {name}")
 
+                    if not validate_user(name):
+                        had_error = True
+                        print(f"Invalid username: {filename}: {name}")
+
                     names.append(name)
                     url = record["link"]
                     try:
@@ -252,10 +260,6 @@ def validate_data():
                     except ValidationError:
                         had_error = True
                         print(f"Invalid Url: {filename} {name}: {url}")
-
-                if "" in names:
-                    had_error = True
-                    print(f"Empty username in {filename}")
 
                 if "tags" in data:
                     for tag_name in data["tags"]:
@@ -268,6 +272,9 @@ def validate_data():
                     if creator in creators:
                         had_error = True
                         print(f"Duplicate Creator: {filename}: {creator}")
+                    if not validate_user(creator):
+                        had_error = True
+                        print(f"Invalid creator: {filename}: {creator}")
 
                     creators.append(creator)
         except FileNotFoundError:
