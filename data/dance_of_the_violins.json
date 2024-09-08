@@ -1,24 +1,36 @@
 {
-    "id": 91595507,
-    "name": "Dance of the Violins",
-    "author": "DrayTM",
-    "creators": ["Koreaqwer", "Cyclic", "Funnygame", "Wabbit", "nikroplayz", "Zipixbox", "Wesp", "GD Iris", "DrayTM", "Pla", "Fastbear"],
-    "verifier": "WatchPiggy",
-    "verification": "https://youtu.be/PYwI_ODrrlw",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records": [
-        {
-            "user": "DarkTD",
-            "link": "https://www.youtube.com/watch?v=GlDc0T8t32Y",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Whizkid05",
-            "link": "https://youtu.be/4xvfM5i0R_g?si=4_PavVmrNUVd9eCF",
-            "percent": 100,
-            "hz": 360
-        }        
-    ]
+	"id": 91595507,
+	"name": "Dance of the Violins",
+	"author": 7934943223,
+	"creators": [
+		5182102468,
+		2978594944,
+		1503610570,
+		2921202816,
+		7379678998,
+		1201670362,
+		5121743322,
+		4506636334,
+		7934943223,
+		4927582436,
+		8110073864
+	],
+	"verifier": 7235383035,
+	"verification": "https://youtu.be/PYwI_ODrrlw",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": 9349980438,
+			"link": "https://www.youtube.com/watch?v=GlDc0T8t32Y",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 2233668760,
+			"link": "https://youtu.be/4xvfM5i0R_g?si=4_PavVmrNUVd9eCF",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

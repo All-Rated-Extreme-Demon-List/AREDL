@@ -1,40 +1,41 @@
 {
-    "id": 86196054,
-    "name": "ASHES",
-    "tags":[
-        "2.1",
-        "XL",
-        "Fast-Paced",
-        "Learny",
-        "Gimmicky",
-        "Ship",
-        "Wave"
-    ],
-    "author": "xHeiDax",
-    "creators": ["xHeiDax"],
-    "verifier": "xHeiDax",
-    "verification": "https://youtu.be/cmYjLL1k5Z0?t=212",
-    "percentToQualify": 100,
-    "password": "80421",
-    "records": [
-        {
-            "user": "[ACE] Chubby9000",
-            "link": "https://youtu.be/Vnx9Fo_oLCE",
-            "percent": 100,
-            "hz": 330
-        },
-        {
-            "user": "Dep96",
-            "link": "https://www.youtube.com/watch?v=RbJbxP9nA6I",
-            "percent": 100,
-            "hz": 360
-    },
-    {
-        "user": "BreadGuyGD",
-        "link": "https://www.youtube.com/watch?v=BS-PyMqmOv0",
-        "percent": 100,
-        "hz": 240
-}
-
-    ]
+	"id": 86196054,
+	"name": "ASHES",
+	"tags": [
+		"2.1",
+		"XL",
+		"Fast-Paced",
+		"Learny",
+		"Gimmicky",
+		"Ship",
+		"Wave"
+	],
+	"author": 9566345366,
+	"creators": [
+		9566345366
+	],
+	"verifier": 9566345366,
+	"verification": "https://youtu.be/cmYjLL1k5Z0?t=212",
+	"percentToQualify": 100,
+	"password": "80421",
+	"records": [
+		{
+			"user": 6465029967,
+			"link": "https://youtu.be/Vnx9Fo_oLCE",
+			"percent": 100,
+			"hz": 330
+		},
+		{
+			"user": 3271910493,
+			"link": "https://www.youtube.com/watch?v=RbJbxP9nA6I",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7544428170,
+			"link": "https://www.youtube.com/watch?v=BS-PyMqmOv0",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

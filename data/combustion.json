@@ -1,7 +1,7 @@
 {
 	"id": 94359172,
 	"name": "COMBUSTION",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Medium",
 		"Timings",
@@ -9,17 +9,17 @@
 		"Ship",
 		"Wave"
 	],
-	"author": "Cersia",
+	"author": 3468549686,
 	"creators": [
-		"Cersia",
-		"Slithium"
+		3468549686,
+		7619784278
 	],
-	"verifier": "Slithium",
+	"verifier": 7619784278,
 	"verification": "https://youtu.be/3cTR4XUcA28?si=Nr3emvtXCHQ3Kzp8",
 	"percentToQualify": 100,
 	"records": [
 		{
-			"user": "Zoink",
+			"user": 5011629074,
 			"link": "https://youtu.be/UsfNCarKnTY?si=3OCjoUAvN_LcivHJ",
 			"percent": 100,
 			"hz": 360

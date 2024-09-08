@@ -1,48 +1,48 @@
 {
-    "id": 38306937,
-    "name": "Buff This",
-    "tags":[
-        "2.1",
-        "Long",
-        "Fast-Paced",
-        "Precision",
-        "Ship"
-    ],
-    "author": "BoyoftheCones",
-    "creators": [],
-    "verifier": "BoyoftheCones",
-    "verification": "https://www.youtube.com/watch?v=Ga4TSqON1bw&pp=ygURYnVmZiB0aGlzIHZlcmZpZWQ%3D",
-    "percentToQualify": 100,
-    "records": [
-        {
-        "user": "Alex_",
-        "link": "https://youtu.be/glAxnWzAG3I?si=-5G7q2RukPyxaZnB",
-        "percent": 100,
-        "hz": 240
-},
-{
-    "user": "Megu",
-    "link": "https://youtu.be/vZ4HXD4INrE?si=v91M0HdJRvVqnn_b",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Lia",
-    "link": "https://youtu.be/Ghb1flFyQ1w?si=mb85zTxL-rTTHhyx",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Bleamer",
-    "link": "https://www.youtube.com/watch?v=qE3FCiHTkSw&ab_channel=Bleamer",
-    "percent": 100,
-    "hz": 144
-},{
-    "user": "kekchungle44",
-    "link": "https://youtu.be/LolUlpOwVBc",
-    "percent": 100,
-    "hz": 360
-}
-
-    ]
+	"id": 38306937,
+	"name": "Buff This",
+	"tags": [
+		"2.1",
+		"Long",
+		"Fast-Paced",
+		"Precision",
+		"Ship"
+	],
+	"author": 2357912425,
+	"creators": [],
+	"verifier": 2357912425,
+	"verification": "https://www.youtube.com/watch?v=Ga4TSqON1bw&pp=ygURYnVmZiB0aGlzIHZlcmZpZWQ%3D",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": 1769105544,
+			"link": "https://youtu.be/glAxnWzAG3I?si=-5G7q2RukPyxaZnB",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 3802034928,
+			"link": "https://youtu.be/vZ4HXD4INrE?si=v91M0HdJRvVqnn_b",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4930905648,
+			"link": "https://youtu.be/Ghb1flFyQ1w?si=mb85zTxL-rTTHhyx",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7035659776,
+			"link": "https://www.youtube.com/watch?v=qE3FCiHTkSw&ab_channel=Bleamer",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 1101896031,
+			"link": "https://youtu.be/LolUlpOwVBc",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

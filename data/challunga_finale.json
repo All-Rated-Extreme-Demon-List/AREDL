@@ -1,32 +1,41 @@
 {
-    "id": 90451473,
-    "name": "CHALLUNGA FINALE",
-    "tags": [
-        "2.1",
-        "Long",
-        "Gimmicky",
-        "Overall",
-        "Ball",
-        "Memory"
-    ],
-    "author": "rafabirds",
-    "creators": ["rafabirds", "CalaramGD", "Vidash", "Classic10", "Y3llow", "Samauka", "Nazzer", "FlapGD"],
-    "verifier": "rafabirds",
-    "verification": "https://youtu.be/fFiIamH3Qxs",
-    "percentToQualify": 100,
-    "password": "696969",
-    "records": [
-{
-            "user": "[ACE] Azaelff",
-            "link": "https://youtu.be/aqAozGkIHdc",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Alex_",
-            "link": "https://youtu.be/09U6vCGF63Q",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+	"id": 90451473,
+	"name": "CHALLUNGA FINALE",
+	"tags": [
+		"2.1",
+		"Long",
+		"Gimmicky",
+		"Overall",
+		"Ball",
+		"Memory"
+	],
+	"author": 7612080162,
+	"creators": [
+		7612080162,
+		9160107029,
+		8124036926,
+		2676777748,
+		2177406023,
+		4750623210,
+		6812136969,
+		2833632756
+	],
+	"verifier": 7612080162,
+	"verification": "https://youtu.be/fFiIamH3Qxs",
+	"percentToQualify": 100,
+	"password": "696969",
+	"records": [
+		{
+			"user": 6498693851,
+			"link": "https://youtu.be/aqAozGkIHdc",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": 1769105544,
+			"link": "https://youtu.be/09U6vCGF63Q",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

@@ -1,23 +1,33 @@
 {
-    "id": 81372788,
-    "name": "reeses potentially",
-    "author": "SubStra",
-    "creators": ["DivideNick", "DavoBoss", "Homeboye", "TropoGD", "Lundshurk", "SubStra", "ZiTron", "Plexa", "Mebbo"],
-    "verifier": "Amza",
-    "verification": "https://www.youtube.com/watch?v=v45Ei-punX4",
-    "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Lia",
-            "link": "https://youtu.be/q1TesBPLg8g",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "baechugimchi",
-            "link": "https://youtu.be/GpJ6r9SjYsE",
-            "percent": 100,
-            "hz": 240
-}
-    ]
+	"id": 81372788,
+	"name": "reeses potentially",
+	"author": 5788235063,
+	"creators": [
+		6551155604,
+		4312941177,
+		5370370192,
+		7295584291,
+		1441753038,
+		5788235063,
+		7260178695,
+		8859911775,
+		6818879838
+	],
+	"verifier": 5589328288,
+	"verification": "https://www.youtube.com/watch?v=v45Ei-punX4",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": 4930905648,
+			"link": "https://youtu.be/q1TesBPLg8g",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 4898367233,
+			"link": "https://youtu.be/GpJ6r9SjYsE",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

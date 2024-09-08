@@ -1,23 +1,23 @@
 {
 	"id": 88292864,
 	"name": "The First",
-	"author": "[BHO] Satoru Gojo",
+	"author": 2541669760,
 	"creators": [
-		"[BHO] Satoru Gojo",
-		"IRS Dorkage"
+		2541669760,
+		9023998977
 	],
-	"verifier": "[BHO] Satoru Gojo",
+	"verifier": 2541669760,
 	"verification": "https://www.youtube.com/watch?v=0O-io-RArk8",
 	"percentToQualify": 100,
 	"records": [
 		{
-			"user": "vonic",
+			"user": 9514230544,
 			"link": "https://youtu.be/YjqXaHqdtwE?si=AknIl9XOru-UYKMX",
 			"percent": 100,
 			"hz": 165
 		},
 		{
-			"user": "plimbus",
+			"user": 8078038373,
 			"link": "https://youtu.be/js6meyhUVbw",
 			"percent": 100,
 			"hz": 360

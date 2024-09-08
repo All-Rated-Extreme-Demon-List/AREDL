@@ -1,7 +1,7 @@
 {
 	"id": 102712028,
 	"name": "BarbarosFinaleFinale",
-	"tags":[
+	"tags": [
 		"2.2",
 		"Long",
 		"Fast-Paced",
@@ -11,45 +11,45 @@
 		"Ship",
 		"Wave"
 	],
-	"author": "awesomeme360",
+	"author": 6839091830,
 	"creators": [
-		"awesomeme360",
-		"Moffe",
-		"Dep96"
+		6839091830,
+		4386300414,
+		3271910493
 	],
-	"verifier": "AeonAir",
+	"verifier": 7081929621,
 	"verification": "https://youtu.be/F32ekXnS3a4?si=ywVqeiH9SATAO7Qd",
 	"percentToQualify": 100,
 	"records": [
 		{
-			"user": "[ACE] Chubs Dubs",
+			"user": 8944113767,
 			"link": "https://www.youtube.com/watch?v=MEATf44P15o",
 			"percent": 100,
 			"hz": 360
 		},
 		{
-			"user": "[FOWL] SigmaEdger911",
+			"user": 8447699042,
 			"link": "https://youtu.be/8zD80UD4K3U?si=NruG_FcqYFaTCgl6",
 			"percent": 100,
 			"hz": 360
 		},
 		{
-			"user": "piesy",
+			"user": 7082511785,
 			"link": "https://youtu.be/jIO1tMOsDl0?si=pMFVXratHAD5SLS4",
 			"percent": 100,
 			"hz": 360
 		},
 		{
-			"user": "EJAY",
+			"user": 5533483081,
 			"link": "https://www.youtube.com/watch?v=V-ng1PyAHZM",
 			"percent": 100,
 			"hz": 360
 		},
 		{
-			"user": "DJ1482",
+			"user": 5999186950,
 			"link": "https://youtu.be/xbtCf9kENIE?si=IkC2Hc2eVixRb4Tg",
 			"percent": 100,
 			"hz": 480
 		}
-		]
+	]
 }

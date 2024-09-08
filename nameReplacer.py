@@ -7,7 +7,7 @@ current_dir = os.path.join(os.getcwd(), "data")
 output_path = os.path.join(current_dir, "_name_map.json")
 countries_path = os.path.join(current_dir, "_countries.json")
 
-write_only_name_map = True
+write_only_name_map = False
 
 name_map={}
 lookup_map={}

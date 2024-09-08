@@ -1,17 +1,34 @@
 {
-    "id": 94043690,
-    "name": "Instinct (Krazyman50Real)",
-    "author": "Krazyman50Real",
-    "creators": ["KrmaL", "Pennutoh", "Zendayo", "Kugelblitz", "talia", "Lqah", "recillia", "dysbelief", "SleyGD", "pocke", "Nightning", "valentine", "ryli06", "krisking", "DogGoesWoof", "S3rios"],
-    "verifier": "Blitzer",
-    "verification": "https://www.youtube.com/watch?v=6W3Gvi9ft0w&source_ve_path=MjM4NTE&feature=emb_title",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "vonic",
-            "link": "https://youtu.be/mIE1UUNXYcQ?si=gd4kycaMaD4K3U12",
-            "percent": 100,
-            "hz": 240
-    }
-    ]
+	"id": 94043690,
+	"name": "Instinct (Krazyman50Real)",
+	"author": 4921944257,
+	"creators": [
+		9612031972,
+		8320669366,
+		6072529838,
+		3573652073,
+		7836525335,
+		8768009445,
+		2347199815,
+		8429753488,
+		4051969182,
+		4546764138,
+		8833601045,
+		2392099922,
+		7419391562,
+		2508216057,
+		6066549557,
+		3370259092
+	],
+	"verifier": 9577565812,
+	"verification": "https://www.youtube.com/watch?v=6W3Gvi9ft0w&source_ve_path=MjM4NTE&feature=emb_title",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": 9514230544,
+			"link": "https://youtu.be/mIE1UUNXYcQ?si=gd4kycaMaD4K3U12",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
