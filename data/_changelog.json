@@ -3994,5 +3994,14 @@
 		"from_rank": 279,
 		"above": "relentless",
 		"below": "ameliorate"
+	},
+	{
+		"date": 1725829136,
+		"action": "raised",
+		"name": "apollo_11",
+		"to_rank": 266,
+		"from_rank": 284,
+		"above": "wow",
+		"below": "super_probably_level"
 	}
 ]
