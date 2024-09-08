@@ -3976,5 +3976,14 @@
 		"from_rank": 955,
 		"above": "acu",
 		"below": "encroaching_dark"
+	},
+	{
+		"date": 1725768283,
+		"action": "raised",
+		"name": "congregation",
+		"to_rank": 130,
+		"from_rank": 130,
+		"above": "aronia",
+		"below": "awedsy"
 	}
 ]
