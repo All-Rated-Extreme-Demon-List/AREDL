@@ -15,7 +15,7 @@ level_list_schema = {
 banned_schema = {
     "type": "array",
     "items": {
-        "type": "string"
+        "type": "number"
     }
 }
 
@@ -36,11 +36,11 @@ level_schema = {
         "id": {"type": "number"},
         "name": {"type": "string"},
         "description": {"type": "string"},
-        "author": {"type": "string"},
+        "author": {"type": "number"},
         "creators": {
             "type": "array",
             "items": {
-                "type": "string",
+                "type": "number",
             }
         },
         "tags": {
@@ -49,14 +49,14 @@ level_schema = {
                 "type": "string",
             }
         },
-        "verifier": {"type": "string"},
+        "verifier": {"type": "number"},
         "verification": {"type": "string"},
         "records": {
             "type": "array",
             "items": {
                 "type": "object",
                 "properties": {
-                    "user": {"type": "string"},
+                    "user": {"type": "number"},
                     "link": {"type": "string"},
                     "percent": {"type": "number"},
                     "hz": {"type": "number"},
@@ -111,6 +111,7 @@ def validate_data():
     pack_list_path = os.path.join(current_dir, "_packlist.json")
     pack_tiers_path = os.path.join(current_dir, "_packtiers.json")
     tags_path = os.path.join(current_dir, "_tags.json")
+    name_map_path = os.path.join(current_dir, "_name_map.json")
     had_error = False
 
     with open(list_path, "r", encoding='utf-8') as file:
@@ -190,6 +191,17 @@ def validate_data():
             print(f"Validation failed for _packtiers.json: {str(e)}")
             sys.exit(1)
 
+    with open(name_map_path, "r", encoding='utf-8') as file:
+        try:
+            name_map = json.load(file)
+        except ValueError as e:
+            print(f"Invalid json in file _name_map.json: {str(e)}")
+            sys.exit(1)
+
+    def resolve_name(user_id):
+        return name_map.get(str(user_id), f"Unknown ID: {user_id}")
+
+
     level_ids = {}
     for filename in levels:
         file_path = os.path.join(current_dir, f"{filename}.json")
@@ -219,7 +231,7 @@ def validate_data():
                 level_ids[level_id] = filename
 
                 records = data["records"]
-                names = [data["verifier"].lower()]
+                names = [data["verifier"]]
                 try:
                     validator(data["verification"])
                 except ValidationError:
@@ -228,7 +240,7 @@ def validate_data():
 
                 for record in records:
 
-                    name = record["user"].lower()
+                    name = record["user"]
                     if name in names:
                         had_error = True
                         print(f"Duplicate Record: {filename}: {name}")
@@ -257,9 +269,6 @@ def validate_data():
                         had_error = True
                         print(f"Duplicate Creator: {filename}: {creator}")
 
-                    if "," in creator:
-                        had_error = True
-                        print(f"Invalid Creator: {filename}: {creator}")
                     creators.append(creator)
         except FileNotFoundError:
             had_error = True
