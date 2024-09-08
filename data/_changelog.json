@@ -3985,5 +3985,14 @@
 		"from_rank": 130,
 		"above": "aronia",
 		"below": "awedsy"
+	},
+	{
+		"date": 1725828990,
+		"action": "raised",
+		"name": "friday_vortex",
+		"to_rank": 262,
+		"from_rank": 279,
+		"above": "relentless",
+		"below": "ameliorate"
 	}
 ]
