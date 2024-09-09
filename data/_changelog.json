@@ -4048,5 +4048,14 @@
 		"from_rank": 332,
 		"above": "quantum_dynamix",
 		"below": "effect_ii"
+	},
+	{
+		"date": 1725914349,
+		"action": "raised",
+		"name": "blue_suns_zenith",
+		"to_rank": 558,
+		"from_rank": 595,
+		"above": "down_bass",
+		"below": "into_petals"
 	}
 ]
