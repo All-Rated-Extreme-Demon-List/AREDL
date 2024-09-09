@@ -4012,5 +4012,14 @@
 		"from_rank": 157,
 		"above": "fragmented",
 		"below": "ego_killing"
+	},
+	{
+		"date": 1725911352,
+		"action": "lowered",
+		"name": "empyrean",
+		"to_rank": 607,
+		"from_rank": 579,
+		"above": "esencia",
+		"below": "tenebris"
 	}
 ]
