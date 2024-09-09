@@ -4030,5 +4030,14 @@
 		"from_rank": 598,
 		"above": "innards",
 		"below": "electrolux"
+	},
+	{
+		"date": 1725912463,
+		"action": "lowered",
+		"name": "confusion",
+		"to_rank": 271,
+		"from_rank": 268,
+		"above": "lucid_chaos",
+		"below": "dreams"
 	}
 ]
