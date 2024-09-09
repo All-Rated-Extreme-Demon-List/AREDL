@@ -4003,5 +4003,14 @@
 		"from_rank": 284,
 		"above": "wow",
 		"below": "super_probably_level"
+	},
+	{
+		"date": 1725909946,
+		"action": "lowered",
+		"name": "cridium",
+		"to_rank": 163,
+		"from_rank": 157,
+		"above": "fragmented",
+		"below": "ego_killing"
 	}
 ]
