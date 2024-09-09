@@ -4021,5 +4021,14 @@
 		"from_rank": 579,
 		"above": "esencia",
 		"below": "tenebris"
+	},
+	{
+		"date": 1725912146,
+		"action": "lowered",
+		"name": "annihilation_nation",
+		"to_rank": 620,
+		"from_rank": 598,
+		"above": "innards",
+		"below": "electrolux"
 	}
 ]
