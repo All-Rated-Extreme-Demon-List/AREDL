@@ -4057,5 +4057,14 @@
 		"from_rank": 595,
 		"above": "down_bass",
 		"below": "into_petals"
+	},
+	{
+		"date": 1725993488,
+		"action": "lowered",
+		"name": "artificial_dream",
+		"to_rank": 788,
+		"from_rank": 733,
+		"above": "lotus",
+		"below": "cerebral_hemorrhage"
 	}
 ]
