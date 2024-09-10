@@ -4075,5 +4075,14 @@
 		"from_rank": null,
 		"above": "silent_clubstep",
 		"below": "acheron"
+	},
+	{
+		"date": 1725998471,
+		"action": "placed",
+		"name": "proton_launcher",
+		"to_rank": 119,
+		"from_rank": null,
+		"above": "asterios",
+		"below": "bloodlust"
 	}
 ]
