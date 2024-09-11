@@ -4084,5 +4084,14 @@
 		"from_rank": null,
 		"above": "asterios",
 		"below": "bloodlust"
+	},
+	{
+		"date": 1726092900,
+		"action": "raised",
+		"name": "xronier",
+		"to_rank": 270,
+		"from_rank": 295,
+		"above": "framework",
+		"below": "wow"
 	}
 ]
