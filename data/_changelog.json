@@ -4093,5 +4093,14 @@
 		"from_rank": 295,
 		"above": "framework",
 		"below": "wow"
+	},
+	{
+		"date": 1726093483,
+		"action": "lowered",
+		"name": "controller",
+		"to_rank": 199,
+		"from_rank": 184,
+		"above": "ryft",
+		"below": "dedohexdragon"
 	}
 ]
