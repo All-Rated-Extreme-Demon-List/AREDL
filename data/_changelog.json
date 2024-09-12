@@ -4120,5 +4120,14 @@
 		"from_rank": 510,
 		"above": "le_midd_mapperoonies",
 		"below": "showdown"
+	},
+	{
+		"date": 1726178641,
+		"action": "raised",
+		"name": "corrosion",
+		"to_rank": 929,
+		"from_rank": 942,
+		"above": "cataclysm",
+		"below": "firepower_kapycta999"
 	}
 ]
