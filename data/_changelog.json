@@ -4111,5 +4111,14 @@
 		"from_rank": 493,
 		"above": "ruler_of_everything",
 		"below": "sapphire_angel"
+	},
+	{
+		"date": 1726177949,
+		"action": "raised",
+		"name": "silentium_gradas",
+		"to_rank": 488,
+		"from_rank": 510,
+		"above": "le_midd_mapperoonies",
+		"below": "showdown"
 	}
 ]
