@@ -4129,5 +4129,14 @@
 		"from_rank": 942,
 		"above": "cataclysm",
 		"below": "firepower_kapycta999"
+	},
+	{
+		"date": 1726253394,
+		"action": "lowered",
+		"name": "wind_storm",
+		"to_rank": 738,
+		"from_rank": 685,
+		"above": "sides_of_my_mind_2p",
+		"below": "hopping_over_puddles"
 	}
 ]
