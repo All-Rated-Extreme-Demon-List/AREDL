@@ -4165,5 +4165,14 @@
 		"from_rank": 638,
 		"above": "disintegrate",
 		"below": "the_antimatter"
+	},
+	{
+		"date": 1726340621,
+		"action": "raised",
+		"name": "hateful_reflection",
+		"to_rank": 507,
+		"from_rank": 515,
+		"above": "triadic_trials",
+		"below": "help"
 	}
 ]
