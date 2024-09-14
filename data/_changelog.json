@@ -4192,5 +4192,14 @@
 		"from_rank": 3,
 		"above": "acheron",
 		"below": "tidal_wave"
+	},
+	{
+		"date": 1726344058,
+		"action": "raised",
+		"name": "death",
+		"to_rank": 305,
+		"from_rank": 360,
+		"above": "omicron",
+		"below": "very_rusty_pipeline"
 	}
 ]
