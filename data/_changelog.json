@@ -4156,5 +4156,14 @@
 		"from_rank": 567,
 		"above": "siniristi",
 		"below": "bloodbath"
+	},
+	{
+		"date": 1726340430,
+		"action": "lowered",
+		"name": "manic_machine",
+		"to_rank": 659,
+		"from_rank": 638,
+		"above": "disintegrate",
+		"below": "the_antimatter"
 	}
 ]
