@@ -4174,5 +4174,14 @@
 		"from_rank": 515,
 		"above": "triadic_trials",
 		"below": "help"
+	},
+	{
+		"date": 1726340749,
+		"action": "raised",
+		"name": "kingslayer",
+		"to_rank": 610,
+		"from_rank": 632,
+		"above": "overtime",
+		"below": "goldcrest_palace"
 	}
 ]
