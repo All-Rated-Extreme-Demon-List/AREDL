@@ -4183,5 +4183,14 @@
 		"from_rank": 632,
 		"above": "overtime",
 		"below": "goldcrest_palace"
+	},
+	{
+		"date": 1726340868,
+		"action": "raised",
+		"name": "nullscapes",
+		"to_rank": 2,
+		"from_rank": 3,
+		"above": "acheron",
+		"below": "tidal_wave"
 	}
 ]
