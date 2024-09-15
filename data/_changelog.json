@@ -4201,5 +4201,14 @@
 		"from_rank": 360,
 		"above": "omicron",
 		"below": "very_rusty_pipeline"
+	},
+	{
+		"date": 1726370946,
+		"action": "raised",
+		"name": "sigma",
+		"to_rank": 131,
+		"from_rank": 138,
+		"above": "aronia",
+		"below": "congregation"
 	}
 ]
