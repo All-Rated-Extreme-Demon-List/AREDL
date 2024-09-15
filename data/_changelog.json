@@ -4219,5 +4219,14 @@
 		"from_rank": 901,
 		"above": "hypersonic",
 		"below": "aksion"
+	},
+	{
+		"date": 1726440172,
+		"action": "placed",
+		"name": "ftw",
+		"to_rank": 542,
+		"from_rank": null,
+		"above": "motorbreath",
+		"below": "incandescent"
 	}
 ]
