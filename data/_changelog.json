@@ -4192,5 +4192,14 @@
 		"from_rank": null,
 		"above": "universe_on_fire",
 		"below": "eternal"
+	},
+	{
+		"date": 1726431992,
+		"action": "raised",
+		"name": "crystal_crusher_2p",
+		"to_rank": 560,
+		"from_rank": 678,
+		"above": "down_bass",
+		"below": "blue_suns_zenith"
 	}
 ]
