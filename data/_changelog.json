@@ -4210,5 +4210,14 @@
 		"from_rank": 512,
 		"above": "the_old_trail",
 		"below": "the_first"
+	},
+	{
+		"date": 1726433453,
+		"action": "raised",
+		"name": "idol19",
+		"to_rank": 876,
+		"from_rank": 901,
+		"above": "hypersonic",
+		"below": "aksion"
 	}
 ]
