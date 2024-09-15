@@ -4228,5 +4228,14 @@
 		"from_rank": 138,
 		"above": "aronia",
 		"below": "congregation"
+	},
+	{
+		"date": 1726385975,
+		"action": "placed",
+		"name": "great_fury_of_heaven",
+		"to_rank": 590,
+		"from_rank": null,
+		"above": "universe_on_fire",
+		"below": "eternal"
 	}
 ]
