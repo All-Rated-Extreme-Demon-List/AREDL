@@ -4201,5 +4201,14 @@
 		"from_rank": 678,
 		"above": "down_bass",
 		"below": "blue_suns_zenith"
+	},
+	{
+		"date": 1726432003,
+		"action": "raised",
+		"name": "protoflicker",
+		"to_rank": 473,
+		"from_rank": 512,
+		"above": "the_old_trail",
+		"below": "the_first"
 	}
 ]
