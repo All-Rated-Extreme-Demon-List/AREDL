@@ -4194,6 +4194,24 @@
 		"below": "tidal_wave"
 	},
 	{
+		"date": 1726340868,
+		"action": "removed",
+		"name": "nullscapes",
+		"to_rank": null,
+		"from_rank": 2,
+		"above": null,
+		"below": null
+	},
+	{
+		"date": 1726340868,
+		"action": "removed",
+		"name": "proton_launcher",
+		"to_rank": null,
+		"from_rank": 117,
+		"above": null,
+		"below": null
+	},
+	{
 		"date": 1726344058,
 		"action": "raised",
 		"name": "death",
