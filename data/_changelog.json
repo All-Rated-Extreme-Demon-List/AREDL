@@ -4068,29 +4068,11 @@
 		"below": "cerebral_hemorrhage"
 	},
 	{
-		"date": 1725998405,
-		"action": "placed",
-		"name": "nullscapes",
-		"to_rank": 3,
-		"from_rank": null,
-		"above": "silent_clubstep",
-		"below": "acheron"
-	},
-	{
-		"date": 1725998471,
-		"action": "placed",
-		"name": "proton_launcher",
-		"to_rank": 119,
-		"from_rank": null,
-		"above": "asterios",
-		"below": "bloodlust"
-	},
-	{
 		"date": 1726092900,
 		"action": "raised",
 		"name": "xronier",
-		"to_rank": 270,
-		"from_rank": 295,
+		"to_rank": 268,
+		"from_rank": 293,
 		"above": "framework",
 		"below": "wow"
 	},
@@ -4098,8 +4080,8 @@
 		"date": 1726093483,
 		"action": "lowered",
 		"name": "controller",
-		"to_rank": 199,
-		"from_rank": 184,
+		"to_rank": 197,
+		"from_rank": 182,
 		"above": "ryft",
 		"below": "dedohexdragon"
 	},
@@ -4107,8 +4089,8 @@
 		"date": 1726172558,
 		"action": "lowered",
 		"name": "silentium_gradas",
-		"to_rank": 510,
-		"from_rank": 493,
+		"to_rank": 508,
+		"from_rank": 491,
 		"above": "ruler_of_everything",
 		"below": "sapphire_angel"
 	},
@@ -4116,8 +4098,8 @@
 		"date": 1726177949,
 		"action": "raised",
 		"name": "silentium_gradas",
-		"to_rank": 488,
-		"from_rank": 510,
+		"to_rank": 486,
+		"from_rank": 508,
 		"above": "le_midd_mapperoonies",
 		"below": "showdown"
 	},
@@ -4125,8 +4107,8 @@
 		"date": 1726178641,
 		"action": "raised",
 		"name": "corrosion",
-		"to_rank": 929,
-		"from_rank": 942,
+		"to_rank": 927,
+		"from_rank": 940,
 		"above": "cataclysm",
 		"below": "firepower_kapycta999"
 	},
@@ -4134,8 +4116,8 @@
 		"date": 1726253394,
 		"action": "lowered",
 		"name": "wind_storm",
-		"to_rank": 738,
-		"from_rank": 685,
+		"to_rank": 736,
+		"from_rank": 683,
 		"above": "sides_of_my_mind_2p",
 		"below": "hopping_over_puddles"
 	},
@@ -4143,8 +4125,8 @@
 		"date": 1726261190,
 		"action": "lowered",
 		"name": "a1330x",
-		"to_rank": 646,
-		"from_rank": 582,
+		"to_rank": 644,
+		"from_rank": 580,
 		"above": "agen_wida",
 		"below": "apex"
 	},
@@ -4152,8 +4134,8 @@
 		"date": 1726298284,
 		"action": "raised",
 		"name": "idols",
-		"to_rank": 552,
-		"from_rank": 567,
+		"to_rank": 550,
+		"from_rank": 565,
 		"above": "siniristi",
 		"below": "bloodbath"
 	},
@@ -4161,8 +4143,8 @@
 		"date": 1726340430,
 		"action": "lowered",
 		"name": "manic_machine",
-		"to_rank": 659,
-		"from_rank": 638,
+		"to_rank": 657,
+		"from_rank": 636,
 		"above": "disintegrate",
 		"below": "the_antimatter"
 	},
@@ -4170,8 +4152,8 @@
 		"date": 1726340621,
 		"action": "raised",
 		"name": "hateful_reflection",
-		"to_rank": 507,
-		"from_rank": 515,
+		"to_rank": 505,
+		"from_rank": 513,
 		"above": "triadic_trials",
 		"below": "help"
 	},
@@ -4179,44 +4161,17 @@
 		"date": 1726340749,
 		"action": "raised",
 		"name": "kingslayer",
-		"to_rank": 610,
-		"from_rank": 632,
+		"to_rank": 608,
+		"from_rank": 630,
 		"above": "overtime",
 		"below": "goldcrest_palace"
-	},
-	{
-		"date": 1726340868,
-		"action": "raised",
-		"name": "nullscapes",
-		"to_rank": 2,
-		"from_rank": 3,
-		"above": "acheron",
-		"below": "tidal_wave"
-	},
-	{
-		"date": 1726340868,
-		"action": "removed",
-		"name": "nullscapes",
-		"to_rank": null,
-		"from_rank": 2,
-		"above": null,
-		"below": null
-	},
-	{
-		"date": 1726340868,
-		"action": "removed",
-		"name": "proton_launcher",
-		"to_rank": null,
-		"from_rank": 117,
-		"above": null,
-		"below": null
 	},
 	{
 		"date": 1726344058,
 		"action": "raised",
 		"name": "death",
-		"to_rank": 305,
-		"from_rank": 360,
+		"to_rank": 303,
+		"from_rank": 358,
 		"above": "omicron",
 		"below": "very_rusty_pipeline"
 	},
