@@ -312,16 +312,6 @@
         "colour": "radial-gradient(circle, rgba(42,152,52,1) 0%, rgba(55,147,168,1) 60%, rgba(24,195,217,1) 100%)"
     },
     {
-        "name": "Breaking Bad Pack",
-        "levels": [
-            "saul_goodman",
-            "walter_white",
-            "jesse_pinkman",
-            "gustavo_fring"
-        ],
-        "colour": "linear-gradient(90deg, rgba(2,102,53,1) 0%, rgba(9,73,61,1) 67%, rgba(0,0,0,1) 100%)"
-    },
-    {
         "name": "Beginner Pack I",
         "levels": [
             "troll_level",
