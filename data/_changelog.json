@@ -4228,5 +4228,14 @@
 		"from_rank": null,
 		"above": "motorbreath",
 		"below": "incandescent"
+	},
+	{
+		"date": 1726628109,
+		"action": "placed",
+		"name": "the_super_hotdog",
+		"to_rank": 989,
+		"from_rank": null,
+		"above": null,
+		"below": "red_world"
 	}
 ]
