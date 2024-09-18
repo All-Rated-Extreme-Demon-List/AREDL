@@ -7,5 +7,12 @@
 	"verification": "https://youtu.be/tqQGmhTchxs?si=FuEBHQZHdhsxryAL",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 9415165041,
+			"link": "https://www.youtube.com/watch?v=cmxG4CogskU&t=0s",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
