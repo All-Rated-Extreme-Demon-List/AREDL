@@ -4255,5 +4255,14 @@
 		"from_rank": 791,
 		"above": "disastrous_downpour",
 		"below": "armageddon"
+	},
+	{
+		"date": 1726628203,
+		"action": "raised",
+		"name": "our_fountain",
+		"to_rank": 838,
+		"from_rank": 869,
+		"above": "backlights",
+		"below": "mandragora"
 	}
 ]
