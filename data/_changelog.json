@@ -4264,5 +4264,14 @@
 		"from_rank": 869,
 		"above": "backlights",
 		"below": "mandragora"
+	},
+	{
+		"date": 1726679313,
+		"action": "raised",
+		"name": "kenos",
+		"to_rank": 56,
+		"from_rank": 58,
+		"above": "hard_machine",
+		"below": "zodiac"
 	}
 ]
