@@ -4309,5 +4309,14 @@
 		"from_rank": null,
 		"above": "sonic_wave_rebirth",
 		"below": "cersia_madness"
+	},
+	{
+		"date": 1726724387,
+		"action": "placed",
+		"name": "go_bird",
+		"to_rank": 603,
+		"from_rank": null,
+		"above": "to_the_blue_moon",
+		"below": "output_spring"
 	}
 ]
