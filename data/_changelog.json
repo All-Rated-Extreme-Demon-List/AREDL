@@ -4291,5 +4291,14 @@
 		"from_rank": null,
 		"above": "idol19",
 		"below": "aksion"
+	},
+	{
+		"date": 1726722666,
+		"action": "placed",
+		"name": "io",
+		"to_rank": 389,
+		"from_rank": null,
+		"above": "miss_you",
+		"below": "ultra_violet"
 	}
 ]
