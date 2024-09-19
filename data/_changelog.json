@@ -4318,5 +4318,14 @@
 		"from_rank": null,
 		"above": "to_the_blue_moon",
 		"below": "output_spring"
+	},
+	{
+		"date": 1726779018,
+		"action": "lowered",
+		"name": "deogen",
+		"to_rank": 652,
+		"from_rank": 541,
+		"above": "chopstep",
+		"below": "welcome_to_gd_news"
 	}
 ]
