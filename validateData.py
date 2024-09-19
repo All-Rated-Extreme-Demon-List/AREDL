@@ -19,6 +19,27 @@ banned_schema = {
     }
 }
 
+editors_supporters_schema = {
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "role": {"type": "string"},
+            "members": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "name": {"type": "number"},
+                        "link": {"type": "string"}
+                    }
+                }
+            }
+        }
+    }
+}
+	
+
 tags_schema = {
     "type": "array",
     "items": {
@@ -112,6 +133,8 @@ def validate_data():
     pack_tiers_path = os.path.join(current_dir, "_packtiers.json")
     tags_path = os.path.join(current_dir, "_tags.json")
     name_map_path = os.path.join(current_dir, "_name_map.json")
+    editors_path = os.path.join(current_dir, "_editors.json")
+    supporters_path = os.path.join(current_dir, "_supporters.json")
     had_error = False
 
     with open(list_path, "r", encoding='utf-8') as file:
@@ -200,6 +223,28 @@ def validate_data():
 
     def validate_user(user_id):
         return str(user_id) in name_map
+    
+    with open(editors_path, "r", encoding='utf-8') as file:
+        try:
+            editors = json.load(file)
+            validate(instance=editors, schema=editors_supporters_schema)
+        except ValueError as e:
+            print(f"Invalid json in file _editors.json: {str(e)}")
+            sys.exit(1)
+        except exceptions.ValidationError as e:
+            print(f"Validation failed for _editors.json: {str(e)}")
+            sys.exit(1)
+    
+    with open(supporters_path, "r", encoding='utf-8') as file:
+        try:
+            supporters = json.load(file)
+            validate(instance=supporters, schema=editors_supporters_schema)
+        except ValueError as e:
+            print(f"Invalid json in file _supporters.json: {str(e)}")
+            sys.exit(1)
+        except exceptions.ValidationError as e:
+            print(f"Validation failed for _supporters.json: {str(e)}")
+            sys.exit(1)
 
     level_ids = {}
     for filename in levels:
@@ -309,6 +354,18 @@ def validate_data():
     for pack in pack_names_unused:
         had_error = True
         print(f"Pack \"{pack}\" is not assigned to a tier")
+
+    for role in editors:
+        for member in role["members"]:
+            if not validate_user(member["name"]):
+                had_error = True
+                print(f"Unknown editor: {member['name']} ({role['role']})")
+    for role in supporters:
+        for member in role["members"]:
+            if not validate_user(member["name"]):
+                had_error = True
+                print(f"Unknown supporter: {member['name']}")
+
                 
     if had_error:
         sys.exit(1)
