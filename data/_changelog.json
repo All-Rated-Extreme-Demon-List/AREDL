@@ -4300,5 +4300,14 @@
 		"from_rank": null,
 		"above": "miss_you",
 		"below": "ultra_violet"
+	},
+	{
+		"date": 1726724106,
+		"action": "placed",
+		"name": "the_hell_tribute",
+		"to_rank": 212,
+		"from_rank": null,
+		"above": "sonic_wave_rebirth",
+		"below": "cersia_madness"
 	}
 ]
