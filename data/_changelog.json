@@ -4354,5 +4354,14 @@
 		"from_rank": 441,
 		"above": "boogie",
 		"below": "ikaros"
+	},
+	{
+		"date": 1726938772,
+		"action": "raised",
+		"name": "jamboree",
+		"to_rank": 273,
+		"from_rank": 278,
+		"above": "dreams",
+		"below": "catalyze"
 	}
 ]
