@@ -4363,5 +4363,14 @@
 		"from_rank": 278,
 		"above": "dreams",
 		"below": "catalyze"
+	},
+	{
+		"date": 1726938789,
+		"action": "raised",
+		"name": "jamboree",
+		"to_rank": 272,
+		"from_rank": 273,
+		"above": "catalyze",
+		"below": "framework"
 	}
 ]
