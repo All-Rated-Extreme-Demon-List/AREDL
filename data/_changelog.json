@@ -4342,7 +4342,7 @@
 		"action": "lowered",
 		"name": "zinhwa",
 		"to_rank": 455,
-		"from_rank": 401,
+		"from_rank": 402,
 		"above": "ithacropolis",
 		"below": "xuser_morelike_luser"
 	},
@@ -4360,7 +4360,7 @@
 		"action": "raised",
 		"name": "jamboree",
 		"to_rank": 273,
-		"from_rank": 278,
+		"from_rank": 279,
 		"above": "dreams",
 		"below": "catalyze"
 	},
