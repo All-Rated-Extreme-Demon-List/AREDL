@@ -4345,5 +4345,14 @@
 		"from_rank": 401,
 		"above": "ithacropolis",
 		"below": "xuser_morelike_luser"
+	},
+	{
+		"date": 1726938749,
+		"action": "raised",
+		"name": "kinetic_bypass",
+		"to_rank": 421,
+		"from_rank": 441,
+		"above": "boogie",
+		"below": "ikaros"
 	}
 ]
