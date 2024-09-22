@@ -4,7 +4,6 @@ import json
 
 def remove_records(user_name):
     
-
     nb_removed = 0
 
     current_dir = os.path.join(os.getcwd(), "data")
@@ -36,7 +35,7 @@ def remove_records(user_name):
         print(f"Invalid user ID {user_id} for user {user_name}: {str(e)}")
         sys.exit(1)
 
-    print(f"Removing records for user ID: {user_id}")
+    print(f"- Removing records for user ID: {user_id}")
 
     try:
         with open(list_path, "r", encoding='utf-8') as file:
@@ -76,9 +75,22 @@ def remove_records(user_name):
 
     print(f"Successfully removed {nb_removed} records for user {user_name}")
 
+    print(f"Removing {user_name} from the name map.")
+    try:
+        del name_map[str(user_id)] 
+        with open(name_map_path, "w", encoding='utf-8') as file:
+            json.dump(name_map, file, ensure_ascii=False, indent=4)
+        print(f"Successfully removed {user_name} from the name map.")
+    except KeyError:
+        print(f"Failed to remove {user_name} from the name map: ID {user_id} not found.")
+    except ValueError as e:
+        print(f"Failed to write json to file _name_map.json: {str(e)}")
+
 if __name__ == "__main__":
-    if len(sys.argv) != 2:
+    if len(sys.argv) < 2:
         print("Usage: python removeRecords.py <username>")
         sys.exit(1)
 
-    remove_records(sys.argv[1])
+    user_name = " ".join(sys.argv[1:])
+
+    remove_records(user_name)
