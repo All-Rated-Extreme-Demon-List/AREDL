@@ -4390,5 +4390,14 @@
 		"from_rank": 241,
 		"above": "x0",
 		"below": "rage"
+	},
+	{
+		"date": 1726968271,
+		"action": "lowered",
+		"name": "i_hate_renn",
+		"to_rank": 630,
+		"from_rank": 580,
+		"above": "gridlocked",
+		"below": "nerual"
 	}
 ]
