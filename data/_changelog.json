@@ -4408,5 +4408,14 @@
 		"from_rank": 328,
 		"above": "firepower_sillow",
 		"below": "tenochtitlan"
+	},
+	{
+		"date": 1727125278,
+		"action": "raised",
+		"name": "launchpad_labyrinth",
+		"to_rank": 96,
+		"from_rank": 105,
+		"above": "shardscapes",
+		"below": "atomic_cannon_mk_ii"
 	}
 ]
