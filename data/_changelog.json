@@ -4399,5 +4399,14 @@
 		"from_rank": 580,
 		"above": "gridlocked",
 		"below": "nerual"
+	},
+	{
+		"date": 1727057367,
+		"action": "raised",
+		"name": "devil_vortex",
+		"to_rank": 289,
+		"from_rank": 328,
+		"above": "firepower_sillow",
+		"below": "tenochtitlan"
 	}
 ]
