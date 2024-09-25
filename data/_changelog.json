@@ -4417,5 +4417,14 @@
 		"from_rank": 105,
 		"above": "shardscapes",
 		"below": "atomic_cannon_mk_ii"
+	},
+	{
+		"date": 1727283965,
+		"action": "raised",
+		"name": "ordinary",
+		"to_rank": 45,
+		"from_rank": 52,
+		"above": "delta",
+		"below": "atomic_cannon_mk_iii"
 	}
 ]
