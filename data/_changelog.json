@@ -4444,5 +4444,14 @@
 		"from_rank": 336,
 		"above": "black_blizzard",
 		"below": "occult_outcry"
+	},
+	{
+		"date": 1727297480,
+		"action": "raised",
+		"name": "instinct_krazyman50real",
+		"to_rank": 81,
+		"from_rank": 90,
+		"above": "calculator_core",
+		"below": "sky_shredder"
 	}
 ]
