@@ -4426,5 +4426,14 @@
 		"from_rank": 52,
 		"above": "delta",
 		"below": "atomic_cannon_mk_iii"
+	},
+	{
+		"date": 1727285824,
+		"action": "lowered",
+		"name": "bete_noire",
+		"to_rank": 238,
+		"from_rank": 204,
+		"above": "quantum_theory",
+		"below": "buzzkill"
 	}
 ]
