@@ -4489,5 +4489,14 @@
 		"from_rank": 793,
 		"above": "iridium",
 		"below": "vexatious"
+	},
+	{
+		"date": 1727478297,
+		"action": "placed",
+		"name": "pro_lov_ad",
+		"to_rank": 947,
+		"from_rank": null,
+		"above": "cityfade",
+		"below": "overlord"
 	}
 ]
