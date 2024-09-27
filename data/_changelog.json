@@ -4480,5 +4480,14 @@
 		"from_rank": 536,
 		"above": "hateful_reflection",
 		"below": "help"
+	},
+	{
+		"date": 1727477051,
+		"action": "raised",
+		"name": "wacky_mcwhackface_v2",
+		"to_rank": 756,
+		"from_rank": 793,
+		"above": "iridium",
+		"below": "vexatious"
 	}
 ]
