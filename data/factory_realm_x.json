@@ -84,7 +84,7 @@
 			"user": 6862415612,
 			"link": "https://www.youtube.com/watch?v=5AxobYgI_Os&t=20s",
 			"percent": 100,
-			"hz": 720	
+			"hz": 720
 		},
 		{
 			"user": 4309093704,
@@ -144,6 +144,12 @@
 		{
 			"user": 9865374269,
 			"link": "https://www.youtube.com/watch?v=wC6mc7zL2e8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9148352519,
+			"link": "https://youtu.be/IDp3Izbao5A",
 			"percent": 100,
 			"hz": 360
 		}
