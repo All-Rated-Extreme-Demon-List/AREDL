@@ -4534,5 +4534,14 @@
 		"from_rank": null,
 		"above": "aronia",
 		"below": "sigma"
+	},
+	{
+		"date": 1727640007,
+		"action": "raised",
+		"name": "iris_of_a_puppeteer",
+		"to_rank": 190,
+		"from_rank": 202,
+		"above": "omega",
+		"below": "beyond_hell"
 	}
 ]
