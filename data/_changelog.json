@@ -4498,5 +4498,14 @@
 		"from_rank": null,
 		"above": "cityfade",
 		"below": "overlord"
+	},
+	{
+		"date": 1727579120,
+		"action": "lowered",
+		"name": "new_record",
+		"to_rank": 446,
+		"from_rank": 396,
+		"above": "endless_dream",
+		"below": "memories"
 	}
 ]
