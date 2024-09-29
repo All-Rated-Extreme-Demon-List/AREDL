@@ -4552,5 +4552,14 @@
 		"from_rank": 252,
 		"above": "generic_wave",
 		"below": "xo"
+	},
+	{
+		"date": 1727649485,
+		"action": "placed",
+		"name": "kosetsu",
+		"to_rank": 16,
+		"from_rank": null,
+		"above": "poocubed",
+		"below": "deimos_itshybrid"
 	}
 ]
