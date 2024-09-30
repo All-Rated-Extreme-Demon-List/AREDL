@@ -4588,5 +4588,14 @@
 		"from_rank": 418,
 		"above": "tunnel",
 		"below": "devoid"
+	},
+	{
+		"date": 1727734537,
+		"action": "raised",
+		"name": "sunset_sandstorm",
+		"to_rank": 247,
+		"from_rank": 253,
+		"above": "erebus_boldstep",
+		"below": "basil"
 	}
 ]
