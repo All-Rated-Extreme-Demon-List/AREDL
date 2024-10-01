@@ -4606,5 +4606,14 @@
 		"from_rank": 251,
 		"above": "hyperchaos",
 		"below": "tapwreck"
+	},
+	{
+		"date": 1727825387,
+		"action": "lowered",
+		"name": "retention_rush",
+		"to_rank": 266,
+		"from_rank": 263,
+		"above": "relentless",
+		"below": "friday_vortex"
 	}
 ]
