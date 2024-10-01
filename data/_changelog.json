@@ -4597,5 +4597,14 @@
 		"from_rank": 253,
 		"above": "erebus_boldstep",
 		"below": "basil"
+	},
+	{
+		"date": 1727810784,
+		"action": "lowered",
+		"name": "retention_rush",
+		"to_rank": 263,
+		"from_rank": 251,
+		"above": "hyperchaos",
+		"below": "tapwreck"
 	}
 ]
