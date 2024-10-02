@@ -4651,5 +4651,14 @@
 		"from_rank": 653,
 		"above": "nerual",
 		"below": "beeline_2p"
+	},
+	{
+		"date": 1727907510,
+		"action": "placed",
+		"name": "coalescence",
+		"to_rank": 49,
+		"from_rank": null,
+		"above": "shukketsu",
+		"below": "network_agat3"
 	}
 ]
