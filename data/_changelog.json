@@ -4615,5 +4615,14 @@
 		"from_rank": 263,
 		"above": "relentless",
 		"below": "friday_vortex"
+	},
+	{
+		"date": 1727906561,
+		"action": "lowered",
+		"name": "hatred",
+		"to_rank": 390,
+		"from_rank": 389,
+		"above": "rosedynamix",
+		"below": "furious_flames"
 	}
 ]
