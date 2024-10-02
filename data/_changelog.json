@@ -4642,5 +4642,14 @@
 		"from_rank": 449,
 		"above": "speedrun",
 		"below": "ouroboros_startpos_2"
+	},
+	{
+		"date": 1727906603,
+		"action": "raised",
+		"name": "disentombed",
+		"to_rank": 631,
+		"from_rank": 653,
+		"above": "nerual",
+		"below": "beeline_2p"
 	}
 ]
