@@ -4678,5 +4678,14 @@
 		"from_rank": 460,
 		"above": "twilight_coexistence",
 		"below": "phobos"
+	},
+	{
+		"date": 1727999584,
+		"action": "raised",
+		"name": "artificial_ideology",
+		"to_rank": 579,
+		"from_rank": 594,
+		"above": "want_me",
+		"below": "a_bizarre_phantasm"
 	}
 ]
