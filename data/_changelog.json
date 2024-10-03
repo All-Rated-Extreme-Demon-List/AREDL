@@ -4669,5 +4669,14 @@
 		"from_rank": 148,
 		"above": "atomic_cannon",
 		"below": "dsink"
+	},
+	{
+		"date": 1727999433,
+		"action": "lowered",
+		"name": "masochism",
+		"to_rank": 490,
+		"from_rank": 460,
+		"above": "twilight_coexistence",
+		"below": "phobos"
 	}
 ]
