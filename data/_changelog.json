@@ -4741,5 +4741,14 @@
 		"from_rank": 977,
 		"above": "overlord",
 		"below": "paralysis"
+	},
+	{
+		"date": 1728076671,
+		"action": "lowered",
+		"name": "cholerix",
+		"to_rank": 870,
+		"from_rank": 736,
+		"above": "instant_execution",
+		"below": "vermilion"
 	}
 ]
