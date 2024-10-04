@@ -4705,5 +4705,14 @@
 		"from_rank": 834,
 		"above": "sky_tech",
 		"below": "kub"
+	},
+	{
+		"date": 1728076559,
+		"action": "lowered",
+		"name": "based_gang_solo",
+		"to_rank": 391,
+		"from_rank": 331,
+		"above": "hatred",
+		"below": "furious_flames"
 	}
 ]
