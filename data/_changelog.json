@@ -4714,5 +4714,14 @@
 		"from_rank": 331,
 		"above": "hatred",
 		"below": "furious_flames"
+	},
+	{
+		"date": 1728076586,
+		"action": "lowered",
+		"name": "gentlemens_clique_solo",
+		"to_rank": 382,
+		"from_rank": 332,
+		"above": "eternal_entropy",
+		"below": "illusion"
 	}
 ]
