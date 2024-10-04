@@ -4732,5 +4732,14 @@
 		"from_rank": 705,
 		"above": "snowfall_storm",
 		"below": "gridlocked"
+	},
+	{
+		"date": 1728076640,
+		"action": "raised",
+		"name": "flappy_dynamix_ii",
+		"to_rank": 951,
+		"from_rank": 977,
+		"above": "overlord",
+		"below": "paralysis"
 	}
 ]
