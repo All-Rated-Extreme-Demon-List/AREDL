@@ -4696,5 +4696,14 @@
 		"from_rank": 758,
 		"above": "kub",
 		"below": "gangimari"
+	},
+	{
+		"date": 1728075487,
+		"action": "lowered",
+		"name": "headlock",
+		"to_rank": 835,
+		"from_rank": 834,
+		"above": "sky_tech",
+		"below": "kub"
 	}
 ]
