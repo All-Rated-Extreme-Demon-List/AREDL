@@ -4768,5 +4768,14 @@
 		"from_rank": 233,
 		"above": "sephiroth",
 		"below": "goner"
+	},
+	{
+		"date": 1728167612,
+		"action": "lowered",
+		"name": "psychotic",
+		"to_rank": 834,
+		"from_rank": 781,
+		"above": "sky_tech",
+		"below": "headlock"
 	}
 ]
