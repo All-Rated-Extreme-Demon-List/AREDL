@@ -4759,5 +4759,14 @@
 		"from_rank": 993,
 		"above": "fishe",
 		"below": "raindance"
+	},
+	{
+		"date": 1728166274,
+		"action": "raised",
+		"name": "cersia_difficult",
+		"to_rank": 222,
+		"from_rank": 233,
+		"above": "sephiroth",
+		"below": "goner"
 	}
 ]
