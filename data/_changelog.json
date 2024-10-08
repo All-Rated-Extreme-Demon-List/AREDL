@@ -4813,5 +4813,14 @@
 		"from_rank": 462,
 		"above": "erebus_platnuu",
 		"below": "free_for_all_2"
+	},
+	{
+		"date": 1728358961,
+		"action": "lowered",
+		"name": "cybernetic_crescent",
+		"to_rank": 207,
+		"from_rank": 206,
+		"above": "edge_of_the_world",
+		"below": "macabre"
 	}
 ]
