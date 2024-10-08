@@ -4840,5 +4840,14 @@
 		"from_rank": 177,
 		"above": "cridium",
 		"below": "ego_killing"
+	},
+	{
+		"date": 1728359174,
+		"action": "lowered",
+		"name": "lovel",
+		"to_rank": 313,
+		"from_rank": 311,
+		"above": "auroral_darkness",
+		"below": "omicron"
 	}
 ]
