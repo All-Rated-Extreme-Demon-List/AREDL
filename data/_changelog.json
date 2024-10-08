@@ -4849,5 +4849,14 @@
 		"from_rank": 311,
 		"above": "auroral_darkness",
 		"below": "omicron"
+	},
+	{
+		"date": 1728399267,
+		"action": "placed",
+		"name": "reset_your_mind",
+		"to_rank": 456,
+		"from_rank": null,
+		"above": "curie",
+		"below": "fabricated_thoughts"
 	}
 ]
