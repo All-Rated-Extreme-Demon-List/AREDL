@@ -4831,5 +4831,14 @@
 		"from_rank": 313,
 		"above": "death",
 		"below": "very_rusty_pipeline"
+	},
+	{
+		"date": 1728359019,
+		"action": "raised",
+		"name": "spectrum_cyclone",
+		"to_rank": 168,
+		"from_rank": 177,
+		"above": "cridium",
+		"below": "ego_killing"
 	}
 ]
