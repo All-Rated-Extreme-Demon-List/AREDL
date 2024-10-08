@@ -4804,5 +4804,14 @@
 		"from_rank": 961,
 		"above": "torgue",
 		"below": "stratus"
+	},
+	{
+		"date": 1728358946,
+		"action": "raised",
+		"name": "disaster_dive",
+		"to_rank": 438,
+		"from_rank": 462,
+		"above": "erebus_platnuu",
+		"below": "free_for_all_2"
 	}
 ]
