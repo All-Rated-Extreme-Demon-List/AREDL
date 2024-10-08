@@ -4786,5 +4786,14 @@
 		"from_rank": null,
 		"above": "silent_clubstep",
 		"below": "acheron"
+	},
+	{
+		"date": 1728347146,
+		"action": "raised",
+		"name": "lovel",
+		"to_rank": 313,
+		"from_rank": 389,
+		"above": "auroral_darkness",
+		"below": "omicron"
 	}
 ]
