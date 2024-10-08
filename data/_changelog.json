@@ -4822,5 +4822,14 @@
 		"from_rank": 206,
 		"above": "edge_of_the_world",
 		"below": "macabre"
+	},
+	{
+		"date": 1728359002,
+		"action": "raised",
+		"name": "lovel",
+		"to_rank": 311,
+		"from_rank": 313,
+		"above": "death",
+		"below": "very_rusty_pipeline"
 	}
 ]
