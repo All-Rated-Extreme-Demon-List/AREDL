@@ -4867,5 +4867,14 @@
 		"from_rank": null,
 		"above": "firepower_kapycta999",
 		"below": "a9blue"
+	},
+	{
+		"date": 1728434059,
+		"action": "raised",
+		"name": "aquatic_auroras",
+		"to_rank": 175,
+		"from_rank": 181,
+		"above": "calamity",
+		"below": "chroma_finale"
 	}
 ]
