@@ -4876,5 +4876,14 @@
 		"from_rank": 181,
 		"above": "calamity",
 		"below": "chroma_finale"
+	},
+	{
+		"date": 1728547390,
+		"action": "lowered",
+		"name": "phantasmagoria_whlt",
+		"to_rank": 923,
+		"from_rank": 898,
+		"above": "proteus",
+		"below": "shimmering_chamber"
 	}
 ]
