@@ -4885,5 +4885,14 @@
 		"from_rank": 898,
 		"above": "proteus",
 		"below": "shimmering_chamber"
+	},
+	{
+		"date": 1728557589,
+		"action": "lowered",
+		"name": "complementary_cruise",
+		"to_rank": 677,
+		"from_rank": 628,
+		"above": "shape_of_the_sun",
+		"below": "tornado"
 	}
 ]
