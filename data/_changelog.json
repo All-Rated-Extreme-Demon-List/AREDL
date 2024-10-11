@@ -4948,5 +4948,14 @@
 		"from_rank": 582,
 		"above": "entropy",
 		"below": "game_over"
+	},
+	{
+		"date": 1728669291,
+		"action": "raised",
+		"name": "loose_screws",
+		"to_rank": 449,
+		"from_rank": 572,
+		"above": "microsoft_drivethru",
+		"below": "abandoned_planet"
 	}
 ]
