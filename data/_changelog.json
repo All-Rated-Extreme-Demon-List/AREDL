@@ -4921,5 +4921,14 @@
 		"from_rank": 737,
 		"above": "want_me",
 		"below": "artificial_ideology"
+	},
+	{
+		"date": 1728611820,
+		"action": "lowered",
+		"name": "spirit_house",
+		"to_rank": 377,
+		"from_rank": 292,
+		"above": "collapse",
+		"below": "prisma"
 	}
 ]
