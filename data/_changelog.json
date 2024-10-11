@@ -4939,5 +4939,14 @@
 		"from_rank": 330,
 		"above": "want_me",
 		"below": "xeriscape"
+	},
+	{
+		"date": 1728611987,
+		"action": "raised",
+		"name": "project_nexus",
+		"to_rank": 537,
+		"from_rank": 582,
+		"above": "entropy",
+		"below": "game_over"
 	}
 ]
