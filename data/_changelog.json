@@ -4903,5 +4903,14 @@
 		"from_rank": 389,
 		"above": "astral_divinity",
 		"below": "desolate"
+	},
+	{
+		"date": 1728605706,
+		"action": "lowered",
+		"name": "hatred",
+		"to_rank": 394,
+		"from_rank": 393,
+		"above": "ultra_violet",
+		"below": "rosedynamix"
 	}
 ]
