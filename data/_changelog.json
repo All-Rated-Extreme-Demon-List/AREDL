@@ -4912,5 +4912,14 @@
 		"from_rank": 393,
 		"above": "ultra_violet",
 		"below": "rosedynamix"
+	},
+	{
+		"date": 1728611793,
+		"action": "raised",
+		"name": "xeriscape",
+		"to_rank": 582,
+		"from_rank": 737,
+		"above": "want_me",
+		"below": "artificial_ideology"
 	}
 ]
