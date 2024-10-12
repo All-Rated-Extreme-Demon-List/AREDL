@@ -4957,5 +4957,14 @@
 		"from_rank": 572,
 		"above": "microsoft_drivethru",
 		"below": "abandoned_planet"
+	},
+	{
+		"date": 1728741834,
+		"action": "raised",
+		"name": "turn_the_lights_off",
+		"to_rank": 328,
+		"from_rank": 389,
+		"above": "stereo_extremeness",
+		"below": "the_deadlands"
 	}
 ]
