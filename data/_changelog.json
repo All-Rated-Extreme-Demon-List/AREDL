@@ -4966,5 +4966,14 @@
 		"from_rank": 389,
 		"above": "stereo_extremeness",
 		"below": "the_deadlands"
+	},
+	{
+		"date": 1728850659,
+		"action": "raised",
+		"name": "the_hell_inferno",
+		"to_rank": 422,
+		"from_rank": 474,
+		"above": "netzwerk",
+		"below": "the_cellar_path"
 	}
 ]
