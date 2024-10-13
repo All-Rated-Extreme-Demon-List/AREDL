@@ -4984,5 +4984,14 @@
 		"from_rank": 243,
 		"above": "molten_gear",
 		"below": "infinite_iniquity"
+	},
+	{
+		"date": 1728853777,
+		"action": "raised",
+		"name": "cheyenne",
+		"to_rank": 436,
+		"from_rank": 477,
+		"above": "the_hell_world",
+		"below": "breakout_redux"
 	}
 ]
