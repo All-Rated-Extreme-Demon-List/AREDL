@@ -4975,5 +4975,14 @@
 		"from_rank": 474,
 		"above": "netzwerk",
 		"below": "the_cellar_path"
+	},
+	{
+		"date": 1728850798,
+		"action": "raised",
+		"name": "bete_noire",
+		"to_rank": 220,
+		"from_rank": 243,
+		"above": "molten_gear",
+		"below": "infinite_iniquity"
 	}
 ]
