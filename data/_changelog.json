@@ -4993,5 +4993,14 @@
 		"from_rank": 477,
 		"above": "the_hell_world",
 		"below": "breakout_redux"
+	},
+	{
+		"date": 1728932912,
+		"action": "placed",
+		"name": "aimbotter_force",
+		"to_rank": 990,
+		"from_rank": null,
+		"above": "twitch_denan",
+		"below": "virtual_collapse"
 	}
 ]
