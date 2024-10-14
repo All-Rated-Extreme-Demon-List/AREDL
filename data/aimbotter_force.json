@@ -2,10 +2,19 @@
 	"id": 87930093,
 	"name": "Aimbotter Force",
 	"author": 7882410752,
-	"creators": [7882410752],
+	"creators": [
+		7882410752
+	],
 	"verifier": 7882410752,
 	"verification": "https://youtu.be/3rRArglfccE?si=4qEg_24z5Y2EsP37",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 8485402626,
+			"link": "https://youtu.be/WpZx0b9jBSg?si=SbSV7X2_GYcPYJ8s",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
