@@ -5002,5 +5002,14 @@
 		"from_rank": null,
 		"above": "twitch_denan",
 		"below": "virtual_collapse"
+	},
+	{
+		"date": 1728933171,
+		"action": "raised",
+		"name": "cicatrize",
+		"to_rank": 146,
+		"from_rank": 150,
+		"above": "atmos",
+		"below": "knights_of_thunder"
 	}
 ]
