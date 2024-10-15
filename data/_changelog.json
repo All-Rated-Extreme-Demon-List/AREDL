@@ -5020,5 +5020,14 @@
 		"from_rank": 256,
 		"above": "icotact",
 		"below": "ashes"
+	},
+	{
+		"date": 1729022124,
+		"action": "raised",
+		"name": "great_fury_of_heaven",
+		"to_rank": 394,
+		"from_rank": 599,
+		"above": "ultra_violet",
+		"below": "hatred"
 	}
 ]
