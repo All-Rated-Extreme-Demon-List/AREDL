@@ -5092,5 +5092,14 @@
 		"from_rank": null,
 		"above": "white_noise",
 		"below": "cyberstorm"
+	},
+	{
+		"date": 1729029538,
+		"action": "fromlegacy",
+		"name": "lezicuv",
+		"to_rank": 978,
+		"from_rank": 1012,
+		"above": "mind_machine",
+		"below": "jeongi"
 	}
 ]
