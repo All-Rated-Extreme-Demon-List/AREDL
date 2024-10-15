@@ -5029,5 +5029,14 @@
 		"from_rank": 599,
 		"above": "ultra_violet",
 		"below": "hatred"
+	},
+	{
+		"date": 1729024662,
+		"action": "raised",
+		"name": "great_fury_of_heaven",
+		"to_rank": 394,
+		"from_rank": 394,
+		"above": "ultra_violet",
+		"below": "hatred"
 	}
 ]
