@@ -5101,5 +5101,14 @@
 		"from_rank": 1012,
 		"above": "mind_machine",
 		"below": "jeongi"
+	},
+	{
+		"date": 1729029564,
+		"action": "tolegacy",
+		"name": "mind_machine",
+		"to_rank": 1012,
+		"from_rank": 979,
+		"above": "triangular",
+		"below": "the_super_hotdog"
 	}
 ]
