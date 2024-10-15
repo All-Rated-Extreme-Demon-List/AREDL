@@ -5047,5 +5047,14 @@
 		"from_rank": null,
 		"above": "the_hell_factory",
 		"below": "the_hell_bird"
+	},
+	{
+		"date": 1729025471,
+		"action": "placed",
+		"name": "milo",
+		"to_rank": 457,
+		"from_rank": null,
+		"above": "infernal_abyss",
+		"below": "the_hell_zone"
 	}
 ]
