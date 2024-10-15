@@ -5056,5 +5056,14 @@
 		"from_rank": null,
 		"above": "infernal_abyss",
 		"below": "the_hell_zone"
+	},
+	{
+		"date": 1729025658,
+		"action": "placed",
+		"name": "huellas_en_la_nieve",
+		"to_rank": 777,
+		"from_rank": null,
+		"above": "pumped_up_kicks",
+		"below": "exotic_energy"
 	}
 ]
