@@ -7,5 +7,12 @@
 	"verification": "https://www.youtube.com/watch?v=ek4sUIdl5pc&t=0s",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 3969992072,
+			"link": "https://www.youtube.com/watch?v=yb8AOQ3fk1g&lc=Ugzs2gPxIj-5-KjW7kh4AaABAg&ab_channel=derf",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
