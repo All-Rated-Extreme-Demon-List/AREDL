@@ -5119,5 +5119,14 @@
 		"from_rank": 232,
 		"above": "carnage_mode",
 		"below": "envy"
+	},
+	{
+		"date": 1729218089,
+		"action": "placed",
+		"name": "voluto",
+		"to_rank": 988,
+		"from_rank": null,
+		"above": "ion",
+		"below": "freedom16"
 	}
 ]
