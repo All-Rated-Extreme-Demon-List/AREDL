@@ -2,10 +2,32 @@
 	"id": 110194902,
 	"name": "DREAMS TAKE OVER",
 	"author": 7419391562,
-	"creators": [9297823105,7419391562],
+	"creators": [
+		9297823105,
+		7419391562
+	],
 	"verifier": 5936755810,
 	"verification": "https://youtu.be/EVUk6vi-lHg?si=JxymnC5ANR_f2go2",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 5800152758,
+			"link": "https://www.youtube.com/watch?v=w123Ko_-pnw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8416165965,
+			"link": "https://www.youtube.com/watch?v=mU-ONYZcF7w",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4162303000,
+			"link": "https://youtu.be/WCnIj90wtAU",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
