@@ -5128,5 +5128,14 @@
 		"from_rank": null,
 		"above": "ion",
 		"below": "freedom16"
+	},
+	{
+		"date": 1729273489,
+		"action": "raised",
+		"name": "lucid_chaos",
+		"to_rank": 277,
+		"from_rank": 280,
+		"above": "catalyze",
+		"below": "jamboree"
 	}
 ]
