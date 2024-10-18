@@ -5137,5 +5137,14 @@
 		"from_rank": 280,
 		"above": "catalyze",
 		"below": "jamboree"
+	},
+	{
+		"date": 1729295328,
+		"action": "raised",
+		"name": "triple_six",
+		"to_rank": 597,
+		"from_rank": 654,
+		"above": "aurora",
+		"below": "nemesis"
 	}
 ]
