@@ -5110,5 +5110,14 @@
 		"from_rank": 979,
 		"above": "triangular",
 		"below": "the_super_hotdog"
+	},
+	{
+		"date": 1729217522,
+		"action": "lowered",
+		"name": "fusiondynamix",
+		"to_rank": 478,
+		"from_rank": 232,
+		"above": "carnage_mode",
+		"below": "envy"
 	}
 ]
