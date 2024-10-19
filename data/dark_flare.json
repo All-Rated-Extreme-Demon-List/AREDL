@@ -1,7 +1,7 @@
 {
 	"id": 48942548,
 	"name": "Dark Flare",
-	"tags":[
+	"tags": [
 		"2.1",
 		"XL",
 		"Fast-Paced",
@@ -168,6 +168,12 @@
 		{
 			"user": 3377410347,
 			"link": "https://youtu.be/B6H40Mz1OLs?si=W5P609L8WxoMUxpv",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2781113736,
+			"link": "https://youtu.be/wABXiM49hoA?si=M8ZI8tasx0hDLK4N",
 			"percent": 100,
 			"hz": 360
 		}
