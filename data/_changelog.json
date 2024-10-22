@@ -5146,5 +5146,14 @@
 		"from_rank": 654,
 		"above": "aurora",
 		"below": "nemesis"
+	},
+	{
+		"date": 1729631191,
+		"action": "raised",
+		"name": "cicada3302",
+		"to_rank": 889,
+		"from_rank": 900,
+		"above": "allegiance",
+		"below": "ultrasans"
 	}
 ]
