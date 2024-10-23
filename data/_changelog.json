@@ -5155,5 +5155,14 @@
 		"from_rank": 900,
 		"above": "allegiance",
 		"below": "ultrasans"
+	},
+	{
+		"date": 1729662239,
+		"action": "raised",
+		"name": "reanimate",
+		"to_rank": 905,
+		"from_rank": 970,
+		"above": "aether_zeptoz",
+		"below": "v_o_l_l_e_y"
 	}
 ]
