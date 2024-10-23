@@ -1,7 +1,7 @@
 {
 	"id": 61537537,
 	"name": "Daybreak",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Timings",
@@ -227,6 +227,12 @@
 		{
 			"user": 1893724615,
 			"link": "https://youtu.be/FApcUxthhx4?t=715",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3740620269,
+			"link": "https://youtu.be/wyhwmC0tYJM",
 			"percent": 100,
 			"hz": 360
 		}
