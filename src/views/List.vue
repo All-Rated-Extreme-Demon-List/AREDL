@@ -45,7 +45,7 @@ const mobile_list_expanded = ref(true)
             4. Your record must have an uncut end screen. If your video ends before we see the end screen, and your stats are not visible, it is not an acceptable record.
           </p>
           <p>
-            5. If your record is found in the top 250, you must have raw footage linked, no matter what. However, if you have the record on your Pointercrate profile, you may submit that in the additional info instead, and we will accept your record.
+            5. If your record is found in the top 400, you must have raw footage submitted along with your original record in a downloadable format, for example: Google Drive, no matter what. However, if you have the record on your Pointercrate profile, you may submit that in the additional info instead, and we will accept your record. However, please note that we will not accept records that used Physics Bypass while it was allowed on pointercrate, since Physics Bypass was not ever allowed on the AREDL.
           </p>
           <p>
             6. This should be obvious, but your record may not be completed with any disallowed mods. This information (of what we allow and don't allow) can be found on our website. This rule also applies to having a red/blue cheat indicator, obvious hacked completions, and bots.
