@@ -5020,5 +5020,149 @@
 		"from_rank": 256,
 		"above": "icotact",
 		"below": "ashes"
+	},
+	{
+		"date": 1729022124,
+		"action": "raised",
+		"name": "great_fury_of_heaven",
+		"to_rank": 394,
+		"from_rank": 599,
+		"above": "ultra_violet",
+		"below": "hatred"
+	},
+	{
+		"date": 1729024662,
+		"action": "raised",
+		"name": "great_fury_of_heaven",
+		"to_rank": 394,
+		"from_rank": 394,
+		"above": "ultra_violet",
+		"below": "hatred"
+	},
+	{
+		"date": 1729025209,
+		"action": "placed",
+		"name": "a_berry",
+		"to_rank": 568,
+		"from_rank": null,
+		"above": "the_hell_factory",
+		"below": "the_hell_bird"
+	},
+	{
+		"date": 1729025471,
+		"action": "placed",
+		"name": "milo",
+		"to_rank": 457,
+		"from_rank": null,
+		"above": "infernal_abyss",
+		"below": "the_hell_zone"
+	},
+	{
+		"date": 1729025658,
+		"action": "placed",
+		"name": "huellas_en_la_nieve",
+		"to_rank": 777,
+		"from_rank": null,
+		"above": "pumped_up_kicks",
+		"below": "exotic_energy"
+	},
+	{
+		"date": 1729027108,
+		"action": "placed",
+		"name": "mazemory",
+		"to_rank": 844,
+		"from_rank": null,
+		"above": "hydratic",
+		"below": "broken_signal"
+	},
+	{
+		"date": 1729027355,
+		"action": "placed",
+		"name": "destines",
+		"to_rank": 869,
+		"from_rank": null,
+		"above": "happy_pills",
+		"below": "falling_up"
+	},
+	{
+		"date": 1729027640,
+		"action": "placed",
+		"name": "dreams_take_over",
+		"to_rank": 830,
+		"from_rank": null,
+		"above": "white_noise",
+		"below": "cyberstorm"
+	},
+	{
+		"date": 1729029538,
+		"action": "fromlegacy",
+		"name": "lezicuv",
+		"to_rank": 978,
+		"from_rank": 1012,
+		"above": "mind_machine",
+		"below": "jeongi"
+	},
+	{
+		"date": 1729029564,
+		"action": "tolegacy",
+		"name": "mind_machine",
+		"to_rank": 1012,
+		"from_rank": 979,
+		"above": "triangular",
+		"below": "the_super_hotdog"
+	},
+	{
+		"date": 1729217522,
+		"action": "lowered",
+		"name": "fusiondynamix",
+		"to_rank": 478,
+		"from_rank": 232,
+		"above": "carnage_mode",
+		"below": "envy"
+	},
+	{
+		"date": 1729218089,
+		"action": "placed",
+		"name": "voluto",
+		"to_rank": 988,
+		"from_rank": null,
+		"above": "ion",
+		"below": "freedom16"
+	},
+	{
+		"date": 1729273489,
+		"action": "raised",
+		"name": "lucid_chaos",
+		"to_rank": 277,
+		"from_rank": 280,
+		"above": "catalyze",
+		"below": "jamboree"
+	},
+	{
+		"date": 1729295328,
+		"action": "raised",
+		"name": "triple_six",
+		"to_rank": 597,
+		"from_rank": 654,
+		"above": "aurora",
+		"below": "nemesis"
+	},
+	{
+		"date": 1729631191,
+		"action": "raised",
+		"name": "cicada3302",
+		"to_rank": 889,
+		"from_rank": 900,
+		"above": "allegiance",
+		"below": "ultrasans"
+	},
+	{
+		"date": 1729662239,
+		"action": "raised",
+		"name": "reanimate",
+		"to_rank": 905,
+		"from_rank": 970,
+		"above": "aether_zeptoz",
+		"below": "v_o_l_l_e_y"
 	}
 ]

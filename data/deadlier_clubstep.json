@@ -2,6 +2,13 @@
 	"id": 96314787,
 	"name": "Deadlier Clubstep",
 	"author": 2865869515,
+	"tags": [
+		"2.1",
+		"Long",
+		"Timings",
+		"Cube",
+		"Ship"
+	],
 	"creators": [
 		8572875206,
 		3321233276,
@@ -27,6 +34,12 @@
 		{
 			"user": 7688909842,
 			"link": "https://youtu.be/Sbge2WtaNUk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6626447859,
+			"link": "https://www.youtube.com/watch?v=Hn_Tg-j_nPM",
 			"percent": 100,
 			"hz": 360
 		}

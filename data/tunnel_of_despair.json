@@ -10,5 +10,12 @@
 	"verification": "https://youtu.be/LpS4JREhW98?si=vKEGqACJzfQqDK8A",
 	"percentToQualify": 100,
 	"password": "70623",
-	"records": []
+	"records": [
+		{
+			"user": 1672303194,
+			"link": "https://www.youtube.com/watch?v=RAwfsfu-faQ",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

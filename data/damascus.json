@@ -1,6 +1,13 @@
 {
 	"id": 93339534,
 	"name": "Damascus",
+	"tags": [
+		"2.1",
+		"XXXXL",
+		"Fast-Paced",
+		"Nerve Control",
+		"Overall"
+	],
 	"author": 2636885345,
 	"creators": [
 		6387930071,
@@ -80,6 +87,12 @@
 		{
 			"user": 7775567977,
 			"link": "https://www.youtube.com/watch?v=zLQzyIJP_7U&t=11s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6626447859,
+			"link": "https://www.youtube.com/watch?v=zmsiH3_Ju4g",
 			"percent": 100,
 			"hz": 360
 		}

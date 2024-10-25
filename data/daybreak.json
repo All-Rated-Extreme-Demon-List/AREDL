@@ -1,6 +1,13 @@
 {
 	"id": 61537537,
 	"name": "Daybreak",
+	"tags": [
+		"2.1",
+		"Long",
+		"Timings",
+		"Precision",
+		"Overall"
+	],
 	"author": 1470097511,
 	"creators": [],
 	"verifier": 1103840267,
@@ -220,6 +227,12 @@
 		{
 			"user": 1893724615,
 			"link": "https://youtu.be/FApcUxthhx4?t=715",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3740620269,
+			"link": "https://youtu.be/wyhwmC0tYJM",
 			"percent": 100,
 			"hz": 360
 		}
