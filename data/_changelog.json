@@ -5182,5 +5182,14 @@
 		"from_rank": 740,
 		"above": "cholerix",
 		"below": "vermilion"
+	},
+	{
+		"date": 1729895813,
+		"action": "placed",
+		"name": "maniamatic",
+		"to_rank": 249,
+		"from_rank": null,
+		"above": "sunset_sandstorm",
+		"below": "basil"
 	}
 ]
