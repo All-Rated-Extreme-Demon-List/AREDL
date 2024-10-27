@@ -5200,5 +5200,14 @@
 		"from_rank": 70,
 		"above": "neutra",
 		"below": "destruction_19"
+	},
+	{
+		"date": 1730008829,
+		"action": "lowered",
+		"name": "minusdry",
+		"to_rank": 15,
+		"from_rank": 14,
+		"above": "deimos_itshybrid",
+		"below": "the_lightning_rod"
 	}
 ]
