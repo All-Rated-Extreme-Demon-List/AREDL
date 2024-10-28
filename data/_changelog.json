@@ -5209,5 +5209,14 @@
 		"from_rank": 14,
 		"above": "deimos_itshybrid",
 		"below": "the_lightning_rod"
+	},
+	{
+		"date": 1730136880,
+		"action": "raised",
+		"name": "maths",
+		"to_rank": 895,
+		"from_rank": 942,
+		"above": "vertigo",
+		"below": "aksion"
 	}
 ]
