@@ -5236,5 +5236,14 @@
 		"from_rank": 361,
 		"above": "factory_realm_x",
 		"below": "zaphkiel"
+	},
+	{
+		"date": 1730158374,
+		"action": "raised",
+		"name": "edge_of_the_world",
+		"to_rank": 185,
+		"from_rank": 208,
+		"above": "akira",
+		"below": "requiem"
 	}
 ]
