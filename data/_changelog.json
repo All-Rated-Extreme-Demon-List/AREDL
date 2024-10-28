@@ -5227,5 +5227,14 @@
 		"from_rank": 298,
 		"above": "crystal",
 		"below": "cadrega_city"
+	},
+	{
+		"date": 1730158026,
+		"action": "raised",
+		"name": "power_grid",
+		"to_rank": 303,
+		"from_rank": 361,
+		"above": "factory_realm_x",
+		"below": "zaphkiel"
 	}
 ]
