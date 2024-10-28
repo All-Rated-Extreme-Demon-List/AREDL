@@ -5218,5 +5218,14 @@
 		"from_rank": 942,
 		"above": "vertigo",
 		"below": "aksion"
+	},
+	{
+		"date": 1730157520,
+		"action": "lowered",
+		"name": "stalemate_redux",
+		"to_rank": 300,
+		"from_rank": 298,
+		"above": "crystal",
+		"below": "cadrega_city"
 	}
 ]
