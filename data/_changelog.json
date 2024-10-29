@@ -5245,5 +5245,14 @@
 		"from_rank": 208,
 		"above": "akira",
 		"below": "requiem"
+	},
+	{
+		"date": 1730161522,
+		"action": "lowered",
+		"name": "edge_of_the_world",
+		"to_rank": 191,
+		"from_rank": 185,
+		"above": "random_access_memory",
+		"below": "eternal_moment"
 	}
 ]
