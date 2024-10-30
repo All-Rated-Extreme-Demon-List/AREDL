@@ -5272,5 +5272,14 @@
 		"from_rank": null,
 		"above": "asterios",
 		"below": "bloodlust"
+	},
+	{
+		"date": 1730258486,
+		"action": "raised",
+		"name": "ithacropolix",
+		"to_rank": 146,
+		"from_rank": 151,
+		"above": "atomic_cannon",
+		"below": "pootis_engage_xtreme"
 	}
 ]
