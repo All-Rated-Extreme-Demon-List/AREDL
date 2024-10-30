@@ -5308,5 +5308,14 @@
 		"from_rank": null,
 		"above": "maths",
 		"below": "aksion"
+	},
+	{
+		"date": 1730331676,
+		"action": "lowered",
+		"name": "chub_chub",
+		"to_rank": 809,
+		"from_rank": 730,
+		"above": "hurricane",
+		"below": "party_rock_anthem"
 	}
 ]
