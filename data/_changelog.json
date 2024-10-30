@@ -5281,5 +5281,14 @@
 		"from_rank": 151,
 		"above": "atomic_cannon",
 		"below": "pootis_engage_xtreme"
+	},
+	{
+		"date": 1730263637,
+		"action": "lowered",
+		"name": "lumina",
+		"to_rank": 235,
+		"from_rank": 216,
+		"above": "the_hell_nutz",
+		"below": "silentium_clavas"
 	}
 ]
