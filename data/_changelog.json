@@ -5263,5 +5263,14 @@
 		"from_rank": null,
 		"above": "saryyx_never_clear",
 		"below": "psychopath"
+	},
+	{
+		"date": 1730257336,
+		"action": "placed",
+		"name": "violet_illusion",
+		"to_rank": 122,
+		"from_rank": null,
+		"above": "asterios",
+		"below": "bloodlust"
 	}
 ]
