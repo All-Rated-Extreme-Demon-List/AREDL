@@ -5317,5 +5317,14 @@
 		"from_rank": 730,
 		"above": "hurricane",
 		"below": "party_rock_anthem"
+	},
+	{
+		"date": 1730396459,
+		"action": "raised",
+		"name": "chub_chub",
+		"to_rank": 802,
+		"from_rank": 809,
+		"above": "cerebral_hemorrhage",
+		"below": "painful_playland"
 	}
 ]
