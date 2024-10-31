@@ -5326,5 +5326,14 @@
 		"from_rank": 809,
 		"above": "cerebral_hemorrhage",
 		"below": "painful_playland"
+	},
+	{
+		"date": 1730396613,
+		"action": "raised",
+		"name": "deimos_itshybrid",
+		"to_rank": 15,
+		"from_rank": 16,
+		"above": "minusdry",
+		"below": "the_lightning_rod"
 	}
 ]
