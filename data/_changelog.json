@@ -5335,5 +5335,14 @@
 		"from_rank": 16,
 		"above": "minusdry",
 		"below": "the_lightning_rod"
+	},
+	{
+		"date": 1730399487,
+		"action": "raised",
+		"name": "chub_chub",
+		"to_rank": 769,
+		"from_rank": 802,
+		"above": "ballistic_funk",
+		"below": "ex"
 	}
 ]
