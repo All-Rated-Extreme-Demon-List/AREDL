@@ -2,10 +2,26 @@
 	"id": 96345801,
 	"name": "Violet Illusions",
 	"author": 7954983588,
-	"creators": [7954983588,1201747680],
+	"creators": [
+		7954983588,
+		1201747680
+	],
 	"verifier": 7266933940,
 	"verification": "https://youtu.be/A73-pvewH5I?si=Dcky-JofAUDNNbRl",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 4157628626,
+			"link": "https://youtu.be/yk2mfEQq_DI?si=kj4uMYZmyvaN_nRD",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5730615460,
+			"link": "https://www.youtube.com/watch?v=SMHgUaIfLns&t=1s",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
