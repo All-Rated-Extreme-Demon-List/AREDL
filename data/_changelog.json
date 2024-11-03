@@ -5344,5 +5344,14 @@
 		"from_rank": 802,
 		"above": "ballistic_funk",
 		"below": "ex"
+	},
+	{
+		"date": 1730594493,
+		"action": "lowered",
+		"name": "the_first",
+		"to_rank": 624,
+		"from_rank": 485,
+		"above": "goldcrest_palace",
+		"below": "esencia"
 	}
 ]
