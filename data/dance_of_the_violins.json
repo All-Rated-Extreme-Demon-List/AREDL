@@ -1,7 +1,7 @@
 {
 	"id": 91595507,
 	"name": "Dance of the Violins",
-	"tags":[
+	"tags": [
 		"2.1",
 		"Long",
 		"Precision",
@@ -44,6 +44,12 @@
 		{
 			"user": 5711090524,
 			"link": "https://www.youtube.com/watch?v=Ams4MszN5F0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4037441895,
+			"link": "https://youtu.be/xk0XlpCUwUs",
 			"percent": 100,
 			"hz": 360
 		}
