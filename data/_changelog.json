@@ -5362,5 +5362,14 @@
 		"from_rank": 624,
 		"above": "welcome_to_your_mind",
 		"below": "gridlocked"
+	},
+	{
+		"date": 1730600148,
+		"action": "raised",
+		"name": "atomic_cannon_mk_ii",
+		"to_rank": 90,
+		"from_rank": 99,
+		"above": "cosmic_cyclone",
+		"below": "cognition"
 	}
 ]
