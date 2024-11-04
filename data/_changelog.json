@@ -5389,5 +5389,14 @@
 		"from_rank": 303,
 		"above": "black_flag",
 		"below": "demonicat"
+	},
+	{
+		"date": 1730680096,
+		"action": "placed",
+		"name": "cold_level_go_brrrr",
+		"to_rank": 987,
+		"from_rank": null,
+		"above": "komodo",
+		"below": "memories_iii"
 	}
 ]
