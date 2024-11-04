@@ -5425,5 +5425,14 @@
 		"from_rank": null,
 		"above": "virtual_collapse",
 		"below": "realtered"
+	},
+	{
+		"date": 1730763694,
+		"action": "placed",
+		"name": "this_city_lit",
+		"to_rank": 943,
+		"from_rank": null,
+		"above": "it_back",
+		"below": "dark_odyssey"
 	}
 ]
