@@ -5371,5 +5371,14 @@
 		"from_rank": 99,
 		"above": "cosmic_cyclone",
 		"below": "cognition"
+	},
+	{
+		"date": 1730679639,
+		"action": "placed",
+		"name": "eraser",
+		"to_rank": 1018,
+		"from_rank": null,
+		"above": null,
+		"below": "the_super_hotdog"
 	}
 ]
