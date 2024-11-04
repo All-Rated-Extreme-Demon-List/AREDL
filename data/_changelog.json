@@ -5416,5 +5416,14 @@
 		"from_rank": null,
 		"above": "motor_mogok",
 		"below": "glacial_torrent"
+	},
+	{
+		"date": 1730756661,
+		"action": "placed",
+		"name": "white_album",
+		"to_rank": 1004,
+		"from_rank": null,
+		"above": "virtual_collapse",
+		"below": "realtered"
 	}
 ]
