@@ -5380,5 +5380,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "the_super_hotdog"
+	},
+	{
+		"date": 1730679739,
+		"action": "lowered",
+		"name": "crystal",
+		"to_rank": 323,
+		"from_rank": 303,
+		"above": "black_flag",
+		"below": "demonicat"
 	}
 ]
