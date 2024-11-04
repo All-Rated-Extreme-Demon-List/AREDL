@@ -5398,5 +5398,14 @@
 		"from_rank": null,
 		"above": "komodo",
 		"below": "memories_iii"
+	},
+	{
+		"date": 1730680454,
+		"action": "placed",
+		"name": "dead_of_night",
+		"to_rank": 957,
+		"from_rank": null,
+		"above": "cataclysm",
+		"below": "corrosion"
 	}
 ]
