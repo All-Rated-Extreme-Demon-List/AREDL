@@ -5434,5 +5434,14 @@
 		"from_rank": null,
 		"above": "it_back",
 		"below": "dark_odyssey"
+	},
+	{
+		"date": 1730830761,
+		"action": "raised",
+		"name": "controller",
+		"to_rank": 196,
+		"from_rank": 206,
+		"above": "iris_of_a_puppeteer",
+		"below": "beyond_hell"
 	}
 ]
