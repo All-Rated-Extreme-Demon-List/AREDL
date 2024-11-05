@@ -2,10 +2,25 @@
 	"id": 85242343,
 	"name": "White Album",
 	"author": 1494485132,
-	"creators": [1494485132],
+	"creators": [
+		1494485132
+	],
 	"verifier": 1494485132,
 	"verification": "https://youtu.be/9jpS20kBX4g?si=3AP5Uqy8Dibn-Aif",
 	"percentToQualify": 100,
 	"password": "Free Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 9520406778,
+			"link": "https://youtu.be/0lYmsKw_obE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8296348914,
+			"link": "https://youtu.be/XYZFeV-CwC4?si=dneb6FiPRuftGejw",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
