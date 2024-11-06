@@ -5479,5 +5479,14 @@
 		"from_rank": 122,
 		"above": "nhelv",
 		"below": "ploink"
+	},
+	{
+		"date": 1730925989,
+		"action": "lowered",
+		"name": "backlights",
+		"to_rank": 873,
+		"from_rank": 858,
+		"above": "falling_up",
+		"below": "doradura"
 	}
 ]
