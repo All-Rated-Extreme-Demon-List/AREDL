@@ -5497,5 +5497,14 @@
 		"from_rank": 274,
 		"above": "digital_descent",
 		"below": "bitcrusher"
+	},
+	{
+		"date": 1730926852,
+		"action": "raised",
+		"name": "backlights",
+		"to_rank": 866,
+		"from_rank": 873,
+		"above": "lights_out",
+		"below": "last_station"
 	}
 ]
