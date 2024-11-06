@@ -5461,5 +5461,14 @@
 		"from_rank": null,
 		"above": "skrrah",
 		"below": "firepower_mrlorenzo"
+	},
+	{
+		"date": 1730851636,
+		"action": "placed",
+		"name": "smartish_mode",
+		"to_rank": 931,
+		"from_rank": null,
+		"above": "segfault",
+		"below": "fish_fish_godmode"
 	}
 ]
