@@ -5506,5 +5506,14 @@
 		"from_rank": 873,
 		"above": "lights_out",
 		"below": "last_station"
+	},
+	{
+		"date": 1730929103,
+		"action": "lowered",
+		"name": "violet_illusion",
+		"to_rank": 252,
+		"from_rank": 151,
+		"above": "erebus_boldstep",
+		"below": "sunset_sandstorm"
 	}
 ]
