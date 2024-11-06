@@ -5515,5 +5515,14 @@
 		"from_rank": 151,
 		"above": "erebus_boldstep",
 		"below": "sunset_sandstorm"
+	},
+	{
+		"date": 1730930343,
+		"action": "placed",
+		"name": "red_moon",
+		"to_rank": 887,
+		"from_rank": null,
+		"above": "the_flawless",
+		"below": "polish_alphabet"
 	}
 ]
