@@ -5524,5 +5524,14 @@
 		"from_rank": null,
 		"above": "the_flawless",
 		"below": "polish_alphabet"
+	},
+	{
+		"date": 1730964274,
+		"action": "raised",
+		"name": "climax",
+		"to_rank": 47,
+		"from_rank": 54,
+		"above": "atomic_cannon_mk_iii",
+		"below": "verdant_landscape"
 	}
 ]
