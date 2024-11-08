@@ -5542,5 +5542,14 @@
 		"from_rank": 149,
 		"above": "sigma",
 		"below": "congregation"
+	},
+	{
+		"date": 1731082124,
+		"action": "placed",
+		"name": "twilight_spire",
+		"to_rank": 798,
+		"from_rank": null,
+		"above": "pound_town",
+		"below": "wutend"
 	}
 ]
