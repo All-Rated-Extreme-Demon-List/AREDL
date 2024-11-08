@@ -5551,5 +5551,14 @@
 		"from_rank": null,
 		"above": "pound_town",
 		"below": "wutend"
+	},
+	{
+		"date": 1731086247,
+		"action": "raised",
+		"name": "up_and_down",
+		"to_rank": 551,
+		"from_rank": 630,
+		"above": "azurite_royen",
+		"below": "motor_mogok"
 	}
 ]
