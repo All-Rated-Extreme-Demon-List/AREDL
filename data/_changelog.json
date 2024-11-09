@@ -5641,5 +5641,14 @@
 		"from_rank": null,
 		"above": "dismal_duststorm",
 		"below": "marlboro_reds"
+	},
+	{
+		"date": 1731182918,
+		"action": "raised",
+		"name": "molten_core",
+		"to_rank": 241,
+		"from_rank": 247,
+		"above": "ashes",
+		"below": "nunri"
 	}
 ]
