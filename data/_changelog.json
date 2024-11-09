@@ -5587,5 +5587,14 @@
 		"from_rank": 454,
 		"above": "twilight_coexistence",
 		"below": "masochism"
+	},
+	{
+		"date": 1731174923,
+		"action": "lowered",
+		"name": "yggdrasil",
+		"to_rank": 916,
+		"from_rank": 748,
+		"above": "aether_zeptoz",
+		"below": "reanimate"
 	}
 ]
