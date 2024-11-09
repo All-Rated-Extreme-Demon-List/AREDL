@@ -5578,5 +5578,14 @@
 		"from_rank": 886,
 		"above": "aurorae",
 		"below": "sides_of_my_mind_2p"
+	},
+	{
+		"date": 1731169861,
+		"action": "lowered",
+		"name": "abandoned_planet",
+		"to_rank": 497,
+		"from_rank": 454,
+		"above": "twilight_coexistence",
+		"below": "masochism"
 	}
 ]
