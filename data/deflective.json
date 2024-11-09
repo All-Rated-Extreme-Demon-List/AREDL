@@ -1,7 +1,7 @@
 {
 	"id": 66315180,
 	"name": "Deflective",
-	"tags":[
+	"tags": [
 		"2.1",
 		"XL",
 		"Clicksync",
@@ -308,6 +308,12 @@
 		{
 			"user": 3261704919,
 			"link": "https://youtu.be/vFAYmrnlR10",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6361250397,
+			"link": "https://www.youtube.com/watch?v=ngp6HXmLVGU",
 			"percent": 100,
 			"hz": 360
 		}
