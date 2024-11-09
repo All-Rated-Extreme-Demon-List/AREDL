@@ -5596,5 +5596,14 @@
 		"from_rank": 748,
 		"above": "aether_zeptoz",
 		"below": "reanimate"
+	},
+	{
+		"date": 1731179729,
+		"action": "raised",
+		"name": "ancient_travel",
+		"to_rank": 649,
+		"from_rank": 946,
+		"above": "plasma_pulse_iii",
+		"below": "cytokinesis"
 	}
 ]
