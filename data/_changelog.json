@@ -5605,5 +5605,14 @@
 		"from_rank": 946,
 		"above": "plasma_pulse_iii",
 		"below": "cytokinesis"
+	},
+	{
+		"date": 1731179853,
+		"action": "raised",
+		"name": "hades",
+		"to_rank": 775,
+		"from_rank": 980,
+		"above": "a4ucked_up",
+		"below": "mjolnir"
 	}
 ]
