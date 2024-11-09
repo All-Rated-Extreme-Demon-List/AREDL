@@ -5614,5 +5614,14 @@
 		"from_rank": 980,
 		"above": "a4ucked_up",
 		"below": "mjolnir"
+	},
+	{
+		"date": 1731179943,
+		"action": "placed",
+		"name": "vanish",
+		"to_rank": 839,
+		"from_rank": null,
+		"above": "white_noise",
+		"below": "dreams_take_over"
 	}
 ]
