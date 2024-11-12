@@ -5668,5 +5668,14 @@
 		"from_rank": null,
 		"above": "tunnel_of_despair",
 		"below": "avernus"
+	},
+	{
+		"date": 1731441020,
+		"action": "raised",
+		"name": "escape_room",
+		"to_rank": 107,
+		"from_rank": 108,
+		"above": "ragnarok",
+		"below": "horros_solo"
 	}
 ]
