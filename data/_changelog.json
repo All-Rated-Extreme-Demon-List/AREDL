@@ -5677,5 +5677,14 @@
 		"from_rank": 108,
 		"above": "ragnarok",
 		"below": "horros_solo"
+	},
+	{
+		"date": 1731444349,
+		"action": "placed",
+		"name": "boobawamba",
+		"to_rank": 14,
+		"from_rank": null,
+		"above": "firework",
+		"below": "menace"
 	}
 ]
