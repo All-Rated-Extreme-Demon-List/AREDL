@@ -5659,5 +5659,14 @@
 		"from_rank": 737,
 		"above": "limitless",
 		"below": "u235"
+	},
+	{
+		"date": 1731396196,
+		"action": "placed",
+		"name": "spectre",
+		"to_rank": 6,
+		"from_rank": null,
+		"above": "tunnel_of_despair",
+		"below": "avernus"
 	}
 ]
