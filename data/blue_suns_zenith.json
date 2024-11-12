@@ -16,5 +16,12 @@
 	"verifier": 8893920101,
 	"verification": "https://youtu.be/VDu1O7vwKBg?si=_94OzaM6FjT08Xm8",
 	"percentToQualify": 100,
-	"records": []
+	"records": [
+		{
+			"user": 8122744079,
+			"link": "https://youtu.be/SAe6YVpgvNQ?si=dvglXadgrrvpdp_H",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
