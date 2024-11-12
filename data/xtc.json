@@ -7,5 +7,12 @@
 	"verification": "https://www.youtube.com/watch?v=RMdHvEL3r9M",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 1951133750,
+			"link": "https://youtu.be/-tYZ-t0oSL4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
