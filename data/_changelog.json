@@ -5731,5 +5731,14 @@
 		"from_rank": 216,
 		"above": "digital_descent",
 		"below": "apollo_11"
+	},
+	{
+		"date": 1731627178,
+		"action": "lowered",
+		"name": "tunnel",
+		"to_rank": 471,
+		"from_rank": 418,
+		"above": "team_z",
+		"below": "ithacropolis"
 	}
 ]
