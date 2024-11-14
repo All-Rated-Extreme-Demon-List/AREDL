@@ -5704,5 +5704,14 @@
 		"from_rank": 517,
 		"above": "ninobytte",
 		"below": "monstercat"
+	},
+	{
+		"date": 1731560470,
+		"action": "tolegacy",
+		"name": "eraser",
+		"to_rank": 1035,
+		"from_rank": 1035,
+		"above": "mind_machine",
+		"below": "the_super_hotdog"
 	}
 ]
