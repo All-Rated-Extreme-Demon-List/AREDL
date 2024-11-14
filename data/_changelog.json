@@ -5740,5 +5740,14 @@
 		"from_rank": 418,
 		"above": "team_z",
 		"below": "ithacropolis"
+	},
+	{
+		"date": 1731627376,
+		"action": "lowered",
+		"name": "acropolix",
+		"to_rank": 927,
+		"from_rank": 806,
+		"above": "the_ultimate_demon",
+		"below": "castling"
 	}
 ]
