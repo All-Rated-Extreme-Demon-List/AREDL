@@ -5722,5 +5722,14 @@
 		"from_rank": 836,
 		"above": "aksion",
 		"below": "voided"
+	},
+	{
+		"date": 1731625102,
+		"action": "lowered",
+		"name": "loochiverse",
+		"to_rank": 301,
+		"from_rank": 216,
+		"above": "digital_descent",
+		"below": "apollo_11"
 	}
 ]
