@@ -5713,5 +5713,14 @@
 		"from_rank": 1035,
 		"above": "mind_machine",
 		"below": "the_super_hotdog"
+	},
+	{
+		"date": 1731571903,
+		"action": "lowered",
+		"name": "blacklights",
+		"to_rank": 907,
+		"from_rank": 836,
+		"above": "aksion",
+		"below": "voided"
 	}
 ]
