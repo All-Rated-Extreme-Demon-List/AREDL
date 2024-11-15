@@ -5749,5 +5749,14 @@
 		"from_rank": 806,
 		"above": "the_ultimate_demon",
 		"below": "castling"
+	},
+	{
+		"date": 1731633279,
+		"action": "lowered",
+		"name": "any_percent",
+		"to_rank": 911,
+		"from_rank": 824,
+		"above": "hypersonic",
+		"below": "idol19"
 	}
 ]
