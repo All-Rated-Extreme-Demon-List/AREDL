@@ -5767,5 +5767,14 @@
 		"from_rank": 136,
 		"above": "fog",
 		"below": "citra"
+	},
+	{
+		"date": 1731661311,
+		"action": "lowered",
+		"name": "gewerbix",
+		"to_rank": 549,
+		"from_rank": 525,
+		"above": "astrophobia",
+		"below": "sodium"
 	}
 ]
