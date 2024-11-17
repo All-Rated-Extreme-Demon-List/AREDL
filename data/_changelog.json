@@ -5803,5 +5803,14 @@
 		"from_rank": 754,
 		"above": "cerebral_hemorrhage",
 		"below": "painful_playland"
+	},
+	{
+		"date": 1731836017,
+		"action": "raised",
+		"name": "helios",
+		"to_rank": 932,
+		"from_rank": 977,
+		"above": "hidden_in_the_sand",
+		"below": "devils_disco"
 	}
 ]
