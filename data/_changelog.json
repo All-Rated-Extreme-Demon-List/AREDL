@@ -5812,5 +5812,14 @@
 		"from_rank": 977,
 		"above": "hidden_in_the_sand",
 		"below": "devils_disco"
+	},
+	{
+		"date": 1731871427,
+		"action": "raised",
+		"name": "crackhead_circles",
+		"to_rank": 72,
+		"from_rank": 74,
+		"above": "frost_spirit",
+		"below": "widestep"
 	}
 ]
