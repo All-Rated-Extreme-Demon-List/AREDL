@@ -5821,5 +5821,14 @@
 		"from_rank": 74,
 		"above": "frost_spirit",
 		"below": "widestep"
+	},
+	{
+		"date": 1731884037,
+		"action": "raised",
+		"name": "barbarosfinalefinale",
+		"to_rank": 129,
+		"from_rank": 134,
+		"above": "twilight",
+		"below": "terminux"
 	}
 ]
