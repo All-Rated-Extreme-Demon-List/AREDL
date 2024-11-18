@@ -5857,5 +5857,14 @@
 		"from_rank": null,
 		"above": "broken_signal",
 		"below": "dance_til_dawn"
+	},
+	{
+		"date": 1731970050,
+		"action": "lowered",
+		"name": "thunder_alphabet",
+		"to_rank": 926,
+		"from_rank": 822,
+		"above": "daybreak",
+		"below": "aether_zeptoz"
 	}
 ]
