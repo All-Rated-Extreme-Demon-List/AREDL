@@ -5893,5 +5893,14 @@
 		"from_rank": 795,
 		"above": "miscellaneous_memory",
 		"below": "explosion"
+	},
+	{
+		"date": 1731970858,
+		"action": "lowered",
+		"name": "the_tears_beneath",
+		"to_rank": 917,
+		"from_rank": 829,
+		"above": "frenzy",
+		"below": "explosion"
 	}
 ]
