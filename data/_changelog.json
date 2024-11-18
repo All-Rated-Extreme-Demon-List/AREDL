@@ -5839,5 +5839,14 @@
 		"from_rank": 663,
 		"above": "recrystallize",
 		"below": "torsion"
+	},
+	{
+		"date": 1731964473,
+		"action": "placed",
+		"name": "vertigo_notlevo",
+		"to_rank": 567,
+		"from_rank": null,
+		"above": "helix",
+		"below": "atmarbl"
 	}
 ]
