@@ -5902,5 +5902,14 @@
 		"from_rank": 829,
 		"above": "frenzy",
 		"below": "explosion"
+	},
+	{
+		"date": 1731971431,
+		"action": "placed",
+		"name": "linugi",
+		"to_rank": 338,
+		"from_rank": null,
+		"above": "quantum_processing",
+		"below": "luxtra"
 	}
 ]
