@@ -5875,5 +5875,14 @@
 		"from_rank": 828,
 		"above": "light_travel",
 		"below": "incipient"
+	},
+	{
+		"date": 1731970663,
+		"action": "lowered",
+		"name": "empanadas_fugaces",
+		"to_rank": 939,
+		"from_rank": 830,
+		"above": "booh",
+		"below": "unknown_civilization"
 	}
 ]
