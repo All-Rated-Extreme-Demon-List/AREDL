@@ -5830,5 +5830,14 @@
 		"from_rank": 134,
 		"above": "twilight",
 		"below": "terminux"
+	},
+	{
+		"date": 1731962704,
+		"action": "lowered",
+		"name": "no_ember",
+		"to_rank": 709,
+		"from_rank": 663,
+		"above": "recrystallize",
+		"below": "torsion"
 	}
 ]
