@@ -5866,5 +5866,14 @@
 		"from_rank": 822,
 		"above": "daybreak",
 		"below": "aether_zeptoz"
+	},
+	{
+		"date": 1731970513,
+		"action": "lowered",
+		"name": "uplink",
+		"to_rank": 917,
+		"from_rank": 828,
+		"above": "light_travel",
+		"below": "incipient"
 	}
 ]
