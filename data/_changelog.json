@@ -5884,5 +5884,14 @@
 		"from_rank": 830,
 		"above": "booh",
 		"below": "unknown_civilization"
+	},
+	{
+		"date": 1731970749,
+		"action": "lowered",
+		"name": "frenzy",
+		"to_rank": 918,
+		"from_rank": 795,
+		"above": "miscellaneous_memory",
+		"below": "explosion"
 	}
 ]
