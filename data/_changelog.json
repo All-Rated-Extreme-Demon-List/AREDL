@@ -5938,5 +5938,14 @@
 		"from_rank": 432,
 		"above": "crystal",
 		"below": "demonicat"
+	},
+	{
+		"date": 1732032854,
+		"action": "raised",
+		"name": "hopping_over_puddles",
+		"to_rank": 782,
+		"from_rank": 813,
+		"above": "a4ucked_up",
+		"below": "hades"
 	}
 ]
