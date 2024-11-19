@@ -5929,5 +5929,14 @@
 		"from_rank": null,
 		"above": "tartarus",
 		"below": "midnight"
+	},
+	{
+		"date": 1732032816,
+		"action": "raised",
+		"name": "netzwerk",
+		"to_rank": 327,
+		"from_rank": 432,
+		"above": "crystal",
+		"below": "demonicat"
 	}
 ]
