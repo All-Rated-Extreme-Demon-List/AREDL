@@ -6019,5 +6019,14 @@
 		"from_rank": 723,
 		"above": "oxi",
 		"below": "retention"
+	},
+	{
+		"date": 1732062751,
+		"action": "raised",
+		"name": "explosion",
+		"to_rank": 880,
+		"from_rank": 921,
+		"above": "doradura",
+		"below": "dark_rivalry"
 	}
 ]
