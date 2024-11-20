@@ -6055,5 +6055,14 @@
 		"from_rank": 697,
 		"above": "overtime",
 		"below": "kingslayer"
+	},
+	{
+		"date": 1732063093,
+		"action": "lowered",
+		"name": "hydratic",
+		"to_rank": 926,
+		"from_rank": 855,
+		"above": "reanimate",
+		"below": "v_o_l_l_e_y"
 	}
 ]
