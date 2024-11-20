@@ -6073,5 +6073,14 @@
 		"from_rank": 695,
 		"above": "cupid",
 		"below": "recrystallize"
+	},
+	{
+		"date": 1732063309,
+		"action": "lowered",
+		"name": "nightlights",
+		"to_rank": 964,
+		"from_rank": 841,
+		"above": "dreamer",
+		"below": "place"
 	}
 ]
