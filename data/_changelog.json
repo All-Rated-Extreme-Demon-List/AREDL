@@ -6172,5 +6172,14 @@
 		"from_rank": null,
 		"above": "kub",
 		"below": "aurorae"
+	},
+	{
+		"date": 1732138970,
+		"action": "lowered",
+		"name": "matilda_the_machine",
+		"to_rank": 928,
+		"from_rank": 805,
+		"above": "doop",
+		"below": "yggdrasil"
 	}
 ]
