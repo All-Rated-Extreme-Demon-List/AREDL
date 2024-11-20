@@ -6010,5 +6010,14 @@
 		"from_rank": 954,
 		"above": "backlights",
 		"below": "last_station"
+	},
+	{
+		"date": 1732062586,
+		"action": "lowered",
+		"name": "enlightened_memories",
+		"to_rank": 863,
+		"from_rank": 723,
+		"above": "oxi",
+		"below": "retention"
 	}
 ]
