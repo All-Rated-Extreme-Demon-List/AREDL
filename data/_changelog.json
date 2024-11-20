@@ -6037,5 +6037,14 @@
 		"from_rank": 704,
 		"above": "doradura",
 		"below": "explosion"
+	},
+	{
+		"date": 1732062918,
+		"action": "raised",
+		"name": "vermilion",
+		"to_rank": 711,
+		"from_rank": 891,
+		"above": "no_ember",
+		"below": "torsion"
 	}
 ]
