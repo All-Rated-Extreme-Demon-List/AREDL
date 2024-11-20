@@ -5992,5 +5992,14 @@
 		"from_rank": 960,
 		"above": "happy_pills",
 		"below": "destinies"
+	},
+	{
+		"date": 1732062461,
+		"action": "lowered",
+		"name": "cloudscape",
+		"to_rank": 843,
+		"from_rank": 727,
+		"above": "quadratic_function",
+		"below": "nightlights"
 	}
 ]
