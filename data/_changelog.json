@@ -6154,5 +6154,14 @@
 		"from_rank": 755,
 		"above": "kub",
 		"below": "gangimari"
+	},
+	{
+		"date": 1732064236,
+		"action": "lowered",
+		"name": "inflammable_infusion",
+		"to_rank": 846,
+		"from_rank": 742,
+		"above": "sky_tech",
+		"below": "psychotic"
 	}
 ]
