@@ -5974,5 +5974,14 @@
 		"from_rank": 713,
 		"above": "cupid",
 		"below": "pumped_up_kicks"
+	},
+	{
+		"date": 1732062161,
+		"action": "raised",
+		"name": "doop",
+		"to_rank": 927,
+		"from_rank": 980,
+		"above": "aether_zeptoz",
+		"below": "yggdrasil"
 	}
 ]
