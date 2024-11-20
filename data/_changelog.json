@@ -6109,5 +6109,14 @@
 		"from_rank": 817,
 		"above": "myocardia",
 		"below": "metalic_destruction"
+	},
+	{
+		"date": 1732063538,
+		"action": "lowered",
+		"name": "firepower_mrlorenzo",
+		"to_rank": 869,
+		"from_rank": 733,
+		"above": "backlights",
+		"below": "wintertime"
 	}
 ]
