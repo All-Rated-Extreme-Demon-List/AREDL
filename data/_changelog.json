@@ -6028,5 +6028,14 @@
 		"from_rank": 921,
 		"above": "doradura",
 		"below": "dark_rivalry"
+	},
+	{
+		"date": 1732062783,
+		"action": "lowered",
+		"name": "unearthed",
+		"to_rank": 880,
+		"from_rank": 704,
+		"above": "doradura",
+		"below": "explosion"
 	}
 ]
