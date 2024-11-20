@@ -6145,5 +6145,14 @@
 		"from_rank": 755,
 		"above": "emptiness",
 		"below": "solstice"
+	},
+	{
+		"date": 1732064094,
+		"action": "lowered",
+		"name": "aurorae",
+		"to_rank": 843,
+		"from_rank": 755,
+		"above": "kub",
+		"below": "gangimari"
 	}
 ]
