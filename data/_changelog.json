@@ -6064,5 +6064,14 @@
 		"from_rank": 855,
 		"above": "reanimate",
 		"below": "v_o_l_l_e_y"
+	},
+	{
+		"date": 1732063137,
+		"action": "lowered",
+		"name": "future_demon_machine",
+		"to_rank": 788,
+		"from_rank": 695,
+		"above": "cupid",
+		"below": "recrystallize"
 	}
 ]
