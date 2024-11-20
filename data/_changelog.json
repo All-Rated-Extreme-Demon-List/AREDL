@@ -6127,5 +6127,14 @@
 		"from_rank": 789,
 		"above": "halberd",
 		"below": "swirling_serenity"
+	},
+	{
+		"date": 1732063698,
+		"action": "lowered",
+		"name": "esencia",
+		"to_rank": 731,
+		"from_rank": 632,
+		"above": "totem",
+		"below": "neon_mixtape_tour"
 	}
 ]
