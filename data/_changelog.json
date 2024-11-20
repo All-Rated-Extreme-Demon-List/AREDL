@@ -6046,5 +6046,14 @@
 		"from_rank": 891,
 		"above": "no_ember",
 		"below": "torsion"
+	},
+	{
+		"date": 1732063001,
+		"action": "raised",
+		"name": "mecha_mayhem",
+		"to_rank": 635,
+		"from_rank": 697,
+		"above": "overtime",
+		"below": "kingslayer"
 	}
 ]
