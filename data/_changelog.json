@@ -6208,5 +6208,14 @@
 		"from_rank": 587,
 		"above": "pitfall_caverns",
 		"below": "emptiness"
+	},
+	{
+		"date": 1732152628,
+		"action": "lowered",
+		"name": "into_petals",
+		"to_rank": 635,
+		"from_rank": 583,
+		"above": "deflective",
+		"below": "pure_vale"
 	}
 ]
