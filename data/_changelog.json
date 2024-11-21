@@ -6181,5 +6181,14 @@
 		"from_rank": 805,
 		"above": "doop",
 		"below": "yggdrasil"
+	},
+	{
+		"date": 1732152194,
+		"action": "lowered",
+		"name": "ethereal_entity",
+		"to_rank": 657,
+		"from_rank": 599,
+		"above": "novalis",
+		"below": "plasma_pulse_iii"
 	}
 ]
