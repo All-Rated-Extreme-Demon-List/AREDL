@@ -6235,5 +6235,14 @@
 		"from_rank": 578,
 		"above": "pitfall_caverns",
 		"below": "metal_requiem"
+	},
+	{
+		"date": 1732152975,
+		"action": "lowered",
+		"name": "entropy",
+		"to_rank": 682,
+		"from_rank": 549,
+		"above": "codependence_2p",
+		"below": "limitless"
 	}
 ]
