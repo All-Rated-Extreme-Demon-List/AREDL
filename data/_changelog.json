@@ -6253,5 +6253,14 @@
 		"from_rank": 536,
 		"above": "innards",
 		"below": "annihilation_nation"
+	},
+	{
+		"date": 1732153208,
+		"action": "raised",
+		"name": "poltergeist_reborn",
+		"to_rank": 494,
+		"from_rank": 537,
+		"above": "untitled",
+		"below": "tenth_circle"
 	}
 ]
