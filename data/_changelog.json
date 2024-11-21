@@ -6226,5 +6226,14 @@
 		"from_rank": 582,
 		"above": "the_hell_bird",
 		"below": "faulty_code"
+	},
+	{
+		"date": 1732152893,
+		"action": "lowered",
+		"name": "heavens_door",
+		"to_rank": 661,
+		"from_rank": 578,
+		"above": "pitfall_caverns",
+		"below": "metal_requiem"
 	}
 ]
