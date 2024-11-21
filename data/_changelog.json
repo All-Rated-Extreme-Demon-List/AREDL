@@ -6217,5 +6217,14 @@
 		"from_rank": 583,
 		"above": "deflective",
 		"below": "pure_vale"
+	},
+	{
+		"date": 1732152786,
+		"action": "raised",
+		"name": "the_hell_factory",
+		"to_rank": 580,
+		"from_rank": 582,
+		"above": "the_hell_bird",
+		"below": "faulty_code"
 	}
 ]
