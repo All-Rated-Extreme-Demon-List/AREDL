@@ -6190,5 +6190,14 @@
 		"from_rank": 599,
 		"above": "novalis",
 		"below": "plasma_pulse_iii"
+	},
+	{
+		"date": 1732152342,
+		"action": "lowered",
+		"name": "shatter",
+		"to_rank": 676,
+		"from_rank": 588,
+		"above": "niflheim",
+		"below": "maybe_possibly_thing"
 	}
 ]
