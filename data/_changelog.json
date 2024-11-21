@@ -6262,5 +6262,14 @@
 		"from_rank": 537,
 		"above": "untitled",
 		"below": "tenth_circle"
+	},
+	{
+		"date": 1732197440,
+		"action": "placed",
+		"name": "judgement_knights",
+		"to_rank": 58,
+		"from_rank": null,
+		"above": "trueffet",
+		"below": "terminal_rampancy"
 	}
 ]
