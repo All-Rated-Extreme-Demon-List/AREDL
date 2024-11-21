@@ -6199,5 +6199,14 @@
 		"from_rank": 588,
 		"above": "niflheim",
 		"below": "maybe_possibly_thing"
+	},
+	{
+		"date": 1732152461,
+		"action": "lowered",
+		"name": "metal_requiem",
+		"to_rank": 661,
+		"from_rank": 587,
+		"above": "pitfall_caverns",
+		"below": "emptiness"
 	}
 ]
