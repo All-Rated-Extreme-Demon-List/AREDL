@@ -6271,5 +6271,14 @@
 		"from_rank": null,
 		"above": "trueffet",
 		"below": "terminal_rampancy"
+	},
+	{
+		"date": 1732239898,
+		"action": "raised",
+		"name": "friday_vortex",
+		"to_rank": 257,
+		"from_rank": 273,
+		"above": "erebus_boldstep",
+		"below": "violet_illusion"
 	}
 ]
