@@ -50,6 +50,9 @@ const mobile_list_expanded = ref(true)
           <p>
             6. This should be obvious, but your record may not be completed with any disallowed mods. This information (of what we allow and don't allow) can be found on our website. This rule also applies to having a red/blue cheat indicator, obvious hacked completions, and bots.
           </p>
+          <p>
+            7. Globed 2P Completions will be allowed on AREDL, however, your video need to have both POVs, or you need to submit your friends video as "raw footage". Globed deathlink will not be allowed, since Globed 2P level completions must have dual physics.
+          </p>
           <h3>> Why was my record denied?</h3>
           <p>
             If your record was denied, please check the following:
