@@ -6289,5 +6289,14 @@
 		"from_rank": 272,
 		"above": "furious_flames",
 		"below": "pandemonium_yakimaru"
+	},
+	{
+		"date": 1732403705,
+		"action": "lowered",
+		"name": "hyperchaos",
+		"to_rank": 400,
+		"from_rank": 399,
+		"above": "based_gang_solo",
+		"below": "furious_flames"
 	}
 ]
