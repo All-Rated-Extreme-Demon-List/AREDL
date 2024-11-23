@@ -6280,5 +6280,14 @@
 		"from_rank": 273,
 		"above": "erebus_boldstep",
 		"below": "violet_illusion"
+	},
+	{
+		"date": 1732397708,
+		"action": "lowered",
+		"name": "hyperchaos",
+		"to_rank": 399,
+		"from_rank": 272,
+		"above": "furious_flames",
+		"below": "pandemonium_yakimaru"
 	}
 ]
