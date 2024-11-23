@@ -7,5 +7,12 @@
 	"verification": "https://youtu.be/NRx2uEch5iE?si=MrdT3ioLHyz89697",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 6384234074,
+			"link": "https://youtu.be/YpfZNFgH0eI",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
