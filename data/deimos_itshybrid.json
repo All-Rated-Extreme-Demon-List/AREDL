@@ -1,7 +1,7 @@
 {
 	"id": 93091893,
 	"name": "Deimos (ItsHybrid)",
-	"tags":[
+	"tags": [
 		"2.1",
 		"XL",
 		"Timings",
@@ -65,6 +65,12 @@
 		{
 			"user": 5968711307,
 			"link": "https://www.youtube.com/watch?v=N5efNNp1WMc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7859110537,
+			"link": "https://www.youtube.com/watch?v=DOMEZRSjx18",
 			"percent": 100,
 			"hz": 360
 		}

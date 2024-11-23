@@ -6262,5 +6262,23 @@
 		"from_rank": 537,
 		"above": "untitled",
 		"below": "tenth_circle"
+	},
+	{
+		"date": 1732197440,
+		"action": "placed",
+		"name": "judgement_knights",
+		"to_rank": 58,
+		"from_rank": null,
+		"above": "trueffet",
+		"below": "terminal_rampancy"
+	},
+	{
+		"date": 1732239898,
+		"action": "raised",
+		"name": "friday_vortex",
+		"to_rank": 257,
+		"from_rank": 273,
+		"above": "erebus_boldstep",
+		"below": "violet_illusion"
 	}
 ]
