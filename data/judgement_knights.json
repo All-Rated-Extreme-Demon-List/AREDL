@@ -2,10 +2,23 @@
 	"id": 110913375,
 	"name": "Judgement Knights",
 	"author": 6194674878,
-	"creators": [2541669760,6194674878,6722339957,1894673170,1330510017],
+	"creators": [
+		2541669760,
+		6194674878,
+		6722339957,
+		1894673170,
+		1330510017
+	],
 	"verifier": 2541669760,
 	"verification": "https://youtu.be/tYIjpFU021M?si=YKeA2P2k0kaQAiAy",
 	"percentToQualify": 100,
 	"password": "Free Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 6804914118,
+			"link": "https://youtu.be/F47YOz7BJM0?si=AGx7PctcVIm-r4GS",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
