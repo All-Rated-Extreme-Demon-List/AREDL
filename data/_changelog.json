@@ -6298,5 +6298,14 @@
 		"from_rank": 399,
 		"above": "based_gang_solo",
 		"below": "furious_flames"
+	},
+	{
+		"date": 1732411734,
+		"action": "raised",
+		"name": "night_rider",
+		"to_rank": 345,
+		"from_rank": 355,
+		"above": "aesthetic",
+		"below": "belloq"
 	}
 ]
