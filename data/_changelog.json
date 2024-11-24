@@ -6334,5 +6334,14 @@
 		"from_rank": null,
 		"above": "conclusion",
 		"below": "renevant"
+	},
+	{
+		"date": 1732486162,
+		"action": "raised",
+		"name": "midnight",
+		"to_rank": 36,
+		"from_rank": 41,
+		"above": "arcturus",
+		"below": "saryyx_never_clear"
 	}
 ]
