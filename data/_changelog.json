@@ -6379,5 +6379,14 @@
 		"from_rank": 365,
 		"above": "occult_outcry",
 		"below": "low_death"
+	},
+	{
+		"date": 1732555475,
+		"action": "placed",
+		"name": "karasu",
+		"to_rank": 633,
+		"from_rank": null,
+		"above": "penultimate_phase",
+		"below": "wavebreaker"
 	}
 ]
