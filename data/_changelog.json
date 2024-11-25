@@ -6370,5 +6370,14 @@
 		"from_rank": 169,
 		"above": "arctic_lights",
 		"below": "the_yandere"
+	},
+	{
+		"date": 1732554712,
+		"action": "raised",
+		"name": "nightmare_chasm",
+		"to_rank": 346,
+		"from_rank": 365,
+		"above": "occult_outcry",
+		"below": "low_death"
 	}
 ]
