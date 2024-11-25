@@ -6361,5 +6361,14 @@
 		"from_rank": null,
 		"above": "the_yandere",
 		"below": "th3dev0n"
+	},
+	{
+		"date": 1732501836,
+		"action": "lowered",
+		"name": "scrubbabingo_force",
+		"to_rank": 170,
+		"from_rank": 169,
+		"above": "arctic_lights",
+		"below": "the_yandere"
 	}
 ]
