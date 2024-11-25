@@ -6388,5 +6388,14 @@
 		"from_rank": null,
 		"above": "penultimate_phase",
 		"below": "wavebreaker"
+	},
+	{
+		"date": 1732555864,
+		"action": "placed",
+		"name": "rigel",
+		"to_rank": 101,
+		"from_rank": null,
+		"above": "lucid_nightmares",
+		"below": "sary_never_clear"
 	}
 ]
