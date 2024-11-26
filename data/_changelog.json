@@ -6406,5 +6406,14 @@
 		"from_rank": 266,
 		"above": "springtime",
 		"below": "factory_realm_x"
+	},
+	{
+		"date": 1732586542,
+		"action": "lowered",
+		"name": "heart_attack",
+		"to_rank": 878,
+		"from_rank": 798,
+		"above": "dismal_duststorm",
+		"below": "xtc"
 	}
 ]
