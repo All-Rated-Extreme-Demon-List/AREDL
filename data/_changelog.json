@@ -6424,5 +6424,14 @@
 		"from_rank": 700,
 		"above": "idols",
 		"below": "bloodbath"
+	},
+	{
+		"date": 1732677047,
+		"action": "lowered",
+		"name": "dubkore_x",
+		"to_rank": 286,
+		"from_rank": 270,
+		"above": "confusion",
+		"below": "dreams"
 	}
 ]
