@@ -6415,5 +6415,14 @@
 		"from_rank": 798,
 		"above": "dismal_duststorm",
 		"below": "xtc"
+	},
+	{
+		"date": 1732676850,
+		"action": "raised",
+		"name": "eon",
+		"to_rank": 575,
+		"from_rank": 700,
+		"above": "idols",
+		"below": "bloodbath"
 	}
 ]
