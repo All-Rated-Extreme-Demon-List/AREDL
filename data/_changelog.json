@@ -6442,5 +6442,14 @@
 		"from_rank": 467,
 		"above": "gentlemens_clique_solo",
 		"below": "sticks_for_bones"
+	},
+	{
+		"date": 1732745685,
+		"action": "lowered",
+		"name": "superhatemeworld",
+		"to_rank": 86,
+		"from_rank": 83,
+		"above": "lithium",
+		"below": "renevant"
 	}
 ]
