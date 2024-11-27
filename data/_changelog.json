@@ -6433,5 +6433,14 @@
 		"from_rank": 270,
 		"above": "confusion",
 		"below": "dreams"
+	},
+	{
+		"date": 1732677086,
+		"action": "raised",
+		"name": "the_hell_zone",
+		"to_rank": 397,
+		"from_rank": 467,
+		"above": "gentlemens_clique_solo",
+		"below": "sticks_for_bones"
 	}
 ]
