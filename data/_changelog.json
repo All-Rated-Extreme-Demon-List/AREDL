@@ -6469,5 +6469,14 @@
 		"from_rank": 458,
 		"above": "subsonic",
 		"below": "devoid"
+	},
+	{
+		"date": 1732904015,
+		"action": "lowered",
+		"name": "amalgam",
+		"to_rank": 108,
+		"from_rank": 98,
+		"above": "ruthless",
+		"below": "akashic_records"
 	}
 ]
