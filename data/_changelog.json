@@ -6496,5 +6496,14 @@
 		"from_rank": 842,
 		"above": "zettabyte",
 		"below": "evil_depths"
+	},
+	{
+		"date": 1732918530,
+		"action": "lowered",
+		"name": "destinies",
+		"to_rank": 842,
+		"from_rank": 833,
+		"above": "cloudscape",
+		"below": "semicolon_3"
 	}
 ]
