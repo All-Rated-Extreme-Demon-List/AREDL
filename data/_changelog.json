@@ -6514,5 +6514,14 @@
 		"from_rank": null,
 		"above": "tartarus",
 		"below": "waterfall"
+	},
+	{
+		"date": 1732924253,
+		"action": "placed",
+		"name": "nabil_let_go",
+		"to_rank": 130,
+		"from_rank": null,
+		"above": "excruciation_chamber",
+		"below": "asterios"
 	}
 ]
