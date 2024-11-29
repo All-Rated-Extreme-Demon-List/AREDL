@@ -6478,5 +6478,14 @@
 		"from_rank": 98,
 		"above": "ruthless",
 		"below": "akashic_records"
+	},
+	{
+		"date": 1732917919,
+		"action": "raised",
+		"name": "destinies",
+		"to_rank": 842,
+		"from_rank": 888,
+		"above": "cloudscape",
+		"below": "semicolon_3"
 	}
 ]
