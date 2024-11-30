@@ -6523,5 +6523,14 @@
 		"from_rank": null,
 		"above": "excruciation_chamber",
 		"below": "asterios"
+	},
+	{
+		"date": 1732936480,
+		"action": "raised",
+		"name": "freedom08",
+		"to_rank": 263,
+		"from_rank": 292,
+		"above": "erebus_boldstep",
+		"below": "friday_vortex"
 	}
 ]
