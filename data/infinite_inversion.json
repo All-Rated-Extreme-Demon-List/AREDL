@@ -2,10 +2,25 @@
 	"id": 102807047,
 	"name": "Infinite Inversion",
 	"author": 3847339310,
-	"creators": [3847339310],
+	"creators": [
+		3847339310
+	],
 	"verifier": 4123636997,
 	"verification": "https://youtu.be/dnyL2pbzmvI?si=LHmGauu0pw66XzlA",
 	"percentToQualify": 100,
 	"password": "Free Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 2488290069,
+			"link": "https://www.youtube.com/watch?v=CytxPMIVLVM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7329038097,
+			"link": "https://youtu.be/zgbkWm2665U?si=NNAUNamXaC3roHRQ",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
