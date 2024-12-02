@@ -6550,5 +6550,14 @@
 		"from_rank": null,
 		"above": "zurb",
 		"below": "triadic_trials"
+	},
+	{
+		"date": 1733174971,
+		"action": "lowered",
+		"name": "berserk",
+		"to_rank": 390,
+		"from_rank": 388,
+		"above": "prisma",
+		"below": "poocu4ever"
 	}
 ]
