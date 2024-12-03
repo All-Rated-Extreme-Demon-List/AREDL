@@ -6613,5 +6613,14 @@
 		"from_rank": 532,
 		"above": "the_hell_bird",
 		"below": "the_hell_factory"
+	},
+	{
+		"date": 1733214393,
+		"action": "lowered",
+		"name": "zurb",
+		"to_rank": 621,
+		"from_rank": 538,
+		"above": "event_horizon",
+		"below": "universe_on_fire"
 	}
 ]
