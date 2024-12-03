@@ -6568,5 +6568,14 @@
 		"from_rank": null,
 		"above": "mind_control",
 		"below": "missing_benefits"
+	},
+	{
+		"date": 1733194895,
+		"action": "placed",
+		"name": "ascension",
+		"to_rank": 319,
+		"from_rank": null,
+		"above": "abel",
+		"below": "rainbow_girl"
 	}
 ]
