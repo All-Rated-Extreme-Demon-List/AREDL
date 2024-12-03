@@ -2,10 +2,19 @@
 	"id": 107641215,
 	"name": "Project alter",
 	"author": 8915394949,
-	"creators": [8915394949],
+	"creators": [
+		8915394949
+	],
 	"verifier": 8915394949,
 	"verification": "https://youtu.be/KkY8qFj_EUg?si=WQ-eeidAwGZvcIMz",
 	"percentToQualify": 100,
 	"password": "Free Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 2488290069,
+			"link": "https://www.youtube.com/watch?v=dRNa20ShVP8",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
