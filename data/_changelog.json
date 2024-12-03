@@ -6631,5 +6631,14 @@
 		"from_rank": null,
 		"above": "falling_up",
 		"below": "doradura"
+	},
+	{
+		"date": 1733224600,
+		"action": "raised",
+		"name": "critical_heat",
+		"to_rank": 60,
+		"from_rank": 62,
+		"above": "trueffet",
+		"below": "judgement_knights"
 	}
 ]
