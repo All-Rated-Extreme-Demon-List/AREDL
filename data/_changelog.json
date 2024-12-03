@@ -6586,5 +6586,14 @@
 		"from_rank": null,
 		"above": "fabrication",
 		"below": "black_flag"
+	},
+	{
+		"date": 1733195761,
+		"action": "placed",
+		"name": "lovestruck",
+		"to_rank": 442,
+		"from_rank": null,
+		"above": "the_cellar_path",
+		"below": "anoxysm"
 	}
 ]
