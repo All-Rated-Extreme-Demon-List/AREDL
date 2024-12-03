@@ -6559,5 +6559,14 @@
 		"from_rank": 388,
 		"above": "prisma",
 		"below": "poocu4ever"
+	},
+	{
+		"date": 1733194642,
+		"action": "placed",
+		"name": "agony",
+		"to_rank": 360,
+		"from_rank": null,
+		"above": "mind_control",
+		"below": "missing_benefits"
 	}
 ]
