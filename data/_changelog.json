@@ -6595,5 +6595,14 @@
 		"from_rank": null,
 		"above": "the_cellar_path",
 		"below": "anoxysm"
+	},
+	{
+		"date": 1733196397,
+		"action": "raised",
+		"name": "free_for_all_2",
+		"to_rank": 382,
+		"from_rank": 459,
+		"above": "spectrum_rave",
+		"below": "bausha_vortex"
 	}
 ]
