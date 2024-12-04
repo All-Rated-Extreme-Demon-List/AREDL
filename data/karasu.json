@@ -2,10 +2,46 @@
 	"id": 48229256,
 	"name": "Karasu",
 	"author": 9547203723,
-	"creators": [9547203723,2579020491,9869738418,3668493848,9340523483,6881511456,8277686559,8923369386,1637528663,7192914433],
+	"creators": [
+		9547203723,
+		2579020491,
+		9869738418,
+		3668493848,
+		9340523483,
+		6881511456,
+		8277686559,
+		8923369386,
+		1637528663,
+		7192914433
+	],
 	"verifier": 9547203723,
 	"verification": "https://youtu.be/Uw5P8SwFGsk?si=PdMbGrmlZ4O7_Kv_",
 	"percentToQualify": 100,
 	"password": "524444",
-	"records" : []
+	"records": [
+		{
+			"user": 9895938056,
+			"link": "https://www.youtube.com/watch?v=oKDHC1rsmyc&t=7s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5673369213,
+			"link": "https://youtu.be/xkped92Njfk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3326970231,
+			"link": "https://youtu.be/fIUH0fXRTsA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1938127492,
+			"link": "https://youtu.be/ZKnv3wZCcdQ?si=Fm27OI7zyA4Lilhi",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
