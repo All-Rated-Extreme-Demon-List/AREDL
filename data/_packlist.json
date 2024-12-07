@@ -87,7 +87,7 @@
         "name": "20 Letter Pack I",
         "levels": [
             "wacky_mcwhackface_v2",
-            "cerebral_hemorrhage",
+            "enlightened_memories",
             "ZOOOOOOOOOOOOOOOOOOM",
             "miscellaneous_memory",
             "unknown_civilization"
@@ -216,6 +216,7 @@
         "name": "Anime Pack I",
         "levels": [
             "plus_ultra",
+            "evangelion",
             "overlord",
             "niwa"
         ],
@@ -334,7 +335,7 @@
         "levels": [
             "hypersonic",
             "forbidden_isle",
-            "make_it_drop"
+            "robotchief_exposal"
         ],
         "colour": "linear-gradient(45deg, rgba(0,190,255,1) 0%, rgba(255,141,231,1) 50%, rgba(255,0,0,1) 100%)"
     },
@@ -342,7 +343,7 @@
         "name": "Beginner Pack IV",
         "levels": [
             "blacklights",
-            "reverence",
+            "allegiance",
             "glisten"
         ],
         "colour": "linear-gradient(45deg, rgba(0,190,255,1) 0%, rgba(255,141,231,1) 50%, rgba(255,0,0,1) 100%)"
@@ -639,6 +640,7 @@
         "levels": [
             "ion",
             "carbon",
+            "u235",
             "sodium",
             "iridium"
         ],
@@ -1017,18 +1019,9 @@
         "colour": "linear-gradient(144deg, rgba(253,141,255,1) 0%, rgba(255,82,82,1) 100%)"
     },
     {
-        "name": "Lunar Pack",
-        "levels": [
-            "to_the_blue_moon",
-            "the_moon_below",
-            "stellaluna"
-        ],
-        "colour": "linear-gradient(144deg, rgba(0,11,255,1) 0%, rgba(0,0,0,1) 100%)"
-    },
-    {
         "name": "Lovely Pack",
         "levels": [
-            "lovel",
+            "ilovecyan",
             "lost_love",
             "cupid"
         ],
@@ -1070,7 +1063,7 @@
     {
         "name": "Lyric Pack IV",
         "levels": [
-            "low_death",
+            "ikaros",
             "removed_submission",
             "untitled",
             "explicit",
@@ -1082,7 +1075,7 @@
         "name": "Lyric Pack V",
         "levels": [
             "xo",
-            "ikaros",
+            "low_death",
             "misfire",
             "turn_the_lights_off",
             "surge_of_the_shield"
@@ -1094,6 +1087,7 @@
         "levels": [
             "low_death",
             "idols",
+            "free_for_all_2",
             "idol19"
         ],
         "colour": "linear-gradient(145deg, rgba(159,0,0,1) 0%, rgba(255,210,240,1) 100%)"
@@ -1179,11 +1173,18 @@
     {
         "name": "Montage Pack",
         "levels": [
-            "glitched_memories",
-            "supreme_demon_mix",
             "idols",
             "the_ultimate_demon",
             "memories_iii"
+        ],
+        "colour": "linear-gradient(125deg, rgba(255,255,255,1) 0%, rgba(255,106,106,1) 30%, rgba(117,225,255,1) 50%, rgba(99,255,111,1) 70%, rgba(2,0,36,1) 100%)"
+    },
+        {
+        "name": "Montage Pack II",
+        "levels": [
+            "glitched_memories",
+            "supreme_demon_mix",
+            "ouroboros_startpos_2"
         ],
         "colour": "linear-gradient(125deg, rgba(255,255,255,1) 0%, rgba(255,106,106,1) 30%, rgba(117,225,255,1) 50%, rgba(99,255,111,1) 70%, rgba(2,0,36,1) 100%)"
     },
@@ -1276,7 +1277,7 @@
     {
         "name": "Norse Mythology Pack",
         "levels": [
-            "ragnarok",
+            "yggdrasil",
             "niflheim",
             "mjolnir",
             "niflhel"
@@ -1430,7 +1431,7 @@
     {
         "name": "RGB at Home",
         "levels": [
-            "the_flawless",
+            "karasu",
             "erebus_platnuu",
             "auditory_breaker"
         ],
@@ -1747,7 +1748,7 @@
         "levels": [
             "the_hell_nutz",
             "the_hell_bird",
-            "the_hell_factory"
+            "the_hell_tribute"
         ],
         "colour": "linear-gradient(90deg, rgba(102,5,5,1) 0%, rgba(0,0,0,1) 50%, rgba(102,5,5,1) 100%)"
     },
@@ -2014,15 +2015,5 @@
             "trollmachine"
         ],
         "colour": "radial-gradient(circle, rgba(255,47,238,1) 0%, rgba(0,0,0,1) 100%)"
-    },
-    {
-        "name": "Former Owner Pack",
-        "levels": [
-            "audio_expulsion",
-            "supercharged",
-            "glide",
-            "universe_on_fire"
-        ],
-        "colour": "radial-gradient(circle, rgba(157,14,68,1) 0%, rgba(0,0,0,1) 100%)"
     }
 ]
