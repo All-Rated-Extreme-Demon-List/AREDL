@@ -6658,5 +6658,14 @@
 		"from_rank": null,
 		"above": "fishe",
 		"below": "prismatic"
+	},
+	{
+		"date": 1733594758,
+		"action": "placed",
+		"name": "clarity",
+		"to_rank": 993,
+		"from_rank": null,
+		"above": "corrosion",
+		"below": "firepower_kapycta999"
 	}
 ]
