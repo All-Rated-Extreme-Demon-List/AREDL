@@ -212,6 +212,17 @@
         ],
         "colour": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,115,121,1) 49%, rgba(0,142,255,1) 100%)"
     },
+        {
+        "name": "American Pack",
+        "levels": [
+            "freedom08",
+            "apollo_11",
+            "pupmped_up_kicks",
+            "shotgun",
+            "the_super_hotdog"
+        ],
+        "colour": "linear-gradient(90deg, rgba(255,0,0,1) 9%, rgba(255,255,255,1) 20%, rgba(0,24,255,1) 41%, rgba(0,16,255,1) 58%, rgba(255,255,255,1) 76%, rgba(255,0,0,1) 88%)"
+    },
     {
         "name": "Anime Pack I",
         "levels": [
