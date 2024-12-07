@@ -6640,5 +6640,14 @@
 		"from_rank": 62,
 		"above": "trueffet",
 		"below": "judgement_knights"
+	},
+	{
+		"date": 1733541896,
+		"action": "lowered",
+		"name": "a4elements",
+		"to_rank": 803,
+		"from_rank": 736,
+		"above": "gaming",
+		"below": "a2marbl"
 	}
 ]
