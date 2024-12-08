@@ -87,7 +87,7 @@
         "name": "20 Letter Pack I",
         "levels": [
             "wacky_mcwhackface_v2",
-            "cerebral_hemorrhage",
+            "enlightened_memories",
             "ZOOOOOOOOOOOOOOOOOOM",
             "miscellaneous_memory",
             "unknown_civilization"
@@ -213,9 +213,43 @@
         "colour": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,115,121,1) 49%, rgba(0,142,255,1) 100%)"
     },
     {
+        "name": "ALL CAPS PACK IV",
+        "levels": [
+            "rainbow_girl",
+            "misfire",
+            "bx20",
+            "great_fury_of_heaven",
+            "singularity"
+        ],
+        "colour": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,115,121,1) 49%, rgba(0,142,255,1) 100%)"
+    },
+    {
+        "name": "ALL CAPS PACK V",
+        "levels": [
+            "random_access_memory",
+            "goner",
+            "zaphkiel",
+            "relentless",
+            "wow"
+        ],
+        "colour": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,115,121,1) 49%, rgba(0,142,255,1) 100%)"
+    },
+        {
+        "name": "American Pack",
+        "levels": [
+            "freedom08",
+            "apollo_11",
+            "pumped_up_kicks",
+            "shotgun",
+            "the_super_hotdog"
+        ],
+        "colour": "linear-gradient(90deg, rgba(255,0,0,1) 9%, rgba(255,255,255,1) 20%, rgba(0,24,255,1) 41%, rgba(0,16,255,1) 58%, rgba(255,255,255,1) 76%, rgba(255,0,0,1) 88%)"
+    },
+    {
         "name": "Anime Pack I",
         "levels": [
             "plus_ultra",
+            "evangelion",
             "overlord",
             "niwa"
         ],
@@ -292,6 +326,16 @@
         "colour": "linear-gradient(45deg, rgba(119,81,169,1) 0%, rgba(18,57,79,1) 50%, rgba(21,103,8,1) 100%)"
     },
     {
+        "name": "Blind Pack",
+        "levels": [
+            "of_ambrosia",
+            "goner",
+            "go_bird",
+            "chub_chub"
+        ],
+        "colour": "radial-gradient(circle, rgba(8,97,161,0) 47%, rgba(0,0,0,0) 100%, rgba(138,180,219,0) 100%)"
+    },
+    {
         "name": "Brainrot Pack",
         "levels": [
             "sigma",
@@ -334,7 +378,7 @@
         "levels": [
             "hypersonic",
             "forbidden_isle",
-            "make_it_drop"
+            "robotchief_exposal"
         ],
         "colour": "linear-gradient(45deg, rgba(0,190,255,1) 0%, rgba(255,141,231,1) 50%, rgba(255,0,0,1) 100%)"
     },
@@ -342,10 +386,20 @@
         "name": "Beginner Pack IV",
         "levels": [
             "blacklights",
-            "reverence",
+            "allegiance",
             "glisten"
         ],
         "colour": "linear-gradient(45deg, rgba(0,190,255,1) 0%, rgba(255,141,231,1) 50%, rgba(255,0,0,1) 100%)"
+    },
+    {
+        "name": "Breaking Bad Pack",
+        "levels": [
+            "saul_goodman",
+            "walter_white",
+            "gustavo_fring",
+            "jesse_pinkman"
+        ],
+        "colour": "radial-gradient(circle, rgba(54,109,154,1) 20%, rgba(79,69,255,1) 66%, rgba(0,0,0,1) 89%)"
     },
     {
         "name": "Breakup Pack",
@@ -357,6 +411,16 @@
             "bye"
         ],
         "colour": "url('https://static-00.iconduck.com/assets.00/broken-heart-emoji-512x460-fhpmsnqu.png')"
+    },
+    {
+        "name": "Bossfight Pack",
+        "levels": [
+            "omorfia",
+            "barbaros_finale",
+            "matilda_the_machine",
+            "awakening_horus"
+        ],
+        "colour": "radial-gradient(circle, rgba(101,2,2,1) 47%, rgba(0,0,0,1) 100%, rgba(0,0,0,1) 100%)"
     },
     {
         "name": "Camellia Pack",
@@ -389,6 +453,36 @@
             "cave_of_heart"
         ],
         "colour": "linear-gradient(135deg, rgba(0,0,0,1) 0%, rgba(167,94,0,1) 50%, rgba(0,0,0,1) 100%)"
+    },
+    {
+        "name": "Christmas Lights",
+        "levels": [
+            "bitcrusher",
+            "killbot",
+            "glowy",
+            "manic_machine"
+        ],
+        "colour": "radial-gradient(circle, rgba(255,0,0,1) 47%, rgba(0,255,70,1) 100%, rgba(0,0,0,1) 100%)"
+    },
+    {
+        "name": "CMYK Pack I",
+        "levels": [
+            "out_of_chaos",
+            "ilovecyan",
+            "mandragora",
+            "voided"
+        ],
+        "colour": "linear-gradient(90deg, rgba(42,133,145,1) 4%, rgba(96,56,143,1) 21%, rgba(0,0,0,1) 41%, rgba(255,246,0,1) 58%, rgba(96,56,143,1) 76%, rgba(42,133,145,1) 94%)"
+    },
+    {
+        "name": "CMYK Pack II",
+        "levels": [
+            "the_moon_below",
+            "tempered_steel",
+            "crystal",
+            "black_flag"
+        ],
+        "colour": "linear-gradient(90deg, rgba(42,133,145,1) 4%, rgba(96,56,143,1) 21%, rgba(255,246,0,1) 41%, rgba(0,0,0,1) 58%, rgba(96,56,143,1) 76%, rgba(42,133,145,1) 94%)"
     },
     {
         "name": "ConGlomeration",
@@ -593,6 +687,17 @@
         "colour": "radial-gradient(circle, rgba(225,192,201,1) 0%, rgba(172,151,180,1) 100%)"
     },
     {
+        "name": "Dual Master Pack",
+        "levels": [
+            "aronia",
+            "spectrum_cyclone",
+            "celestial_force",
+            "dole_damos",
+            "jamboree"
+        ],
+        "colour": "radial-gradient(circle, rgba(23,119,17,1) 0%, rgba(0,255,66,1) 56%, rgba(0,0,0,1) 100%)"
+    },
+    {
         "name": "Duplicate Pack I",
         "levels": [
             "azurite_sillow",
@@ -624,6 +729,15 @@
         "colour": "linear-gradient(225deg, rgba(0,84,255,1) 0%, rgba(0,255,49,1) 100%)"
     },
     {
+        "name": "Eclipsed Trilogy",
+        "levels": [
+            "spacial_rend",
+            "arctic_arena",
+            "gridlocked"
+        ],
+        "colour": "radial-gradient(circle, rgba(0,251,255,1) 47%, rgba(0,3,255,1) 100%, rgba(0,0,0,1) 100%)"
+    },
+    {
         "name": "Electroman Adventures Pack",
         "levels": [
             "thunder_alphabet",
@@ -639,6 +753,7 @@
         "levels": [
             "ion",
             "carbon",
+            "u235",
             "sodium",
             "iridium"
         ],
@@ -669,6 +784,8 @@
         "name": "Enfur's Entourage",
         "levels": [
             "miscellaneous_memory",
+            "violet_illusion",
+            "smartish_mode",
             "guideless_goobering",
             "cluttered_confusion"
         ],
@@ -684,6 +801,15 @@
             "kenos"
         ],
         "colour": "linear-gradient(90deg, rgba(2,0,36,0.7749474789915967) 0%, rgba(9,121,64,1) 35%, rgba(0,212,255,1) 100%)"
+    },
+    {
+        "name": "ewop pack",
+        "levels": [
+            "protoflicker",
+            "a1330x",
+            "dismay"
+        ],
+        "colour": "radial-gradient(circle, rgba(8,97,161,1) 47%, rgba(138,180,219,1) 100%, rgba(138,180,219,1) 100%)"
     },
     {
         "name": "Eyemelt Pack",
@@ -794,6 +920,16 @@
         "colour": "linear-gradient(41deg, rgba(255,139,139,1) 0%, rgba(255,202,118,1) 100%)"
     },
     {
+        "name": "Former Top 1 Murder",
+        "levels": [
+            "bitcrusher",
+            "alpha_baa_x",
+            "opsm1",
+            "zettabyte"
+        ],
+        "colour": "radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 48%, rgba(0,0,0,1) 100%)"
+    },
+    {
         "name": "Freedom Series",
         "levels": [
             "freedom08",
@@ -822,13 +958,22 @@
         "colour": "linear-gradient(90deg, rgba(0,0,0,1) 9%, rgba(83,0,255,1) 20%, rgba(252,69,206,1) 41%, rgba(252,69,206,1) 58%, rgba(83,0,255,1) 76%, rgba(0,0,0,1) 88%)"
     },
     {
-        "name": "Gay Pack",
+        "name": "Gay Pack I",
         "levels": [
             "quaoar_viprin",
             "mujigae",
             "misfire",
-            "spectrum_cyclone",
             "qdynamix"
+        ],
+        "colour": "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8IWJf-ZYRXQpYuciSWoeI1Gj8ZyhLlu2cjw&s')"
+    },
+    {
+        "name": "Gay Pack II",
+        "levels": [
+            "ploink",
+            "ddiamond",
+            "yuh",
+            "spectrum_cyclone"
         ],
         "colour": "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8IWJf-ZYRXQpYuciSWoeI1Gj8ZyhLlu2cjw&s')"
     },
@@ -863,6 +1008,15 @@
         "colour": "linear-gradient(45deg, rgba(255,0,147,1) 0%, rgba(255,0,207,1) 50%, rgba(255,179,0,1) 100%)"
     },
     {
+        "name": "Green Trilogy",
+        "levels": [
+            "natural_disaster",
+            "the_golden",
+            "verdant_landscape"
+        ],
+        "colour": "radial-gradient(circle, rgba(18,244,68,1) 0%, rgba(39,125,16,1) 48%, rgba(3,50,3,1) 100%)"
+    },
+    {
         "name": "Hate Pack",
         "levels": [
             "i_hate_you",
@@ -894,6 +1048,17 @@
             "devil_vortex"
         ],
         "colour": "linear-gradient(90deg, rgba(36,64,29,1) 0%, rgba(7,255,0,1) 46%, rgba(36,64,29,1) 100%)"
+    },
+    {
+        "name": "Heavy Metal Pack",
+        "levels": [
+            "artifice",
+            "motorbreath",
+            "electric_forest",
+            "universe_on_fire",
+            "kingslayer"
+        ],
+        "colour": "radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 48%, rgba(0,0,0,1) 100%)"
     },
     {
         "name": "Hot Pack",
@@ -988,6 +1153,16 @@
         "colour": "radial-gradient(circle, rgba(255,250,0,1) 0%, rgba(255,253,189,1) 50%, rgba(0,0,0,1) 100%)"
     },
     {
+        "name": "Legendary Pack",
+        "levels": [
+            "lotus",
+            "absurdia",
+            "stratus",
+            "cityfade"
+        ],
+        "colour": "radial-gradient(circle, rgba(174,238,224,0.6965161064425771) 0%, rgba(18,174,191,1) 100%)"
+    },
+    {
         "name": "Lemons Pack",
         "levels": [
             "paroxysm",
@@ -995,6 +1170,15 @@
             "wavebreaker"
         ],
         "colour": "linear-gradient(225deg, rgba(247,234,0,1) 0%, rgba(187,255,0,1) 100%)"
+    },
+    {
+        "name": "Loltad Pack",
+        "levels": [
+            "worse_trip",
+            "rash",
+            "twilight_spire"
+        ],
+        "colour": "radial-gradient(circle, rgba(174,218,238,1) 0%, rgba(5,6,120,1) 100%)"
     },
     {
         "name": "lowercase pack i",
@@ -1017,18 +1201,9 @@
         "colour": "linear-gradient(144deg, rgba(253,141,255,1) 0%, rgba(255,82,82,1) 100%)"
     },
     {
-        "name": "Lunar Pack",
-        "levels": [
-            "to_the_blue_moon",
-            "the_moon_below",
-            "stellaluna"
-        ],
-        "colour": "linear-gradient(144deg, rgba(0,11,255,1) 0%, rgba(0,0,0,1) 100%)"
-    },
-    {
         "name": "Lovely Pack",
         "levels": [
-            "lovel",
+            "ilovecyan",
             "lost_love",
             "cupid"
         ],
@@ -1070,7 +1245,7 @@
     {
         "name": "Lyric Pack IV",
         "levels": [
-            "low_death",
+            "ikaros",
             "removed_submission",
             "untitled",
             "explicit",
@@ -1082,7 +1257,7 @@
         "name": "Lyric Pack V",
         "levels": [
             "xo",
-            "ikaros",
+            "low_death",
             "misfire",
             "turn_the_lights_off",
             "surge_of_the_shield"
@@ -1094,6 +1269,7 @@
         "levels": [
             "low_death",
             "idols",
+            "free_for_all_2",
             "idol19"
         ],
         "colour": "linear-gradient(145deg, rgba(159,0,0,1) 0%, rgba(255,210,240,1) 100%)"
@@ -1179,11 +1355,18 @@
     {
         "name": "Montage Pack",
         "levels": [
-            "glitched_memories",
-            "supreme_demon_mix",
             "idols",
             "the_ultimate_demon",
             "memories_iii"
+        ],
+        "colour": "linear-gradient(125deg, rgba(255,255,255,1) 0%, rgba(255,106,106,1) 30%, rgba(117,225,255,1) 50%, rgba(99,255,111,1) 70%, rgba(2,0,36,1) 100%)"
+    },
+        {
+        "name": "Montage Pack II",
+        "levels": [
+            "glitched_memories",
+            "supreme_demon_mix",
+            "ouroboros_startpos_2"
         ],
         "colour": "linear-gradient(125deg, rgba(255,255,255,1) 0%, rgba(255,106,106,1) 30%, rgba(117,225,255,1) 50%, rgba(99,255,111,1) 70%, rgba(2,0,36,1) 100%)"
     },
@@ -1276,7 +1459,7 @@
     {
         "name": "Norse Mythology Pack",
         "levels": [
-            "ragnarok",
+            "yggdrasil",
             "niflheim",
             "mjolnir",
             "niflhel"
@@ -1325,10 +1508,10 @@
     {
         "name": "Perfection Pack (EDEL)",
         "levels": [
-            "death",
+            "devils_disco",
             "neurostasis",
             "out_of_chaos",
-            "callisto",
+            "minimum",
             "coolie_mazie_paloozi"
         ],
         "colour": "radial-gradient(circle, rgba(106,175,255,1) 0%, rgba(201,103,255,1) 100%)"
@@ -1430,7 +1613,7 @@
     {
         "name": "RGB at Home",
         "levels": [
-            "the_flawless",
+            "karasu",
             "erebus_platnuu",
             "auditory_breaker"
         ],
@@ -1464,6 +1647,16 @@
             "to_the_stars_ii"
         ],
         "colour": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(255,255,255,1) 30%, rgba(0,0,0,1) 50%, rgba(255,255,255,1) 70%, rgba(0,0,0,1) 100%)"
+    },
+    {
+        "name": "Sillow Pack",
+        "levels": [
+            "firepower_sillow",
+            "sector_19",
+            "forbidden_isle",
+            "azurite_sillow"
+        ],
+        "colour": "radial-gradient(circle, rgba(255,109,0,1) 18%, rgba(255,69,69,1) 69%, rgba(255,0,0,1) 100%)"
     },
     {
         "name": "Slow Pack I",
@@ -1743,11 +1936,21 @@
         "colour": "radial-gradient(circle, rgba(132,149,255,1) 3%, rgba(194,61,96,1) 74%, rgba(130,0,255,1) 100%)"
     },
     {
+        "name": "Tier VII Pack",
+        "levels": [
+            "conclusion",
+            "rust",
+            "fog",
+            "dump"
+        ],
+        "colour": "radial-gradient(circle, rgba(132,149,255,1) 3%, rgba(194,61,96,1) 74%, rgba(130,0,255,1) 100%)"
+    },
+    {
         "name": "The Hell Knockoffs",
         "levels": [
             "the_hell_nutz",
             "the_hell_bird",
-            "the_hell_factory"
+            "the_hell_tribute"
         ],
         "colour": "linear-gradient(90deg, rgba(102,5,5,1) 0%, rgba(0,0,0,1) 50%, rgba(102,5,5,1) 100%)"
     },
@@ -1762,6 +1965,17 @@
             "the_hell_dignity"
         ],
         "colour": "linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(0,0,0,1) 50%, rgba(255,0,0,1) 100%)"
+    },
+    {
+        "name": "The Moon Pack",
+        "levels": [
+            "io",
+            "phobos",
+            "callisto",
+            "to_the_blue_moon",
+            "proteus"
+        ],
+        "colour": "radial-gradient(circle, rgba(46,21,82,1) 47%, rgba(156,0,255,1) 100%, rgba(0,0,0,1) 100%)"
     },
     {
         "name": "The X Factor",
@@ -1876,6 +2090,17 @@
         "colour": "linear-gradient(40deg, rgba(123,255,0,1) 0%, rgba(183,0,208,1) 50%, rgba(87,255,255,1) 100%)"
     },
     {
+        "name": "Unplaceable Pack",
+        "levels": [
+            "overkill",
+            "death",
+            "ouroboros_startpos_2",
+            "game_over",
+            "eon"
+        ],
+        "colour": "radial-gradient(circle, rgba(0,0,0,1) 20%, rgba(69,255,242,1) 66%, rgba(0,0,0,1) 89%)"
+    },
+    {
         "name": "Valentine's Day Pack",
         "levels": [
             "lost_love",
@@ -1884,6 +2109,15 @@
             "smash"
         ],
         "colour": "radial-gradient(circle, rgba(152,0,0,1) 0%, rgba(249,0,0,1) 50%, rgba(255,156,156,1) 100%)"
+    },
+    {
+        "name": "VARSE Pack",
+        "levels": [
+            "citra",
+            "opsm1",
+            "virtue"
+        ],
+        "colour": "radial-gradient(circle, rgba(127,81,152,0.6264880952380952) 0%, rgba(0,0,0,1) 100%)"
     },
     {
         "name": "Vortex Series",
@@ -1957,6 +2191,16 @@
         "colour": "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpOlcMCK4fFikrDGq492gsbGuOOFfg4tUlsw&s')"
     },
     {
+        "name": "Weather Pack",
+        "levels": [
+            "sunset_sandstorm",
+            "black_blizzard",
+            "misty_mountains",
+            "dismal_duststorm"
+        ],
+        "colour": "linear-gradient(90deg, rgba(233,141,7,1) 0%, rgba(0,0,0,1) 50%, rgba(4,175,249,1) 100%)"
+    },
+    {
         "name": "Weather Trilogy",
         "levels": [
             "arctic_lights",
@@ -2014,15 +2258,5 @@
             "trollmachine"
         ],
         "colour": "radial-gradient(circle, rgba(255,47,238,1) 0%, rgba(0,0,0,1) 100%)"
-    },
-    {
-        "name": "Former Owner Pack",
-        "levels": [
-            "audio_expulsion",
-            "supercharged",
-            "glide",
-            "universe_on_fire"
-        ],
-        "colour": "radial-gradient(circle, rgba(157,14,68,1) 0%, rgba(0,0,0,1) 100%)"
     }
 ]

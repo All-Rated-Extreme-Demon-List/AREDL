@@ -6667,5 +6667,14 @@
 		"from_rank": null,
 		"above": "corrosion",
 		"below": "firepower_kapycta999"
+	},
+	{
+		"date": 1733641693,
+		"action": "placed",
+		"name": "redemption",
+		"to_rank": 983,
+		"from_rank": null,
+		"above": "obscura",
+		"below": "a8o_x"
 	}
 ]
