@@ -455,16 +455,6 @@
         "colour": "linear-gradient(135deg, rgba(0,0,0,1) 0%, rgba(167,94,0,1) 50%, rgba(0,0,0,1) 100%)"
     },
     {
-        "name": "Cersia Pack",
-        "levels": [
-            "cersia_madness",
-            "cersia_difficult",
-            "thunderzone",
-            "friday_vortex"
-        ],
-        "colour": "radial-gradient(circle, rgba(80,173,40,0.6264880952380952) 0%, rgba(58,78,84,1) 100%)"
-    },
-    {
         "name": "Christmas Lights",
         "levels": [
             "bitcrusher",
