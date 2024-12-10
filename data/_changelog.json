@@ -6685,5 +6685,14 @@
 		"from_rank": 150,
 		"above": "sazerix",
 		"below": "gracefully"
+	},
+	{
+		"date": 1733844361,
+		"action": "raised",
+		"name": "dust_bowl",
+		"to_rank": 159,
+		"from_rank": 182,
+		"above": "ploink",
+		"below": "cicatrize"
 	}
 ]
