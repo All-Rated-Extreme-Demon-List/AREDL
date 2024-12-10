@@ -6703,5 +6703,14 @@
 		"from_rank": 769,
 		"above": "pound_town",
 		"below": "twilight_spire"
+	},
+	{
+		"date": 1733862808,
+		"action": "lowered",
+		"name": "crimson_planet",
+		"to_rank": 93,
+		"from_rank": 85,
+		"above": "directions",
+		"below": "shimmer"
 	}
 ]
