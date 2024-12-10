@@ -1,7 +1,7 @@
 {
 	"id": 52955167,
 	"name": "Deimos (EndLevel)",
-	"tags":[
+	"tags": [
 		"2.1",
 		"XL",
 		"Timings",
@@ -87,6 +87,12 @@
 		{
 			"user": 5392037032,
 			"link": "https://youtu.be/xsCdH0S_5CI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5601071722,
+			"link": "https://youtu.be/iiYdEIl04gs",
 			"percent": 100,
 			"hz": 360
 		}
