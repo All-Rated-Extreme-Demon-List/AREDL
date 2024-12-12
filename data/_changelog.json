@@ -6739,5 +6739,14 @@
 		"from_rank": 1001,
 		"above": "eraser",
 		"below": "the_super_hotdog"
+	},
+	{
+		"date": 1734020947,
+		"action": "lowered",
+		"name": "necropolix",
+		"to_rank": 813,
+		"from_rank": 759,
+		"above": "imitation_game",
+		"below": "twilight_spire"
 	}
 ]
