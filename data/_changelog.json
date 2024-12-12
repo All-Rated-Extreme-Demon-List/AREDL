@@ -6730,5 +6730,14 @@
 		"from_rank": 1075,
 		"above": "cityfade",
 		"below": "pro_lov_ad"
+	},
+	{
+		"date": 1733962756,
+		"action": "tolegacy",
+		"name": "sweater_weather",
+		"to_rank": 1060,
+		"from_rank": 1001,
+		"above": "eraser",
+		"below": "the_super_hotdog"
 	}
 ]
