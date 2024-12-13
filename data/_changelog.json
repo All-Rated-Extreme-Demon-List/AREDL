@@ -6766,5 +6766,14 @@
 		"from_rank": 391,
 		"above": "rate_demon",
 		"below": "astral_divinity"
+	},
+	{
+		"date": 1734128641,
+		"action": "raised",
+		"name": "neurostasis",
+		"to_rank": 371,
+		"from_rank": 401,
+		"above": "glowy",
+		"below": "bx20"
 	}
 ]
