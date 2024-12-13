@@ -6775,5 +6775,14 @@
 		"from_rank": 401,
 		"above": "glowy",
 		"below": "bx20"
+	},
+	{
+		"date": 1734128693,
+		"action": "raised",
+		"name": "goldcrest_palace",
+		"to_rank": 578,
+		"from_rank": 638,
+		"above": "prismatic_haze",
+		"below": "helix"
 	}
 ]
