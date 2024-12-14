@@ -6784,5 +6784,14 @@
 		"from_rank": 638,
 		"above": "prismatic_haze",
 		"below": "helix"
+	},
+	{
+		"date": 1734213139,
+		"action": "placed",
+		"name": "ascent",
+		"to_rank": 74,
+		"from_rank": null,
+		"above": "fragile",
+		"below": "keres"
 	}
 ]
