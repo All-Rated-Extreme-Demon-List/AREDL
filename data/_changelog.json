@@ -6793,5 +6793,14 @@
 		"from_rank": null,
 		"above": "fragile",
 		"below": "keres"
+	},
+	{
+		"date": 1734290029,
+		"action": "lowered",
+		"name": "generic_glow_level",
+		"to_rank": 857,
+		"from_rank": 829,
+		"above": "kub",
+		"below": "gaming_35"
 	}
 ]
