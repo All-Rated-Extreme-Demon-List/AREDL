@@ -2,10 +2,25 @@
 	"id": 109540067,
 	"name": "ReVolution Unleashed",
 	"author": 8372454096,
-	"creators": [8372454096],
+	"creators": [
+		8372454096
+	],
 	"verifier": 9656241021,
 	"verification": "https://youtu.be/QNoP0oYztaA?si=-c8UeO_n2Qceefz3",
 	"percentToQualify": 100,
 	"password": "Free Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 5908120379,
+			"link": "https://youtu.be/Ry4R1ZCs2rk?si=Voj7tFJieBIqDHK0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2260744819,
+			"link": "https://www.youtube.com/watch?v=XaM-dacLNKw",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
