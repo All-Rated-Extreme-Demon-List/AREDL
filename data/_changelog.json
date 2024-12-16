@@ -6820,5 +6820,14 @@
 		"from_rank": 364,
 		"above": "omicron",
 		"below": "death"
+	},
+	{
+		"date": 1734310006,
+		"action": "lowered",
+		"name": "party_rock_anthem",
+		"to_rank": 908,
+		"from_rank": 827,
+		"above": "red_moon",
+		"below": "polish_alphabet"
 	}
 ]
