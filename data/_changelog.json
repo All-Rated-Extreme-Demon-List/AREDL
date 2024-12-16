@@ -6901,5 +6901,14 @@
 		"from_rank": 196,
 		"above": "random_access_memory",
 		"below": "edge_of_the_world"
+	},
+	{
+		"date": 1734390588,
+		"action": "raised",
+		"name": "storming_summit",
+		"to_rank": 188,
+		"from_rank": 194,
+		"above": "calamity",
+		"below": "aquatic_auroras"
 	}
 ]
