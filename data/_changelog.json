@@ -6829,5 +6829,14 @@
 		"from_rank": 827,
 		"above": "red_moon",
 		"below": "polish_alphabet"
+	},
+	{
+		"date": 1734310031,
+		"action": "lowered",
+		"name": "generic_glow_level",
+		"to_rank": 857,
+		"from_rank": 856,
+		"above": "headlock",
+		"below": "kub"
 	}
 ]
