@@ -6883,5 +6883,14 @@
 		"from_rank": null,
 		"above": "twilight_coexistence",
 		"below": "abandoned_planet"
+	},
+	{
+		"date": 1734386073,
+		"action": "lowered",
+		"name": "cyclone",
+		"to_rank": 903,
+		"from_rank": 829,
+		"above": "faith",
+		"below": "crowd_control"
 	}
 ]
