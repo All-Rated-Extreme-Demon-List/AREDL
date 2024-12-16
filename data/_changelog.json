@@ -6856,5 +6856,14 @@
 		"from_rank": 525,
 		"above": "infernal_abyss",
 		"below": "milo"
+	},
+	{
+		"date": 1734338312,
+		"action": "lowered",
+		"name": "tornado",
+		"to_rank": 784,
+		"from_rank": 706,
+		"above": "hopping_over_puddles",
+		"below": "hades"
 	}
 ]
