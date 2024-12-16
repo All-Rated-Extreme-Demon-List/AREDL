@@ -6874,5 +6874,14 @@
 		"from_rank": 794,
 		"above": "laranja_azul_rosa",
 		"below": "betelgeuse"
+	},
+	{
+		"date": 1734382424,
+		"action": "placed",
+		"name": "the_prince",
+		"to_rank": 517,
+		"from_rank": null,
+		"above": "twilight_coexistence",
+		"below": "abandoned_planet"
 	}
 ]
