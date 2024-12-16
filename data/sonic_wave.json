@@ -2000,6 +2000,19 @@
 			"link": "https://www.twitch.tv/videos/2323593533?t=02h16m46s",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": 3429473490,
+			"link": "https://youtu.be/L4Na7jPPpMw?si=eHlLUkgmaMZEbu-W",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7365907603,
+			"link": "https://youtu.be/0NpygpFQytM?si=8QAucQkQmaLzKvwD",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
