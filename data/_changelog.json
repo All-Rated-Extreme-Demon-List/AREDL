@@ -6838,5 +6838,14 @@
 		"from_rank": 856,
 		"above": "headlock",
 		"below": "kub"
+	},
+	{
+		"date": 1734310108,
+		"action": "raised",
+		"name": "trotil",
+		"to_rank": 93,
+		"from_rank": 99,
+		"above": "shimmer",
+		"below": "calculator_core"
 	}
 ]
