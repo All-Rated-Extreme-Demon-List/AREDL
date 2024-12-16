@@ -6802,5 +6802,14 @@
 		"from_rank": 829,
 		"above": "kub",
 		"below": "gaming_35"
+	},
+	{
+		"date": 1734309935,
+		"action": "lowered",
+		"name": "berserk",
+		"to_rank": 418,
+		"from_rank": 396,
+		"above": "cadrega_mode",
+		"below": "miss_you"
 	}
 ]
