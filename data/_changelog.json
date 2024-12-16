@@ -6811,5 +6811,14 @@
 		"from_rank": 396,
 		"above": "cadrega_mode",
 		"below": "miss_you"
+	},
+	{
+		"date": 1734309967,
+		"action": "raised",
+		"name": "mind_control",
+		"to_rank": 324,
+		"from_rank": 364,
+		"above": "omicron",
+		"below": "death"
 	}
 ]
