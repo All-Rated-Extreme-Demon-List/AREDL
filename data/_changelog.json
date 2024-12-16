@@ -6865,5 +6865,14 @@
 		"from_rank": 706,
 		"above": "hopping_over_puddles",
 		"below": "hades"
+	},
+	{
+		"date": 1734381867,
+		"action": "raised",
+		"name": "huellas_en_la_nieve",
+		"to_rank": 718,
+		"from_rank": 794,
+		"above": "laranja_azul_rosa",
+		"below": "betelgeuse"
 	}
 ]
