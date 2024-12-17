@@ -6910,5 +6910,14 @@
 		"from_rank": 194,
 		"above": "calamity",
 		"below": "aquatic_auroras"
+	},
+	{
+		"date": 1734402392,
+		"action": "placed",
+		"name": "copilot_2p",
+		"to_rank": 1062,
+		"from_rank": null,
+		"above": null,
+		"below": "the_super_hotdog"
 	}
 ]
