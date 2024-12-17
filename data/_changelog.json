@@ -6919,5 +6919,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "the_super_hotdog"
+	},
+	{
+		"date": 1734402587,
+		"action": "placed",
+		"name": "copilot_solo",
+		"to_rank": 417,
+		"from_rank": null,
+		"above": "miss_you",
+		"below": "io"
 	}
 ]
