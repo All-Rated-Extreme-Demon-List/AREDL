@@ -6973,5 +6973,14 @@
 		"from_rank": 462,
 		"above": "imoistar",
 		"below": "flyway"
+	},
+	{
+		"date": 1734588825,
+		"action": "placed",
+		"name": "devins_thorn_zone",
+		"to_rank": 725,
+		"from_rank": null,
+		"above": "vermilion",
+		"below": "torsion"
 	}
 ]
