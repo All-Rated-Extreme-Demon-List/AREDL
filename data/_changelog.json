@@ -6937,5 +6937,14 @@
 		"from_rank": 757,
 		"above": "armageddon",
 		"below": "glide"
+	},
+	{
+		"date": 1734570807,
+		"action": "placed",
+		"name": "supernova",
+		"to_rank": 1038,
+		"from_rank": null,
+		"above": "ion",
+		"below": "voluto"
 	}
 ]
