@@ -6928,5 +6928,14 @@
 		"from_rank": null,
 		"above": "miss_you",
 		"below": "io"
+	},
+	{
+		"date": 1734569730,
+		"action": "lowered",
+		"name": "reflective",
+		"to_rank": 771,
+		"from_rank": 757,
+		"above": "armageddon",
+		"below": "glide"
 	}
 ]
