@@ -6964,5 +6964,14 @@
 		"from_rank": 349,
 		"above": "bitcrusher",
 		"below": "inanimate_insanity"
+	},
+	{
+		"date": 1734571361,
+		"action": "raised",
+		"name": "disaster_dive",
+		"to_rank": 377,
+		"from_rank": 462,
+		"above": "imoistar",
+		"below": "flyway"
 	}
 ]
