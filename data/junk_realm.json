@@ -2,10 +2,35 @@
 	"id": 112309508,
 	"name": "Junk Realm",
 	"author": 1999460512,
-	"creators": [1999460512,9441614972,4273374110,6799944213,5464375566],
+	"creators": [
+		1999460512,
+		9441614972,
+		4273374110,
+		6799944213,
+		5464375566
+	],
 	"verifier": 4316646717,
 	"verification": "https://youtu.be/_qjFyW9-cYU?si=qiELrTBcofsx4zr9",
 	"percentToQualify": 100,
 	"password": "Free Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 8608948771,
+			"link": "https://youtu.be/ZxDY11jqKms",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2251081618,
+			"link": "https://youtu.be/fNStgyd11OQ?si=VNJbzNzDRjSHyCv7",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4250301169,
+			"link": "https://youtu.be/X6zsz8ipYtI?si=D_TXEGgJXSzsRxNA",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
