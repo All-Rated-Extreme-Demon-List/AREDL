@@ -7063,5 +7063,14 @@
 		"from_rank": null,
 		"above": "panasonic",
 		"below": "niflheim"
+	},
+	{
+		"date": 1734770765,
+		"action": "lowered",
+		"name": "malevolent_maelstrom",
+		"to_rank": 735,
+		"from_rank": 529,
+		"above": "swirling_serenity",
+		"below": "elliptic_curve"
 	}
 ]
