@@ -7126,5 +7126,14 @@
 		"from_rank": 5,
 		"above": "acheron",
 		"below": "tidal_wave"
+	},
+	{
+		"date": 1734982109,
+		"action": "placed",
+		"name": "anathema",
+		"to_rank": 6,
+		"from_rank": null,
+		"above": "spectre",
+		"below": "silent_clubstep"
 	}
 ]
