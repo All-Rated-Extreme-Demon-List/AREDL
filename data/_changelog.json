@@ -7108,5 +7108,14 @@
 		"from_rank": 1074,
 		"above": "interference",
 		"below": "the_super_hotdog"
+	},
+	{
+		"date": 1734923877,
+		"action": "tolegacy",
+		"name": "copilot_solo",
+		"to_rank": 1073,
+		"from_rank": 420,
+		"above": "copilot_2p",
+		"below": "the_super_hotdog"
 	}
 ]
