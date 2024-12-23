@@ -7081,5 +7081,14 @@
 		"from_rank": null,
 		"above": "any_percent",
 		"below": "idol19"
+	},
+	{
+		"date": 1734913470,
+		"action": "placed",
+		"name": "geography_dash",
+		"to_rank": 1000,
+		"from_rank": null,
+		"above": "xx11",
+		"below": "inmind"
 	}
 ]
