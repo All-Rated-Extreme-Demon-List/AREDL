@@ -7099,5 +7099,14 @@
 		"from_rank": null,
 		"above": "devins_thorn_zone",
 		"below": "torsion"
+	},
+	{
+		"date": 1734923857,
+		"action": "tolegacy",
+		"name": "copilot_2p",
+		"to_rank": 1074,
+		"from_rank": 1074,
+		"above": "interference",
+		"below": "the_super_hotdog"
 	}
 ]
