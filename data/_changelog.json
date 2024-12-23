@@ -7117,5 +7117,14 @@
 		"from_rank": 420,
 		"above": "copilot_2p",
 		"below": "the_super_hotdog"
+	},
+	{
+		"date": 1734933309,
+		"action": "raised",
+		"name": "avernus",
+		"to_rank": 2,
+		"from_rank": 5,
+		"above": "acheron",
+		"below": "tidal_wave"
 	}
 ]
