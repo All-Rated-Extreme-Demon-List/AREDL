@@ -7072,5 +7072,14 @@
 		"from_rank": 529,
 		"above": "swirling_serenity",
 		"below": "elliptic_curve"
+	},
+	{
+		"date": 1734913396,
+		"action": "placed",
+		"name": "jail_break",
+		"to_rank": 937,
+		"from_rank": null,
+		"above": "any_percent",
+		"below": "idol19"
 	}
 ]
