@@ -7092,12 +7092,12 @@
 		"below": "inmind"
 	},
 	{
-		"date": 1734913681,
+		"date": 1734913682,
 		"action": "placed",
-		"name": "0_mind",
-		"to_rank": 825,
+		"name": "lit_path",
+		"to_rank": 728,
 		"from_rank": null,
-		"above": "wtf",
-		"below": "pound_town"
+		"above": "devins_thorn_zone",
+		"below": "torsion"
 	}
 ]
