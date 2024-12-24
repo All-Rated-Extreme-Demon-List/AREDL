@@ -7144,5 +7144,14 @@
 		"from_rank": 235,
 		"above": "rage",
 		"below": "yatagarasu"
+	},
+	{
+		"date": 1735070913,
+		"action": "raised",
+		"name": "coalescence",
+		"to_rank": 49,
+		"from_rank": 57,
+		"above": "natural_disaster",
+		"below": "viprin_ufo"
 	}
 ]
