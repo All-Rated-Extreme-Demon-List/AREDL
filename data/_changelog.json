@@ -7135,5 +7135,14 @@
 		"from_rank": null,
 		"above": "spectre",
 		"below": "silent_clubstep"
+	},
+	{
+		"date": 1735007428,
+		"action": "lowered",
+		"name": "goner",
+		"to_rank": 240,
+		"from_rank": 235,
+		"above": "rage",
+		"below": "yatagarasu"
 	}
 ]
