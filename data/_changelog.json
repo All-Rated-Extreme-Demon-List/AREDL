@@ -7162,5 +7162,14 @@
 		"from_rank": null,
 		"above": "sky_conflux",
 		"below": "zenith"
+	},
+	{
+		"date": 1735088603,
+		"action": "raised",
+		"name": "ashes",
+		"to_rank": 244,
+		"from_rank": 254,
+		"above": "edge_of_the_blade",
+		"below": "x0"
 	}
 ]
