@@ -7180,5 +7180,14 @@
 		"from_rank": 120,
 		"above": "the_rupture",
 		"below": "pandemonium_cersia"
+	},
+	{
+		"date": 1735143099,
+		"action": "raised",
+		"name": "ethereal_artifice",
+		"to_rank": 376,
+		"from_rank": 397,
+		"above": "glowy",
+		"below": "neurostasis"
 	}
 ]
