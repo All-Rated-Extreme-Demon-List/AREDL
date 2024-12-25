@@ -7171,5 +7171,14 @@
 		"from_rank": 254,
 		"above": "edge_of_the_blade",
 		"below": "x0"
+	},
+	{
+		"date": 1735099716,
+		"action": "lowered",
+		"name": "descent_into_exile",
+		"to_rank": 124,
+		"from_rank": 120,
+		"above": "the_rupture",
+		"below": "pandemonium_cersia"
 	}
 ]
