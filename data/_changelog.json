@@ -7189,5 +7189,14 @@
 		"from_rank": 397,
 		"above": "glowy",
 		"below": "neurostasis"
+	},
+	{
+		"date": 1735252081,
+		"action": "lowered",
+		"name": "arcturus",
+		"to_rank": 39,
+		"from_rank": 38,
+		"above": "unknown",
+		"below": "sinister_silence"
 	}
 ]
