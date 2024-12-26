@@ -2,10 +2,23 @@
 	"id": 108708033,
 	"name": "Coalescence",
 	"author": 9201296369,
-	"creators": [9201296369,5286939013,3418877338,9092411607,5589328288],
+	"creators": [
+		9201296369,
+		5286939013,
+		3418877338,
+		9092411607,
+		5589328288
+	],
 	"verifier": 9201296369,
 	"verification": "https://youtu.be/do-a2EzZ4R8?si=JT1Rh72YBJyAegte",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 3840185569,
+			"link": "https://youtu.be/Q1UDRR2D0To?si=-srGjl7oZdNz6Iuk",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
