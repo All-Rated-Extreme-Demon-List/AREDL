@@ -7216,5 +7216,14 @@
 		"from_rank": null,
 		"above": "doop",
 		"below": "matilda_the_machine"
+	},
+	{
+		"date": 1735276863,
+		"action": "raised",
+		"name": "the_golden",
+		"to_rank": 50,
+		"from_rank": 51,
+		"above": "natural_disaster",
+		"below": "coalescence"
 	}
 ]
