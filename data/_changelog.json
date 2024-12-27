@@ -7225,5 +7225,14 @@
 		"from_rank": 51,
 		"above": "natural_disaster",
 		"below": "coalescence"
+	},
+	{
+		"date": 1735334939,
+		"action": "raised",
+		"name": "atomic_cannon_mk_iii",
+		"to_rank": 53,
+		"from_rank": 54,
+		"above": "climax",
+		"below": "verdant_landscape"
 	}
 ]
