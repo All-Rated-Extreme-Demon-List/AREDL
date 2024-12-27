@@ -7,5 +7,12 @@
 	"verification": "https://www.youtube.com/watch?v=amA6yFcNQ_U",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 2366076126,
+			"link": "https://youtu.be/F1Zx2vAqrus",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
