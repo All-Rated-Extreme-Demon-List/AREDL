@@ -7243,5 +7243,14 @@
 		"from_rank": 670,
 		"above": "into_petals",
 		"below": "pure_vale"
+	},
+	{
+		"date": 1735402466,
+		"action": "raised",
+		"name": "outside_eyesight",
+		"to_rank": 978,
+		"from_rank": 1014,
+		"above": "fish_fish_godmode",
+		"below": "disruption"
 	}
 ]
