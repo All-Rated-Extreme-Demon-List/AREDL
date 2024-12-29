@@ -7261,5 +7261,14 @@
 		"from_rank": null,
 		"above": "lezicuv",
 		"below": "make_it_funky"
+	},
+	{
+		"date": 1735451925,
+		"action": "lowered",
+		"name": "power_grid",
+		"to_rank": 350,
+		"from_rank": 317,
+		"above": "turn_the_lights_off",
+		"below": "the_deadlands"
 	}
 ]
