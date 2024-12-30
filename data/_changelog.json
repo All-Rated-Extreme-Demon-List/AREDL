@@ -7279,5 +7279,14 @@
 		"from_rank": 756,
 		"above": "fellow_phobia",
 		"below": "deflective"
+	},
+	{
+		"date": 1735517636,
+		"action": "raised",
+		"name": "lotus_flower",
+		"to_rank": 79,
+		"from_rank": 83,
+		"above": "frost_spirit",
+		"below": "crackhead_circles"
 	}
 ]
