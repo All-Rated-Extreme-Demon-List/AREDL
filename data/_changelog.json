@@ -7315,5 +7315,14 @@
 		"from_rank": null,
 		"above": "gewerbix",
 		"below": "sodium"
+	},
+	{
+		"date": 1735665901,
+		"action": "lowered",
+		"name": "the_j",
+		"to_rank": 567,
+		"from_rank": 566,
+		"above": "astrophobia",
+		"below": "gewerbix"
 	}
 ]
