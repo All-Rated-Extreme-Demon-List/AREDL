@@ -2,10 +2,25 @@
 	"id": 113138918,
 	"name": "SHURIMA",
 	"author": 5738561095,
-	"creators": [5738561095],
+	"creators": [
+		5738561095
+	],
 	"verifier": 5738561095,
 	"verification": "https://youtu.be/ceiEzf3srJ0?si=hpvFqsxlJOf38GR7",
 	"percentToQualify": 100,
 	"password": "Free Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 7949774184,
+			"link": "https://youtu.be/dKG4xvTvptM?si=jJqd4jSVuzIR6tVU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3417420752,
+			"link": "https://youtu.be/lqkj-r-0QTI?si=toS_4_UUEyCJy-O6",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

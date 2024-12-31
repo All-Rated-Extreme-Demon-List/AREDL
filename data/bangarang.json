@@ -2,10 +2,25 @@
 	"id": 112515547,
 	"name": "Bangarang",
 	"author": 2089703011,
-	"creators": [2089703011],
+	"creators": [
+		2089703011
+	],
 	"verifier": 1659503297,
 	"verification": "https://youtu.be/n62s5MuGdG4?si=3o8iSQHbT-eIYbV_",
 	"percentToQualify": 100,
 	"password": "Free Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 5262208158,
+			"link": "https://youtu.be/tP-u_z4L9x8?si=eNh5sfYH0d2tewXR",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4926577110,
+			"link": "https://www.youtube.com/watch?v=b5ND4BbZay4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
