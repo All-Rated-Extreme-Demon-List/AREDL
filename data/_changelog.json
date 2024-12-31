@@ -7324,5 +7324,14 @@
 		"from_rank": 566,
 		"above": "astrophobia",
 		"below": "gewerbix"
+	},
+	{
+		"date": 1735666137,
+		"action": "placed",
+		"name": "shurima",
+		"to_rank": 951,
+		"from_rank": null,
+		"above": "frenzy",
+		"below": "the_tears_beneath"
 	}
 ]
