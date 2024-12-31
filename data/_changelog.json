@@ -7288,5 +7288,14 @@
 		"from_rank": 83,
 		"above": "frost_spirit",
 		"below": "crackhead_circles"
+	},
+	{
+		"date": 1735629065,
+		"action": "placed",
+		"name": "indivine",
+		"to_rank": 112,
+		"from_rank": null,
+		"above": "ruthless",
+		"below": "amalgam"
 	}
 ]
