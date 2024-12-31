@@ -7297,5 +7297,14 @@
 		"from_rank": null,
 		"above": "ruthless",
 		"below": "amalgam"
+	},
+	{
+		"date": 1735652225,
+		"action": "lowered",
+		"name": "electrolux",
+		"to_rank": 881,
+		"from_rank": 660,
+		"above": "mandragora",
+		"below": "carbon"
 	}
 ]
