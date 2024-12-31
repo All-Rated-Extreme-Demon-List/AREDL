@@ -7342,5 +7342,14 @@
 		"from_rank": null,
 		"above": "phantasmagoria_whlt",
 		"below": "shimmering_chamber"
+	},
+	{
+		"date": 1735666404,
+		"action": "lowered",
+		"name": "bangarang",
+		"to_rank": 994,
+		"from_rank": 992,
+		"above": "finkor",
+		"below": "proteus"
 	}
 ]
