@@ -7369,5 +7369,14 @@
 		"from_rank": 883,
 		"above": "awakening_horus",
 		"below": "tech_manifestation"
+	},
+	{
+		"date": 1735753309,
+		"action": "lowered",
+		"name": "red_world_rebirth",
+		"to_rank": 896,
+		"from_rank": 801,
+		"above": "backlights",
+		"below": "firepower_mrlorenzo"
 	}
 ]
