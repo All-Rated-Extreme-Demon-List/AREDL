@@ -7378,5 +7378,14 @@
 		"from_rank": 801,
 		"above": "backlights",
 		"below": "firepower_mrlorenzo"
+	},
+	{
+		"date": 1735922687,
+		"action": "raised",
+		"name": "butiti_iii",
+		"to_rank": 393,
+		"from_rank": 429,
+		"above": "spectrum_rave",
+		"below": "free_for_all_2"
 	}
 ]
