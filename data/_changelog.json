@@ -7387,5 +7387,14 @@
 		"from_rank": 429,
 		"above": "spectrum_rave",
 		"below": "free_for_all_2"
+	},
+	{
+		"date": 1735927995,
+		"action": "lowered",
+		"name": "la_cueva",
+		"to_rank": 388,
+		"from_rank": 347,
+		"above": "rate_demon",
+		"below": "static_ignition"
 	}
 ]
