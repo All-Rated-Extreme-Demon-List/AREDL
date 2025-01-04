@@ -2,10 +2,19 @@
 	"id": 96996017,
 	"name": "100HEX",
 	"author": 3854072594,
-	"creators": [3854072594],
+	"creators": [
+		3854072594
+	],
 	"verifier": 7963287990,
 	"verification": "https://youtu.be/S_O0y_AhZ4I?si=KZO5C69Hsx4eSUpx",
 	"percentToQualify": 100,
 	"password": "Free Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 7099339620,
+			"link": "https://youtu.be/5hfw5fSWnKQ",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
