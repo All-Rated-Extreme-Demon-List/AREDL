@@ -7396,5 +7396,14 @@
 		"from_rank": 347,
 		"above": "rate_demon",
 		"below": "static_ignition"
+	},
+	{
+		"date": 1736014042,
+		"action": "raised",
+		"name": "falling_up",
+		"to_rank": 886,
+		"from_rank": 910,
+		"above": "enlightened_memories",
+		"below": "retention"
 	}
 ]
