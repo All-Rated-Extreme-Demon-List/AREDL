@@ -7423,5 +7423,14 @@
 		"from_rank": null,
 		"above": "sonic_wave_infinity",
 		"below": "unknown"
+	},
+	{
+		"date": 1736110382,
+		"action": "raised",
+		"name": "cold_sweat",
+		"to_rank": 85,
+		"from_rank": 87,
+		"above": "thinking_space",
+		"below": "promethean"
 	}
 ]
