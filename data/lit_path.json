@@ -2,10 +2,19 @@
 	"id": 97175254,
 	"name": "Lit Path",
 	"author": 1089274231,
-	"creators": [1089274231],
+	"creators": [
+		1089274231
+	],
 	"verifier": 5663708346,
 	"verification": "https://youtu.be/RIyvgfhubIA?si=l1IBudUUcAr2uAic",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 4854424575,
+			"link": "https://youtu.be/voy3qKJYJfs",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
