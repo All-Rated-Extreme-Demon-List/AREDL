@@ -7477,5 +7477,14 @@
 		"from_rank": 19,
 		"above": "solar_flare",
 		"below": "eyes_in_the_water"
+	},
+	{
+		"date": 1736456445,
+		"action": "lowered",
+		"name": "lucid_nightmares",
+		"to_rank": 109,
+		"from_rank": 105,
+		"above": "shardscapes",
+		"below": "launchpad_labyrinth"
 	}
 ]
