@@ -7495,5 +7495,14 @@
 		"from_rank": 1015,
 		"above": "azurite_sillow",
 		"below": "glisten"
+	},
+	{
+		"date": 1736459891,
+		"action": "lowered",
+		"name": "dimensional_breaking",
+		"to_rank": 306,
+		"from_rank": 277,
+		"above": "devil_vortex",
+		"below": "tenochtitlan"
 	}
 ]
