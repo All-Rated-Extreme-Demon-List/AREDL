@@ -7504,5 +7504,14 @@
 		"from_rank": 277,
 		"above": "devil_vortex",
 		"below": "tenochtitlan"
+	},
+	{
+		"date": 1736460036,
+		"action": "raised",
+		"name": "dimensional_breaking",
+		"to_rank": 306,
+		"from_rank": 306,
+		"above": "devil_vortex",
+		"below": "tenochtitlan"
 	}
 ]
