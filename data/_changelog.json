@@ -7486,5 +7486,14 @@
 		"from_rank": 105,
 		"above": "shardscapes",
 		"below": "launchpad_labyrinth"
+	},
+	{
+		"date": 1736459818,
+		"action": "lowered",
+		"name": "a9blue",
+		"to_rank": 1024,
+		"from_rank": 1015,
+		"above": "azurite_sillow",
+		"below": "glisten"
 	}
 ]
