@@ -7513,5 +7513,14 @@
 		"from_rank": 306,
 		"above": "devil_vortex",
 		"below": "tenochtitlan"
+	},
+	{
+		"date": 1736548440,
+		"action": "lowered",
+		"name": "astrophobia",
+		"to_rank": 572,
+		"from_rank": 569,
+		"above": "azurite_royen",
+		"below": "up_and_down"
 	}
 ]
