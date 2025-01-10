@@ -7540,5 +7540,14 @@
 		"from_rank": 841,
 		"above": "vacant",
 		"below": "plus_ultra"
+	},
+	{
+		"date": 1736550994,
+		"action": "raised",
+		"name": "boreas",
+		"to_rank": 936,
+		"from_rank": 991,
+		"above": "alcatraz",
+		"below": "allegiance"
 	}
 ]
