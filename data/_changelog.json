@@ -7522,5 +7522,14 @@
 		"from_rank": 569,
 		"above": "azurite_royen",
 		"below": "up_and_down"
+	},
+	{
+		"date": 1736549874,
+		"action": "raised",
+		"name": "heavens_door",
+		"to_rank": 609,
+		"from_rank": 682,
+		"above": "a_bizarre_phantasm",
+		"below": "phosphorescent"
 	}
 ]
