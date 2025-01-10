@@ -7531,5 +7531,14 @@
 		"from_rank": 682,
 		"above": "a_bizarre_phantasm",
 		"below": "phosphorescent"
+	},
+	{
+		"date": 1736550047,
+		"action": "lowered",
+		"name": "bye",
+		"to_rank": 893,
+		"from_rank": 841,
+		"above": "vacant",
+		"below": "plus_ultra"
 	}
 ]
