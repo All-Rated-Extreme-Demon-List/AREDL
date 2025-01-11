@@ -7558,5 +7558,14 @@
 		"from_rank": null,
 		"above": "kub",
 		"below": "gaming_35"
+	},
+	{
+		"date": 1736628175,
+		"action": "raised",
+		"name": "bloodbath",
+		"to_rank": 587,
+		"from_rank": 588,
+		"above": "prismatic_haze",
+		"below": "goldcrest_palace"
 	}
 ]
