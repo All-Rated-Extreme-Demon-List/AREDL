@@ -7567,5 +7567,14 @@
 		"from_rank": 588,
 		"above": "prismatic_haze",
 		"below": "goldcrest_palace"
+	},
+	{
+		"date": 1736628322,
+		"action": "raised",
+		"name": "deimos_itshybrid",
+		"to_rank": 16,
+		"from_rank": 18,
+		"above": "firework",
+		"below": "boobawamba"
 	}
 ]
