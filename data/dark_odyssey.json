@@ -1529,6 +1529,19 @@
 			"link": "https://www.youtube.com/watch?v=qUySvPnwvbE",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": 9862625345,
+			"link": "https://www.youtube.com/watch?v=6ZTGzBlSyCg",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		},
+		{
+			"user": 2435727704,
+			"link": "https://www.twitch.tv/videos/2350893059",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
