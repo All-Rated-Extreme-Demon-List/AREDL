@@ -7594,5 +7594,14 @@
 		"from_rank": 573,
 		"above": "biohazard",
 		"below": "monstercat"
+	},
+	{
+		"date": 1736725337,
+		"action": "lowered",
+		"name": "azurite_royen",
+		"to_rank": 580,
+		"from_rank": 560,
+		"above": "maddening",
+		"below": "minimum"
 	}
 ]
