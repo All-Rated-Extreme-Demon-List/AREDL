@@ -7603,5 +7603,14 @@
 		"from_rank": 560,
 		"above": "maddening",
 		"below": "minimum"
+	},
+	{
+		"date": 1736744825,
+		"action": "lowered",
+		"name": "neon_guts",
+		"to_rank": 877,
+		"from_rank": 844,
+		"above": "napalm",
+		"below": "reverence"
 	}
 ]
