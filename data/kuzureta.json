@@ -27,7 +27,9 @@
 	"verifier": 4051702612,
 	"verification": "https://youtu.be/Q5LqZ9aKn78",
 	"percentToQualify": 100,
-	"tags": ["NONG"],
+	"tags": [
+		"NONG"
+	],
 	"records": [
 		{
 			"user": 6403158681,
@@ -686,6 +688,12 @@
 		{
 			"user": 9796697386,
 			"link": "https://youtu.be/oq1it-q1aIE?si=RxIagtiGM6GBzt8K",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8839219955,
+			"link": "https://youtu.be/ncciQfdp1ew",
 			"percent": 100,
 			"hz": 360
 		}
