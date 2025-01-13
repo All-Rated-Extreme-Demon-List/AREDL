@@ -1,11 +1,24 @@
 {
-	"id": 107764640,
-	"name": "Lovestruck",
-	"author": 6015376129,
-	"creators": [6015376129,5816304874,4161783605,4235117103,9521175012,2079881899,2645927456,1028357416,8575323303,8793524854,4546764138],
-	"verifier": 9577565812,
-	"verification": "https://youtu.be/nKOqCmJJRD4?si=XR2psgsy1Wq6o91A",
-	"percentToQualify": 100,
-	"password": "No Copy",
-	"records" : []
+    "id": 107764640,
+    "name": "Lovestruck",
+    "author": 6015376129,
+    "creators": [
+        6015376129,
+        5816304874,
+        4161783605,
+        4235117103,
+        9521175012,
+        2079881899,
+        2645927456,
+        1028357416,
+        8575323303,
+        8793524854,
+        4546764138
+    ],
+    "verifier": 9577565812,
+    "verification": "https://youtu.be/nKOqCmJJRD4?si=XR2psgsy1Wq6o91A",
+    "percentToQualify": 100,
+    "password": "No Copy",
+    "song": 626472,
+    "records": []
 }

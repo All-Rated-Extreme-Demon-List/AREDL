@@ -1,35 +1,36 @@
 {
-	"id": 83969616,
-	"name": "Cersia Madness",
-	"tags": [
-		"2.1",
-		"Long",
-		"Duals",
-		"Cube"
-	],
-	"author": 3468549686,
-	"creators": [],
-	"verifier": 3468549686,
-	"verification": "https://www.youtube.com/watch?v=vGHOD8OWgdY",
-	"percentToQualify": 100,
-	"records": [
-		{
-			"user": 5757119686,
-			"link": "https://youtu.be/Qciv0T4r_94",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 5486054620,
-			"link": "https://youtu.be/GtFylaTgb_Q?si=D4NjVwn4Ubrp0xVF",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7973652256,
-			"link": "https://youtu.be/cEou77YGeoY",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 83969616,
+    "name": "Cersia Madness",
+    "tags": [
+        "2.1",
+        "Long",
+        "Duals",
+        "Cube"
+    ],
+    "author": 3468549686,
+    "creators": [],
+    "verifier": 3468549686,
+    "verification": "https://www.youtube.com/watch?v=vGHOD8OWgdY",
+    "percentToQualify": 100,
+    "song": -1,
+    "records": [
+        {
+            "user": 5757119686,
+            "link": "https://youtu.be/Qciv0T4r_94",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 5486054620,
+            "link": "https://youtu.be/GtFylaTgb_Q?si=D4NjVwn4Ubrp0xVF",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7973652256,
+            "link": "https://youtu.be/cEou77YGeoY",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

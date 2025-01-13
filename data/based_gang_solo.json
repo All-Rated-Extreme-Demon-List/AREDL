@@ -1,82 +1,83 @@
 {
-	"id": 71692057,
-	"name": "Based Gang (Solo)",
-	"tags": [
-		"2.1",
-		"Long",
-		"Fast-Paced",
-		"Bossfight",
-		"Ship",
-		"Wave"
-	],
-	"author": 1650874345,
-	"creators": [
-		1650874345,
-		8940175014
-	],
-	"verifier": 6344626514,
-	"verification": "https://youtu.be/wu-t-yzCLgc",
-	"percentToQualify": 100,
-	"records": [
-		{
-			"user": 8299075170,
-			"link": "https://youtu.be/tMoJ2X4-tdE?si=hST20lFHYqKe_nuL",
-			"percent": 100,
-			"hz": 75
-		},
-		{
-			"user": 8296348914,
-			"link": "https://www.youtube.com/watch?v=iQO3pyVMR7Y",
-			"percent": 100,
-			"hz": 144
-		},
-		{
-			"user": 6900951283,
-			"link": "https://youtu.be/1RCw5BlLYOc?si=G4hSKRbKpxrhYy8T",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 8566191527,
-			"link": "https://www.youtube.com/watch?v=mvpeiebLmb4",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6333544869,
-			"link": "https://youtu.be/oYf8WimPo7w",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 4034973733,
-			"link": "https://www.youtube.com/watch?v=jkfFmnqxKVw",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 5167943716,
-			"link": "https://youtu.be/dzd7eggs9MU?si=nug9lh1Q5vUTQ3FJ",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3153147806,
-			"link": "https://youtu.be/l_kSiB2ylqQ",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 4530221665,
-			"link": "https://youtu.be/KjE_r_8N54s?si=bGf6RAldhR9fnkl2&t=5",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 2785378289,
-			"link": "https://www.youtube.com/watch?v=WqIHHgROGxQ",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 71692057,
+    "name": "Based Gang (Solo)",
+    "tags": [
+        "2.1",
+        "Long",
+        "Fast-Paced",
+        "Bossfight",
+        "Ship",
+        "Wave"
+    ],
+    "author": 1650874345,
+    "creators": [
+        1650874345,
+        8940175014
+    ],
+    "verifier": 6344626514,
+    "verification": "https://youtu.be/wu-t-yzCLgc",
+    "percentToQualify": 100,
+    "song": 971572,
+    "records": [
+        {
+            "user": 8299075170,
+            "link": "https://youtu.be/tMoJ2X4-tdE?si=hST20lFHYqKe_nuL",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": 8296348914,
+            "link": "https://www.youtube.com/watch?v=iQO3pyVMR7Y",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": 6900951283,
+            "link": "https://youtu.be/1RCw5BlLYOc?si=G4hSKRbKpxrhYy8T",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 8566191527,
+            "link": "https://www.youtube.com/watch?v=mvpeiebLmb4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6333544869,
+            "link": "https://youtu.be/oYf8WimPo7w",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 4034973733,
+            "link": "https://www.youtube.com/watch?v=jkfFmnqxKVw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 5167943716,
+            "link": "https://youtu.be/dzd7eggs9MU?si=nug9lh1Q5vUTQ3FJ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3153147806,
+            "link": "https://youtu.be/l_kSiB2ylqQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 4530221665,
+            "link": "https://youtu.be/KjE_r_8N54s?si=bGf6RAldhR9fnkl2&t=5",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 2785378289,
+            "link": "https://www.youtube.com/watch?v=WqIHHgROGxQ",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

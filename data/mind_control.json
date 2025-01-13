@@ -1,166 +1,167 @@
 {
-	"id": 77487419,
-	"name": "Mind Control",
-	"author": 3972066436,
-	"creators": [
-		3972066436,
-		1921977854,
-		4796048557,
-		5035072909,
-		3185812476,
-		4063169885,
-		9848660956,
-		6216065419,
-		2855835226,
-		6330739817
-	],
-	"verifier": 4316646717,
-	"verification": "https://www.youtube.com/watch?v=GLvDwC0odvk",
-	"percentToQualify": 100,
-	"records": [
-		{
-			"user": 4341862834,
-			"link": "https://youtu.be/aJBrJiFO13Y",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6804914118,
-			"link": "https://youtu.be/M2qj1jAnF0M",
-			"percent": 100,
-			"hz": 300
-		},
-		{
-			"user": 6361250397,
-			"link": "https://www.youtube.com/watch?v=QQgzd6B8xio",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 2108149776,
-			"link": "https://www.youtube.com/watch?v=2JLXV_uybaw",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3224305727,
-			"link": "https://youtu.be/IzJ8dYw_q3c",
-			"percent": 100,
-			"hz": 240
-		},
-		{
-			"user": 9349980438,
-			"link": "https://www.youtube.com/watch?v=KoPze9YtB3A",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3374419668,
-			"link": "https://youtu.be/F32baUs2Ytw?si=wOCZAuH4py_d8y4k",
-			"percent": 100,
-			"hz": 288
-		},
-		{
-			"user": 7133276656,
-			"link": "https://medal.tv/games/geometry-dash/clips/1TBSz4n961ZEwU/d1337BjoxjAZ?invite=cr-MSxVQVQsNTI2NzAxMDMs",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 8810085586,
-			"link": "https://www.youtube.com/watch?v=2wmeYzvS1R8&list=PL5O1xXESiIKj2PIhyQXIc85tW80R1CNJU&index=215",
-			"percent": 100,
-			"hz": 240
-		},
-		{
-			"user": 7585028268,
-			"link": "https://www.youtube.com/watch?v=2Lrh2K_YGT0",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6087745601,
-			"link": "https://youtu.be/xFUAzVZk4_A?si=KDWoZsz9AL6VB2YE",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 1735976621,
-			"link": "https://www.youtube.com/watch?v=ZCe4No_lHWI",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 5769250037,
-			"link": "https://youtu.be/qAG3E84K7IQ?si=NRjjmTWCI5ezkYKn",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 1387863841,
-			"link": "https://youtu.be/JiuCLKih1CM",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3740620269,
-			"link": "https://www.youtube.com/watch?v=8PNsuaNYbaE",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 8163379801,
-			"link": "https://youtu.be/cLQsCMCVorI",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7775567977,
-			"link": "https://www.youtube.com/watch?v=-muQQ1T_JU8&t=900s",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 1772295387,
-			"link": "https://youtu.be/2ATU_MiXmzo?si=blpFPtQ1lrPF-fVa",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 4886572813,
-			"link": "https://youtu.be/dIceW61Va_E",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3969992072,
-			"link": "https://www.youtube.com/watch?v=rU4oZ_XTJb8&t=99s&ab_channel=derf",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 1035964310,
-			"link": "https://youtu.be/jE7QM4DjhKM?si=yQsVwrRQd3NAKGC_",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 2034931393,
-			"link": "https://www.youtube.com/watch?v=eeV9lFSSOPk",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3580053650,
-			"link": "https://youtu.be/sGkArX9o0C0?si=UYqfEh51zM9pO_sZ",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 1239583077,
-			"link": "https://youtu.be/3gPuWLUgiaw",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 77487419,
+    "name": "Mind Control",
+    "author": 3972066436,
+    "creators": [
+        3972066436,
+        1921977854,
+        4796048557,
+        5035072909,
+        3185812476,
+        4063169885,
+        9848660956,
+        6216065419,
+        2855835226,
+        6330739817
+    ],
+    "verifier": 4316646717,
+    "verification": "https://www.youtube.com/watch?v=GLvDwC0odvk",
+    "percentToQualify": 100,
+    "song": 219635,
+    "records": [
+        {
+            "user": 4341862834,
+            "link": "https://youtu.be/aJBrJiFO13Y",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6804914118,
+            "link": "https://youtu.be/M2qj1jAnF0M",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": 6361250397,
+            "link": "https://www.youtube.com/watch?v=QQgzd6B8xio",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 2108149776,
+            "link": "https://www.youtube.com/watch?v=2JLXV_uybaw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3224305727,
+            "link": "https://youtu.be/IzJ8dYw_q3c",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": 9349980438,
+            "link": "https://www.youtube.com/watch?v=KoPze9YtB3A",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3374419668,
+            "link": "https://youtu.be/F32baUs2Ytw?si=wOCZAuH4py_d8y4k",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": 7133276656,
+            "link": "https://medal.tv/games/geometry-dash/clips/1TBSz4n961ZEwU/d1337BjoxjAZ?invite=cr-MSxVQVQsNTI2NzAxMDMs",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 8810085586,
+            "link": "https://www.youtube.com/watch?v=2wmeYzvS1R8&list=PL5O1xXESiIKj2PIhyQXIc85tW80R1CNJU&index=215",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": 7585028268,
+            "link": "https://www.youtube.com/watch?v=2Lrh2K_YGT0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6087745601,
+            "link": "https://youtu.be/xFUAzVZk4_A?si=KDWoZsz9AL6VB2YE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 1735976621,
+            "link": "https://www.youtube.com/watch?v=ZCe4No_lHWI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 5769250037,
+            "link": "https://youtu.be/qAG3E84K7IQ?si=NRjjmTWCI5ezkYKn",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 1387863841,
+            "link": "https://youtu.be/JiuCLKih1CM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3740620269,
+            "link": "https://www.youtube.com/watch?v=8PNsuaNYbaE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 8163379801,
+            "link": "https://youtu.be/cLQsCMCVorI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7775567977,
+            "link": "https://www.youtube.com/watch?v=-muQQ1T_JU8&t=900s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 1772295387,
+            "link": "https://youtu.be/2ATU_MiXmzo?si=blpFPtQ1lrPF-fVa",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 4886572813,
+            "link": "https://youtu.be/dIceW61Va_E",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3969992072,
+            "link": "https://www.youtube.com/watch?v=rU4oZ_XTJb8&t=99s&ab_channel=derf",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 1035964310,
+            "link": "https://youtu.be/jE7QM4DjhKM?si=yQsVwrRQd3NAKGC_",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 2034931393,
+            "link": "https://www.youtube.com/watch?v=eeV9lFSSOPk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3580053650,
+            "link": "https://youtu.be/sGkArX9o0C0?si=UYqfEh51zM9pO_sZ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 1239583077,
+            "link": "https://youtu.be/3gPuWLUgiaw",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

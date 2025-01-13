@@ -1,41 +1,42 @@
 {
-	"id": 83421663,
-	"name": "Triadic Trials",
-	"author": 9519323388,
-	"creators": [],
-	"verifier": 7818417859,
-	"verification": "https://www.youtube.com/watch?v=JeO7LaXNFpY&t=18s",
-	"percentToQualify": 100,
-	"records": [
-		{
-			"user": 9405692896,
-			"link": "https://www.youtube.com/watch?v=u5tOrXKNonw",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3490111173,
-			"link": "https://youtu.be/s7MzCcMLenQ?si=hlitUBO56gM1-QSd",
-			"percent": 100,
-			"hz": 288
-		},
-		{
-			"user": 7544428170,
-			"link": "https://www.youtube.com/watch?v=ydj9ul-4OJA",
-			"percent": 100,
-			"hz": 240
-		},
-		{
-			"user": 8078038373,
-			"link": "https://youtu.be/js6meyhUVbw",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7452292815,
-			"link": "https://www.youtube.com/watch?v=MTRK2pdsbmg",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 83421663,
+    "name": "Triadic Trials",
+    "author": 9519323388,
+    "creators": [],
+    "verifier": 7818417859,
+    "verification": "https://www.youtube.com/watch?v=JeO7LaXNFpY&t=18s",
+    "percentToQualify": 100,
+    "song": 87895,
+    "records": [
+        {
+            "user": 9405692896,
+            "link": "https://www.youtube.com/watch?v=u5tOrXKNonw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3490111173,
+            "link": "https://youtu.be/s7MzCcMLenQ?si=hlitUBO56gM1-QSd",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": 7544428170,
+            "link": "https://www.youtube.com/watch?v=ydj9ul-4OJA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": 8078038373,
+            "link": "https://youtu.be/js6meyhUVbw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7452292815,
+            "link": "https://www.youtube.com/watch?v=MTRK2pdsbmg",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

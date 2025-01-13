@@ -1,24 +1,25 @@
 {
-	"id": 93917076,
-	"name": "The Lightning Rod",
-	"author": 7382200743,
-	"creators": [],
-	"verifier": 7382200743,
-	"verification": "https://youtu.be/nQDTi077O6M?si=amYzR6MyV9gK1gH6",
-	"percentToQualify": 100,
-	"password": "",
-	"records": [
-		{
-			"user": 5011629074,
-			"link": "https://youtu.be/Y7GY3V2oPWQ?si=fCGECPn441ZukqRq",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 2233668760,
-			"link": "https://www.twitch.tv/videos/2127620427",
-			"percent": 100,
-			"hz": 480
-		}
-	]
+    "id": 93917076,
+    "name": "The Lightning Rod",
+    "author": 7382200743,
+    "creators": [],
+    "verifier": 7382200743,
+    "verification": "https://youtu.be/nQDTi077O6M?si=amYzR6MyV9gK1gH6",
+    "percentToQualify": 100,
+    "password": "",
+    "song": 935594,
+    "records": [
+        {
+            "user": 5011629074,
+            "link": "https://youtu.be/Y7GY3V2oPWQ?si=fCGECPn441ZukqRq",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 2233668760,
+            "link": "https://www.twitch.tv/videos/2127620427",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
 }

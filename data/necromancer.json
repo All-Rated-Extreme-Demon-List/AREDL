@@ -1,57 +1,58 @@
 {
-	"id": 53443974,
-	"name": "Necromancer",
-	"author": 9892130045,
-	"creators": [
-		8055611371,
-		8234567164,
-		9120450247,
-		2062751926,
-		7652908224,
-		8619093026,
-		1762461014,
-		7194048135
-	],
-	"verifier": 9892130045,
-	"verification": "https://www.youtube.com/watch?v=y-NwRnHqaJI",
-	"percentToQualify": 100,
-	"password": "555555",
-	"records": [
-		{
-			"user": 9875331982,
-			"link": "https://youtu.be/k4T5ORTUvWk?si=FWdCRqetJJ72JhvM",
-			"percent": 100,
-			"hz": 144
-		},
-		{
-			"user": 7544428170,
-			"link": "https://www.youtube.com/watch?v=5S3gf9rZ0Uk",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7775567977,
-			"link": "https://www.youtube.com/watch?v=sv4EVtk4fBc",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 8290935851,
-			"link": "https://youtu.be/2s631bNe6PA",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3050190027,
-			"link": "https://youtu.be/XOC-WzAIpN4",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 9114537438,
-			"link": "https://youtu.be/vuvFZ1DL8sM?si=pKiIo-nU4dnOM-mA",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 53443974,
+    "name": "Necromancer",
+    "author": 9892130045,
+    "creators": [
+        8055611371,
+        8234567164,
+        9120450247,
+        2062751926,
+        7652908224,
+        8619093026,
+        1762461014,
+        7194048135
+    ],
+    "verifier": 9892130045,
+    "verification": "https://www.youtube.com/watch?v=y-NwRnHqaJI",
+    "percentToQualify": 100,
+    "password": "555555",
+    "song": -8,
+    "records": [
+        {
+            "user": 9875331982,
+            "link": "https://youtu.be/k4T5ORTUvWk?si=FWdCRqetJJ72JhvM",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": 7544428170,
+            "link": "https://www.youtube.com/watch?v=5S3gf9rZ0Uk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7775567977,
+            "link": "https://www.youtube.com/watch?v=sv4EVtk4fBc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 8290935851,
+            "link": "https://youtu.be/2s631bNe6PA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3050190027,
+            "link": "https://youtu.be/XOC-WzAIpN4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 9114537438,
+            "link": "https://youtu.be/vuvFZ1DL8sM?si=pKiIo-nU4dnOM-mA",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

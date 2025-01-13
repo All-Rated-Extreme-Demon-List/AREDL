@@ -1,171 +1,172 @@
 {
-	"id": 60387034,
-	"name": "Libertas",
-	"author": 9117476091,
-	"creators": [
-		9117476091,
-		1935624349,
-		5182102468
-	],
-	"verifier": 5182102468,
-	"verification": "https://www.youtube.com/watch?v=cfBZ8af0XDo",
-	"percentToQualify": 100,
-	"records": [
-		{
-			"user": 7035659776,
-			"link": "https://www.youtube.com/watch?v=ALiI9Z10GqU&ab_channel=Bleamer",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3442731355,
-			"link": "https://youtu.be/-T0KJBXvot8",
-			"percent": 100,
-			"hz": 144
-		},
-		{
-			"user": 3388622617,
-			"link": "https://youtu.be/Zk_GahtQh28",
-			"percent": 100,
-			"hz": 240
-		},
-		{
-			"user": 9925554002,
-			"link": "https://www.youtube.com/watch?v=pseBkXfE8DY",
-			"percent": 100,
-			"hz": 288
-		},
-		{
-			"user": 6807948992,
-			"link": "https://www.youtube.com/watch?v=_iga-F7Ez6g&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=41",
-			"percent": 100,
-			"hz": 240
-		},
-		{
-			"user": 7403208507,
-			"link": "https://youtu.be/xJa4OycPyHY",
-			"percent": 100,
-			"hz": 240
-		},
-		{
-			"user": 1395657543,
-			"link": "https://youtu.be/_g2lM-yBzns",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 9405692896,
-			"link": "https://www.youtube.com/watch?v=eVoCxJWwzsY",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 1772295387,
-			"link": "https://youtu.be/FnR7Fe8o4JI?si=1JByrRoI9rGmnOZX",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6558732412,
-			"link": "https://youtu.be/SIcI4rfG8aI?si=Q2EioVJSxX-OKpsw",
-			"percent": 100,
-			"hz": 288
-		},
-		{
-			"user": 7341732554,
-			"link": "https://youtu.be/6HGd8hPXOJA?si=8H94eZ7XB2zxPlQA",
-			"percent": 100,
-			"hz": 240
-		},
-		{
-			"user": 3020427956,
-			"link": "https://www.youtube.com/watch?v=5cD9VFhPm8A",
-			"percent": 100,
-			"hz": 240
-		},
-		{
-			"user": 5589328288,
-			"link": "https://youtu.be/vqX4DnSebbc?si=fA-oZHXzLJlSR7f9",
-			"percent": 100,
-			"hz": 300
-		},
-		{
-			"user": 9537924475,
-			"link": "https://youtu.be/gZZizAMZ_fE?si=rtQwmyTzomNXneAV",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 9404117600,
-			"link": "https://www.youtube.com/watch?v=rhyR6208AGU",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 8185484655,
-			"link": "https://youtu.be/mqSL39HKmzg?si=m3nY1VitlFyjgPeW",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7775567977,
-			"link": "https://www.youtube.com/watch?v=Kw2nk7kQjtM",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 2951995914,
-			"link": "https://youtu.be/fY2noMsEvbY?si=aqHE-Jx0lUg8Xlkc",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3050190027,
-			"link": "https://youtu.be/5cNbf6oZWbg",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 9735265643,
-			"link": "https://youtu.be/0ydcKBI-8mc?si=l2rHcFE6A8pu3ZuY",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 8104345661,
-			"link": "https://www.youtube.com/watch?v=NWx_SZyc5V0&t=2s",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 8469835947,
-			"link": "https://www.youtube.com/watch?v=1AkbmCDO9Dc",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 5713725107,
-			"link": "https://www.youtube.com/watch?v=OhWCZB6dYik",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6330419507,
-			"link": "https://youtu.be/rAY9QtYpyTM",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3740620269,
-			"link": "https://youtu.be/1n6lgu6_-LU",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7636651759,
-			"link": "https://www.youtube.com/watch?v=hZTpZAeLA_A",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 60387034,
+    "name": "Libertas",
+    "author": 9117476091,
+    "creators": [
+        9117476091,
+        1935624349,
+        5182102468
+    ],
+    "verifier": 5182102468,
+    "verification": "https://www.youtube.com/watch?v=cfBZ8af0XDo",
+    "percentToQualify": 100,
+    "song": 552058,
+    "records": [
+        {
+            "user": 7035659776,
+            "link": "https://www.youtube.com/watch?v=ALiI9Z10GqU&ab_channel=Bleamer",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3442731355,
+            "link": "https://youtu.be/-T0KJBXvot8",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": 3388622617,
+            "link": "https://youtu.be/Zk_GahtQh28",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": 9925554002,
+            "link": "https://www.youtube.com/watch?v=pseBkXfE8DY",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": 6807948992,
+            "link": "https://www.youtube.com/watch?v=_iga-F7Ez6g&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=41",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": 7403208507,
+            "link": "https://youtu.be/xJa4OycPyHY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": 1395657543,
+            "link": "https://youtu.be/_g2lM-yBzns",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 9405692896,
+            "link": "https://www.youtube.com/watch?v=eVoCxJWwzsY",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 1772295387,
+            "link": "https://youtu.be/FnR7Fe8o4JI?si=1JByrRoI9rGmnOZX",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6558732412,
+            "link": "https://youtu.be/SIcI4rfG8aI?si=Q2EioVJSxX-OKpsw",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": 7341732554,
+            "link": "https://youtu.be/6HGd8hPXOJA?si=8H94eZ7XB2zxPlQA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": 3020427956,
+            "link": "https://www.youtube.com/watch?v=5cD9VFhPm8A",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": 5589328288,
+            "link": "https://youtu.be/vqX4DnSebbc?si=fA-oZHXzLJlSR7f9",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": 9537924475,
+            "link": "https://youtu.be/gZZizAMZ_fE?si=rtQwmyTzomNXneAV",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 9404117600,
+            "link": "https://www.youtube.com/watch?v=rhyR6208AGU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 8185484655,
+            "link": "https://youtu.be/mqSL39HKmzg?si=m3nY1VitlFyjgPeW",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7775567977,
+            "link": "https://www.youtube.com/watch?v=Kw2nk7kQjtM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 2951995914,
+            "link": "https://youtu.be/fY2noMsEvbY?si=aqHE-Jx0lUg8Xlkc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3050190027,
+            "link": "https://youtu.be/5cNbf6oZWbg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 9735265643,
+            "link": "https://youtu.be/0ydcKBI-8mc?si=l2rHcFE6A8pu3ZuY",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 8104345661,
+            "link": "https://www.youtube.com/watch?v=NWx_SZyc5V0&t=2s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 8469835947,
+            "link": "https://www.youtube.com/watch?v=1AkbmCDO9Dc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 5713725107,
+            "link": "https://www.youtube.com/watch?v=OhWCZB6dYik",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6330419507,
+            "link": "https://youtu.be/rAY9QtYpyTM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3740620269,
+            "link": "https://youtu.be/1n6lgu6_-LU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7636651759,
+            "link": "https://www.youtube.com/watch?v=hZTpZAeLA_A",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

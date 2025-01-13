@@ -1,141 +1,142 @@
 {
-	"id": 88442157,
-	"name": "Critical Heat",
-	"tags": [
-		"2.1",
-		"Long",
-		"Fast-Paced",
-		"Overall",
-		"Duals"
-	],
-	"author": 1740043275,
-	"creators": [
-		3879155370,
-		1740043275
-	],
-	"verifier": 6488620742,
-	"verification": "https://www.youtube.com/watch?v=UjYIt2jy_BY",
-	"percentToQualify": 100,
-	"records": [
-		{
-			"user": 5011629074,
-			"link": "https://youtu.be/1B7gJOkTaKM",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6804914118,
-			"link": "https://youtu.be/BhPpau-BIEQ",
-			"percent": 100,
-			"hz": 300
-		},
-		{
-			"user": 5880962364,
-			"link": "https://www.youtube.com/watch?v=zVqPSDNYWSQ",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 5999186950,
-			"link": "https://youtu.be/BXyesAl6uRs",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 2587326323,
-			"link": "https://www.youtube.com/watch?v=5h4XgGjOH8w",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 9879633307,
-			"link": "https://youtu.be/LXxUC8ykc54?si=xAL4O5TC6j_MfLa5",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 1117623866,
-			"link": "https://www.youtube.com/watch?v=lBAOsp2zl94",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6820369219,
-			"link": "https://youtu.be/g-EoaUhtCoo",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3452392527,
-			"link": "https://youtu.be/_U6OlVCR_d8?si=xl9gALQx4vDoJ0a-",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3953213182,
-			"link": "https://youtu.be/Y9O0Es-JczM",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3984492432,
-			"link": "https://youtu.be/WZjA-I0O4Bg",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 8666148048,
-			"link": "https://youtu.be/t83I9joq_To?si=ZrFVQtHYkZDWhyRm",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 5711090524,
-			"link": "https://www.youtube.com/watch?v=uC9eW0xu1js",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 1179495566,
-			"link": "https://youtu.be/LFBiX3c3hhs?si=lBkvCD7efkJIKOQb",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6626447859,
-			"link": "https://www.youtube.com/watch?v=FGXpEiycAlQ",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7859110537,
-			"link": "https://www.youtube.com/watch?v=mPJg_64CIBQ",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 1286374211,
-			"link": "https://youtu.be/9FiUNCAQwzA?si=KymM81F073Jlx_Np",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 1431174007,
-			"link": "https://youtu.be/OPqyjb5TMTc?si=M1L4-aKr6FCbPx_l",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 5589836007,
-			"link": "https://youtu.be/Y1VFoLeUTpk",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3224305727,
-			"link": "https://youtu.be/gs1V0qcpQBc?si=RnpPpj1BMBI-HqqU",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 88442157,
+    "name": "Critical Heat",
+    "tags": [
+        "2.1",
+        "Long",
+        "Fast-Paced",
+        "Overall",
+        "Duals"
+    ],
+    "author": 1740043275,
+    "creators": [
+        3879155370,
+        1740043275
+    ],
+    "verifier": 6488620742,
+    "verification": "https://www.youtube.com/watch?v=UjYIt2jy_BY",
+    "percentToQualify": 100,
+    "song": 792302,
+    "records": [
+        {
+            "user": 5011629074,
+            "link": "https://youtu.be/1B7gJOkTaKM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6804914118,
+            "link": "https://youtu.be/BhPpau-BIEQ",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": 5880962364,
+            "link": "https://www.youtube.com/watch?v=zVqPSDNYWSQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 5999186950,
+            "link": "https://youtu.be/BXyesAl6uRs",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 2587326323,
+            "link": "https://www.youtube.com/watch?v=5h4XgGjOH8w",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 9879633307,
+            "link": "https://youtu.be/LXxUC8ykc54?si=xAL4O5TC6j_MfLa5",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 1117623866,
+            "link": "https://www.youtube.com/watch?v=lBAOsp2zl94",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6820369219,
+            "link": "https://youtu.be/g-EoaUhtCoo",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3452392527,
+            "link": "https://youtu.be/_U6OlVCR_d8?si=xl9gALQx4vDoJ0a-",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3953213182,
+            "link": "https://youtu.be/Y9O0Es-JczM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3984492432,
+            "link": "https://youtu.be/WZjA-I0O4Bg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 8666148048,
+            "link": "https://youtu.be/t83I9joq_To?si=ZrFVQtHYkZDWhyRm",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 5711090524,
+            "link": "https://www.youtube.com/watch?v=uC9eW0xu1js",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 1179495566,
+            "link": "https://youtu.be/LFBiX3c3hhs?si=lBkvCD7efkJIKOQb",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6626447859,
+            "link": "https://www.youtube.com/watch?v=FGXpEiycAlQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7859110537,
+            "link": "https://www.youtube.com/watch?v=mPJg_64CIBQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 1286374211,
+            "link": "https://youtu.be/9FiUNCAQwzA?si=KymM81F073Jlx_Np",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 1431174007,
+            "link": "https://youtu.be/OPqyjb5TMTc?si=M1L4-aKr6FCbPx_l",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 5589836007,
+            "link": "https://youtu.be/Y1VFoLeUTpk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3224305727,
+            "link": "https://youtu.be/gs1V0qcpQBc?si=RnpPpj1BMBI-HqqU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

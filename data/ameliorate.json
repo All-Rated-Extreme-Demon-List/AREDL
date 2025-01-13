@@ -1,41 +1,42 @@
 {
-	"id": 87335575,
-	"name": "ameliorate",
-	"tags": [
-		"2.1",
-		"XXXXL",
-		"Timings",
-		"Learny",
-		"Gimmicky",
-		"Overall"
-	],
-	"author": 6110936629,
-	"creators": [
-		6110936629,
-		5049969539,
-		8277219397
-	],
-	"verifier": 1167152843,
-	"verification": "https://youtu.be/-Ele6jC-100?si=nPb3WTUFS2iS7qY3",
-	"percentToQualify": 100,
-	"records": [
-		{
-			"user": 9405692896,
-			"link": "https://www.youtube.com/watch?v=Hy6QfD1FItY",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7973652256,
-			"link": "https://www.youtube.com/watch?v=Q3-1dJH29OQ",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 9057445035,
-			"link": "https://www.youtube.com/watch?v=oJKqYj1-JGc",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 87335575,
+    "name": "ameliorate",
+    "tags": [
+        "2.1",
+        "XXXXL",
+        "Timings",
+        "Learny",
+        "Gimmicky",
+        "Overall"
+    ],
+    "author": 6110936629,
+    "creators": [
+        6110936629,
+        5049969539,
+        8277219397
+    ],
+    "verifier": 1167152843,
+    "verification": "https://youtu.be/-Ele6jC-100?si=nPb3WTUFS2iS7qY3",
+    "percentToQualify": 100,
+    "song": 758018,
+    "records": [
+        {
+            "user": 9405692896,
+            "link": "https://www.youtube.com/watch?v=Hy6QfD1FItY",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7973652256,
+            "link": "https://www.youtube.com/watch?v=Q3-1dJH29OQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 9057445035,
+            "link": "https://www.youtube.com/watch?v=oJKqYj1-JGc",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

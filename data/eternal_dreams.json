@@ -1,101 +1,102 @@
 {
-	"id": 100486896,
-	"name": "Eternal Dreams",
-	"author": 1483525641,
-	"creators": [],
-	"verifier": 1483525641,
-	"verification": "https://youtu.be/fyLeP8i0bOU?si=tV1BzrjBMLa01re3",
-	"percentToQualify": 100,
-	"records": [
-		{
-			"user": 5800152758,
-			"link": "https://youtu.be/urUuchnziw8?si=mI6dK2kDBj4HhWOY",
-			"percent": 100,
-			"hz": 240
-		},
-		{
-			"user": 4901523854,
-			"link": "https://drive.google.com/file/d/13j2pcZGZimYXrkAbkbsTTRuEKeTzpPtX/view?usp=sharing",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 4717268865,
-			"link": "https://youtu.be/tLsGSo652vY",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 8558618006,
-			"link": "https://youtu.be/XfPhkRLTPjs",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 8163379801,
-			"link": "https://www.youtube.com/watch?v=GPnz3v_mxF0",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 4034973733,
-			"link": "https://www.youtube.com/watch?v=giPTLknxQ68",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 1681964441,
-			"link": "https://youtu.be/HcJQsf-k36U?si=RmVDKLKmDmDg_bTg",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7403208507,
-			"link": "https://youtu.be/3roBthhaU1o",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 4380648499,
-			"link": "https://youtu.be/hdXofRgrRwM?si=J5y6ndN_aOQ-5Fp3",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 9929302705,
-			"link": "https://www.youtube.com/watch?v=HcUBAFbmFVc",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 9246230842,
-			"link": "https://youtu.be/6GZPsoEiZBw",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6042988812,
-			"link": "https://youtu.be/M_qAiioVELY",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3452392527,
-			"link": "https://youtu.be/OP4Ms6JEtLo?si=BZXvCZVXWEcWbfRA",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7544428170,
-			"link": "https://www.youtube.com/watch?v=lNKktQX38lw",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3840185569,
-			"link": "https://youtu.be/ml-EeOmYE60?si=CjzebO5jTeeHH6IP",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 100486896,
+    "name": "Eternal Dreams",
+    "author": 1483525641,
+    "creators": [],
+    "verifier": 1483525641,
+    "verification": "https://youtu.be/fyLeP8i0bOU?si=tV1BzrjBMLa01re3",
+    "percentToQualify": 100,
+    "song": 887400,
+    "records": [
+        {
+            "user": 5800152758,
+            "link": "https://youtu.be/urUuchnziw8?si=mI6dK2kDBj4HhWOY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": 4901523854,
+            "link": "https://drive.google.com/file/d/13j2pcZGZimYXrkAbkbsTTRuEKeTzpPtX/view?usp=sharing",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 4717268865,
+            "link": "https://youtu.be/tLsGSo652vY",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 8558618006,
+            "link": "https://youtu.be/XfPhkRLTPjs",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 8163379801,
+            "link": "https://www.youtube.com/watch?v=GPnz3v_mxF0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 4034973733,
+            "link": "https://www.youtube.com/watch?v=giPTLknxQ68",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 1681964441,
+            "link": "https://youtu.be/HcJQsf-k36U?si=RmVDKLKmDmDg_bTg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7403208507,
+            "link": "https://youtu.be/3roBthhaU1o",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 4380648499,
+            "link": "https://youtu.be/hdXofRgrRwM?si=J5y6ndN_aOQ-5Fp3",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 9929302705,
+            "link": "https://www.youtube.com/watch?v=HcUBAFbmFVc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 9246230842,
+            "link": "https://youtu.be/6GZPsoEiZBw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6042988812,
+            "link": "https://youtu.be/M_qAiioVELY",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3452392527,
+            "link": "https://youtu.be/OP4Ms6JEtLo?si=BZXvCZVXWEcWbfRA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7544428170,
+            "link": "https://www.youtube.com/watch?v=lNKktQX38lw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3840185569,
+            "link": "https://youtu.be/ml-EeOmYE60?si=CjzebO5jTeeHH6IP",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

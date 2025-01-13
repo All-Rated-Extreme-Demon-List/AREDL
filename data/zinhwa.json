@@ -1,35 +1,36 @@
 {
-	"id": 93505324,
-	"name": "Zinhwa",
-	"author": 6374215322,
-	"creators": [],
-	"verifier": 6374215322,
-	"verification": "https://youtu.be/zkaI5ySYVhA?si=nN0tSZTBX-ENnKXL",
-	"percentToQualify": 100,
-	"records": [
-		{
-			"user": 3490111173,
-			"link": "https://youtu.be/NuyUIzesaRI",
-			"percent": 100,
-			"hz": 288
-		},
-		{
-			"user": 2541669760,
-			"link": "https://youtu.be/k4xJKTyVCiE?si=1qXUqG2eBgBtTN7H",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6862634670,
-			"link": "https://youtu.be/FDnVXoDRz1g?si=azlQ_lwbXyz2ujgu",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 2826782015,
-			"link": "https://youtu.be/RsaZ8Y1glHQ",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 93505324,
+    "name": "Zinhwa",
+    "author": 6374215322,
+    "creators": [],
+    "verifier": 6374215322,
+    "verification": "https://youtu.be/zkaI5ySYVhA?si=nN0tSZTBX-ENnKXL",
+    "percentToQualify": 100,
+    "song": 1181403,
+    "records": [
+        {
+            "user": 3490111173,
+            "link": "https://youtu.be/NuyUIzesaRI",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": 2541669760,
+            "link": "https://youtu.be/k4xJKTyVCiE?si=1qXUqG2eBgBtTN7H",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6862634670,
+            "link": "https://youtu.be/FDnVXoDRz1g?si=azlQ_lwbXyz2ujgu",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 2826782015,
+            "link": "https://youtu.be/RsaZ8Y1glHQ",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

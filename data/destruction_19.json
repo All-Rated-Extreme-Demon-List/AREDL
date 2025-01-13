@@ -1,29 +1,30 @@
 {
-	"id": 99495619,
-	"name": "Destruction 19",
-	"author": 3238559983,
-	"creators": [],
-	"verifier": 6076702762,
-	"verification": "https://youtu.be/UUyzGg_4mqs?si=LDMjIy0cZkSJrb1C",
-	"percentToQualify": 100,
-	"records": [
-		{
-			"user": 7775567977,
-			"link": "https://youtu.be/au62NiMz0w4?si=bgJH2r4Ee_uFjDzl",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 2260744819,
-			"link": "https://www.youtube.com/watch?v=RY1F0PXs4eA",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 9907091868,
-			"link": "https://youtu.be/X1XA1ok6alc?si=Cjtg0RFFAb3DkG2x",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 99495619,
+    "name": "Destruction 19",
+    "author": 3238559983,
+    "creators": [],
+    "verifier": 6076702762,
+    "verification": "https://youtu.be/UUyzGg_4mqs?si=LDMjIy0cZkSJrb1C",
+    "percentToQualify": 100,
+    "song": 465681,
+    "records": [
+        {
+            "user": 7775567977,
+            "link": "https://youtu.be/au62NiMz0w4?si=bgJH2r4Ee_uFjDzl",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 2260744819,
+            "link": "https://www.youtube.com/watch?v=RY1F0PXs4eA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 9907091868,
+            "link": "https://youtu.be/X1XA1ok6alc?si=Cjtg0RFFAb3DkG2x",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

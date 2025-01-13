@@ -1,126 +1,127 @@
 {
-	"id": 86233175,
-	"name": "Faded Dream",
-	"author": 4012247565,
-	"creators": [],
-	"verifier": 4012247565,
-	"verification": "https://www.youtube.com/watch?v=BmcRn7XUjTc",
-	"percentToQualify": 100,
-	"password": "112822",
-	"records": [
-		{
-			"user": 1286374211,
-			"link": "https://youtu.be/LC9ZHZaf0QI",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6558732412,
-			"link": "https://youtu.be/t9xP2EZkgv0",
-			"percent": 100,
-			"hz": 288
-		},
-		{
-			"user": 5999186950,
-			"link": "https://youtu.be/DDb9d7d0yi8",
-			"percent": 100,
-			"hz": 288
-		},
-		{
-			"user": 7403208507,
-			"link": "https://youtu.be/chQXZlwViSg",
-			"percent": 100,
-			"hz": 240
-		},
-		{
-			"user": 8163379801,
-			"link": "https://www.youtube.com/watch?v=qKDR2xtztbM",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 5611085886,
-			"link": "https://youtu.be/JP_PNwz1ftk",
-			"percent": 100,
-			"hz": 240
-		},
-		{
-			"user": 8299075170,
-			"link": "https://youtu.be/5IhUVDgM5M8",
-			"percent": 100,
-			"hz": 75
-		},
-		{
-			"user": 3490111173,
-			"link": "https://youtu.be/xtPpwJk8GZc?si=wRhSzmy2hlSy3vbC",
-			"percent": 100,
-			"hz": 288
-		},
-		{
-			"user": 4689297262,
-			"link": "https://www.youtube.com/watch?v=1SqU95kkB5E",
-			"percent": 100,
-			"hz": 240
-		},
-		{
-			"user": 1255942108,
-			"link": "https://youtu.be/k-v50fE_wPo?si=oCkbe1XHzBBBfQOQ",
-			"percent": 100,
-			"hz": 240
-		},
-		{
-			"user": 7548723422,
-			"link": "https://www.youtube.com/watch?v=jMeKGq7Hs20",
-			"percent": 100,
-			"hz": 288
-		},
-		{
-			"user": 3153147806,
-			"link": "https://youtu.be/cfSQWnosKEQ",
-			"percent": 100,
-			"hz": 120
-		},
-		{
-			"user": 7762140832,
-			"link": "https://youtu.be/5hRxwfKwwdY?si=dLUXk2Xb1IzAh6qF",
-			"percent": 100,
-			"hz": 288
-		},
-		{
-			"user": 7830624510,
-			"link": "https://youtu.be/HI5_jmoGEOc",
-			"percent": 100,
-			"hz": 480
-		},
-		{
-			"user": 2227890583,
-			"link": "https://youtu.be/lEF4ef7MSRI?si=LUd-qpDdtbJAkIRG",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7099339620,
-			"link": "https://www.youtube.com/watch?v=DitUTMbEEro",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6964982611,
-			"link": "https://youtu.be/JEzvgEXs_38?si=EK5mlDxCNr_JnVn_",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 1387863841,
-			"link": "https://youtu.be/a2c449waelc",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 4597615873,
-			"link": "https://youtu.be/6nW2IM_LHRY?si=5WmEsMa8krHFgLOY",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 86233175,
+    "name": "Faded Dream",
+    "author": 4012247565,
+    "creators": [],
+    "verifier": 4012247565,
+    "verification": "https://www.youtube.com/watch?v=BmcRn7XUjTc",
+    "percentToQualify": 100,
+    "password": "112822",
+    "song": 1034741,
+    "records": [
+        {
+            "user": 1286374211,
+            "link": "https://youtu.be/LC9ZHZaf0QI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6558732412,
+            "link": "https://youtu.be/t9xP2EZkgv0",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": 5999186950,
+            "link": "https://youtu.be/DDb9d7d0yi8",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": 7403208507,
+            "link": "https://youtu.be/chQXZlwViSg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": 8163379801,
+            "link": "https://www.youtube.com/watch?v=qKDR2xtztbM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 5611085886,
+            "link": "https://youtu.be/JP_PNwz1ftk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": 8299075170,
+            "link": "https://youtu.be/5IhUVDgM5M8",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": 3490111173,
+            "link": "https://youtu.be/xtPpwJk8GZc?si=wRhSzmy2hlSy3vbC",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": 4689297262,
+            "link": "https://www.youtube.com/watch?v=1SqU95kkB5E",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": 1255942108,
+            "link": "https://youtu.be/k-v50fE_wPo?si=oCkbe1XHzBBBfQOQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": 7548723422,
+            "link": "https://www.youtube.com/watch?v=jMeKGq7Hs20",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": 3153147806,
+            "link": "https://youtu.be/cfSQWnosKEQ",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": 7762140832,
+            "link": "https://youtu.be/5hRxwfKwwdY?si=dLUXk2Xb1IzAh6qF",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": 7830624510,
+            "link": "https://youtu.be/HI5_jmoGEOc",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": 2227890583,
+            "link": "https://youtu.be/lEF4ef7MSRI?si=LUd-qpDdtbJAkIRG",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7099339620,
+            "link": "https://www.youtube.com/watch?v=DitUTMbEEro",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6964982611,
+            "link": "https://youtu.be/JEzvgEXs_38?si=EK5mlDxCNr_JnVn_",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 1387863841,
+            "link": "https://youtu.be/a2c449waelc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 4597615873,
+            "link": "https://youtu.be/6nW2IM_LHRY?si=5WmEsMa8krHFgLOY",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

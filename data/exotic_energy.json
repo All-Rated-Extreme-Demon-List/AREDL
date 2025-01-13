@@ -1,138 +1,139 @@
 {
-	"id": 57312412,
-	"name": "Exotic Energy",
-	"author": 9153130249,
-	"creators": [],
-	"verifier": 5078848198,
-	"verification": "https://www.youtube.com/watch?v=ZAjHCEqM84U",
-	"percentToQualify": 100,
-	"records": [
-		{
-			"user": 8285896544,
-			"link": "https://www.youtube.com/watch?v=Cb1ydkk920g&t=10s",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7688909842,
-			"link": "https://www.youtube.com/watch?v=qMNV3_ZZ3UM",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 9925554002,
-			"link": "https://www.youtube.com/watch?v=jZlxXwVMrws",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 1938127492,
-			"link": "https://youtu.be/Q3iHgrJ4eyw",
-			"percent": 100,
-			"hz": 288
-		},
-		{
-			"user": 8552915716,
-			"link": "https://www.youtube.com/watch?v=qJ_Zok-eeYU",
-			"percent": 100,
-			"hz": 60,
-			"mobile": true
-		},
-		{
-			"user": 4040406434,
-			"link": "https://www.youtube.com/watch?v=GkZsUu2MQXs",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 9405692896,
-			"link": "https://www.youtube.com/watch?v=LfMg_aKRWkw",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 8285066868,
-			"link": "https://www.youtube.com/watch?v=5qxP-oKw-aY",
-			"percent": 100,
-			"hz": 144
-		},
-		{
-			"user": 3692526018,
-			"link": "https://youtu.be/tNoYfsoupQc?si=48Ee7crJK3JKPkjH",
-			"percent": 100,
-			"hz": 144
-		},
-		{
-			"user": 9789402666,
-			"link": "https://youtu.be/9VzVMwoUn2w",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 8078038373,
-			"link": "https://youtu.be/O9Tnh8oE_ds",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 5412744808,
-			"link": "https://www.youtube.com/watch?v=YhNRt0GbxDw",
-			"percent": 100,
-			"hz": 144
-		},
-		{
-			"user": 3675962514,
-			"link": "https://youtu.be/Yi3ETmPzZww",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 4034973733,
-			"link": "https://www.youtube.com/watch?v=0dVXv15mVzQ",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 4886572813,
-			"link": "https://youtu.be/uwfN8QOOtzg?si=ZMdznMr4RMvQYkqG",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 8563786231,
-			"link": "https://youtu.be/rwDq68pqfW8",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6503878577,
-			"link": "https://www.youtube.com/watch?v=cEH7KMHnkAA&ab_channel=ElEek",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7234063377,
-			"link": "https://drive.google.com/file/d/1pjyXmE60FXn-DkX23lk3kf5Ta9lEU9hB/view?usp=drive_link",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 2802894761,
-			"link": "https://www.youtube.com/watch?v=MsU5LmJX5AQ",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7544428170,
-			"link": "https://www.youtube.com/watch?v=yo448vduYos",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 4824398482,
-			"link": "https://youtu.be/mFbtbnXzWGc?si=3W0sT9fu6nHYfF20",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 57312412,
+    "name": "Exotic Energy",
+    "author": 9153130249,
+    "creators": [],
+    "verifier": 5078848198,
+    "verification": "https://www.youtube.com/watch?v=ZAjHCEqM84U",
+    "percentToQualify": 100,
+    "song": 753446,
+    "records": [
+        {
+            "user": 8285896544,
+            "link": "https://www.youtube.com/watch?v=Cb1ydkk920g&t=10s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7688909842,
+            "link": "https://www.youtube.com/watch?v=qMNV3_ZZ3UM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 9925554002,
+            "link": "https://www.youtube.com/watch?v=jZlxXwVMrws",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 1938127492,
+            "link": "https://youtu.be/Q3iHgrJ4eyw",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": 8552915716,
+            "link": "https://www.youtube.com/watch?v=qJ_Zok-eeYU",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": 4040406434,
+            "link": "https://www.youtube.com/watch?v=GkZsUu2MQXs",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 9405692896,
+            "link": "https://www.youtube.com/watch?v=LfMg_aKRWkw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 8285066868,
+            "link": "https://www.youtube.com/watch?v=5qxP-oKw-aY",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": 3692526018,
+            "link": "https://youtu.be/tNoYfsoupQc?si=48Ee7crJK3JKPkjH",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": 9789402666,
+            "link": "https://youtu.be/9VzVMwoUn2w",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 8078038373,
+            "link": "https://youtu.be/O9Tnh8oE_ds",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 5412744808,
+            "link": "https://www.youtube.com/watch?v=YhNRt0GbxDw",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": 3675962514,
+            "link": "https://youtu.be/Yi3ETmPzZww",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 4034973733,
+            "link": "https://www.youtube.com/watch?v=0dVXv15mVzQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 4886572813,
+            "link": "https://youtu.be/uwfN8QOOtzg?si=ZMdznMr4RMvQYkqG",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 8563786231,
+            "link": "https://youtu.be/rwDq68pqfW8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6503878577,
+            "link": "https://www.youtube.com/watch?v=cEH7KMHnkAA&ab_channel=ElEek",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7234063377,
+            "link": "https://drive.google.com/file/d/1pjyXmE60FXn-DkX23lk3kf5Ta9lEU9hB/view?usp=drive_link",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 2802894761,
+            "link": "https://www.youtube.com/watch?v=MsU5LmJX5AQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7544428170,
+            "link": "https://www.youtube.com/watch?v=yo448vduYos",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 4824398482,
+            "link": "https://youtu.be/mFbtbnXzWGc?si=3W0sT9fu6nHYfF20",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

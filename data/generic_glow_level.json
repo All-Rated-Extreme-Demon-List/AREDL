@@ -1,86 +1,87 @@
 {
-	"id": 94862078,
-	"name": "Generic Glow Level",
-	"author": 6167656199,
-	"creators": [
-		6167656199,
-		7718481758
-	],
-	"verifier": 4703355901,
-	"verification": "https://www.youtube.com/watch?v=sjBHRh1cuFM&t=0s",
-	"percentToQualify": 100,
-	"records": [
-		{
-			"user": 8022202434,
-			"link": "https://www.twitch.tv/videos/1977877025",
-			"percent": 100,
-			"hz": 165
-		},
-		{
-			"user": 8078038373,
-			"link": "https://youtu.be/61AbSqlXOGE",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 1236315125,
-			"link": "https://www.youtube.com/watch?v=CQdvdMN1Vr",
-			"percent": 100,
-			"hz": 240
-		},
-		{
-			"user": 6087745601,
-			"link": "https://youtu.be/OjLL9G97nzg?si=Gd57_1pdyQt_rhwg",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 9405692896,
-			"link": "https://www.youtube.com/watch?v=YL5aXJCogC4",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7830624510,
-			"link": "https://youtu.be/M_woDvNvxsU",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 1938127492,
-			"link": "https://youtu.be/HxqqqtoGxGg",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3740620269,
-			"link": "https://www.youtube.com/watch?v=dqQhxvpYD4w",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 4626265000,
-			"link": "https://youtu.be/b9dwBCHKrps?si=nYsQsrP2sV9XfXL4",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 2729069698,
-			"link": "https://youtu.be/aT_HzB3zXjw",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3580053650,
-			"link": "https://youtu.be/WzynjOVXTwQ?si=Q3GBDGdpV6mrzNGl",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3840185569,
-			"link": "https://youtu.be/ml-EeOmYE60?si=CjzebO5jTeeHH6IP",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 94862078,
+    "name": "Generic Glow Level",
+    "author": 6167656199,
+    "creators": [
+        6167656199,
+        7718481758
+    ],
+    "verifier": 4703355901,
+    "verification": "https://www.youtube.com/watch?v=sjBHRh1cuFM&t=0s",
+    "percentToQualify": 100,
+    "song": 604195,
+    "records": [
+        {
+            "user": 8022202434,
+            "link": "https://www.twitch.tv/videos/1977877025",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": 8078038373,
+            "link": "https://youtu.be/61AbSqlXOGE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 1236315125,
+            "link": "https://www.youtube.com/watch?v=CQdvdMN1Vr",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": 6087745601,
+            "link": "https://youtu.be/OjLL9G97nzg?si=Gd57_1pdyQt_rhwg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 9405692896,
+            "link": "https://www.youtube.com/watch?v=YL5aXJCogC4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7830624510,
+            "link": "https://youtu.be/M_woDvNvxsU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 1938127492,
+            "link": "https://youtu.be/HxqqqtoGxGg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3740620269,
+            "link": "https://www.youtube.com/watch?v=dqQhxvpYD4w",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 4626265000,
+            "link": "https://youtu.be/b9dwBCHKrps?si=nYsQsrP2sV9XfXL4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 2729069698,
+            "link": "https://youtu.be/aT_HzB3zXjw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3580053650,
+            "link": "https://youtu.be/WzynjOVXTwQ?si=Q3GBDGdpV6mrzNGl",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3840185569,
+            "link": "https://youtu.be/ml-EeOmYE60?si=CjzebO5jTeeHH6IP",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

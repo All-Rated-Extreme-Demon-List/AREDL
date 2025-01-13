@@ -1,41 +1,42 @@
 {
-	"id": 83214961,
-	"name": "Malevolent Maelstrom",
-	"author": 7882410752,
-	"creators": [],
-	"verifier": 7845421519,
-	"verification": "https://youtu.be/c1D58PZzswg",
-	"percentToQualify": 100,
-	"records": [
-		{
-			"user": 3490111173,
-			"link": "https://youtu.be/HVG0O9fVzM4?si=CrczZFNW_-2kbEql",
-			"percent": 100,
-			"hz": 288
-		},
-		{
-			"user": 1442071037,
-			"link": "https://www.youtube.com/watch?v=3QL2p99kb5I&t=17s",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3050190027,
-			"link": "https://youtu.be/ctl04aNrmF4",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7954983588,
-			"link": "https://youtu.be/hXXkItf2-HQ?si=ciSFZEah1Y3EqrSh",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7261865680,
-			"link": "https://www.youtube.com/watch?v=zazYy2728M8&t=82s",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 83214961,
+    "name": "Malevolent Maelstrom",
+    "author": 7882410752,
+    "creators": [],
+    "verifier": 7845421519,
+    "verification": "https://youtu.be/c1D58PZzswg",
+    "percentToQualify": 100,
+    "song": -6,
+    "records": [
+        {
+            "user": 3490111173,
+            "link": "https://youtu.be/HVG0O9fVzM4?si=CrczZFNW_-2kbEql",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": 1442071037,
+            "link": "https://www.youtube.com/watch?v=3QL2p99kb5I&t=17s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3050190027,
+            "link": "https://youtu.be/ctl04aNrmF4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7954983588,
+            "link": "https://youtu.be/hXXkItf2-HQ?si=ciSFZEah1Y3EqrSh",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7261865680,
+            "link": "https://www.youtube.com/watch?v=zazYy2728M8&t=82s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

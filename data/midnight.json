@@ -1,53 +1,54 @@
 {
-	"id": 96083028,
-	"name": "Midnight",
-	"author": 2829517852,
-	"creators": [],
-	"verifier": 1323149990,
-	"verification": "https://youtu.be/NhkN_a9cNi8?si=MZQ_UBvZ17cZB3Mf",
-	"percentToQualify": 100,
-	"records": [
-		{
-			"user": 5589328288,
-			"link": "https://www.youtube.com/watch?v=_iARsD_6A5I&ab_channel=Amza",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7624896741,
-			"link": "https://youtu.be/dzYQcgqt7X8?si=alZ8GfoKEpn6yJz-",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3224305727,
-			"link": "https://youtu.be/zY-UvBILtPM?si=6nRg0Vswcb7msRCn",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6274537191,
-			"link": "https://youtu.be/8sKelaVvFRE",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 4451719870,
-			"link": "https://youtu.be/vFh--H8HSJU",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 8273020823,
-			"link": "https://youtu.be/FZSajMPVK5s?si=BWUaOtDjHO_MDwP9",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6326649433,
-			"link": "https://www.youtube.com/watch?v=K1qyCUfVUDU",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 96083028,
+    "name": "Midnight",
+    "author": 2829517852,
+    "creators": [],
+    "verifier": 1323149990,
+    "verification": "https://youtu.be/NhkN_a9cNi8?si=MZQ_UBvZ17cZB3Mf",
+    "percentToQualify": 100,
+    "song": 1260013,
+    "records": [
+        {
+            "user": 5589328288,
+            "link": "https://www.youtube.com/watch?v=_iARsD_6A5I&ab_channel=Amza",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7624896741,
+            "link": "https://youtu.be/dzYQcgqt7X8?si=alZ8GfoKEpn6yJz-",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3224305727,
+            "link": "https://youtu.be/zY-UvBILtPM?si=6nRg0Vswcb7msRCn",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6274537191,
+            "link": "https://youtu.be/8sKelaVvFRE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 4451719870,
+            "link": "https://youtu.be/vFh--H8HSJU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 8273020823,
+            "link": "https://youtu.be/FZSajMPVK5s?si=BWUaOtDjHO_MDwP9",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6326649433,
+            "link": "https://www.youtube.com/watch?v=K1qyCUfVUDU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

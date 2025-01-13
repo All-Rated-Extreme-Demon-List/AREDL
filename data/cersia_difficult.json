@@ -1,171 +1,172 @@
 {
-	"id": 74840882,
-	"name": "Cersia Difficult",
-	"tags": [
-		"2.1",
-		"Long",
-		"Slow-Paced",
-		"Gimmicky",
-		"Overall"
-	],
-	"author": 3468549686,
-	"creators": [
-		1120294535,
-		3468549686
-	],
-	"verifier": 3468549686,
-	"verification": "https://www.youtube.com/watch?v=8Vi_wD2wp-w",
-	"percentToQualify": 100,
-	"records": [
-		{
-			"user": 5757119686,
-			"link": "https://youtu.be/VHnx56VA2Q4",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 5663222224,
-			"link": "https://youtu.be/D9dZe4r0C2Q",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 8668497952,
-			"link": "https://youtu.be/rFgKlndLng4",
-			"percent": 100,
-			"hz": 330
-		},
-		{
-			"user": 5611085886,
-			"link": "https://youtu.be/C5CZ1OrXj7E",
-			"percent": 100,
-			"hz": 240
-		},
-		{
-			"user": 8600651621,
-			"link": "https://youtu.be/Sg0h6OVLGjg",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7830624510,
-			"link": "https://youtu.be/dXcsC9f5r9Ug",
-			"percent": 100,
-			"hz": 240
-		},
-		{
-			"user": 9349980438,
-			"link": "https://www.youtube.com/watch?v=rm6U87rQbQc",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7878068161,
-			"link": "https://www.youtube.com/watch?v=ZIXS2yHdZf0&t=29s",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 5589328288,
-			"link": "https://youtu.be/WwzdKp1b8GI?si=VCYiBSpPkMHmrsdz",
-			"percent": 100,
-			"hz": 300
-		},
-		{
-			"user": 1158360974,
-			"link": "https://youtu.be/_x8pZ1ya0GA",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7775567977,
-			"link": "https://www.youtube.com/watch?v=CyMJ-Cr0l7c",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 4886572813,
-			"link": "https://www.youtube.com/watch?v=kkxQhehwvDY",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3323907585,
-			"link": "https://www.youtube.com/watch?v=jC4l-XTuTGw",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 5486054620,
-			"link": "https://youtu.be/fzhL75m9WIc?si=ua6oUwcGrf0eLa8k",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3844655556,
-			"link": "https://www.youtube.com/watch?v=Iv5so5gt3Tk",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3857562218,
-			"link": "https://www.youtube.com/watch?v=Q-V2xTF_MxU",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 5711090524,
-			"link": "https://www.youtube.com/watch?v=EOgRzUFcqrQ",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 8901367774,
-			"link": "https://youtu.be/S0SN4Jt0cEQ",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6488958945,
-			"link": "https://youtu.be/cxVunmz4PeU",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 5595225732,
-			"link": "https://www.youtube.com/watch?v=ssJsgPfSyfM&t=1s",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6626447859,
-			"link": "https://www.youtube.com/watch?v=4d1JNJhJids",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 9879633307,
-			"link": "https://youtu.be/EwEiMWCQ3hU",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6335312445,
-			"link": "https://www.youtube.com/watch?v=oJSuM2z-L8s",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6117206163,
-			"link": "https://www.youtube.com/watch?v=dzhDAEOKn1A&t=7s",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 4732224812,
-			"link": "https://www.youtube.com/watch?v=H8QYbLwegn8",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 74840882,
+    "name": "Cersia Difficult",
+    "tags": [
+        "2.1",
+        "Long",
+        "Slow-Paced",
+        "Gimmicky",
+        "Overall"
+    ],
+    "author": 3468549686,
+    "creators": [
+        1120294535,
+        3468549686
+    ],
+    "verifier": 3468549686,
+    "verification": "https://www.youtube.com/watch?v=8Vi_wD2wp-w",
+    "percentToQualify": 100,
+    "song": -13,
+    "records": [
+        {
+            "user": 5757119686,
+            "link": "https://youtu.be/VHnx56VA2Q4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 5663222224,
+            "link": "https://youtu.be/D9dZe4r0C2Q",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 8668497952,
+            "link": "https://youtu.be/rFgKlndLng4",
+            "percent": 100,
+            "hz": 330
+        },
+        {
+            "user": 5611085886,
+            "link": "https://youtu.be/C5CZ1OrXj7E",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": 8600651621,
+            "link": "https://youtu.be/Sg0h6OVLGjg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7830624510,
+            "link": "https://youtu.be/dXcsC9f5r9Ug",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": 9349980438,
+            "link": "https://www.youtube.com/watch?v=rm6U87rQbQc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7878068161,
+            "link": "https://www.youtube.com/watch?v=ZIXS2yHdZf0&t=29s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 5589328288,
+            "link": "https://youtu.be/WwzdKp1b8GI?si=VCYiBSpPkMHmrsdz",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": 1158360974,
+            "link": "https://youtu.be/_x8pZ1ya0GA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7775567977,
+            "link": "https://www.youtube.com/watch?v=CyMJ-Cr0l7c",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 4886572813,
+            "link": "https://www.youtube.com/watch?v=kkxQhehwvDY",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3323907585,
+            "link": "https://www.youtube.com/watch?v=jC4l-XTuTGw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 5486054620,
+            "link": "https://youtu.be/fzhL75m9WIc?si=ua6oUwcGrf0eLa8k",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3844655556,
+            "link": "https://www.youtube.com/watch?v=Iv5so5gt3Tk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3857562218,
+            "link": "https://www.youtube.com/watch?v=Q-V2xTF_MxU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 5711090524,
+            "link": "https://www.youtube.com/watch?v=EOgRzUFcqrQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 8901367774,
+            "link": "https://youtu.be/S0SN4Jt0cEQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6488958945,
+            "link": "https://youtu.be/cxVunmz4PeU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 5595225732,
+            "link": "https://www.youtube.com/watch?v=ssJsgPfSyfM&t=1s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6626447859,
+            "link": "https://www.youtube.com/watch?v=4d1JNJhJids",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 9879633307,
+            "link": "https://youtu.be/EwEiMWCQ3hU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6335312445,
+            "link": "https://www.youtube.com/watch?v=oJSuM2z-L8s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6117206163,
+            "link": "https://www.youtube.com/watch?v=dzhDAEOKn1A&t=7s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 4732224812,
+            "link": "https://www.youtube.com/watch?v=H8QYbLwegn8",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

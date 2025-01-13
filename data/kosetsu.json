@@ -1,30 +1,31 @@
 {
-	"id": 109439644,
-	"name": "KOSETSU",
-	"author": 1900325528,
-	"creators": [],
-	"verifier": 8300765422,
-	"verification": "https://youtu.be/hZ8vFX8z_BU?si=rsilqBr1Vtt-zNan",
-	"percentToQualify": 100,
-	"password": "Free to Copy",
-	"records": [
-		{
-			"user": 6626447859,
-			"link": "https://www.youtube.com/watch?v=aXhopR6N1YQ",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7859110537,
-			"link": "https://www.youtube.com/watch?v=3q6Aljklfd0",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 5011629074,
-			"link": "https://youtu.be/qzskDhDTWJI?si=BCJUYm1Tz4VGbvzm",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 109439644,
+    "name": "KOSETSU",
+    "author": 1900325528,
+    "creators": [],
+    "verifier": 8300765422,
+    "verification": "https://youtu.be/hZ8vFX8z_BU?si=rsilqBr1Vtt-zNan",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "song": 971534,
+    "records": [
+        {
+            "user": 6626447859,
+            "link": "https://www.youtube.com/watch?v=aXhopR6N1YQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7859110537,
+            "link": "https://www.youtube.com/watch?v=3q6Aljklfd0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 5011629074,
+            "link": "https://youtu.be/qzskDhDTWJI?si=BCJUYm1Tz4VGbvzm",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

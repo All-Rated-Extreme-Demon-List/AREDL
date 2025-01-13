@@ -1,119 +1,120 @@
 {
-	"id": 79922944,
-	"name": "Dole Damos",
-	"author": 2650440442,
-	"creators": [],
-	"verifier": 2650440442,
-	"verification": "https://www.youtube.com/watch?v=3Q7zPpGKsc0",
-	"percentToQualify": 100,
-	"records": [
-		{
-			"user": 5933627828,
-			"link": "https://youtu.be/18RXea9nXnU",
-			"percent": 100,
-			"hz": 60
-		},
-		{
-			"user": 6807948992,
-			"link": "https://www.youtube.com/watch?v=4hc4MTDSZBc&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=19",
-			"percent": 100,
-			"hz": 240
-		},
-		{
-			"user": 4898367233,
-			"link": "https://youtu.be/ycb0KqvzHyk",
-			"percent": 100,
-			"hz": 300
-		},
-		{
-			"user": 8299075170,
-			"link": "https://youtu.be/HraTWv-ME3s",
-			"percent": 100,
-			"hz": 75
-		},
-		{
-			"user": 2046531469,
-			"link": "https://www.youtube.com/watch?v=bVDv5tX736o&ab_channel=Tamelnv",
-			"percent": 100,
-			"hz": 60
-		},
-		{
-			"user": 5589328288,
-			"link": "https://youtu.be/meTrjaLCBOs?si=-pqsPP8ucgUhKKy5",
-			"percent": 100,
-			"hz": 300
-		},
-		{
-			"user": 1236315125,
-			"link": "https://www.youtube.com/watch?v=lwmnWsUq0ig",
-			"percent": 100,
-			"hz": 240
-		},
-		{
-			"user": 4009137616,
-			"link": "https://youtu.be/qChzFER3xYw?si=-ySLMbOqbtwYCLdT",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6839091830,
-			"link": "https://youtu.be/DufkQ2G-fqE?si=w0iRwBP4Ru_kupbL",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 4886572813,
-			"link": "https://youtu.be/UvCfGemNOtQ",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3093943652,
-			"link": "https://medal.tv/games/geometry-dash/clips/iqBLuw5IC2O1eobXX/d1337sRNPvmz?invite=cr-MSxybXQsMTc1MTg4OTQs",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 1861875401,
-			"link": "https://youtu.be/8Tpenpf_sT0?si=CmLXmYOA1zpLCiSe",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6583617256,
-			"link": "https://www.youtube.com/watch?v=NkMMXTWX6OA&t=11s",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3377410347,
-			"link": "https://youtu.be/00i4_BJYELI?si=-THyXNE1lFr24WKz",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 4177931147,
-			"link": "https://youtu.be/j7HmsqUIFmI?list=PLuS_OUqu3kqkAV9MOsqXhG_btq926lYUN",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3153147806,
-			"link": "https://youtu.be/Z0H7_LMOv5c",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 5611085886,
-			"link": "https://youtu.be/sdbxTerTSZs",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6335312445,
-			"link": "https://www.youtube.com/watch?v=otW5fuRB3Zk",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 79922944,
+    "name": "Dole Damos",
+    "author": 2650440442,
+    "creators": [],
+    "verifier": 2650440442,
+    "verification": "https://www.youtube.com/watch?v=3Q7zPpGKsc0",
+    "percentToQualify": 100,
+    "song": 1028665,
+    "records": [
+        {
+            "user": 5933627828,
+            "link": "https://youtu.be/18RXea9nXnU",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": 6807948992,
+            "link": "https://www.youtube.com/watch?v=4hc4MTDSZBc&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=19",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": 4898367233,
+            "link": "https://youtu.be/ycb0KqvzHyk",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": 8299075170,
+            "link": "https://youtu.be/HraTWv-ME3s",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": 2046531469,
+            "link": "https://www.youtube.com/watch?v=bVDv5tX736o&ab_channel=Tamelnv",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": 5589328288,
+            "link": "https://youtu.be/meTrjaLCBOs?si=-pqsPP8ucgUhKKy5",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": 1236315125,
+            "link": "https://www.youtube.com/watch?v=lwmnWsUq0ig",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": 4009137616,
+            "link": "https://youtu.be/qChzFER3xYw?si=-ySLMbOqbtwYCLdT",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6839091830,
+            "link": "https://youtu.be/DufkQ2G-fqE?si=w0iRwBP4Ru_kupbL",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 4886572813,
+            "link": "https://youtu.be/UvCfGemNOtQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3093943652,
+            "link": "https://medal.tv/games/geometry-dash/clips/iqBLuw5IC2O1eobXX/d1337sRNPvmz?invite=cr-MSxybXQsMTc1MTg4OTQs",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 1861875401,
+            "link": "https://youtu.be/8Tpenpf_sT0?si=CmLXmYOA1zpLCiSe",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6583617256,
+            "link": "https://www.youtube.com/watch?v=NkMMXTWX6OA&t=11s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3377410347,
+            "link": "https://youtu.be/00i4_BJYELI?si=-THyXNE1lFr24WKz",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 4177931147,
+            "link": "https://youtu.be/j7HmsqUIFmI?list=PLuS_OUqu3kqkAV9MOsqXhG_btq926lYUN",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3153147806,
+            "link": "https://youtu.be/Z0H7_LMOv5c",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 5611085886,
+            "link": "https://youtu.be/sdbxTerTSZs",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6335312445,
+            "link": "https://www.youtube.com/watch?v=otW5fuRB3Zk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

@@ -1,72 +1,73 @@
 {
-	"id": 96549270,
-	"name": "All In",
-	"author": 1861230410,
-	"creators": [],
-	"verifier": 1861230410,
-	"verification": "https://youtu.be/l1OxtmeZOUc?si=wXX81uisRdcEZfd5",
-	"percentToQualify": 100,
-	"password": "No Copy",
-	"records": [
-		{
-			"user": 5164016369,
-			"link": "https://www.youtube.com/watch?v=pQP8jCRJohg",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 4250301169,
-			"link": "https://www.youtube.com/watch?v=N-MUfAiOA4M",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3050190027,
-			"link": "https://youtu.be/5VzKq4W9_Hg?si=w804Huf2ppGcBAjE",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3953213182,
-			"link": "https://medal.tv/games/geometry-dash/clips/ijC0e7v9YabElEKhJ/d1337AobbKJv?invite=cr-MSw3Ym0sODAxNDI1Nyw",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 4717268865,
-			"link": "https://www.youtube.com/watch?v=R0id_Q0S5Mw",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7830624510,
-			"link": "https://youtu.be/Wj50CmpEvnw",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3740620269,
-			"link": "https://www.youtube.com/watch?v=0EkNUde4uGc",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7544428170,
-			"link": "https://www.youtube.com/watch?v=0osHOqhfQQw",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 1395657543,
-			"link": "https://youtu.be/UhOxonDss1s",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 2227890583,
-			"link": "https://youtu.be/kM3z6KElwww?si=In_oB8ihtuwTU9C7",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 96549270,
+    "name": "All In",
+    "author": 1861230410,
+    "creators": [],
+    "verifier": 1861230410,
+    "verification": "https://youtu.be/l1OxtmeZOUc?si=wXX81uisRdcEZfd5",
+    "percentToQualify": 100,
+    "password": "No Copy",
+    "song": 1263637,
+    "records": [
+        {
+            "user": 5164016369,
+            "link": "https://www.youtube.com/watch?v=pQP8jCRJohg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 4250301169,
+            "link": "https://www.youtube.com/watch?v=N-MUfAiOA4M",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3050190027,
+            "link": "https://youtu.be/5VzKq4W9_Hg?si=w804Huf2ppGcBAjE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3953213182,
+            "link": "https://medal.tv/games/geometry-dash/clips/ijC0e7v9YabElEKhJ/d1337AobbKJv?invite=cr-MSw3Ym0sODAxNDI1Nyw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 4717268865,
+            "link": "https://www.youtube.com/watch?v=R0id_Q0S5Mw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7830624510,
+            "link": "https://youtu.be/Wj50CmpEvnw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3740620269,
+            "link": "https://www.youtube.com/watch?v=0EkNUde4uGc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7544428170,
+            "link": "https://www.youtube.com/watch?v=0osHOqhfQQw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 1395657543,
+            "link": "https://youtu.be/UhOxonDss1s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 2227890583,
+            "link": "https://youtu.be/kM3z6KElwww?si=In_oB8ihtuwTU9C7",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
