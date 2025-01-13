@@ -1,23 +1,26 @@
 {
-	"id": 88946497,
-	"name": "Last Stop",
-	"author": 9204261697,
-	"creators": [],
-	"verifier": 2615681688,
-	"verification": "https://www.youtube.com/watch?v=2mD-x_pMuhs",
-	"percentToQualify": 100,
-	"records": [
-		{
-			"user": 6839091830,
-			"link": "https://youtu.be/0pHr-_GWb8g?si=6UZn-vB13OYUSbFN",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7099339620,
-			"link": "https://www.youtube.com/watch?v=H1yTErEYGs4",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 88946497,
+    "name": "Last Stop",
+    "author": 9204261697,
+    "creators": [],
+    "verifier": 2615681688,
+    "verification": "https://www.youtube.com/watch?v=2mD-x_pMuhs",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": 6839091830,
+            "link": "https://youtu.be/0pHr-_GWb8g?si=6UZn-vB13OYUSbFN",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7099339620,
+            "link": "https://www.youtube.com/watch?v=H1yTErEYGs4",
+            "percent": 100,
+            "hz": 360
+        }
+    ],
+    "tags": [
+        "NONG"
+    ]
 }

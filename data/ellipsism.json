@@ -1,101 +1,104 @@
 {
-	"id": 83914474,
-	"name": "ELLIPSISM",
-	"author": 3227630167,
-	"creators": [],
-	"verifier": 7489040360,
-	"verification": "https://www.youtube.com/watch?v=tp6-hpqtnWk",
-	"percentToQualify": 100,
-	"records": [
-		{
-			"user": 6807948992,
-			"link": "https://www.youtube.com/watch?v=BOalgGvSOks&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=12",
-			"percent": 100,
-			"hz": 240
-		},
-		{
-			"user": 2557411673,
-			"link": "https://youtu.be/E-qtVlVgpIg",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3950482202,
-			"link": "https://www.youtube.com/watch?v=_X7eCkPEhw8",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 4022029882,
-			"link": "https://www.youtube.com/watch?v=8J_S4gA3qIE&t=0s",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 8984813207,
-			"link": "https://youtu.be/igUxe5da-3g?si=r4EcCWc_KYyQ5veO",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 8944113767,
-			"link": "https://www.youtube.com/watch?v=N1o7oNHM2Z4&list=PL-NVoF9O1eL32_sDluVvJ_CBFqhj8D3fU&index=46",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 1861875401,
-			"link": "https://youtu.be/9hzuHUSu6QE",
-			"percent": 100,
-			"hz": 144
-		},
-		{
-			"user": 5589328288,
-			"link": "https://youtu.be/d48tLtg_pk8?si=adW1THzvnU5RnQoT",
-			"percent": 100,
-			"hz": 300
-		},
-		{
-			"user": 2587326323,
-			"link": "https://www.youtube.com/watch?v=aW33-0Q5dbg",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7823877256,
-			"link": "https://youtu.be/zesMjCG2kjI?si=F8vLLlrlAOIKAqSo",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 4157628626,
-			"link": "https://youtu.be/5WmoJwB-WXw?si=IIwoXKyqVCCt-wRU",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 4886572813,
-			"link": "https://youtu.be/KoNebyIXeHg?si=lf3OylDyL22-nQNN",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 2270893080,
-			"link": "https://youtu.be/kP3ffmSMQAw?si=qnnIk5ZS75C0AyUL",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7820781927,
-			"link": "https://youtu.be/UtycESsom5Q?si=ok09BjJlj2-yAAoa",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6576593791,
-			"link": "https://www.youtube.com/watch?v=01BSCgi1WSY",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 83914474,
+    "name": "ELLIPSISM",
+    "author": 3227630167,
+    "creators": [],
+    "verifier": 7489040360,
+    "verification": "https://www.youtube.com/watch?v=tp6-hpqtnWk",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": 6807948992,
+            "link": "https://www.youtube.com/watch?v=BOalgGvSOks&list=PLxgsax7rZ10VmRo5hGoPZXOS3-Zl6RV3a&index=12",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": 2557411673,
+            "link": "https://youtu.be/E-qtVlVgpIg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3950482202,
+            "link": "https://www.youtube.com/watch?v=_X7eCkPEhw8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 4022029882,
+            "link": "https://www.youtube.com/watch?v=8J_S4gA3qIE&t=0s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 8984813207,
+            "link": "https://youtu.be/igUxe5da-3g?si=r4EcCWc_KYyQ5veO",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 8944113767,
+            "link": "https://www.youtube.com/watch?v=N1o7oNHM2Z4&list=PL-NVoF9O1eL32_sDluVvJ_CBFqhj8D3fU&index=46",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 1861875401,
+            "link": "https://youtu.be/9hzuHUSu6QE",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": 5589328288,
+            "link": "https://youtu.be/d48tLtg_pk8?si=adW1THzvnU5RnQoT",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": 2587326323,
+            "link": "https://www.youtube.com/watch?v=aW33-0Q5dbg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7823877256,
+            "link": "https://youtu.be/zesMjCG2kjI?si=F8vLLlrlAOIKAqSo",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 4157628626,
+            "link": "https://youtu.be/5WmoJwB-WXw?si=IIwoXKyqVCCt-wRU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 4886572813,
+            "link": "https://youtu.be/KoNebyIXeHg?si=lf3OylDyL22-nQNN",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 2270893080,
+            "link": "https://youtu.be/kP3ffmSMQAw?si=qnnIk5ZS75C0AyUL",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7820781927,
+            "link": "https://youtu.be/UtycESsom5Q?si=ok09BjJlj2-yAAoa",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6576593791,
+            "link": "https://www.youtube.com/watch?v=01BSCgi1WSY",
+            "percent": 100,
+            "hz": 360
+        }
+    ],
+    "tags": [
+        "NONG"
+    ]
 }

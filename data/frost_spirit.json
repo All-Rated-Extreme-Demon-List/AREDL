@@ -1,136 +1,139 @@
 {
-	"id": 95767653,
-	"name": "Frost Spirit",
-	"author": 2321289444,
-	"creators": [
-		2321289444,
-		2403225221,
-		7934943223,
-		4007250457,
-		1364341369,
-		1201670362,
-		2855835226,
-		1954024421,
-		4506636334,
-		9844419357,
-		7372139455,
-		6996993501,
-		1081884852,
-		8519486024,
-		2392099922,
-		6333627453
-	],
-	"verifier": 1122949968,
-	"verification": "https://youtu.be/c4cIFs7d63c?si=08bsZGxTyzElIIfL",
-	"percentToQualify": 100,
-	"records": [
-		{
-			"user": 5880962364,
-			"link": "https://youtu.be/sELGKCWPDz0?si=BJ1PYBIrf9-nY7mF",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 2233668760,
-			"link": "https://www.youtube.com/watch?v=MGWE3iD3rB0",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 5589328288,
-			"link": "https://www.youtube.com/watch?v=g3pPSeC-_rw&ab_channel=Amza",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 5286939013,
-			"link": "https://youtu.be/PyH6NlIAHgA?si=eZwzX8SOnTjn79_k",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 2587326323,
-			"link": "https://youtu.be/ahSn9zVv0xU",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7775567977,
-			"link": "https://www.youtube.com/watch?v=bve0XMaTS1U&t=106s",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7341732554,
-			"link": "https://youtu.be/fgmHD_QZjLo?si=jvTWWk5t8TrZZGA8",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6274537191,
-			"link": "https://youtu.be/Tms3MshJ4Kg",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 8666148048,
-			"link": "https://youtu.be/heL5i0ytbWA?si=kvNGVoI_aa3msmJ7",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3367798791,
-			"link": "https://youtu.be/MEvAuoZZ1l4?si=jShLrWgF_PuLo7vQ",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7467652633,
-			"link": "https://youtu.be/RtTKP2WWcss?si=53H4tlHNewXjy4wD",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7447603658,
-			"link": "https://youtu.be/B3zXi-QVmqo?si=kyRww-p0__VRO_Nn",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6626447859,
-			"link": "https://www.youtube.com/watch?v=88X21TCHRiE",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 1420145708,
-			"link": "https://youtu.be/EwOuS6EArHk?si=r_qjZpwqBD4PfO78",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7859110537,
-			"link": "https://www.youtube.com/watch?v=5mMlYjbXLU4",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 6766495234,
-			"link": "https://youtu.be/GYkyRTNRstY?si=WUEmn4_opYlV1tGV",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 9907091868,
-			"link": "https://youtu.be/7B6KXgK4Ib4?si=G51-vtXqBB6BOSJL",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 8944113767,
-			"link": "https://www.youtube.com/watch?v=hGTketyXJkU",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 95767653,
+    "name": "Frost Spirit",
+    "author": 2321289444,
+    "creators": [
+        2321289444,
+        2403225221,
+        7934943223,
+        4007250457,
+        1364341369,
+        1201670362,
+        2855835226,
+        1954024421,
+        4506636334,
+        9844419357,
+        7372139455,
+        6996993501,
+        1081884852,
+        8519486024,
+        2392099922,
+        6333627453
+    ],
+    "verifier": 1122949968,
+    "verification": "https://youtu.be/c4cIFs7d63c?si=08bsZGxTyzElIIfL",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": 5880962364,
+            "link": "https://youtu.be/sELGKCWPDz0?si=BJ1PYBIrf9-nY7mF",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 2233668760,
+            "link": "https://www.youtube.com/watch?v=MGWE3iD3rB0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 5589328288,
+            "link": "https://www.youtube.com/watch?v=g3pPSeC-_rw&ab_channel=Amza",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 5286939013,
+            "link": "https://youtu.be/PyH6NlIAHgA?si=eZwzX8SOnTjn79_k",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 2587326323,
+            "link": "https://youtu.be/ahSn9zVv0xU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7775567977,
+            "link": "https://www.youtube.com/watch?v=bve0XMaTS1U&t=106s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7341732554,
+            "link": "https://youtu.be/fgmHD_QZjLo?si=jvTWWk5t8TrZZGA8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6274537191,
+            "link": "https://youtu.be/Tms3MshJ4Kg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 8666148048,
+            "link": "https://youtu.be/heL5i0ytbWA?si=kvNGVoI_aa3msmJ7",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3367798791,
+            "link": "https://youtu.be/MEvAuoZZ1l4?si=jShLrWgF_PuLo7vQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7467652633,
+            "link": "https://youtu.be/RtTKP2WWcss?si=53H4tlHNewXjy4wD",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7447603658,
+            "link": "https://youtu.be/B3zXi-QVmqo?si=kyRww-p0__VRO_Nn",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6626447859,
+            "link": "https://www.youtube.com/watch?v=88X21TCHRiE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 1420145708,
+            "link": "https://youtu.be/EwOuS6EArHk?si=r_qjZpwqBD4PfO78",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7859110537,
+            "link": "https://www.youtube.com/watch?v=5mMlYjbXLU4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 6766495234,
+            "link": "https://youtu.be/GYkyRTNRstY?si=WUEmn4_opYlV1tGV",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 9907091868,
+            "link": "https://youtu.be/7B6KXgK4Ib4?si=G51-vtXqBB6BOSJL",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 8944113767,
+            "link": "https://www.youtube.com/watch?v=hGTketyXJkU",
+            "percent": 100,
+            "hz": 360
+        }
+    ],
+    "tags": [
+        "NONG"
+    ]
 }

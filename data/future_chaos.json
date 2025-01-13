@@ -1,41 +1,44 @@
 {
-	"id": 81435156,
-	"name": "Future Chaos",
-	"author": 1919224734,
-	"creators": [],
-	"verifier": 1919224734,
-	"verification": "https://www.youtube.com/watch?v=RnqM-DsWvts",
-	"percentToQualify": 100,
-	"records": [
-		{
-			"user": 4898367233,
-			"link": "https://youtu.be/w0m9If9fdTA",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 1158360974,
-			"link": "https://youtu.be/4tv4MFpgYiw",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3556688011,
-			"link": "https://youtu.be/nM0VLRzxc3o?si=19PjzDaHmlVCnP-1",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3050190027,
-			"link": "https://youtu.be/x4iyqRJJ134",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 3377410347,
-			"link": "https://youtu.be/tH_6KGbrvUM?si=DTLt-N_aQgX_2aFm",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 81435156,
+    "name": "Future Chaos",
+    "author": 1919224734,
+    "creators": [],
+    "verifier": 1919224734,
+    "verification": "https://www.youtube.com/watch?v=RnqM-DsWvts",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": 4898367233,
+            "link": "https://youtu.be/w0m9If9fdTA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 1158360974,
+            "link": "https://youtu.be/4tv4MFpgYiw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3556688011,
+            "link": "https://youtu.be/nM0VLRzxc3o?si=19PjzDaHmlVCnP-1",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3050190027,
+            "link": "https://youtu.be/x4iyqRJJ134",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 3377410347,
+            "link": "https://youtu.be/tH_6KGbrvUM?si=DTLt-N_aQgX_2aFm",
+            "percent": 100,
+            "hz": 360
+        }
+    ],
+    "tags": [
+        "NONG"
+    ]
 }

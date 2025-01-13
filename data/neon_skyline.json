@@ -1,23 +1,26 @@
 {
-	"id": 88822041,
-	"name": "Neon Skyline",
-	"author": 4450487850,
-	"creators": [],
-	"verifier": 1977624064,
-	"verification": "https://www.youtube.com/watch?v=HvGjIAeLv_8&pp=ygUVbmVvbiBza3lsaW5lIHZlcmlmaWVk",
-	"percentToQualify": 100,
-	"records": [
-		{
-			"user": 7452292815,
-			"link": "https://www.youtube.com/watch?v=31TeFWpBslc",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": 7688909842,
-			"link": "https://www.youtube.com/watch?v=HVY9ppv0wSI",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 88822041,
+    "name": "Neon Skyline",
+    "author": 4450487850,
+    "creators": [],
+    "verifier": 1977624064,
+    "verification": "https://www.youtube.com/watch?v=HvGjIAeLv_8&pp=ygUVbmVvbiBza3lsaW5lIHZlcmlmaWVk",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": 7452292815,
+            "link": "https://www.youtube.com/watch?v=31TeFWpBslc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": 7688909842,
+            "link": "https://www.youtube.com/watch?v=HVY9ppv0wSI",
+            "percent": 100,
+            "hz": 360
+        }
+    ],
+    "tags": [
+        "NONG"
+    ]
 }

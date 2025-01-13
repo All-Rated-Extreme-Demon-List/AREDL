@@ -1,26 +1,27 @@
 {
-	"id": 95435650,
-	"name": "Floating Outskirts",
-	"tags": [
-		"2.1",
-		"XL",
-		"Timings",
-		"Chokepoints",
-		"Gimmicky",
-		"Precision",
-		"Nerve Control"
-	],
-	"author": 4719612092,
-	"creators": [],
-	"verifier": 4719612092,
-	"verification": "https://youtu.be/Jb8zIqROu_w?si=6uDcK4l3RrZK3Tg0",
-	"percentToQualify": 100,
-	"records": [
-		{
-			"user": 8090236549,
-			"link": "https://www.youtube.com/watch?v=_BuCm1wUOoc&ab_channel=APD9",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "id": 95435650,
+    "name": "Floating Outskirts",
+    "tags": [
+        "2.1",
+        "XL",
+        "Timings",
+        "Chokepoints",
+        "Gimmicky",
+        "Precision",
+        "Nerve Control",
+        "NONG"
+    ],
+    "author": 4719612092,
+    "creators": [],
+    "verifier": 4719612092,
+    "verification": "https://youtu.be/Jb8zIqROu_w?si=6uDcK4l3RrZK3Tg0",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": 8090236549,
+            "link": "https://www.youtube.com/watch?v=_BuCm1wUOoc&ab_channel=APD9",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
