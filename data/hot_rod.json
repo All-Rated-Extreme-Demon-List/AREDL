@@ -7,7 +7,9 @@
 	"verification": "https://youtu.be/FSNGDwv_8N0?si=D1kcv-cmmiEyqR4m",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"tags": ["NONG"],
+	"tags": [
+		"NONG"
+	],
 	"records": [
 		{
 			"user": 1085618975,
@@ -1153,6 +1155,12 @@
 		{
 			"user": 3989225085,
 			"link": "https://www.youtube.com/watch?v=0WfDtHGNzm4&ab_channel=Duv",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3783942290,
+			"link": "https://youtu.be/vU8plb2YgdE",
 			"percent": 100,
 			"hz": 360
 		}
