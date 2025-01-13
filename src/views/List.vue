@@ -44,11 +44,9 @@ const mobile_list_expanded = ref(true)
           </p>
           <p>
             5. If your record is in the top 400, you must have raw footage, with split audio tracks, submitted along with your original record in a downloadable format such as Google Drive. If it was streamed, a VOD on Twitch or Youtube with chat enabled is also allowed. However, if you have the record on your Pointercrate profile, you may submit that in the additional info instead, and we will accept your record. However, please note that we will not accept records that used Physics Bypass while it was allowed on pointercrate, since Physics Bypass was not ever allowed on the AREDL.<br/>
-            If you need help setting up split audio tracks, try following one of these guides:
-            <ul>
-              <li><a href="https://obsproject.com/kb/multiple-audio-track-recording-guide">OBS</a></li>
-              <li><a href="https://support.medal.tv/support/solutions/articles/48001220541-multi-track-recording">Medal</a></li>
-            </ul>
+            If you need help setting up split audio tracks, try following one of these guides:<br/>
+            <a href="https://obsproject.com/kb/multiple-audio-track-recording-guide">OBS</a><br/>
+            <a href="https://support.medal.tv/support/solutions/articles/48001220541-multi-track-recording">Medal</a>
             </p>
           <p>
             6. This should be obvious, but your record may not be completed with any disallowed mods. This information (of what we allow and don't allow) can be found on our website. This rule also applies to having a red/blue cheat indicator, obvious hacked completions, and bots.
