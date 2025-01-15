@@ -1,88 +1,94 @@
 {
-    "id": 87071894,
-    "name": "The Paroxysm of Rage",
-    "author": 2422404639,
-    "creators": [
-        2422404639,
-        6328895146
-    ],
-    "verifier": 8595939395,
-    "verification": "https://youtu.be/nq3i1qJQeEk",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "song": 219635,
-    "records": [
-        {
-            "user": 4919652315,
-            "link": "https://youtu.be/9me55MtJNEY?si=ClraJvFeGy1yf5cG",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": 7639283352,
-            "link": "https://www.youtube.com/watch?v=nQyt6Gn6HvQ",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 3224305727,
-            "link": "https://youtu.be/746O_LgsL3o?si=CvXnnvX1JN4aswCK",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 7775567977,
-            "link": "https://www.youtube.com/watch?v=SyNWCxRqqqs&t=13s",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 5589836007,
-            "link": "https://youtu.be/8cvtAaPFzGY",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 5011629074,
-            "link": "https://youtu.be/n5VrLzkR-ks?si=heSOGo79fAnlcUKk",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 7810259775,
-            "link": "https://www.youtube.com/watch?v=vtv0rg8Qajw",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 6274537191,
-            "link": "https://youtu.be/CsPH4Lhg6TM?si=X-xesX1D_YctbGGu",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 6626447859,
-            "link": "https://www.youtube.com/watch?v=a3Fot7ijmu0",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 7859110537,
-            "link": "https://www.youtube.com/watch?v=cxaj5IA0YRk&t=1s",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 6328546719,
-            "link": "https://www.youtube.com/watch?v=fAxB8NmKxv8",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 2034931393,
-            "link": "https://youtu.be/EH0CguMaG2A",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+	"id": 87071894,
+	"name": "The Paroxysm of Rage",
+	"author": 2422404639,
+	"creators": [
+		2422404639,
+		6328895146
+	],
+	"verifier": 8595939395,
+	"verification": "https://youtu.be/nq3i1qJQeEk",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"song": 219635,
+	"records": [
+		{
+			"user": 4919652315,
+			"link": "https://youtu.be/9me55MtJNEY?si=ClraJvFeGy1yf5cG",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 7639283352,
+			"link": "https://www.youtube.com/watch?v=nQyt6Gn6HvQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3224305727,
+			"link": "https://youtu.be/746O_LgsL3o?si=CvXnnvX1JN4aswCK",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7775567977,
+			"link": "https://www.youtube.com/watch?v=SyNWCxRqqqs&t=13s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5589836007,
+			"link": "https://youtu.be/8cvtAaPFzGY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5011629074,
+			"link": "https://youtu.be/n5VrLzkR-ks?si=heSOGo79fAnlcUKk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7810259775,
+			"link": "https://www.youtube.com/watch?v=vtv0rg8Qajw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6274537191,
+			"link": "https://youtu.be/CsPH4Lhg6TM?si=X-xesX1D_YctbGGu",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6626447859,
+			"link": "https://www.youtube.com/watch?v=a3Fot7ijmu0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7859110537,
+			"link": "https://www.youtube.com/watch?v=cxaj5IA0YRk&t=1s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6328546719,
+			"link": "https://www.youtube.com/watch?v=fAxB8NmKxv8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2034931393,
+			"link": "https://youtu.be/EH0CguMaG2A",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5142464603,
+			"link": "https://www.youtube.com/watch?v=uTecix8apwQ",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
