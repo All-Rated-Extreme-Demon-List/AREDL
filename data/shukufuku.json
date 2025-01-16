@@ -14,7 +14,9 @@
 	],
 	"verifier": 4123636997,
 	"verification": "https://youtu.be/BNaixSQPmys?si=UoicxGJQ3dAz_N_3",
-	"tags": ["NONG"],
+	"tags": [
+		"NONG"
+	],
 	"percentToQualify": 100,
 	"records": [
 		{
@@ -874,6 +876,24 @@
 		{
 			"user": 2299459869,
 			"link": "https://www.youtube.com/watch?v=qBcG5rgllhI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6433640830,
+			"link": "https://www.youtube.com/watch?v=t-jnG7c3Rj4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8290982750,
+			"link": "https://www.youtube.com/watch?v=_g-rnT2rRSw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6840243681,
+			"link": "https://youtu.be/rCU3OIQvoSc",
 			"percent": 100,
 			"hz": 360
 		}

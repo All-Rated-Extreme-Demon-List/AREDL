@@ -1,175 +1,181 @@
 {
-    "id": 81906166,
-    "name": "Retention Rush",
-    "author": 2570544944,
-    "creators": [],
-    "verifier": 4022029882,
-    "verification": "https://www.youtube.com/watch?v=SPn1wsc9J9M",
-    "percentToQualify": 100,
-    "song": 943768,
-    "records": [
-        {
-            "user": 2047709382,
-            "link": "https://youtu.be/QSmtnkk8bvQ",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 8668497952,
-            "link": "https://youtu.be/Gch6cfRbLkY",
-            "percent": 100,
-            "hz": 330
-        },
-        {
-            "user": 3362805527,
-            "link": "https://youtu.be/-I74f1a7yA4",
-            "percent": 100,
-            "hz": 280
-        },
-        {
-            "user": 9925554002,
-            "link": "https://www.youtube.com/watch?v=n1HRNP3gosA",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 3050190027,
-            "link": "https://youtu.be/pkx4kDwPHwc",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": 1938127492,
-            "link": "https://youtu.be/b9Y3F4JR0pk",
-            "percent": 100,
-            "hz": 288
-        },
-        {
-            "user": 3197896757,
-            "link": "https://www.youtube.com/watch?v=TXsR_BEvPGw",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 8299075170,
-            "link": "https://youtu.be/EE7tBavMbF8",
-            "percent": 100,
-            "hz": 75
-        },
-        {
-            "user": 3471563803,
-            "link": "https://www.youtube.com/watch?v=3SlfTLlQ-X0&t",
-            "percent": 100,
-            "hz": 165
-        },
-        {
-            "user": 2233668760,
-            "link": "https://www.youtube.com/watch?v=lRIKTzAa0-w",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 3501458021,
-            "link": "https://www.youtube.com/watch?v=pMRnpBQpsP0",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 2587326323,
-            "link": "https://www.youtube.com/watch?v=bQqplbUKoQg",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 7632664272,
-            "link": "https://www.youtube.com/watch?v=54mTOyU-GWs",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 8893920101,
-            "link": "https://www.youtube.com/watch?v=28nFFGF_JSM&list=PL35LTwombxApkl1vCWbUPvG6tDOvUDwsN&index=56",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 9880757511,
-            "link": "https://youtu.be/O-pfdD48l1s?si=06vioOgquXxcJZh6",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 1069746988,
-            "link": "https://youtu.be/HPYlpWbv4_0?si=Yj1In9VpmtMUMBmW",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 5769250037,
-            "link": "https://youtu.be/WJpcSyII2Xg?si=zlpBemkht-_LqFsO",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 8563786231,
-            "link": "https://youtu.be/8OYEUh-0P9o",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 4886572813,
-            "link": "https://youtu.be/lwp-2SWhtnY?si=IFhZeMAzUYmO_tHM",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 6491879035,
-            "link": "https://youtu.be/xRaWkCkY9iE?si=iT1gjZDoeBE5GzVX",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 2590409654,
-            "link": "https://www.youtube.com/watch?v=7Cgb_cI5GW0",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 6704093169,
-            "link": "https://youtu.be/KO2bcmZmR2U?si=3vHMx0LGXAIPBm2U",
-            "percent": 100,
-            "hz": 360,
-            "mobile": true
-        },
-        {
-            "user": 1302127022,
-            "link": "https://youtu.be/I86aBn9Xz_s?si=PqVWNNNR1xCx0tf6",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 8041825815,
-            "link": "https://youtu.be/atBBHK3sI7o",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 7296288901,
-            "link": "https://youtu.be/9ocB3C8H4M4",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 7973652256,
-            "link": "https://youtu.be/Pw_kW-nqFgc",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 5682075496,
-            "link": "https://youtu.be/IThY7Ej-3FU?feature=shared",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+	"id": 81906166,
+	"name": "Retention Rush",
+	"author": 2570544944,
+	"creators": [],
+	"verifier": 4022029882,
+	"verification": "https://www.youtube.com/watch?v=SPn1wsc9J9M",
+	"percentToQualify": 100,
+	"song": 943768,
+	"records": [
+		{
+			"user": 2047709382,
+			"link": "https://youtu.be/QSmtnkk8bvQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8668497952,
+			"link": "https://youtu.be/Gch6cfRbLkY",
+			"percent": 100,
+			"hz": 330
+		},
+		{
+			"user": 3362805527,
+			"link": "https://youtu.be/-I74f1a7yA4",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": 9925554002,
+			"link": "https://www.youtube.com/watch?v=n1HRNP3gosA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3050190027,
+			"link": "https://youtu.be/pkx4kDwPHwc",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 1938127492,
+			"link": "https://youtu.be/b9Y3F4JR0pk",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": 3197896757,
+			"link": "https://www.youtube.com/watch?v=TXsR_BEvPGw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8299075170,
+			"link": "https://youtu.be/EE7tBavMbF8",
+			"percent": 100,
+			"hz": 75
+		},
+		{
+			"user": 3471563803,
+			"link": "https://www.youtube.com/watch?v=3SlfTLlQ-X0&t",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": 2233668760,
+			"link": "https://www.youtube.com/watch?v=lRIKTzAa0-w",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3501458021,
+			"link": "https://www.youtube.com/watch?v=pMRnpBQpsP0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2587326323,
+			"link": "https://www.youtube.com/watch?v=bQqplbUKoQg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7632664272,
+			"link": "https://www.youtube.com/watch?v=54mTOyU-GWs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8893920101,
+			"link": "https://www.youtube.com/watch?v=28nFFGF_JSM&list=PL35LTwombxApkl1vCWbUPvG6tDOvUDwsN&index=56",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9880757511,
+			"link": "https://youtu.be/O-pfdD48l1s?si=06vioOgquXxcJZh6",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1069746988,
+			"link": "https://youtu.be/HPYlpWbv4_0?si=Yj1In9VpmtMUMBmW",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5769250037,
+			"link": "https://youtu.be/WJpcSyII2Xg?si=zlpBemkht-_LqFsO",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8563786231,
+			"link": "https://youtu.be/8OYEUh-0P9o",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4886572813,
+			"link": "https://youtu.be/lwp-2SWhtnY?si=IFhZeMAzUYmO_tHM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6491879035,
+			"link": "https://youtu.be/xRaWkCkY9iE?si=iT1gjZDoeBE5GzVX",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2590409654,
+			"link": "https://www.youtube.com/watch?v=7Cgb_cI5GW0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6704093169,
+			"link": "https://youtu.be/KO2bcmZmR2U?si=3vHMx0LGXAIPBm2U",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		},
+		{
+			"user": 1302127022,
+			"link": "https://youtu.be/I86aBn9Xz_s?si=PqVWNNNR1xCx0tf6",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8041825815,
+			"link": "https://youtu.be/atBBHK3sI7o",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7296288901,
+			"link": "https://youtu.be/9ocB3C8H4M4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7973652256,
+			"link": "https://youtu.be/Pw_kW-nqFgc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5682075496,
+			"link": "https://youtu.be/IThY7Ej-3FU?feature=shared",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8741950942,
+			"link": "https://youtu.be/1YgO4oJma54?si=jE1yJhJtXcXp9Dqf",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
