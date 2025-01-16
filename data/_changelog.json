@@ -7657,5 +7657,14 @@
 		"from_rank": 719,
 		"above": "shukufuku",
 		"below": "volume"
+	},
+	{
+		"date": 1736997530,
+		"action": "raised",
+		"name": "distraught",
+		"to_rank": 375,
+		"from_rank": 400,
+		"above": "lodin_da_fish_washer",
+		"below": "chainsaw"
 	}
 ]
