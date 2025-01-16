@@ -7648,5 +7648,14 @@
 		"from_rank": 434,
 		"above": "spirit_house",
 		"below": "prisma"
+	},
+	{
+		"date": 1736996983,
+		"action": "lowered",
+		"name": "elite_z_rebirth",
+		"to_rank": 817,
+		"from_rank": 719,
+		"above": "shukufuku",
+		"below": "volume"
 	}
 ]
