@@ -7675,5 +7675,14 @@
 		"from_rank": 725,
 		"above": "cerebral_hemorrhage",
 		"below": "painful_playland"
+	},
+	{
+		"date": 1737044248,
+		"action": "lowered",
+		"name": "sysmique_locked",
+		"to_rank": 573,
+		"from_rank": 537,
+		"above": "intrusive_id",
+		"below": "water_demon"
 	}
 ]
