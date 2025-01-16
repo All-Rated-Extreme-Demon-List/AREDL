@@ -7666,5 +7666,14 @@
 		"from_rank": 400,
 		"above": "lodin_da_fish_washer",
 		"below": "chainsaw"
+	},
+	{
+		"date": 1737039525,
+		"action": "lowered",
+		"name": "synergy",
+		"to_rank": 832,
+		"from_rank": 725,
+		"above": "cerebral_hemorrhage",
+		"below": "painful_playland"
 	}
 ]
