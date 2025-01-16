@@ -7639,5 +7639,14 @@
 		"from_rank": 728,
 		"above": "digital_disarray",
 		"below": "tesseract_force"
+	},
+	{
+		"date": 1736996903,
+		"action": "raised",
+		"name": "dmg_ctrl",
+		"to_rank": 405,
+		"from_rank": 434,
+		"above": "spirit_house",
+		"below": "prisma"
 	}
 ]
