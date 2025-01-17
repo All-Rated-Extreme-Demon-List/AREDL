@@ -1,90 +1,96 @@
 {
-    "id": 87871245,
-    "name": "Recrystallize",
-    "author": 1648801487,
-    "creators": [
-        1073203191,
-        4115165958,
-        2304407488,
-        4349002648,
-        4051969182,
-        2068053467,
-        7732753521,
-        4796048557,
-        2811377018,
-        1648801487,
-        1518913089,
-        8242037221,
-        2644448452,
-        2855835226,
-        7730286151,
-        6463963372,
-        2738119837,
-        1032402085,
-        7451352372,
-        3807165419,
-        2869091042,
-        4877239409
-    ],
-    "verifier": 9831530039,
-    "verification": "https://www.youtube.com/watch?v=L5v10dWgieM",
-    "percentToQualify": 100,
-    "password": "111111",
-    "song": 938116,
-    "records": [
-        {
-            "user": 8216489547,
-            "link": "https://youtu.be/UkKNAZjKgMU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 9405692896,
-            "link": "https://www.youtube.com/watch?v=fjOrRUY2beo",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 7762140832,
-            "link": "https://youtu.be/NEnrhRchSqw?si=ouJ6H5f-QcoJrk1T",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": 8485402626,
-            "link": "https://youtu.be/r6d6aBRyvF0?si=ghyrjUTGnGQ_00JA",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": 8078038373,
-            "link": "https://youtu.be/O9Tnh8oE_ds",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 8944106290,
-            "link": "https://www.youtube.com/watch?v=YWWQVNjy9Ms&t=12s",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": 7775567977,
-            "link": "https://www.youtube.com/watch?v=W2kHAAJwrPY",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 1938127492,
-            "link": "https://youtu.be/f2T3RSKwGX8",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 1917382258,
-            "link": "https://youtu.be/tY5TurNRPAc",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+	"id": 87871245,
+	"name": "Recrystallize",
+	"author": 1648801487,
+	"creators": [
+		1073203191,
+		4115165958,
+		2304407488,
+		4349002648,
+		4051969182,
+		2068053467,
+		7732753521,
+		4796048557,
+		2811377018,
+		1648801487,
+		1518913089,
+		8242037221,
+		2644448452,
+		2855835226,
+		7730286151,
+		6463963372,
+		2738119837,
+		1032402085,
+		7451352372,
+		3807165419,
+		2869091042,
+		4877239409
+	],
+	"verifier": 9831530039,
+	"verification": "https://www.youtube.com/watch?v=L5v10dWgieM",
+	"percentToQualify": 100,
+	"password": "111111",
+	"song": 938116,
+	"records": [
+		{
+			"user": 8216489547,
+			"link": "https://youtu.be/UkKNAZjKgMU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9405692896,
+			"link": "https://www.youtube.com/watch?v=fjOrRUY2beo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7762140832,
+			"link": "https://youtu.be/NEnrhRchSqw?si=ouJ6H5f-QcoJrk1T",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 8485402626,
+			"link": "https://youtu.be/r6d6aBRyvF0?si=ghyrjUTGnGQ_00JA",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 8078038373,
+			"link": "https://youtu.be/O9Tnh8oE_ds",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8944106290,
+			"link": "https://www.youtube.com/watch?v=YWWQVNjy9Ms&t=12s",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 7775567977,
+			"link": "https://www.youtube.com/watch?v=W2kHAAJwrPY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1938127492,
+			"link": "https://youtu.be/f2T3RSKwGX8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1917382258,
+			"link": "https://youtu.be/tY5TurNRPAc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1069746988,
+			"link": "https://youtu.be/97Gzb9Srdro",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
