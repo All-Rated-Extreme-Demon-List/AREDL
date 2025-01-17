@@ -7693,5 +7693,14 @@
 		"from_rank": 480,
 		"above": "io",
 		"below": "ultra_violet"
+	},
+	{
+		"date": 1737131976,
+		"action": "lowered",
+		"name": "faulty_code",
+		"to_rank": 665,
+		"from_rank": 595,
+		"above": "beeline_2p",
+		"below": "karma"
 	}
 ]
