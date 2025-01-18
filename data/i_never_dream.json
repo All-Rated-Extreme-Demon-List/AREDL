@@ -7,8 +7,8 @@
 	"verification": "https://www.youtube.com/watch?v=9bumyVCkPiw",
 	"percentToQualify": 100,
 	"tags": [
-        "NONG"
-    ],
+		"NONG"
+	],
 	"records": [
 		{
 			"user": 8526795958,
@@ -746,6 +746,12 @@
 		{
 			"user": 8083908637,
 			"link": "https://youtu.be/Te8QS0sPb14",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8933149508,
+			"link": "https://www.youtube.com/watch?v=HiobIPBLFMU&ab_channel=Benitez",
 			"percent": 100,
 			"hz": 360
 		}
