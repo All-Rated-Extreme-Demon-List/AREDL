@@ -7711,5 +7711,14 @@
 		"from_rank": null,
 		"above": "four",
 		"below": "smartish_mode"
+	},
+	{
+		"date": 1737198833,
+		"action": "raised",
+		"name": "hot_rod",
+		"to_rank": 495,
+		"from_rank": 501,
+		"above": "madmansion",
+		"below": "team_z"
 	}
 ]
