@@ -1,142 +1,148 @@
 {
-    "id": 36886759,
-    "name": "Poltergeist Reborn",
-    "author": 7802322798,
-    "creators": [
-        8320669366,
-        7802322798
-    ],
-    "verifier": 7802322798,
-    "verification": "https://www.youtube.com/watch?v=mS9zVwrGfuE",
-    "percentToQualify": 100,
-    "password": "654589",
-    "song": 587870,
-    "records": [
-        {
-            "user": 4309093704,
-            "link": "https://youtu.be/ab2lfPtiedM",
-            "percent": 100,
-            "hz": 300
-        },
-        {
-            "user": 1951133750,
-            "link": "https://youtu.be/948ikJiqV5A",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 3525146362,
-            "link": "https://youtu.be/Z_2X9_46Kqo",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 9007829327,
-            "link": "https://www.youtube.com/watch?v=9IzNdIjepV0",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 1198357423,
-            "link": "https://www.youtube.com/watch?v=Ivo2IbeDHmE",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 5499595951,
-            "link": "https://www.youtube.com/watch?v=pvlBpNi-QDA&list=PLPO7zyirwXlmG47aSNmkK0lleEzi2UMG8&index=65",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 3412447994,
-            "link": "https://youtu.be/2qxoIBtSEh8?si=5IsAgK_jpcBEtYap",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 2488290069,
-            "link": "https://www.youtube.com/watch?v=nDGqK0C9r_Y",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 3840185569,
-            "link": "https://youtu.be/UzmUIm5Kpqo?si=1qN0nbPZPOtAmF-3",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 3693363592,
-            "link": "https://youtu.be/oJQHBq70ybo?si=fqMTaO722_XocmPH",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 7329038097,
-            "link": "https://youtu.be/KRETmGNQgXs?si=CZl3jQCxxByPvUvd",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 9968798741,
-            "link": "https://youtu.be/MjuBrnkZVPY",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 3129539633,
-            "link": "https://youtu.be/w9QVhEBJzsk",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 8476436599,
-            "link": "https://www.youtube.com/watch?v=coRmggZs0oE",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 5589836007,
-            "link": "https://youtu.be/hVmDEcVMLhg",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 6718779684,
-            "link": "https://www.youtube.com/watch?v=Nexs356HI1E",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 5262208158,
-            "link": "https://youtu.be/Bw4N1M5tXQE?si=A0VZEZiZuN1FxPrm",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 6382218683,
-            "link": "https://www.youtube.com/watch?v=i4wUHZCM7mo",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 8570337736,
-            "link": "https://www.youtube.com/watch?v=1skFZRUtjao",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 7429622934,
-            "link": "https://youtu.be/TlUOo9VVBNc",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 8290982750,
-            "link": "https://www.youtube.com/watch?v=NUPEhI6Ch6c&t=3509s",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+	"id": 36886759,
+	"name": "Poltergeist Reborn",
+	"author": 7802322798,
+	"creators": [
+		8320669366,
+		7802322798
+	],
+	"verifier": 7802322798,
+	"verification": "https://www.youtube.com/watch?v=mS9zVwrGfuE",
+	"percentToQualify": 100,
+	"password": "654589",
+	"song": 587870,
+	"records": [
+		{
+			"user": 4309093704,
+			"link": "https://youtu.be/ab2lfPtiedM",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": 1951133750,
+			"link": "https://youtu.be/948ikJiqV5A",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3525146362,
+			"link": "https://youtu.be/Z_2X9_46Kqo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9007829327,
+			"link": "https://www.youtube.com/watch?v=9IzNdIjepV0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1198357423,
+			"link": "https://www.youtube.com/watch?v=Ivo2IbeDHmE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5499595951,
+			"link": "https://www.youtube.com/watch?v=pvlBpNi-QDA&list=PLPO7zyirwXlmG47aSNmkK0lleEzi2UMG8&index=65",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3412447994,
+			"link": "https://youtu.be/2qxoIBtSEh8?si=5IsAgK_jpcBEtYap",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2488290069,
+			"link": "https://www.youtube.com/watch?v=nDGqK0C9r_Y",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3840185569,
+			"link": "https://youtu.be/UzmUIm5Kpqo?si=1qN0nbPZPOtAmF-3",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3693363592,
+			"link": "https://youtu.be/oJQHBq70ybo?si=fqMTaO722_XocmPH",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7329038097,
+			"link": "https://youtu.be/KRETmGNQgXs?si=CZl3jQCxxByPvUvd",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9968798741,
+			"link": "https://youtu.be/MjuBrnkZVPY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3129539633,
+			"link": "https://youtu.be/w9QVhEBJzsk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8476436599,
+			"link": "https://www.youtube.com/watch?v=coRmggZs0oE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5589836007,
+			"link": "https://youtu.be/hVmDEcVMLhg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6718779684,
+			"link": "https://www.youtube.com/watch?v=Nexs356HI1E",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5262208158,
+			"link": "https://youtu.be/Bw4N1M5tXQE?si=A0VZEZiZuN1FxPrm",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6382218683,
+			"link": "https://www.youtube.com/watch?v=i4wUHZCM7mo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8570337736,
+			"link": "https://www.youtube.com/watch?v=1skFZRUtjao",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7429622934,
+			"link": "https://youtu.be/TlUOo9VVBNc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8290982750,
+			"link": "https://www.youtube.com/watch?v=NUPEhI6Ch6c&t=3509s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3623920713,
+			"link": "https://www.youtube.com/live/rnTAGHRdyBU?si=9EpbS0jpKtFeeCBp&t=1248",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
