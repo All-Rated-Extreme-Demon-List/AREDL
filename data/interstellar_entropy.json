@@ -1,170 +1,176 @@
 {
-    "id": 68578147,
-    "name": "Interstellar Entropy",
-    "author": 8102151395,
-    "creators": [
-        8102151395,
-        7518176466,
-        9537832258,
-        5867554040,
-        7624255624,
-        2534902042,
-        5027886040,
-        1257169149,
-        8473130581,
-        6829041020,
-        9518921686,
-        7324693802,
-        5931156306,
-        4830209087,
-        7277830954,
-        5513059937,
-        2869488987
-    ],
-    "verifier": 8102151395,
-    "verification": "https://youtu.be/2ZEgYrj253o?si=grziKBajiqXSWU3G",
-    "percentToQualify": 100,
-    "password": "Free Copy",
-    "song": 495840,
-    "records": [
-        {
-            "user": 8762764820,
-            "link": "https://youtu.be/eftzWsxMzdI?si=1JuOAwgiqu0kPhLx",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 4007883613,
-            "link": "https://www.youtube.com/watch?v=nGwILI6rklU&t=1shttps://www.youtube.com/watch?v=nGwILI6rklU&t=1s",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 9862625345,
-            "link": "https://www.youtube.com/watch?v=FYz-VXkIJHo",
-            "percent": 100,
-            "hz": 360,
-            "mobile": true
-        },
-        {
-            "user": 3162087902,
-            "link": "https://youtu.be/GuX3Bb4FC94?si=V77EBJvkE--Apw8u",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 3156679863,
-            "link": "https://youtu.be/dbG68adlfLk?si=Hk386Tj7jS-lqcvj",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 2557698545,
-            "link": "https://www.youtube.com/watch?v=zXM0OaNb2tY",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 5960061152,
-            "link": "https://www.youtube.com/watch?v=0dcbuKXh2ww",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 4531491759,
-            "link": "https://youtu.be/HFYj0LRNbPE?si=nMj3ZhSDORkmJ0C6",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 5067954587,
-            "link": "https://www.youtube.com/watch?v=QoyVyfppAkA",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 1464205967,
-            "link": "https://www.youtube.com/watch?v=X4wardWGG9w&feature=youtu.be",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 2440283238,
-            "link": "https://youtu.be/v4sXXHgQn-k?si=eMzZ-ub8-box4nmk",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 2184331723,
-            "link": "https://youtu.be/S4OL1bEty5o?si=zz1eo87pwUq3rVmB",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 2596623974,
-            "link": "https://youtu.be/AW_Vi0HAYTQ",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 4879330892,
-            "link": "https://youtu.be/Zeb9yOba0kY",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 3969992072,
-            "link": "https://youtu.be/TDcV3hGNvZM",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 8093499662,
-            "link": "https://youtu.be/MdMl6AJ0GuI",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 3506761566,
-            "link": "https://www.youtube.com/watch?v=ZdGHdB3CSC0&t=185s",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 9071205810,
-            "link": "https://youtu.be/L61LaRcE31Y?si=IdBjJycmx4wr-7mV",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 3271910493,
-            "link": "https://www.youtube.com/watch?v=Ww1oua905UY",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 2366076126,
-            "link": "https://youtu.be/QPnJlFxDRrY",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 6807948992,
-            "link": "https://www.youtube.com/watch?v=_zQKOMaQ6ac&t=1s",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 6709461421,
-            "link": "https://youtu.be/ZK1G3m78ETA?si=6Vly-1Q20SYpCM37",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 3760852723,
-            "link": "https://www.youtube.com/watch?v=7bFeEfBPU8A",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+	"id": 68578147,
+	"name": "Interstellar Entropy",
+	"author": 8102151395,
+	"creators": [
+		8102151395,
+		7518176466,
+		9537832258,
+		5867554040,
+		7624255624,
+		2534902042,
+		5027886040,
+		1257169149,
+		8473130581,
+		6829041020,
+		9518921686,
+		7324693802,
+		5931156306,
+		4830209087,
+		7277830954,
+		5513059937,
+		2869488987
+	],
+	"verifier": 8102151395,
+	"verification": "https://youtu.be/2ZEgYrj253o?si=grziKBajiqXSWU3G",
+	"percentToQualify": 100,
+	"password": "Free Copy",
+	"song": 495840,
+	"records": [
+		{
+			"user": 8762764820,
+			"link": "https://youtu.be/eftzWsxMzdI?si=1JuOAwgiqu0kPhLx",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4007883613,
+			"link": "https://www.youtube.com/watch?v=nGwILI6rklU&t=1shttps://www.youtube.com/watch?v=nGwILI6rklU&t=1s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9862625345,
+			"link": "https://www.youtube.com/watch?v=FYz-VXkIJHo",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		},
+		{
+			"user": 3162087902,
+			"link": "https://youtu.be/GuX3Bb4FC94?si=V77EBJvkE--Apw8u",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3156679863,
+			"link": "https://youtu.be/dbG68adlfLk?si=Hk386Tj7jS-lqcvj",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2557698545,
+			"link": "https://www.youtube.com/watch?v=zXM0OaNb2tY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5960061152,
+			"link": "https://www.youtube.com/watch?v=0dcbuKXh2ww",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4531491759,
+			"link": "https://youtu.be/HFYj0LRNbPE?si=nMj3ZhSDORkmJ0C6",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5067954587,
+			"link": "https://www.youtube.com/watch?v=QoyVyfppAkA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1464205967,
+			"link": "https://www.youtube.com/watch?v=X4wardWGG9w&feature=youtu.be",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2440283238,
+			"link": "https://youtu.be/v4sXXHgQn-k?si=eMzZ-ub8-box4nmk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2184331723,
+			"link": "https://youtu.be/S4OL1bEty5o?si=zz1eo87pwUq3rVmB",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2596623974,
+			"link": "https://youtu.be/AW_Vi0HAYTQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4879330892,
+			"link": "https://youtu.be/Zeb9yOba0kY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3969992072,
+			"link": "https://youtu.be/TDcV3hGNvZM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8093499662,
+			"link": "https://youtu.be/MdMl6AJ0GuI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3506761566,
+			"link": "https://www.youtube.com/watch?v=ZdGHdB3CSC0&t=185s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9071205810,
+			"link": "https://youtu.be/L61LaRcE31Y?si=IdBjJycmx4wr-7mV",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3271910493,
+			"link": "https://www.youtube.com/watch?v=Ww1oua905UY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2366076126,
+			"link": "https://youtu.be/QPnJlFxDRrY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6807948992,
+			"link": "https://www.youtube.com/watch?v=_zQKOMaQ6ac&t=1s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6709461421,
+			"link": "https://youtu.be/ZK1G3m78ETA?si=6Vly-1Q20SYpCM37",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3760852723,
+			"link": "https://www.youtube.com/watch?v=7bFeEfBPU8A",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1904501247,
+			"link": "https://www.twitch.tv/videos/2353360602",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
