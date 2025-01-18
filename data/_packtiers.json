@@ -1,7 +1,7 @@
 [
     {
         "name": "Iron Tier",
-        "color": "linear-gradient(31deg, rgba(124,124,124,1) 0%, rgba(251,251,251,1) 50%, rgba(124,124,124,1) 100%)",
+        "color": "linear-gradient(25deg, rgba(186,169,175,1) 0%, rgba(246,246,246,1) 50%, rgba(186,169,175,1) 100%)",
         "packs": [
             "1.9GDPS Pack I",
             "20 Letter Pack I",
@@ -75,7 +75,7 @@
     },
     {
         "name": "Gold Tier",
-        "color": "linear-gradient(31deg, rgba(255,188,0,1) 0%, rgba(255,244,0,1) 50%, rgba(255,188,0,1) 100%)",
+        "color": "linear-gradient(25deg, rgba(255,155,92,1) 0%, rgba(255,239,128,1) 50%, rgba(255,155,92,1) 100%)",
         "packs": [
             "1.0 Pack",
             "1.9GDPS Pack II",
@@ -170,7 +170,7 @@
     },
     {
         "name": "Ruby Tier",
-        "color": "linear-gradient(31deg, rgba(119,2,2,1) 0%, rgba(255,69,69,1) 50%, rgba(119,2,2,1) 100%)",
+        "color": "linear-gradient(25deg, rgba(219,46,79,1) 0%, rgba(248,132,103,1) 50%, rgba(219,46,79,1) 100%)",
         "packs": [
             "1.9GDPS Pack IV",
             "20 Letter Pack IV",
@@ -210,7 +210,7 @@
     },
     {
         "name": "Sapphire Tier",
-        "color": "linear-gradient(31deg, rgba(0,23,148,1) 0%, rgba(0,40,255,1) 50%, rgba(0,23,148,1) 100%)",
+        "color": "linear-gradient(25deg, rgba(84,54,208,1) 0%, rgba(81,162,227,1) 50%, rgba(84,54,208,1) 100%)",
         "packs": [
             "1.9GDPS Pack V",
             "20 Letter Pack V",
@@ -238,7 +238,7 @@
     },
     {
         "name": "Pearl Tier",
-        "color": "linear-gradient(31deg, rgba(175,173,167,1) 0%, rgba(248,246,240,1) 50%, rgba(175,173,167,1) 100%)",
+        "color": "linear-gradient(25deg, rgba(211,142,103,1) 0%, rgba(252,222,182,1) 50%, rgba(211,142,103,1) 100%)",
         "packs": [
             "1.9GDPS Pack VI",
             "20 Letter Pack VI",
@@ -250,7 +250,7 @@
     },
     {
         "name": "Diamond Tier",
-        "color": "linear-gradient(31deg, rgba(0,172,181,1) 0%, rgba(0,245,255,1) 50%, rgba(0,172,181,1) 100%)",
+        "color": "linear-gradient(25deg, rgba(136,181,255,1) 0%, rgba(237,254,255,1) 45%, rgba(255,255,255,1) 50%, rgba(226,246,255,1) 55%, rgba(136,181,255,1) 100%)",
         "packs": [
             "Demishio Pack",
             "Nine Circles Pack VI",
