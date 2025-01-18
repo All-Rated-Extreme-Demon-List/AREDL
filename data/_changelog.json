@@ -7720,5 +7720,14 @@
 		"from_rank": 501,
 		"above": "madmansion",
 		"below": "team_z"
+	},
+	{
+		"date": 1737211734,
+		"action": "placed",
+		"name": "0_mind",
+		"to_rank": 828,
+		"from_rank": null,
+		"above": "wtf",
+		"below": "pound_town"
 	}
 ]
