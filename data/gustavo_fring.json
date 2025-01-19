@@ -1,75 +1,81 @@
 {
-    "id": 80585951,
-    "name": "Gustavo Fring",
-    "author": 4600507733,
-    "creators": [
-        8429336019,
-        4600507733
-    ],
-    "verifier": 4592964314,
-    "verification": "https://www.youtube.com/watch?v=OB0YiqyEp2E",
-    "percentToQualify": 100,
-    "song": 850510,
-    "records": [
-        {
-            "user": 5362479182,
-            "link": "https://youtu.be/JuWkc4eSUCE",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 1772295387,
-            "link": "https://youtu.be/ulQKtNDEcTY?si=abchWfN9R89fDXET",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 2233668760,
-            "link": "https://youtu.be/YL-dXfhTx1E?si=tZ7y3KLcRWB9lAZ_",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 8944113767,
-            "link": "https://www.youtube.com/watch?v=2hUtyN7CArk&list=PL-NVoF9O1eL32_sDluVvJ_CBFqhj8D3fU&index=89",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 2343513445,
-            "link": "https://youtu.be/hF_QiGp1OFM",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 9879633307,
-            "link": "https://youtu.be/dM0VNVU-BAg?si=_VS4X-oXlqNmKn3x",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 8508330599,
-            "link": "https://youtu.be/zFw7en92rmo?si=tRwrBiT0VK5YmIfY",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 5486054620,
-            "link": "https://youtu.be/k7_n1C_ig78?si=THtLxWzN2FWxHPOG",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 7559386530,
-            "link": "https://youtu.be/PEsXCd59YBU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 3093943652,
-            "link": "https://www.youtube.com/watch?v=nANsHrK-7OA",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+	"id": 80585951,
+	"name": "Gustavo Fring",
+	"author": 4600507733,
+	"creators": [
+		8429336019,
+		4600507733
+	],
+	"verifier": 4592964314,
+	"verification": "https://www.youtube.com/watch?v=OB0YiqyEp2E",
+	"percentToQualify": 100,
+	"song": 850510,
+	"records": [
+		{
+			"user": 5362479182,
+			"link": "https://youtu.be/JuWkc4eSUCE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1772295387,
+			"link": "https://youtu.be/ulQKtNDEcTY?si=abchWfN9R89fDXET",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2233668760,
+			"link": "https://youtu.be/YL-dXfhTx1E?si=tZ7y3KLcRWB9lAZ_",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8944113767,
+			"link": "https://www.youtube.com/watch?v=2hUtyN7CArk&list=PL-NVoF9O1eL32_sDluVvJ_CBFqhj8D3fU&index=89",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2343513445,
+			"link": "https://youtu.be/hF_QiGp1OFM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9879633307,
+			"link": "https://youtu.be/dM0VNVU-BAg?si=_VS4X-oXlqNmKn3x",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8508330599,
+			"link": "https://youtu.be/zFw7en92rmo?si=tRwrBiT0VK5YmIfY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5486054620,
+			"link": "https://youtu.be/k7_n1C_ig78?si=THtLxWzN2FWxHPOG",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7559386530,
+			"link": "https://youtu.be/PEsXCd59YBU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3093943652,
+			"link": "https://www.youtube.com/watch?v=nANsHrK-7OA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3740620269,
+			"link": "https://www.youtube.com/watch?v=-HipWEuGbZY",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
