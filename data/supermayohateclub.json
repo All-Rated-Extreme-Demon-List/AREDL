@@ -1,179 +1,185 @@
 {
-    "id": 90942005,
-    "name": "SUPERMAYOHATECLUB",
-    "author": 4271599084,
-    "creators": [
-        4764884877,
-        1189535278,
-        2855835226,
-        8368092072,
-        6512246142,
-        4063169885,
-        8591919789,
-        4271599084,
-        3630890943
-    ],
-    "verifier": 6256034852,
-    "verification": "https://youtu.be/f8Xbn5_v59w",
-    "percentToQualify": 100,
-    "password": "230523",
-    "song": 505813,
-    "records": [
-        {
-            "user": 6633246477,
-            "link": "https://www.youtube.com/watch?v=eyreO9GQ9A4&t=2s",
-            "percent": 100,
-            "hz": 288
-        },
-        {
-            "user": 9968798741,
-            "link": "https://youtu.be/7NBNjxOpV_s",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 1938127492,
-            "link": "https://youtu.be/58EFwy8F6Os",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 1560487933,
-            "link": "https://www.youtube.com/watch?v=f7ewRihBlRg",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 1951133750,
-            "link": "https://youtu.be/8GqhMXnYdtY",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 7104595404,
-            "link": "https://www.youtube.com/watch?v=cLF1h1n9M_s",
-            "percent": 100,
-            "hz": 288
-        },
-        {
-            "user": 8078038373,
-            "link": "https://youtu.be/O9Tnh8oE_ds",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 7775567977,
-            "link": "https://www.youtube.com/watch?v=Tl_pfbbplEo",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 9405692896,
-            "link": "https://www.youtube.com/watch?v=aog-f6pLabI",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 3953213182,
-            "link": "https://medal.tv/games/geometry-dash/clips/1HSkM4lCn3wLzU/d1337Fa6h61Z?invite=cr-MSxjZEcsODAxNDI1Nyw",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 4034973733,
-            "link": "https://www.youtube.com/watch?v=P9tzabmHss4",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 5578889141,
-            "link": "https://www.youtube.com/watch?v=lFyLoDngprs&t=27s",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 1810878121,
-            "link": "https://youtu.be/_2736nSzHWo",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 3093943652,
-            "link": "https://medal.tv/games/geometry-dash/clips/ikMEL7WVMgvWjk8zg/d1337uiI7PmY?invite=cr-MSxyMjYsMTc1MTg4OTQs",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 2296839013,
-            "link": "https://youtu.be/q2eIDxcuTBw",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 2590343671,
-            "link": "https://www.youtube.com/watch?v=Y1NKrQf6GoY&t=2s",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 4147457921,
-            "link": "https://youtu.be/aBhCPxFDLlE",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 3969992072,
-            "link": "https://youtu.be/gfmiFwitmCY",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 2464754572,
-            "link": "https://youtu.be/7kyxfh7meaE",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 8431119892,
-            "link": "https://youtu.be/R7RKLgLdy6E",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 7105812363,
-            "link": "https://medal.tv/games/geometry-dash/clips/iRNi8jxhH6_FD5Koc?invite=cr-MSxrMG4sNzIyMzM0Nyw",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 7830624510,
-            "link": "https://youtu.be/My7m7hcEdG8",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 6274537191,
-            "link": "https://youtu.be/s29TwzgsBIg?si=4B13dsh4cgfOoxGm",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 8568721165,
-            "link": "https://youtu.be/54p2KMmFtmg",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 1429839686,
-            "link": "https://www.youtube.com/watch?v=SG4IEXB7HFk",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 8290982750,
-            "link": "https://www.youtube.com/watch?v=bMofxoKg4YY",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+	"id": 90942005,
+	"name": "SUPERMAYOHATECLUB",
+	"author": 4271599084,
+	"creators": [
+		4764884877,
+		1189535278,
+		2855835226,
+		8368092072,
+		6512246142,
+		4063169885,
+		8591919789,
+		4271599084,
+		3630890943
+	],
+	"verifier": 6256034852,
+	"verification": "https://youtu.be/f8Xbn5_v59w",
+	"percentToQualify": 100,
+	"password": "230523",
+	"song": 505813,
+	"records": [
+		{
+			"user": 6633246477,
+			"link": "https://www.youtube.com/watch?v=eyreO9GQ9A4&t=2s",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": 9968798741,
+			"link": "https://youtu.be/7NBNjxOpV_s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1938127492,
+			"link": "https://youtu.be/58EFwy8F6Os",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1560487933,
+			"link": "https://www.youtube.com/watch?v=f7ewRihBlRg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1951133750,
+			"link": "https://youtu.be/8GqhMXnYdtY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7104595404,
+			"link": "https://www.youtube.com/watch?v=cLF1h1n9M_s",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": 8078038373,
+			"link": "https://youtu.be/O9Tnh8oE_ds",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7775567977,
+			"link": "https://www.youtube.com/watch?v=Tl_pfbbplEo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9405692896,
+			"link": "https://www.youtube.com/watch?v=aog-f6pLabI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3953213182,
+			"link": "https://medal.tv/games/geometry-dash/clips/1HSkM4lCn3wLzU/d1337Fa6h61Z?invite=cr-MSxjZEcsODAxNDI1Nyw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4034973733,
+			"link": "https://www.youtube.com/watch?v=P9tzabmHss4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5578889141,
+			"link": "https://www.youtube.com/watch?v=lFyLoDngprs&t=27s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1810878121,
+			"link": "https://youtu.be/_2736nSzHWo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3093943652,
+			"link": "https://medal.tv/games/geometry-dash/clips/ikMEL7WVMgvWjk8zg/d1337uiI7PmY?invite=cr-MSxyMjYsMTc1MTg4OTQs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2296839013,
+			"link": "https://youtu.be/q2eIDxcuTBw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2590343671,
+			"link": "https://www.youtube.com/watch?v=Y1NKrQf6GoY&t=2s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4147457921,
+			"link": "https://youtu.be/aBhCPxFDLlE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3969992072,
+			"link": "https://youtu.be/gfmiFwitmCY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2464754572,
+			"link": "https://youtu.be/7kyxfh7meaE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8431119892,
+			"link": "https://youtu.be/R7RKLgLdy6E",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7105812363,
+			"link": "https://medal.tv/games/geometry-dash/clips/iRNi8jxhH6_FD5Koc?invite=cr-MSxrMG4sNzIyMzM0Nyw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7830624510,
+			"link": "https://youtu.be/My7m7hcEdG8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6274537191,
+			"link": "https://youtu.be/s29TwzgsBIg?si=4B13dsh4cgfOoxGm",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8568721165,
+			"link": "https://youtu.be/54p2KMmFtmg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1429839686,
+			"link": "https://www.youtube.com/watch?v=SG4IEXB7HFk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8290982750,
+			"link": "https://www.youtube.com/watch?v=bMofxoKg4YY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1492178495,
+			"link": "https://www.youtube.com/watch?v=njn_75IT6RY",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
