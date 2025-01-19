@@ -1,95 +1,101 @@
 {
-    "id": 81041659,
-    "name": "Polygonal Paradox",
-    "author": 5816304874,
-    "creators": [
-        5697722076,
-        1660851943,
-        5816304874
-    ],
-    "verifier": 5816304874,
-    "verification": "https://www.youtube.com/watch?v=w1fSQxEdYnc",
-    "percentToQualify": 100,
-    "song": 753446,
-    "records": [
-        {
-            "user": 9561396744,
-            "link": "https://youtu.be/52_T9SSZc3w",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": 3271910493,
-            "link": "https://www.youtube.com/watch?v=30HSVKuuKoE",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 3652367058,
-            "link": "https://youtu.be/YapqOH4y2gQ?si=irmUJtqk_YVjra9g",
-            "percent": 100,
-            "hz": 90,
-            "mobile": true
-        },
-        {
-            "user": 3490111173,
-            "link": "https://youtu.be/ztV8DMMeJeU?si=Kj5Wdk-8xk6oZhcC",
-            "percent": 100,
-            "hz": 288
-        },
-        {
-            "user": 8563786231,
-            "link": "https://youtu.be/JkBppj2AHsA",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 6839091830,
-            "link": "https://youtu.be/YnLe7mg6Ucs?si=SKzWijFQa38MnqOL",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 8508330599,
-            "link": "https://youtu.be/zCyVE8zq8lA?si=4HUkVUKsYtFUCjeC",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 1103971182,
-            "link": "https://youtu.be/yKrmseoyVCk",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 7099339620,
-            "link": "https://www.youtube.com/watch?v=YLOaDZEUMPc&t=5s",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 4854424575,
-            "link": "https://www.youtube.com/watch?v=wN4BX5oArN8",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 1772295387,
-            "link": "https://youtu.be/oaI7-JDbvB8?si=eNEEwHIjSvuEpj-J",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 3377410347,
-            "link": "https://youtu.be/s51ta1NMzhY?si=c-nnVizsXXL7CdOC",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 7954983588,
-            "link": "https://youtu.be/cnWndXt6jcQ?si=n6pJ7FixCW0t73T1",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+	"id": 81041659,
+	"name": "Polygonal Paradox",
+	"author": 5816304874,
+	"creators": [
+		5697722076,
+		1660851943,
+		5816304874
+	],
+	"verifier": 5816304874,
+	"verification": "https://www.youtube.com/watch?v=w1fSQxEdYnc",
+	"percentToQualify": 100,
+	"song": 753446,
+	"records": [
+		{
+			"user": 9561396744,
+			"link": "https://youtu.be/52_T9SSZc3w",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 3271910493,
+			"link": "https://www.youtube.com/watch?v=30HSVKuuKoE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3652367058,
+			"link": "https://youtu.be/YapqOH4y2gQ?si=irmUJtqk_YVjra9g",
+			"percent": 100,
+			"hz": 90,
+			"mobile": true
+		},
+		{
+			"user": 3490111173,
+			"link": "https://youtu.be/ztV8DMMeJeU?si=Kj5Wdk-8xk6oZhcC",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": 8563786231,
+			"link": "https://youtu.be/JkBppj2AHsA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6839091830,
+			"link": "https://youtu.be/YnLe7mg6Ucs?si=SKzWijFQa38MnqOL",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8508330599,
+			"link": "https://youtu.be/zCyVE8zq8lA?si=4HUkVUKsYtFUCjeC",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1103971182,
+			"link": "https://youtu.be/yKrmseoyVCk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7099339620,
+			"link": "https://www.youtube.com/watch?v=YLOaDZEUMPc&t=5s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4854424575,
+			"link": "https://www.youtube.com/watch?v=wN4BX5oArN8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1772295387,
+			"link": "https://youtu.be/oaI7-JDbvB8?si=eNEEwHIjSvuEpj-J",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3377410347,
+			"link": "https://youtu.be/s51ta1NMzhY?si=c-nnVizsXXL7CdOC",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7954983588,
+			"link": "https://youtu.be/cnWndXt6jcQ?si=n6pJ7FixCW0t73T1",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6862634670,
+			"link": "https://youtu.be/3Fwwm-sPgUM?si=DfwSgmxwtEa9Y8Qu",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
