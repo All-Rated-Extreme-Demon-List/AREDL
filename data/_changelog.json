@@ -7756,5 +7756,14 @@
 		"from_rank": 1063,
 		"above": "copilot_solo",
 		"below": "the_super_hotdog"
+	},
+	{
+		"date": 1737404317,
+		"action": "lowered",
+		"name": "circuit_breaker",
+		"to_rank": 705,
+		"from_rank": 644,
+		"above": "limitless",
+		"below": "warning"
 	}
 ]
