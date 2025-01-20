@@ -7747,5 +7747,14 @@
 		"from_rank": 508,
 		"above": "speedrun",
 		"below": "endless_dream"
+	},
+	{
+		"date": 1737401451,
+		"action": "tolegacy",
+		"name": "high_heat",
+		"to_rank": 1086,
+		"from_rank": 1063,
+		"above": "copilot_solo",
+		"below": "the_super_hotdog"
 	}
 ]
