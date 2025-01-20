@@ -7765,5 +7765,14 @@
 		"from_rank": 644,
 		"above": "limitless",
 		"below": "warning"
+	},
+	{
+		"date": 1737404389,
+		"action": "lowered",
+		"name": "grill_kill",
+		"to_rank": 814,
+		"from_rank": 724,
+		"above": "volume",
+		"below": "another_phase"
 	}
 ]
