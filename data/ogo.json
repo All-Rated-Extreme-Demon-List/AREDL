@@ -2,10 +2,27 @@
 	"id": 113716462,
 	"name": "oGo",
 	"author": 4686296502,
-	"creators": [9571274481,4686296502,7480144936,7169478660,8212586801,6300713295,5520915428,8638528266,6603333573],
+	"creators": [
+		9571274481,
+		4686296502,
+		7480144936,
+		7169478660,
+		8212586801,
+		6300713295,
+		5520915428,
+		8638528266,
+		6603333573
+	],
 	"verifier": 4123636997,
 	"verification": "https://youtu.be/WfGPdtXv9Ao?si=6lVEGTlCLb_cXChj",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 9246230842,
+			"link": "https://youtu.be/I1Qnb15Hocw",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
