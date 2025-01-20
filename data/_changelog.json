@@ -7738,5 +7738,14 @@
 		"from_rank": 668,
 		"above": "kingslayer",
 		"below": "empyrean"
+	},
+	{
+		"date": 1737350699,
+		"action": "raised",
+		"name": "removed_submission",
+		"to_rank": 475,
+		"from_rank": 508,
+		"above": "speedrun",
+		"below": "endless_dream"
 	}
 ]
