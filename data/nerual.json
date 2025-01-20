@@ -1,106 +1,112 @@
 {
-    "id": 79473624,
-    "name": "NeRUaL",
-    "author": 9595889181,
-    "creators": [
-        9595889181,
-        7056650349,
-        7554682182,
-        6011000348,
-        2426593837,
-        9329458560,
-        3505147579,
-        9773122344,
-        1740043275,
-        1147141448,
-        9306091876,
-        9248405672,
-        1298378090,
-        5437520071
-    ],
-    "verifier": 3401841374,
-    "verification": "https://youtu.be/rV_uq6JsBgk",
-    "percentToQualify": 100,
-    "song": 991405,
-    "records": [
-        {
-            "user": 1938127492,
-            "link": "https://youtu.be/wKM4hoZsfUw",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 7544428170,
-            "link": "https://www.youtube.com/watch?v=9VoM8_yaJ80",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": 8552915716,
-            "link": "https://www.youtube.com/watch?v=AKVP8bfE984",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-        },
-        {
-            "user": 7403208507,
-            "link": "https://youtu.be/nex10OCI1zo",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": 9405692896,
-            "link": "https://www.youtube.com/watch?v=Zvs-ImrRzDs",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 8299075170,
-            "link": "https://youtu.be/C6b1YeZNvqg",
-            "percent": 100,
-            "hz": 75
-        },
-        {
-            "user": 9925554002,
-            "link": "https://www.youtube.com/watch?v=YFvG6R6xj18",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 3490111173,
-            "link": "https://youtu.be/92IemzhrPt4?si=6nVz9rGnxhR-0q9d",
-            "percent": 100,
-            "hz": 288
-        },
-        {
-            "user": 8810085586,
-            "link": "https://www.youtube.com/watch?v=CGbfexJ1ZJ8&list=PL5O1xXESiIKj2PIhyQXIc85tW80R1CNJU&index=214",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": 9586710551,
-            "link": "https://youtu.be/mVs0PuQowHE",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 2933498797,
-            "link": "https://youtu.be/-uXGeY2AGUk",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 1772295387,
-            "link": "https://youtu.be/aJpmO4At9wY?si=NorjRl9w5k0btIzI",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 4854424575,
-            "link": "https://youtu.be/ZtKY0Sh0xw4?si=EaRvFpYK2m_D51Eh",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+	"id": 79473624,
+	"name": "NeRUaL",
+	"author": 9595889181,
+	"creators": [
+		9595889181,
+		7056650349,
+		7554682182,
+		6011000348,
+		2426593837,
+		9329458560,
+		3505147579,
+		9773122344,
+		1740043275,
+		1147141448,
+		9306091876,
+		9248405672,
+		1298378090,
+		5437520071
+	],
+	"verifier": 3401841374,
+	"verification": "https://youtu.be/rV_uq6JsBgk",
+	"percentToQualify": 100,
+	"song": 991405,
+	"records": [
+		{
+			"user": 1938127492,
+			"link": "https://youtu.be/wKM4hoZsfUw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7544428170,
+			"link": "https://www.youtube.com/watch?v=9VoM8_yaJ80",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 8552915716,
+			"link": "https://www.youtube.com/watch?v=AKVP8bfE984",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 7403208507,
+			"link": "https://youtu.be/nex10OCI1zo",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9405692896,
+			"link": "https://www.youtube.com/watch?v=Zvs-ImrRzDs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8299075170,
+			"link": "https://youtu.be/C6b1YeZNvqg",
+			"percent": 100,
+			"hz": 75
+		},
+		{
+			"user": 9925554002,
+			"link": "https://www.youtube.com/watch?v=YFvG6R6xj18",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3490111173,
+			"link": "https://youtu.be/92IemzhrPt4?si=6nVz9rGnxhR-0q9d",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": 8810085586,
+			"link": "https://www.youtube.com/watch?v=CGbfexJ1ZJ8&list=PL5O1xXESiIKj2PIhyQXIc85tW80R1CNJU&index=214",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9586710551,
+			"link": "https://youtu.be/mVs0PuQowHE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2933498797,
+			"link": "https://youtu.be/-uXGeY2AGUk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1772295387,
+			"link": "https://youtu.be/aJpmO4At9wY?si=NorjRl9w5k0btIzI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4854424575,
+			"link": "https://youtu.be/ZtKY0Sh0xw4?si=EaRvFpYK2m_D51Eh",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6862634670,
+			"link": "https://youtu.be/UxAz-AQrgxo?si=ZI5YR89bSdueQ1ZW",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
