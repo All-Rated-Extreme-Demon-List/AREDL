@@ -7801,5 +7801,14 @@
 		"from_rank": null,
 		"above": "midnight",
 		"below": "saryyx_never_clear"
+	},
+	{
+		"date": 1737589482,
+		"action": "raised",
+		"name": "the_super_hotdog",
+		"to_rank": 1077,
+		"from_rank": 1086,
+		"above": "delirium_tremens",
+		"below": "acu"
 	}
 ]
