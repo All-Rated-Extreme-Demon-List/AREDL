@@ -7792,5 +7792,14 @@
 		"from_rank": 472,
 		"above": "ultra_violet",
 		"below": "great_fury_of_heaven"
+	},
+	{
+		"date": 1737588207,
+		"action": "placed",
+		"name": "collapse_nexel",
+		"to_rank": 37,
+		"from_rank": null,
+		"above": "midnight",
+		"below": "saryyx_never_clear"
 	}
 ]
