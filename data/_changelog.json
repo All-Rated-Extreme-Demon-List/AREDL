@@ -7783,5 +7783,14 @@
 		"from_rank": 123,
 		"above": "escape_room",
 		"below": "horros_solo"
+	},
+	{
+		"date": 1737585374,
+		"action": "raised",
+		"name": "galactic_shift",
+		"to_rank": 424,
+		"from_rank": 472,
+		"above": "ultra_violet",
+		"below": "great_fury_of_heaven"
 	}
 ]
