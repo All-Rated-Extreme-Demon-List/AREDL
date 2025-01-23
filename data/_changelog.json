@@ -7810,5 +7810,14 @@
 		"from_rank": 1086,
 		"above": "delirium_tremens",
 		"below": "acu"
+	},
+	{
+		"date": 1737675978,
+		"action": "lowered",
+		"name": "tremors",
+		"to_rank": 784,
+		"from_rank": 728,
+		"above": "hydraulic_overdrive",
+		"below": "iridium"
 	}
 ]
