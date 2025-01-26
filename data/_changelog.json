@@ -7837,5 +7837,14 @@
 		"from_rank": 345,
 		"above": "turn_the_lights_off",
 		"below": "power_grid"
+	},
+	{
+		"date": 1737854864,
+		"action": "lowered",
+		"name": "welcome_to_gd_news",
+		"to_rank": 793,
+		"from_rank": 694,
+		"above": "tornado",
+		"below": "hades"
 	}
 ]
