@@ -1,103 +1,109 @@
 {
-    "id": 62138313,
-    "name": "Molten Gear",
-    "author": 1197924603,
-    "creators": [
-        1197924603,
-        9109156979,
-        1367447256,
-        6846513826,
-        6118637198,
-        1460693839,
-        5885747595,
-        3666383004,
-        7046420575,
-        1999460512,
-        1637528663,
-        8320669366,
-        4796048557,
-        1688294361,
-        9869738418,
-        5453478611,
-        3221000687,
-        5245946447,
-        8194237531,
-        5669435075,
-        8540639515,
-        8980181634,
-        2615338522
-    ],
-    "verifier": 1197924603,
-    "verification": "https://www.youtube.com/watch?v=NMRaJu5BiAI",
-    "percentToQualify": 100,
-    "password": "000117",
-    "song": 579560,
-    "records": [
-        {
-            "user": 1286374211,
-            "link": "https://youtu.be/OJSlITFCHOA",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 9746953199,
-            "link": "https://youtu.be/Ehl1wGWf_RQ",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": 9577565812,
-            "link": "https://www.youtube.com/watch?v=Zqed2EbBLjg",
-            "percent": 100,
-            "hz": 288
-        },
-        {
-            "user": 7104595404,
-            "link": "https://www.youtube.com/watch?v=Ii5FHrw_Bfg",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": 4190423705,
-            "link": "https://youtu.be/a3NNO94UAXU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 9349980438,
-            "link": "https://www.youtube.com/watch?v=wQy8GwltDqw",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 3367798791,
-            "link": "https://youtu.be/AW-Vyj0VeeE?si=erRAQ7fyWPDpCvew",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 9895938056,
-            "link": "https://www.youtube.com/watch?v=jKNoFpomOLI&t=202s",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 7775567977,
-            "link": "https://www.youtube.com/watch?v=QtXRMUQU9OM",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 3050190027,
-            "link": "https://youtu.be/8YA_nLY23QI",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 5486054620,
-            "link": "https://youtu.be/NFVyn2XpuCo?si=VaaAIgSgCOVn82zR",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+	"id": 62138313,
+	"name": "Molten Gear",
+	"author": 1197924603,
+	"creators": [
+		1197924603,
+		9109156979,
+		1367447256,
+		6846513826,
+		6118637198,
+		1460693839,
+		5885747595,
+		3666383004,
+		7046420575,
+		1999460512,
+		1637528663,
+		8320669366,
+		4796048557,
+		1688294361,
+		9869738418,
+		5453478611,
+		3221000687,
+		5245946447,
+		8194237531,
+		5669435075,
+		8540639515,
+		8980181634,
+		2615338522
+	],
+	"verifier": 1197924603,
+	"verification": "https://www.youtube.com/watch?v=NMRaJu5BiAI",
+	"percentToQualify": 100,
+	"password": "000117",
+	"song": 579560,
+	"records": [
+		{
+			"user": 1286374211,
+			"link": "https://youtu.be/OJSlITFCHOA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9746953199,
+			"link": "https://youtu.be/Ehl1wGWf_RQ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9577565812,
+			"link": "https://www.youtube.com/watch?v=Zqed2EbBLjg",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": 7104595404,
+			"link": "https://www.youtube.com/watch?v=Ii5FHrw_Bfg",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 4190423705,
+			"link": "https://youtu.be/a3NNO94UAXU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9349980438,
+			"link": "https://www.youtube.com/watch?v=wQy8GwltDqw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3367798791,
+			"link": "https://youtu.be/AW-Vyj0VeeE?si=erRAQ7fyWPDpCvew",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9895938056,
+			"link": "https://www.youtube.com/watch?v=jKNoFpomOLI&t=202s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7775567977,
+			"link": "https://www.youtube.com/watch?v=QtXRMUQU9OM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3050190027,
+			"link": "https://youtu.be/8YA_nLY23QI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5486054620,
+			"link": "https://youtu.be/NFVyn2XpuCo?si=VaaAIgSgCOVn82zR",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8210844387,
+			"link": "https://youtu.be/1aN72lXdvTE",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

@@ -1,91 +1,97 @@
 {
-    "id": 104529377,
-    "name": "CITYFADE",
-    "author": 4806114621,
-    "creators": [],
-    "verifier": 5159499754,
-    "verification": "https://www.youtube.com/watch?v=yaWKJ4F6GMg",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "song": 1307480,
-    "records": [
-        {
-            "user": 9511722574,
-            "link": "https://youtu.be/r6rVu_DTeEg?si=XtC9_T9gGvUrPeok",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 6808438796,
-            "link": "https://youtu.be/z1A41o8X7DU?si=NfJrBaFnUKsiuOj8",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 9762756242,
-            "link": "https://youtu.be/hFaCW5wYh_Q",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 8125749822,
-            "link": "https://youtu.be/0Je346InJME",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 5968469904,
-            "link": "https://youtu.be/FjYee_tjfjo",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 1123244006,
-            "link": "https://www.youtube.com/watch?v=DPRHdMxJp60",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 6498693851,
-            "link": "https://www.youtube.com/watch?v=7PxTsMlpO90",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 6075205327,
-            "link": "https://youtu.be/GHnnW_gnF28?si=3VbXiPKu10dQuhd8",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 1907881580,
-            "link": "https://www.youtube.com/watch?v=_YB0DxV2SPs",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 7475634184,
-            "link": "https://www.youtube.com/watch?v=_kDiki1zzns",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 1255942108,
-            "link": "https://youtu.be/G-Xw7MC6VWs",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 8608948771,
-            "link": "https://youtu.be/YDr2_bLFXRA",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": 4257654148,
-            "link": "https://youtu.be/I6-BvZ21Zow?si=2FMBnbHJSsvlGwev",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+	"id": 104529377,
+	"name": "CITYFADE",
+	"author": 4806114621,
+	"creators": [],
+	"verifier": 5159499754,
+	"verification": "https://www.youtube.com/watch?v=yaWKJ4F6GMg",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"song": 1307480,
+	"records": [
+		{
+			"user": 9511722574,
+			"link": "https://youtu.be/r6rVu_DTeEg?si=XtC9_T9gGvUrPeok",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6808438796,
+			"link": "https://youtu.be/z1A41o8X7DU?si=NfJrBaFnUKsiuOj8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9762756242,
+			"link": "https://youtu.be/hFaCW5wYh_Q",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8125749822,
+			"link": "https://youtu.be/0Je346InJME",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5968469904,
+			"link": "https://youtu.be/FjYee_tjfjo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1123244006,
+			"link": "https://www.youtube.com/watch?v=DPRHdMxJp60",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6498693851,
+			"link": "https://www.youtube.com/watch?v=7PxTsMlpO90",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6075205327,
+			"link": "https://youtu.be/GHnnW_gnF28?si=3VbXiPKu10dQuhd8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1907881580,
+			"link": "https://www.youtube.com/watch?v=_YB0DxV2SPs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7475634184,
+			"link": "https://www.youtube.com/watch?v=_kDiki1zzns",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1255942108,
+			"link": "https://youtu.be/G-Xw7MC6VWs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8608948771,
+			"link": "https://youtu.be/YDr2_bLFXRA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4257654148,
+			"link": "https://youtu.be/I6-BvZ21Zow?si=2FMBnbHJSsvlGwev",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8416165965,
+			"link": "https://youtu.be/nvhjn56Tbcs",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
