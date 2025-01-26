@@ -11,7 +11,9 @@
 	"verifier": 5182102468,
 	"verification": "https://www.youtube.com/watch?v=puqDIaVnaUg",
 	"percentToQualify": 100,
-	"tags": ["NONG"],
+	"tags": [
+		"NONG"
+	],
 	"password": "230916",
 	"records": [
 		{
@@ -108,6 +110,12 @@
 		{
 			"user": 8600651621,
 			"link": "https://youtu.be/93HckzVOFf0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2247988474,
+			"link": "https://youtu.be/ge21sMxH18Q?si=QbYktm0izi0uJlYx",
 			"percent": 100,
 			"hz": 360
 		}
