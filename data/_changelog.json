@@ -7873,5 +7873,14 @@
 		"from_rank": 1078,
 		"above": "high_heat",
 		"below": "unleash_whale_whales"
+	},
+	{
+		"date": 1737927342,
+		"action": "placed",
+		"name": "expedition",
+		"to_rank": 960,
+		"from_rank": null,
+		"above": "miscellaneous_memory",
+		"below": "frenzy"
 	}
 ]
