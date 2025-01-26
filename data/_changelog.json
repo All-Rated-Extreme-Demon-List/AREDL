@@ -7864,5 +7864,14 @@
 		"from_rank": 368,
 		"above": "missing_benefits",
 		"below": "floating_outskirts"
+	},
+	{
+		"date": 1737900500,
+		"action": "tolegacy",
+		"name": "delirium_tremens",
+		"to_rank": 1086,
+		"from_rank": 1078,
+		"above": "high_heat",
+		"below": "unleash_whale_whales"
 	}
 ]
