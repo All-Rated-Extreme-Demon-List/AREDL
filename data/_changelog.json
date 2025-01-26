@@ -7828,5 +7828,14 @@
 		"from_rank": 1036,
 		"above": "pixelsonic",
 		"below": "hypersonic"
+	},
+	{
+		"date": 1737854782,
+		"action": "lowered",
+		"name": "black_flag",
+		"to_rank": 352,
+		"from_rank": 345,
+		"above": "turn_the_lights_off",
+		"below": "power_grid"
 	}
 ]
