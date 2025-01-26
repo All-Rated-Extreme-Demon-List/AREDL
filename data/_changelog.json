@@ -7882,5 +7882,14 @@
 		"from_rank": null,
 		"above": "miscellaneous_memory",
 		"below": "frenzy"
+	},
+	{
+		"date": 1737927440,
+		"action": "placed",
+		"name": "cobwebs",
+		"to_rank": 111,
+		"from_rank": null,
+		"above": "shardscapes",
+		"below": "lucid_nightmares"
 	}
 ]
