@@ -7846,5 +7846,14 @@
 		"from_rank": 694,
 		"above": "tornado",
 		"below": "hades"
+	},
+	{
+		"date": 1737855340,
+		"action": "lowered",
+		"name": "black_flag",
+		"to_rank": 368,
+		"from_rank": 352,
+		"above": "missing_benefits",
+		"below": "floating_outskirts"
 	}
 ]
