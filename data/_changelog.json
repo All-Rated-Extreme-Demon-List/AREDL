@@ -7891,5 +7891,14 @@
 		"from_rank": null,
 		"above": "shardscapes",
 		"below": "lucid_nightmares"
+	},
+	{
+		"date": 1737960053,
+		"action": "tolegacy",
+		"name": "pentakill",
+		"to_rank": 1087,
+		"from_rank": 1041,
+		"above": "delirium_tremens",
+		"below": "unleash_whale_whales"
 	}
 ]
