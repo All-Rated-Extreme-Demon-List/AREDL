@@ -7918,5 +7918,14 @@
 		"from_rank": null,
 		"above": "eleos",
 		"below": "curie"
+	},
+	{
+		"date": 1738014502,
+		"action": "placed",
+		"name": "phantasma",
+		"to_rank": 311,
+		"from_rank": null,
+		"above": "inanimate_insanity",
+		"below": "firepower_sillow"
 	}
 ]
