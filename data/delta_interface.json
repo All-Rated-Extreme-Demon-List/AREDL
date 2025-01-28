@@ -2,10 +2,10 @@
 	"id": 45094581,
 	"name": "Delta Interface",
 	"tags": [
-"2.1",
-"XL",
-"Slow-Paced",
-"Overall"
+		"2.1",
+		"XL",
+		"Slow-Paced",
+		"Overall"
 	],
 	"author": 7652908224,
 	"creators": [],
@@ -725,6 +725,12 @@
 		{
 			"user": 2683664362,
 			"link": "https://www.youtube.com/watch?v=dMnb2k6QqoY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3740620269,
+			"link": "https://www.youtube.com/watch?v=JNDf4VQ2Be8",
 			"percent": 100,
 			"hz": 360
 		}
