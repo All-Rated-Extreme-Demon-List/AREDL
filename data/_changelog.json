@@ -7927,5 +7927,14 @@
 		"from_rank": null,
 		"above": "inanimate_insanity",
 		"below": "firepower_sillow"
+	},
+	{
+		"date": 1738093209,
+		"action": "raised",
+		"name": "scrubbabingo_force",
+		"to_rank": 130,
+		"from_rank": 181,
+		"above": "jupiter_my_favourite",
+		"below": "the_rupture"
 	}
 ]
