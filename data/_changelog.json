@@ -7954,5 +7954,14 @@
 		"from_rank": 1081,
 		"above": "robotchief_exposal",
 		"below": "hidden_in_the_sand"
+	},
+	{
+		"date": 1738099980,
+		"action": "lowered",
+		"name": "insaction",
+		"to_rank": 1018,
+		"from_rank": 984,
+		"above": "stratus",
+		"below": "forbidden_isle"
 	}
 ]
