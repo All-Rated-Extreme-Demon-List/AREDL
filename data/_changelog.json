@@ -7945,5 +7945,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "unleash_whale_whales"
+	},
+	{
+		"date": 1738099774,
+		"action": "raised",
+		"name": "insaction",
+		"to_rank": 984,
+		"from_rank": 1081,
+		"above": "robotchief_exposal",
+		"below": "hidden_in_the_sand"
 	}
 ]
