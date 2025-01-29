@@ -7972,5 +7972,14 @@
 		"from_rank": 436,
 		"above": "auditory_breaker",
 		"below": "eternal_entropy"
+	},
+	{
+		"date": 1738159367,
+		"action": "placed",
+		"name": "farbidi_theory",
+		"to_rank": 128,
+		"from_rank": null,
+		"above": "descent_into_exile",
+		"below": "pandemonium_cersia"
 	}
 ]
