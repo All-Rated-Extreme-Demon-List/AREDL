@@ -7963,5 +7963,14 @@
 		"from_rank": 984,
 		"above": "stratus",
 		"below": "forbidden_isle"
+	},
+	{
+		"date": 1738111329,
+		"action": "raised",
+		"name": "chroma_ii",
+		"to_rank": 418,
+		"from_rank": 436,
+		"above": "auditory_breaker",
+		"below": "eternal_entropy"
 	}
 ]
