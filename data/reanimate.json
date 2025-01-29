@@ -75,12 +75,6 @@
 			"hz": 120
 		},
 		{
-			"user": 8390354791,
-			"link": "https://www.youtube.com/watch?v=OmyebF826kk&t=139s",
-			"percent": 100,
-			"hz": 60
-		},
-		{
 			"user": 7986175004,
 			"link": "https://www.youtube.com/watch?v=OBTfM1fECOM&t=2s&ab_channel=hellohi",
 			"percent": 100,
@@ -767,6 +761,12 @@
 		{
 			"user": 4458019580,
 			"link": "https://youtu.be/S3J7OA5pORE?si=7tJ3QT1MuzFE40OA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1669843186,
+			"link": "https://youtu.be/ai0lWpEyXAQ?si=3OOmaaHFtv4DhSDZ",
 			"percent": 100,
 			"hz": 360
 		}

@@ -1,0 +1,35 @@
+{
+	"id": 114231424,
+	"name": "FEEL ALIVE",
+	"author": 2869091042,
+	"creators": [
+		2869091042,
+		4796048557,
+		9370809898,
+		6330739817,
+		8604366036,
+		3972066436,
+		2855835226,
+		1648801487,
+		9848660956
+	],
+	"verifier": 4267259780,
+	"verification": "https://youtu.be/TYUdu2yPIG8?si=fCrUDRKi58u_NiX0",
+	"percentToQualify": 100,
+	"password": "Free Copy",
+	"records": [
+		{
+			"user": 9862625345,
+			"link": "https://www.youtube.com/watch?v=uc3h1j2kNXE",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		},
+		{
+			"user": 1255942108,
+			"link": "https://youtu.be/dPOX_jeLgCo",
+			"percent": 100,
+			"hz": 360
+		}
+	]
+}

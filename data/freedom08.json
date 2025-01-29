@@ -33,7 +33,9 @@
 	"verifier": 1103840267,
 	"verification": "https://www.youtube.com/watch?v=b1DE6OTFS4U",
 	"percentToQualify": 100,
-	"tags": ["NONG"],
+	"tags": [
+		"NONG"
+	],
 	"password": "210317",
 	"records": [
 		{
@@ -334,6 +336,18 @@
 		{
 			"user": 8914975750,
 			"link": "https://www.youtube.com/watch?v=b794lpaWt_k",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2752436080,
+			"link": "https://youtu.be/-6J8jUbv7lg?si=NdqjO2vO909tWzVy",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1679980765,
+			"link": "https://youtu.be/6ioDe_6teW0",
 			"percent": 100,
 			"hz": 360
 		}
