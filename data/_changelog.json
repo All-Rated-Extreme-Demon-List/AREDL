@@ -9145,12 +9145,12 @@
 	},
 	{
 		"date": 1697591774,
-		"action": "swapped",
-		"name": "avernus",
-		"from_rank": 2,
-		"to_rank": 1,
-		"above": "acheron",
-		"below": null
+		"action": "lowered",
+		"name": "acheron",
+		"from_rank": 1,
+		"to_rank": 2,
+		"above": "silent_clubstep",
+		"below": "avernus"
 	},
 	{
 		"date": 1697591774,
@@ -10842,7 +10842,7 @@
 		"to_rank": 104,
 		"from_rank": 105,
 		"above": "pagoda",
-		"below": null
+		"below": "aronia"
 	},
 	{
 		"date": 1702962240,
@@ -11121,7 +11121,7 @@
 		"to_rank": 9,
 		"from_rank": 10,
 		"above": "firework",
-		"below": null
+		"below": "codependence_solo"
 	},
 	{
 		"date": 1704340140,
@@ -11814,7 +11814,7 @@
 		"to_rank": 102,
 		"from_rank": 103,
 		"above": "jesse_pinkman",
-		"below": null
+		"below": "coral_cave"
 	},
 	{
 		"date": 1709190600,
@@ -11913,7 +11913,7 @@
 		"to_rank": 9,
 		"from_rank": 10,
 		"above": "kocmoc",
-		"below": null
+		"below": "sakupen_circles"
 	},
 	{
 		"date": 1710808260,
@@ -12111,7 +12111,7 @@
 		"to_rank": 20,
 		"from_rank": 21,
 		"above": "the_hallucination",
-		"below": null
+		"below": "eyes_in_the_water"
 	},
 	{
 		"date": 1712200500,
@@ -12120,7 +12120,7 @@
 		"to_rank": 28,
 		"from_rank": 29,
 		"above": "sonic_wave_infinity",
-		"below": null
+		"below": "belladonna"
 	},
 	{
 		"date": 1712302140,
@@ -12624,7 +12624,7 @@
 		"to_rank": 67,
 		"from_rank": 68,
 		"above": "sky_shredder",
-		"below": null
+		"below": "renevant"
 	},
 	{
 		"date": 1717266720,
@@ -12894,7 +12894,7 @@
 		"to_rank": 54,
 		"from_rank": 55,
 		"above": "destruction_19",
-		"below": null
+		"below": "esfera"
 	},
 	{
 		"date": 1719472680,
