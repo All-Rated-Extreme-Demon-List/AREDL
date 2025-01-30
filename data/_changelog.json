@@ -9145,7 +9145,7 @@
 	},
 	{
 		"date": 1697591774,
-		"action": "raised",
+		"action": "swapped",
 		"name": "avernus",
 		"from_rank": 2,
 		"to_rank": 1,
@@ -14337,15 +14337,6 @@
 		"below": "encroaching_dark"
 	},
 	{
-		"date": 1725768283,
-		"action": "raised",
-		"name": "congregation",
-		"to_rank": 130,
-		"from_rank": 130,
-		"above": "aronia",
-		"below": "awedsy"
-	},
-	{
 		"date": 1725828990,
 		"action": "raised",
 		"name": "friday_vortex",
@@ -15386,15 +15377,6 @@
 		"name": "great_fury_of_heaven",
 		"to_rank": 394,
 		"from_rank": 599,
-		"above": "ultra_violet",
-		"below": "hatred"
-	},
-	{
-		"date": 1729024662,
-		"action": "raised",
-		"name": "great_fury_of_heaven",
-		"to_rank": 394,
-		"from_rank": 394,
 		"above": "ultra_violet",
 		"below": "hatred"
 	},
@@ -17865,15 +17847,6 @@
 		"below": "tenochtitlan"
 	},
 	{
-		"date": 1736460036,
-		"action": "raised",
-		"name": "dimensional_breaking",
-		"to_rank": 306,
-		"from_rank": 306,
-		"above": "devil_vortex",
-		"below": "tenochtitlan"
-	},
-	{
 		"date": 1736548440,
 		"action": "lowered",
 		"name": "astrophobia",
@@ -18212,15 +18185,6 @@
 		"name": "black_flag",
 		"to_rank": 368,
 		"from_rank": 352,
-		"above": "missing_benefits",
-		"below": "floating_outskirts"
-	},
-	{
-		"date": 1737855353,
-		"action": "raised",
-		"name": "black_flag",
-		"to_rank": 368,
-		"from_rank": 368,
 		"above": "missing_benefits",
 		"below": "floating_outskirts"
 	},
