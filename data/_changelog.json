@@ -18349,5 +18349,14 @@
 		"from_rank": 969,
 		"above": "crowd_control",
 		"below": "witching_hour"
+	},
+	{
+		"date": 1738207105,
+		"action": "raised",
+		"name": "molten_core",
+		"to_rank": 257,
+		"from_rank": 261,
+		"above": "altered_ascent",
+		"below": "xo"
 	}
 ]
