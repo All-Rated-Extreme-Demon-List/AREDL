@@ -1,19 +1,25 @@
 {
-    "id": 107743292,
-    "name": "Ascension",
-    "author": 3714211158,
-    "creators": [],
-    "verifier": 3714211158,
-    "verification": "https://youtu.be/mPnzlOVsBnw?si=fKx8EVI2vm3aWvoh",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "song": 700645,
-    "records": [
-        {
-            "user": 8608948771,
-            "link": "https://youtu.be/jj01kpbDgXA",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+	"id": 107743292,
+	"name": "Ascension",
+	"author": 3714211158,
+	"creators": [],
+	"verifier": 3714211158,
+	"verification": "https://youtu.be/mPnzlOVsBnw?si=fKx8EVI2vm3aWvoh",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"song": 700645,
+	"records": [
+		{
+			"user": 8608948771,
+			"link": "https://youtu.be/jj01kpbDgXA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4225547747,
+			"link": "https://www.youtube.com/watch?v=GTb2EO_P4HI&t=256s",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
