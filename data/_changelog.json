@@ -18340,5 +18340,14 @@
 		"from_rank": 1090,
 		"above": "cityfade",
 		"below": "reverie"
+	},
+	{
+		"date": 1738301217,
+		"action": "raised",
+		"name": "sigsegv",
+		"to_rank": 1088,
+		"from_rank": 1089,
+		"above": "precipitance",
+		"below": "final_epilogue"
 	}
 ]
