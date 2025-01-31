@@ -18385,5 +18385,14 @@
 		"from_rank": 798,
 		"above": "shukufuku",
 		"below": "elite_z_rebirth"
+	},
+	{
+		"date": 1738367477,
+		"action": "raised",
+		"name": "adelucid",
+		"to_rank": 333,
+		"from_rank": 345,
+		"above": "mind_control",
+		"below": "death"
 	}
 ]
