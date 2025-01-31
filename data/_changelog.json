@@ -18331,5 +18331,14 @@
 		"from_rank": null,
 		"above": "oneattempt",
 		"below": "darkened"
+	},
+	{
+		"date": 1738301009,
+		"action": "raised",
+		"name": "unleash_whale_whales",
+		"to_rank": 1043,
+		"from_rank": 1090,
+		"above": "cityfade",
+		"below": "reverie"
 	}
 ]
