@@ -18358,5 +18358,14 @@
 		"from_rank": 938,
 		"above": "red_world_rebirth",
 		"below": "firepower_mrlorenzo"
+	},
+	{
+		"date": 1738345380,
+		"action": "lowered",
+		"name": "wtf",
+		"to_rank": 879,
+		"from_rank": 835,
+		"above": "crowded_void",
+		"below": "dance_til_dawn"
 	}
 ]
