@@ -18394,5 +18394,14 @@
 		"from_rank": 345,
 		"above": "mind_control",
 		"below": "death"
+	},
+	{
+		"date": 1738382450,
+		"action": "raised",
+		"name": "neon_skyline",
+		"to_rank": 130,
+		"from_rank": 145,
+		"above": "the_rupture",
+		"below": "descent_into_exile"
 	}
 ]
