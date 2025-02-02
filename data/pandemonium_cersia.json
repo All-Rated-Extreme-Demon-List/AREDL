@@ -23,7 +23,9 @@
 	],
 	"verifier": 4060817546,
 	"verification": "https://www.youtube.com/watch?v=OKEHsJPaeQY",
-	"tags": ["NONG"],
+	"tags": [
+		"NONG"
+	],
 	"percentToQualify": 100,
 	"records": [
 		{
@@ -41,6 +43,12 @@
 		{
 			"user": 8944113767,
 			"link": "https://www.youtube.com/watch?v=4teh8I2wr88",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6384234074,
+			"link": "https://youtu.be/UM9ld_V5D14?si=dPv3CvkMEapGT03G",
 			"percent": 100,
 			"hz": 360
 		}
