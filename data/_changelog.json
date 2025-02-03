@@ -18412,5 +18412,14 @@
 		"from_rank": null,
 		"above": "neon_guts",
 		"below": "reverence"
+	},
+	{
+		"date": 1738560863,
+		"action": "raised",
+		"name": "carbon",
+		"to_rank": 886,
+		"from_rank": 891,
+		"above": "napalm",
+		"below": "neon_guts"
 	}
 ]
