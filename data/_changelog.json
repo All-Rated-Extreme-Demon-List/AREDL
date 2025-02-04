@@ -18430,5 +18430,14 @@
 		"from_rank": 942,
 		"above": "insaction",
 		"below": "forbidden_isle"
+	},
+	{
+		"date": 1738690596,
+		"action": "lowered",
+		"name": "devils_disco",
+		"to_rank": 1051,
+		"from_rank": 983,
+		"above": "revolution_unleashed",
+		"below": "prismatic"
 	}
 ]
