@@ -18466,5 +18466,14 @@
 		"from_rank": 968,
 		"above": "cyclone",
 		"below": "crowd_control"
+	},
+	{
+		"date": 1738792309,
+		"action": "lowered",
+		"name": "0_mind",
+		"to_rank": 939,
+		"from_rank": 835,
+		"above": "ung",
+		"below": "absurdia"
 	}
 ]
