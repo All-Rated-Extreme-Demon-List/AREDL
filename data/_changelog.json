@@ -18493,5 +18493,14 @@
 		"from_rank": 4,
 		"above": "avernus",
 		"below": "tidal_wave"
+	},
+	{
+		"date": 1738872682,
+		"action": "raised",
+		"name": "anathema",
+		"to_rank": 4,
+		"from_rank": 6,
+		"above": "acheron",
+		"below": "avernus"
 	}
 ]
