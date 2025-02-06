@@ -18484,5 +18484,14 @@
 		"from_rank": null,
 		"above": "ithacropolis",
 		"below": "zinhwa"
+	},
+	{
+		"date": 1738872660,
+		"action": "raised",
+		"name": "nullscapes",
+		"to_rank": 2,
+		"from_rank": 4,
+		"above": "avernus",
+		"below": "tidal_wave"
 	}
 ]
