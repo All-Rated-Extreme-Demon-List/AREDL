@@ -18502,5 +18502,14 @@
 		"from_rank": 6,
 		"above": "acheron",
 		"below": "avernus"
+	},
+	{
+		"date": 1738882697,
+		"action": "raised",
+		"name": "sunk",
+		"to_rank": 540,
+		"from_rank": 560,
+		"above": "artifice",
+		"below": "super_kontik"
 	}
 ]
