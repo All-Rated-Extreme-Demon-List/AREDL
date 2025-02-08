@@ -18511,5 +18511,14 @@
 		"from_rank": 560,
 		"above": "artifice",
 		"below": "super_kontik"
+	},
+	{
+		"date": 1739039073,
+		"action": "raised",
+		"name": "destinies",
+		"to_rank": 790,
+		"from_rank": 862,
+		"above": "iridium",
+		"below": "wacky_mcwhackface_v2"
 	}
 ]
