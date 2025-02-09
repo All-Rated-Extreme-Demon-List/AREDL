@@ -18538,5 +18538,14 @@
 		"from_rank": 593,
 		"above": "tempest_tornado",
 		"below": "conical_depression"
+	},
+	{
+		"date": 1739132327,
+		"action": "placed",
+		"name": "love0",
+		"to_rank": 703,
+		"from_rank": null,
+		"above": "chopstep",
+		"below": "deogen"
 	}
 ]
