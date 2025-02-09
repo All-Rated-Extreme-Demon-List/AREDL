@@ -18529,5 +18529,14 @@
 		"from_rank": 15,
 		"above": "slaughterhouse",
 		"below": "kyouki"
+	},
+	{
+		"date": 1739060842,
+		"action": "lowered",
+		"name": "goldcrest_palace",
+		"to_rank": 627,
+		"from_rank": 593,
+		"above": "tempest_tornado",
+		"below": "conical_depression"
 	}
 ]
