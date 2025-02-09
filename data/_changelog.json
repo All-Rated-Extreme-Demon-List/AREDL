@@ -18556,5 +18556,14 @@
 		"from_rank": null,
 		"above": "intrusive_id",
 		"below": "sysmique_locked"
+	},
+	{
+		"date": 1739137008,
+		"action": "placed",
+		"name": "shimmer_mercurydt",
+		"to_rank": 901,
+		"from_rank": null,
+		"above": "ferrum_frenzy",
+		"below": "oxi"
 	}
 ]
