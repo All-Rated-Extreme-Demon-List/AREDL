@@ -2,11 +2,11 @@
 	"id": 107539734,
 	"name": "DEAD OF NIGHT",
 	"tags": [
-"2.2",
-"Medium",
-"Fast-Paced",
-"High CPS",
-"Cube"
+		"2.2",
+		"Medium",
+		"Fast-Paced",
+		"High CPS",
+		"Cube"
 	],
 	"author": 9798199876,
 	"creators": [
@@ -111,6 +111,12 @@
 		{
 			"user": 8521393922,
 			"link": "https://www.youtube.com/watch?v=vOwXbezF_VY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3935778328,
+			"link": "https://youtu.be/Er8Bi_Kphw0?si=T9eNXjXxJ65_ftOT",
 			"percent": 100,
 			"hz": 360
 		}
