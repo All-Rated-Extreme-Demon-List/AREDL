@@ -2,10 +2,19 @@
 	"id": 111351512,
 	"name": "love0",
 	"author": 6839091830,
-	"creators": [6839091830],
+	"creators": [
+		6839091830
+	],
 	"verifier": 6333544869,
 	"verification": "https://youtu.be/yr-KD7ML3dM?si=4ccHCht10UHhmjPa",
 	"percentToQualify": 100,
 	"password": "Free Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 3969992072,
+			"link": "https://www.youtube.com/watch?v=96MAgFsnVXI&t=109s&ab_channel=derf",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
