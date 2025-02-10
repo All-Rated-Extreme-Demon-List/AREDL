@@ -18574,5 +18574,14 @@
 		"from_rank": 595,
 		"above": "gang_plank_hell",
 		"below": "inflective"
+	},
+	{
+		"date": 1739161793,
+		"action": "raised",
+		"name": "fifty_three",
+		"to_rank": 232,
+		"from_rank": 305,
+		"above": "golden_club",
+		"below": "sewers"
 	}
 ]
