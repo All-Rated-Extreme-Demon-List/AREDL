@@ -18565,5 +18565,14 @@
 		"from_rank": null,
 		"above": "ferrum_frenzy",
 		"below": "oxi"
+	},
+	{
+		"date": 1739145832,
+		"action": "lowered",
+		"name": "prismatic_haze",
+		"to_rank": 612,
+		"from_rank": 595,
+		"above": "gang_plank_hell",
+		"below": "inflective"
 	}
 ]
