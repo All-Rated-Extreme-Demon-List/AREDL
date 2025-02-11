@@ -18583,5 +18583,14 @@
 		"from_rank": 305,
 		"above": "golden_club",
 		"below": "sewers"
+	},
+	{
+		"date": 1739300884,
+		"action": "raised",
+		"name": "akashic_records",
+		"to_rank": 107,
+		"from_rank": 113,
+		"above": "rust",
+		"below": "ykds1479ymdppr"
 	}
 ]
