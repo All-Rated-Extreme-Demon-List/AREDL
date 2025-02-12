@@ -18592,5 +18592,14 @@
 		"from_rank": 113,
 		"above": "rust",
 		"below": "ykds1479ymdppr"
+	},
+	{
+		"date": 1739374471,
+		"action": "raised",
+		"name": "cluttered_confusion",
+		"to_rank": 641,
+		"from_rank": 650,
+		"above": "callisto",
+		"below": "cromulent"
 	}
 ]
