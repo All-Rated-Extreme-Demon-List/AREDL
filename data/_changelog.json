@@ -18619,5 +18619,14 @@
 		"from_rank": 743,
 		"above": "draco_meteor",
 		"below": "cupid"
+	},
+	{
+		"date": 1739470056,
+		"action": "raised",
+		"name": "ld50",
+		"to_rank": 137,
+		"from_rank": 149,
+		"above": "bloodlust",
+		"below": "no_jokes"
 	}
 ]
