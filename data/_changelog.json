@@ -18601,5 +18601,14 @@
 		"from_rank": 650,
 		"above": "callisto",
 		"below": "cromulent"
+	},
+	{
+		"date": 1739413179,
+		"action": "fromlegacy",
+		"name": "pentakill",
+		"to_rank": 1067,
+		"from_rank": 1098,
+		"above": "cold_level_go_brrrr",
+		"below": "memories_iii"
 	}
 ]
