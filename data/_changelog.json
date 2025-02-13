@@ -18610,5 +18610,14 @@
 		"from_rank": 1098,
 		"above": "cold_level_go_brrrr",
 		"below": "memories_iii"
+	},
+	{
+		"date": 1739413282,
+		"action": "lowered",
+		"name": "sunburn",
+		"to_rank": 816,
+		"from_rank": 743,
+		"above": "draco_meteor",
+		"below": "cupid"
 	}
 ]
