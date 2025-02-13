@@ -2,10 +2,19 @@
 	"id": 113464561,
 	"name": "Lovers Sadness",
 	"author": 2062304635,
-	"creators": [2062304635],
+	"creators": [
+		2062304635
+	],
 	"verifier": 2062304635,
 	"verification": "https://youtu.be/s9OSTz8Vp4Y?si=YZZyFvHbA3Vxnh2s",
 	"percentToQualify": 100,
 	"password": "Free Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 3740620269,
+			"link": "https://www.youtube.com/watch?v=F1MDamP1gJc",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
