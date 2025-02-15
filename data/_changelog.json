@@ -18664,5 +18664,14 @@
 		"from_rank": 20,
 		"above": "kosetsu",
 		"below": "the_lightning_rod"
+	},
+	{
+		"date": 1739589298,
+		"action": "raised",
+		"name": "nabil_let_go",
+		"to_rank": 138,
+		"from_rank": 140,
+		"above": "bloodlust",
+		"below": "ld50"
 	}
 ]
