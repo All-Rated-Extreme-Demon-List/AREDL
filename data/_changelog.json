@@ -18673,5 +18673,14 @@
 		"from_rank": 140,
 		"above": "bloodlust",
 		"below": "ld50"
+	},
+	{
+		"date": 1739739724,
+		"action": "lowered",
+		"name": "judgement_knights",
+		"to_rank": 67,
+		"from_rank": 62,
+		"above": "kenos",
+		"below": "zodiac"
 	}
 ]
