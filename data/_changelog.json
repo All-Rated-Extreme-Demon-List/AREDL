@@ -18691,5 +18691,14 @@
 		"from_rank": 67,
 		"above": "zodiac",
 		"below": "the_paroxysm_of_rage"
+	},
+	{
+		"date": 1739748146,
+		"action": "placed",
+		"name": "the_plunge",
+		"to_rank": 38,
+		"from_rank": null,
+		"above": "midnight",
+		"below": "collapse_nexel"
 	}
 ]
