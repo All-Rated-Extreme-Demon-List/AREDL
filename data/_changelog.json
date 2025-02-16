@@ -18682,5 +18682,14 @@
 		"from_rank": 62,
 		"above": "kenos",
 		"below": "zodiac"
+	},
+	{
+		"date": 1739739765,
+		"action": "raised",
+		"name": "judgement_knights",
+		"to_rank": 66,
+		"from_rank": 67,
+		"above": "zodiac",
+		"below": "the_paroxysm_of_rage"
 	}
 ]
