@@ -18718,5 +18718,14 @@
 		"from_rank": 1007,
 		"above": "reverence",
 		"below": "mazemory"
+	},
+	{
+		"date": 1739774945,
+		"action": "raised",
+		"name": "final_epilogue",
+		"to_rank": 1050,
+		"from_rank": 1098,
+		"above": "pro_lov_ad",
+		"below": "overlord"
 	}
 ]
