@@ -18745,5 +18745,14 @@
 		"from_rank": null,
 		"above": "inflective",
 		"below": "ecstasy_filqh"
+	},
+	{
+		"date": 1739811402,
+		"action": "raised",
+		"name": "ashes",
+		"to_rank": 243,
+		"from_rank": 253,
+		"above": "shmarley_ville",
+		"below": "molten_gear"
 	}
 ]
