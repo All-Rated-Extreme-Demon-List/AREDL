@@ -18763,5 +18763,14 @@
 		"from_rank": 243,
 		"above": "the_hell_tribute",
 		"below": "cersia_madness"
+	},
+	{
+		"date": 1739816500,
+		"action": "raised",
+		"name": "breakout_redux",
+		"to_rank": 430,
+		"from_rank": 474,
+		"above": "great_fury_of_heaven",
+		"below": "hatred"
 	}
 ]
