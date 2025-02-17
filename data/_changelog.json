@@ -18709,5 +18709,14 @@
 		"from_rank": 584,
 		"above": "atmosphere",
 		"below": "epsilon"
+	},
+	{
+		"date": 1739774914,
+		"action": "raised",
+		"name": "segfault",
+		"to_rank": 889,
+		"from_rank": 1007,
+		"above": "reverence",
+		"below": "mazemory"
 	}
 ]
