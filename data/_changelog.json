@@ -18754,5 +18754,14 @@
 		"from_rank": 253,
 		"above": "shmarley_ville",
 		"below": "molten_gear"
+	},
+	{
+		"date": 1739814168,
+		"action": "raised",
+		"name": "ashes",
+		"to_rank": 237,
+		"from_rank": 243,
+		"above": "the_hell_tribute",
+		"below": "cersia_madness"
 	}
 ]
