@@ -18727,5 +18727,14 @@
 		"from_rank": 1098,
 		"above": "pro_lov_ad",
 		"below": "overlord"
+	},
+	{
+		"date": 1739774969,
+		"action": "raised",
+		"name": "freedom16",
+		"to_rank": 1056,
+		"from_rank": 1079,
+		"above": "niwa",
+		"below": "decay"
 	}
 ]
