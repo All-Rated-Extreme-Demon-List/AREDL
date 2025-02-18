@@ -18808,5 +18808,14 @@
 		"from_rank": 357,
 		"above": "framework",
 		"below": "retention_rush"
+	},
+	{
+		"date": 1739918165,
+		"action": "lowered",
+		"name": "step_to_hell",
+		"to_rank": 366,
+		"from_rank": 347,
+		"above": "belloq",
+		"below": "occult_outcry"
 	}
 ]
