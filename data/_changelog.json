@@ -18799,5 +18799,14 @@
 		"from_rank": 410,
 		"above": "delta_interface",
 		"below": "tempered_steel"
+	},
+	{
+		"date": 1739918056,
+		"action": "raised",
+		"name": "the_deadlands",
+		"to_rank": 294,
+		"from_rank": 357,
+		"above": "framework",
+		"below": "retention_rush"
 	}
 ]
