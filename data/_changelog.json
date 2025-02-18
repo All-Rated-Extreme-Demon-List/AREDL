@@ -18781,5 +18781,14 @@
 		"from_rank": 470,
 		"above": "berserk",
 		"below": "miss_you"
+	},
+	{
+		"date": 1739917801,
+		"action": "raised",
+		"name": "infinite_highway",
+		"to_rank": 306,
+		"from_rank": 416,
+		"above": "lateral_myst",
+		"below": "raisins"
 	}
 ]
