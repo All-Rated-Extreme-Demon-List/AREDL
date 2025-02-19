@@ -1,12 +1,19 @@
 {
-    "id": 104409280,
-    "name": "the DEADLANDS",
-    "author": 4134831238,
-    "creators": [],
-    "verifier": 4134831238,
-    "verification": "https://youtu.be/pC-rUt9Z5dI?si=ogQOj1WsX-xT-6y7",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "song": 830628,
-    "records": []
+	"id": 104409280,
+	"name": "the DEADLANDS",
+	"author": 4134831238,
+	"creators": [],
+	"verifier": 4134831238,
+	"verification": "https://youtu.be/pC-rUt9Z5dI?si=ogQOj1WsX-xT-6y7",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"song": 830628,
+	"records": [
+		{
+			"user": 4309093704,
+			"link": "https://youtu.be/IqDs0a6jU6o?si=saO3ns0CWzZesIA-",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
