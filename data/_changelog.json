@@ -18817,5 +18817,14 @@
 		"from_rank": 347,
 		"above": "belloq",
 		"below": "occult_outcry"
+	},
+	{
+		"date": 1739969891,
+		"action": "raised",
+		"name": "coral_cave",
+		"to_rank": 114,
+		"from_rank": 127,
+		"above": "shardscapes",
+		"below": "cobwebs"
 	}
 ]
