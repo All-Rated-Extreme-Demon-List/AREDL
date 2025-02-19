@@ -18826,5 +18826,14 @@
 		"from_rank": 127,
 		"above": "shardscapes",
 		"below": "cobwebs"
+	},
+	{
+		"date": 1739993101,
+		"action": "raised",
+		"name": "szyslak",
+		"to_rank": 182,
+		"from_rank": 193,
+		"above": "th3dev0n",
+		"below": "visible_ray"
 	}
 ]
