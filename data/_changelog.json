@@ -18853,5 +18853,14 @@
 		"from_rank": 640,
 		"above": "unsaved_changes",
 		"below": "artifice"
+	},
+	{
+		"date": 1740024565,
+		"action": "raised",
+		"name": "begin",
+		"to_rank": 583,
+		"from_rank": 639,
+		"above": "water_demon",
+		"below": "astrophobia"
 	}
 ]
