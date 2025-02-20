@@ -18862,5 +18862,14 @@
 		"from_rank": 639,
 		"above": "water_demon",
 		"below": "astrophobia"
+	},
+	{
+		"date": 1740024663,
+		"action": "raised",
+		"name": "aura",
+		"to_rank": 568,
+		"from_rank": 626,
+		"above": "techno_flashes",
+		"below": "dream_city"
 	}
 ]
