@@ -18871,5 +18871,14 @@
 		"from_rank": 626,
 		"above": "techno_flashes",
 		"below": "dream_city"
+	},
+	{
+		"date": 1740024759,
+		"action": "lowered",
+		"name": "ftw",
+		"to_rank": 677,
+		"from_rank": 590,
+		"above": "beeline_2p",
+		"below": "faulty_code"
 	}
 ]
