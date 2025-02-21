@@ -18898,5 +18898,14 @@
 		"from_rank": 569,
 		"above": "innards",
 		"below": "neighborhood"
+	},
+	{
+		"date": 1740178211,
+		"action": "raised",
+		"name": "complementary_cruise",
+		"to_rank": 693,
+		"from_rank": 730,
+		"above": "solstice",
+		"below": "flamethrower"
 	}
 ]
