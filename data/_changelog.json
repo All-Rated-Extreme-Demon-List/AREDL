@@ -18889,5 +18889,14 @@
 		"from_rank": 85,
 		"above": "neutra",
 		"below": "checked_steam"
+	},
+	{
+		"date": 1740178124,
+		"action": "lowered",
+		"name": "techno_flashes",
+		"to_rank": 673,
+		"from_rank": 569,
+		"above": "innards",
+		"below": "neighborhood"
 	}
 ]
