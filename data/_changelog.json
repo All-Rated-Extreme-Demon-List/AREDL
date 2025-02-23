@@ -18943,5 +18943,14 @@
 		"from_rank": null,
 		"above": "ragnarok",
 		"below": "escape_room"
+	},
+	{
+		"date": 1740325138,
+		"action": "lowered",
+		"name": "the_sulphur_sea",
+		"to_rank": 429,
+		"from_rank": 416,
+		"above": "hatred",
+		"below": "rosedynamix"
 	}
 ]
