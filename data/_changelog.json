@@ -18925,5 +18925,14 @@
 		"from_rank": 499,
 		"above": "super_kontik",
 		"below": "ancestral_calamity"
+	},
+	{
+		"date": 1740288400,
+		"action": "lowered",
+		"name": "shinigami",
+		"to_rank": 684,
+		"from_rank": 626,
+		"above": "gridlocked",
+		"below": "i_hate_renn"
 	}
 ]
