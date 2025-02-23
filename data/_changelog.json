@@ -18934,5 +18934,14 @@
 		"from_rank": 626,
 		"above": "gridlocked",
 		"below": "i_hate_renn"
+	},
+	{
+		"date": 1740323930,
+		"action": "placed",
+		"name": "axiom_asterism",
+		"to_rank": 123,
+		"from_rank": null,
+		"above": "ragnarok",
+		"below": "escape_room"
 	}
 ]
