@@ -18988,5 +18988,14 @@
 		"from_rank": 949,
 		"above": "napalm",
 		"below": "carbon"
+	},
+	{
+		"date": 1740609356,
+		"action": "lowered",
+		"name": "twilight_spire",
+		"to_rank": 981,
+		"from_rank": 841,
+		"above": "hydratic",
+		"below": "v_o_l_l_e_y"
 	}
 ]
