@@ -18979,5 +18979,14 @@
 		"from_rank": 629,
 		"above": "down_bass",
 		"below": "crystal_crusher_2p"
+	},
+	{
+		"date": 1740609297,
+		"action": "raised",
+		"name": "absurdia",
+		"to_rank": 897,
+		"from_rank": 949,
+		"above": "napalm",
+		"below": "carbon"
 	}
 ]
