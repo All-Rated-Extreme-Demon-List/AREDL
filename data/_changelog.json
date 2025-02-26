@@ -18997,5 +18997,14 @@
 		"from_rank": 841,
 		"above": "hydratic",
 		"below": "v_o_l_l_e_y"
+	},
+	{
+		"date": 1740612435,
+		"action": "placed",
+		"name": "through_the_decay",
+		"to_rank": 1097,
+		"from_rank": null,
+		"above": "mystic_bounds",
+		"below": "encroaching_dark"
 	}
 ]
