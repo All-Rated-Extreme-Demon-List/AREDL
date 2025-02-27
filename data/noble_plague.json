@@ -2,10 +2,19 @@
 	"id": 114607963,
 	"name": "Noble Plague",
 	"author": 7335740857,
-	"creators": [7335740857],
+	"creators": [
+		7335740857
+	],
 	"verifier": 6048114869,
 	"verification": "https://youtu.be/o9sFsbyAGB8?si=JYvDVPrDsUiKlH4u",
 	"percentToQualify": 100,
 	"password": "Free Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 1901582634,
+			"link": "https://youtu.be/Bv9VBzQfqLk?si=2KfKPN8kV1DFcHRc",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
