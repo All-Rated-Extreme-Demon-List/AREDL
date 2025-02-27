@@ -19042,5 +19042,14 @@
 		"from_rank": null,
 		"above": "pound_town",
 		"below": "imitation_game"
+	},
+	{
+		"date": 1740693165,
+		"action": "raised",
+		"name": "loochiverse",
+		"to_rank": 267,
+		"from_rank": 321,
+		"above": "icotact",
+		"below": "reeses_potentially"
 	}
 ]
