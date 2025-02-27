@@ -2,10 +2,31 @@
 	"id": 114933189,
 	"name": "Through The Decay",
 	"author": 7631599083,
-	"creators": [7631599083],
+	"creators": [
+		7631599083
+	],
 	"verifier": 7631599083,
 	"verification": "https://youtu.be/djPTTc2vTd4?si=gDkLiiqdJR_VF1mm",
 	"percentToQualify": 100,
 	"password": "Free Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 6679096678,
+			"link": "https://youtu.be/HEK5q0SlyWg?si=zjGKdIDzv_A0IOsi",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4693616315,
+			"link": "https://www.youtube.com/live/RJUs-8Ik7Og",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4007883613,
+			"link": "https://www.youtube.com/watch?v=VKSXxqS95XM",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
