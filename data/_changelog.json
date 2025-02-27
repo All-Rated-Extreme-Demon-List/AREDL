@@ -19024,5 +19024,14 @@
 		"from_rank": null,
 		"above": "dark_odyssey",
 		"below": "finkor"
+	},
+	{
+		"date": 1740621305,
+		"action": "placed",
+		"name": "no_more",
+		"to_rank": 909,
+		"from_rank": null,
+		"above": "ferrum_frenzy",
+		"below": "shimmer_mercurydt"
 	}
 ]
