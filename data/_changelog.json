@@ -19033,5 +19033,14 @@
 		"from_rank": null,
 		"above": "ferrum_frenzy",
 		"below": "shimmer_mercurydt"
+	},
+	{
+		"date": 1740621689,
+		"action": "placed",
+		"name": "noble_plague",
+		"to_rank": 843,
+		"from_rank": null,
+		"above": "pound_town",
+		"below": "imitation_game"
 	}
 ]
