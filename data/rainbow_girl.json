@@ -1,11 +1,18 @@
 {
-    "id": 103062165,
-    "name": "RAINBOW GIRL",
-    "author": 8367589872,
-    "creators": [],
-    "verifier": 8367589872,
-    "verification": "https://youtu.be/zj_OpQmGStA?si=eynAFrwfPfkIpd28",
-    "percentToQualify": 100,
-    "song": 1101957,
-    "records": []
+	"id": 103062165,
+	"name": "RAINBOW GIRL",
+	"author": 8367589872,
+	"creators": [],
+	"verifier": 8367589872,
+	"verification": "https://youtu.be/zj_OpQmGStA?si=eynAFrwfPfkIpd28",
+	"percentToQualify": 100,
+	"song": 1101957,
+	"records": [
+		{
+			"user": 3666197353,
+			"link": "https://www.youtube.com/watch?v=GOy1BCOlgZk",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
