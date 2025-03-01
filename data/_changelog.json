@@ -19060,5 +19060,14 @@
 		"from_rank": null,
 		"above": "aronia",
 		"below": "mewnei"
+	},
+	{
+		"date": 1740797922,
+		"action": "placed",
+		"name": "vortex_of_time",
+		"to_rank": 562,
+		"from_rank": null,
+		"above": "anahita",
+		"below": "carcano"
 	}
 ]
