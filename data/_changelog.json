@@ -19069,5 +19069,14 @@
 		"from_rank": null,
 		"above": "anahita",
 		"below": "carcano"
+	},
+	{
+		"date": 1740884849,
+		"action": "raised",
+		"name": "lithium",
+		"to_rank": 80,
+		"from_rank": 93,
+		"above": "ascent",
+		"below": "keres"
 	}
 ]
