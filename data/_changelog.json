@@ -19114,5 +19114,14 @@
 		"from_rank": null,
 		"above": "hydratic",
 		"below": "twilight_spire"
+	},
+	{
+		"date": 1741043001,
+		"action": "lowered",
+		"name": "endurance",
+		"to_rank": 828,
+		"from_rank": 740,
+		"above": "a4elements",
+		"below": "a2marbl"
 	}
 ]
