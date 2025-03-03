@@ -19105,5 +19105,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "red_world"
+	},
+	{
+		"date": 1741023535,
+		"action": "placed",
+		"name": "morphine",
+		"to_rank": 987,
+		"from_rank": null,
+		"above": "hydratic",
+		"below": "twilight_spire"
 	}
 ]
