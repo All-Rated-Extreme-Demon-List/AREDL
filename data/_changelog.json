@@ -19150,5 +19150,14 @@
 		"from_rank": 638,
 		"above": "malevolent_maelstrom",
 		"below": "elliptic_curve"
+	},
+	{
+		"date": 1741131718,
+		"action": "placed",
+		"name": "the_gins_ii",
+		"to_rank": 968,
+		"from_rank": null,
+		"above": "pessimism",
+		"below": "aksion"
 	}
 ]
