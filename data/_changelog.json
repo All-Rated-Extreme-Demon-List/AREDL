@@ -19141,5 +19141,14 @@
 		"from_rank": null,
 		"above": "shotgun",
 		"below": "me_lin_a"
+	},
+	{
+		"date": 1741131227,
+		"action": "lowered",
+		"name": "nemesis",
+		"to_rank": 753,
+		"from_rank": 638,
+		"above": "malevolent_maelstrom",
+		"below": "elliptic_curve"
 	}
 ]
