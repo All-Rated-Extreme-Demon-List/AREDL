@@ -19132,5 +19132,14 @@
 		"from_rank": null,
 		"above": "gentlemens_clique_solo",
 		"below": "the_hell_zone"
+	},
+	{
+		"date": 1741129588,
+		"action": "placed",
+		"name": "brainwash",
+		"to_rank": 1083,
+		"from_rank": null,
+		"above": "shotgun",
+		"below": "me_lin_a"
 	}
 ]
