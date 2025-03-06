@@ -19159,5 +19159,14 @@
 		"from_rank": null,
 		"above": "pessimism",
 		"below": "aksion"
+	},
+	{
+		"date": 1741238599,
+		"action": "raised",
+		"name": "instinct_krazyman50real",
+		"to_rank": 95,
+		"from_rank": 96,
+		"above": "sky_shredder",
+		"below": "conclusion"
 	}
 ]
