@@ -19168,5 +19168,14 @@
 		"from_rank": 96,
 		"above": "sky_shredder",
 		"below": "conclusion"
+	},
+	{
+		"date": 1741385171,
+		"action": "raised",
+		"name": "kenos",
+		"to_rank": 69,
+		"from_rank": 70,
+		"above": "zodiac",
+		"below": "judgement_knights"
 	}
 ]
