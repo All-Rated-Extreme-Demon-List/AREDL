@@ -2,10 +2,25 @@
 	"id": 110769422,
 	"name": "Magnificent Gaps",
 	"author": 3885646607,
-	"creators": [4806114621],
+	"creators": [
+		4806114621
+	],
 	"verifier": 8055316686,
 	"verification": "https://www.youtube.com/watch?v=-L7ILKGoJPU",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 1834609087,
+			"link": "https://youtu.be/E8cZJA5Vmhk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4530221665,
+			"link": "https://youtu.be/j3L1JwHfEWg?si=BtcVfcEBDzqH6w-a",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

@@ -2,10 +2,19 @@
 	"id": 112351854,
 	"name": "Sank",
 	"author": 8411935000,
-	"creators": [8411935000],
+	"creators": [
+		8411935000
+	],
 	"verifier": 8411935000,
 	"verification": "https://www.youtube.com/watch?v=6ZuEWp1dJ0c",
 	"percentToQualify": 100,
 	"password": "Free to Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 8666148048,
+			"link": "https://youtu.be/yRb3akRhzUk?si=ASksAINFCoUShoI_",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

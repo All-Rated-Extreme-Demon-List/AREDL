@@ -2,10 +2,19 @@
 	"id": 97087325,
 	"name": "NO MORE",
 	"author": 1607179011,
-	"creators": [1607179011],
+	"creators": [
+		1607179011
+	],
 	"verifier": 1607179011,
 	"verification": "https://youtu.be/0-0buhMrbrU?si=F-ghdagNCCBvUTZV",
 	"percentToQualify": 100,
 	"password": "Free Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 1917382258,
+			"link": "https://youtu.be/LMqA1X0dkd4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
