@@ -19177,5 +19177,14 @@
 		"from_rank": 70,
 		"above": "zodiac",
 		"below": "judgement_knights"
+	},
+	{
+		"date": 1741632226,
+		"action": "placed",
+		"name": "jrjrjr",
+		"to_rank": 935,
+		"from_rank": null,
+		"above": "explosion",
+		"below": "dark_rivalry"
 	}
 ]
