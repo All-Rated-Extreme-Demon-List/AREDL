@@ -19186,5 +19186,14 @@
 		"from_rank": null,
 		"above": "explosion",
 		"below": "dark_rivalry"
+	},
+	{
+		"date": 1741725181,
+		"action": "raised",
+		"name": "hardry",
+		"to_rank": 183,
+		"from_rank": 202,
+		"above": "dump",
+		"below": "kowareta"
 	}
 ]
