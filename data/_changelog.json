@@ -19195,5 +19195,14 @@
 		"from_rank": 202,
 		"above": "dump",
 		"below": "kowareta"
+	},
+	{
+		"date": 1741732460,
+		"action": "raised",
+		"name": "mewnei",
+		"to_rank": 153,
+		"from_rank": 160,
+		"above": "gracefully",
+		"below": "fog"
 	}
 ]
