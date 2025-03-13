@@ -19231,5 +19231,14 @@
 		"from_rank": null,
 		"above": "acheron",
 		"below": "anathema"
+	},
+	{
+		"date": 1741902058,
+		"action": "placed",
+		"name": "gaggatrondra",
+		"to_rank": 31,
+		"from_rank": null,
+		"above": "edge_of_destiny",
+		"below": "limbo"
 	}
 ]
