@@ -19249,5 +19249,14 @@
 		"from_rank": null,
 		"above": "the_plunge",
 		"below": "collapse_nexel"
+	},
+	{
+		"date": 1741910345,
+		"action": "lowered",
+		"name": "keres",
+		"to_rank": 87,
+		"from_rank": 82,
+		"above": "lotus_flower",
+		"below": "crackhead_circles"
 	}
 ]
