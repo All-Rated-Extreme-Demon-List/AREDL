@@ -19240,5 +19240,14 @@
 		"from_rank": null,
 		"above": "edge_of_destiny",
 		"below": "limbo"
+	},
+	{
+		"date": 1741902813,
+		"action": "placed",
+		"name": "apocolyptic_trilogy",
+		"to_rank": 41,
+		"from_rank": null,
+		"above": "the_plunge",
+		"below": "collapse_nexel"
 	}
 ]
