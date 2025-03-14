@@ -14636,7 +14636,7 @@
 	{
 		"date": 1726721809,
 		"action": "placed",
-		"name": "vertigo",
+		"name": "vertigo_pahc",
 		"to_rank": 877,
 		"from_rank": null,
 		"above": "idol19",
@@ -15557,7 +15557,7 @@
 		"name": "maths",
 		"to_rank": 895,
 		"from_rank": 942,
-		"above": "vertigo",
+		"above": "vertigo_pahc",
 		"below": "aksion"
 	},
 	{
