@@ -19267,5 +19267,14 @@
 		"from_rank": 895,
 		"above": "the_hell_dignity",
 		"below": "falling_maze"
+	},
+	{
+		"date": 1742071223,
+		"action": "lowered",
+		"name": "ruler_of_everything",
+		"to_rank": 604,
+		"from_rank": 562,
+		"above": "bloodbath",
+		"below": "helix"
 	}
 ]
