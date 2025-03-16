@@ -1,12 +1,13 @@
 {
 	"id": 82172844,
 	"name": "Cobwebs",
-	"tags": [ "2.2",
-"Medium",
-"Fast-Paced",
-"High CPS",
-"Learny",
-"Overall"
+	"tags": [
+		"2.2",
+		"Medium",
+		"Fast-Paced",
+		"High CPS",
+		"Learny",
+		"Overall"
 	],
 	"author": 1808222329,
 	"creators": [],
@@ -252,6 +253,12 @@
 		{
 			"user": 5595225732,
 			"link": "https://www.youtube.com/watch?v=pU2yJnIHNYs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6473277205,
+			"link": "https://youtu.be/-AqlBkyY_y8?si=OkNvWRLLyuJhwZE2",
 			"percent": 100,
 			"hz": 360
 		}
