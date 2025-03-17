@@ -19276,5 +19276,14 @@
 		"from_rank": 562,
 		"above": "bloodbath",
 		"below": "helix"
+	},
+	{
+		"date": 1742249491,
+		"action": "lowered",
+		"name": "hard_machine",
+		"to_rank": 84,
+		"from_rank": 74,
+		"above": "widestep",
+		"below": "fragile"
 	}
 ]
