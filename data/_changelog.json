@@ -19303,5 +19303,14 @@
 		"from_rank": 270,
 		"above": "rage",
 		"below": "goner"
+	},
+	{
+		"date": 1742333947,
+		"action": "raised",
+		"name": "dedohexdragon",
+		"to_rank": 199,
+		"from_rank": 231,
+		"above": "cridium",
+		"below": "spectrum_cyclone"
 	}
 ]
