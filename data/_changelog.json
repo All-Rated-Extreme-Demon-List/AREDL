@@ -19348,5 +19348,14 @@
 		"from_rank": 841,
 		"above": "mazemory",
 		"below": "broken_signal"
+	},
+	{
+		"date": 1742484206,
+		"action": "raised",
+		"name": "encroaching_dark",
+		"to_rank": 1060,
+		"from_rank": 1112,
+		"above": "anya_iii",
+		"below": "turnt_temp"
 	}
 ]
