@@ -19375,5 +19375,14 @@
 		"from_rank": 853,
 		"above": "hades",
 		"below": "elite_z_rebirth"
+	},
+	{
+		"date": 1742772795,
+		"action": "lowered",
+		"name": "solar_flare",
+		"to_rank": 29,
+		"from_rank": 26,
+		"above": "limbo",
+		"below": "combustion"
 	}
 ]
