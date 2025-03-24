@@ -1,4 +1,4 @@
-name: Migrate v2
+name: Migrate V2
 
 on:
   workflow_dispatch:
@@ -7,42 +7,21 @@ on:
       - main
 
 jobs:
-  migrate:
-
+  migrate-v2:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
+      - name: Set up SSH Key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.DEPLOY_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -H ${{ secrets.DEPLOY_HOST }} >> ~/.ssh/known_hosts
 
-    - name: Copy data over to backend
-      uses: burnett01/rsync-deployments@6.0.0
-      with:
-        switches: -avz
-        path: ./data/
-        remote_path: ${{ secrets.DEPLOY_PATH }}/data/
-        remote_host: ${{ secrets.DEPLOY_HOST }}
-        remote_user: ${{ secrets.DEPLOY_USER }}
-        remote_key: ${{ secrets.DEPLOY_KEY }}
+      - name: Restart migrate service
+        run: |
+          ssh ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }} \
+          "docker service update --force aredl_backend_stack_migrate"
 
-    - name: Run migration on backend
-      uses: appleboy/ssh-action@v1.0.3
-      with:
-        host: ${{ secrets.DEPLOY_HOST }}
-        username: ${{ secrets.DEPLOY_USER }}
-        key: ${{ secrets.DEPLOY_KEY }}
-        script: |
-          cd ${{ secrets.DEPLOY_PATH }}
-          ./seed_aredl
-
-    - name: Check exit code
-      if: ${{ failure() }}
-      run: exit 1
-
-    - name: Restart backend
-      uses: appleboy/ssh-action@v1.0.0
-      with:
-        host: ${{ secrets.DEPLOY_HOST }}
-        username: ${{ secrets.DEPLOY_USER }}
-        key: ${{ secrets.DEPLOY_KEY }}
-        script: sudo systemctl restart aredl-backend-v2
+      - name: Cleanup SSH key
+        if: always()
+        run: rm -rf ~/.ssh
