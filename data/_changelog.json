@@ -11639,7 +11639,7 @@
 	{
 		"date": 1708232940,
 		"action": "placed",
-		"name": "collapse",
+		"name": "collapse_fwefwe",
 		"to_rank": 346,
 		"from_rank": null,
 		"above": "black_blizzard",
@@ -15278,7 +15278,7 @@
 		"name": "spirit_house",
 		"to_rank": 377,
 		"from_rank": 292,
-		"above": "collapse",
+		"above": "collapse_fwefwe",
 		"below": "prisma"
 	},
 	{
