@@ -19402,5 +19402,14 @@
 		"from_rank": 69,
 		"above": "trueffet",
 		"below": "critical_heat"
+	},
+	{
+		"date": 1743016507,
+		"action": "raised",
+		"name": "requiem",
+		"to_rank": 218,
+		"from_rank": 221,
+		"above": "sparkling",
+		"below": "iris_of_a_puppeteer"
 	}
 ]
