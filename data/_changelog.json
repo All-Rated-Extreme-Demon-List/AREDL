@@ -19393,5 +19393,14 @@
 		"from_rank": null,
 		"above": "instinct_krazyman50real",
 		"below": "conclusion"
+	},
+	{
+		"date": 1743004807,
+		"action": "raised",
+		"name": "aerial_gleam",
+		"to_rank": 68,
+		"from_rank": 69,
+		"above": "trueffet",
+		"below": "critical_heat"
 	}
 ]
