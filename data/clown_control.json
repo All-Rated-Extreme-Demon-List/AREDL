@@ -2,10 +2,77 @@
 	"id": 113620104,
 	"name": "Clown Control",
 	"author": 7547239976,
-	"creators": [5016694745,5486490807,7666752920,5243225153,5980745778,6282507731,5800067799,2760417516,8334347450,1208412191,2869230081,8417376121,6889031243,6647108789,4955087966,5495548354,1117970621],
+	"creators": [
+		5016694745,
+		5486490807,
+		7666752920,
+		5243225153,
+		5980745778,
+		6282507731,
+		5800067799,
+		2760417516,
+		8334347450,
+		1208412191,
+		2869230081,
+		8417376121,
+		6889031243,
+		6647108789,
+		4955087966,
+		5495548354,
+		1117970621
+	],
 	"verifier": 6871356874,
 	"verification": "https://youtu.be/RRt-r1U4Pt4?si=hscnIYympWzovPmm",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 3969992072,
+			"link": "https://youtu.be/5rKgIfEbdpo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9334359459,
+			"link": "https://www.tiktok.com/t/ZP82tx3Ej/",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2893228039,
+			"link": "https://youtu.be/9icvS9EyE4k?si=bwAzyGLA42c35oOO",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9586856761,
+			"link": "https://youtu.be/cysuBaOxH_M?si=y0alano-39LJ4Kd8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8199551609,
+			"link": "https://youtu.be/S0lC7sDBz6w",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9880143849,
+			"link": "https://youtu.be/VVvuKCmGgf0?si=JDGNNXfKrmJ379N7",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1311809192,
+			"link": "https://youtu.be/DM0Tl1s9UY4?si=81aeqGfQzO2Hldnw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6117206163,
+			"link": "https://www.youtube.com/watch?v=hcRbrnvZm3g",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
