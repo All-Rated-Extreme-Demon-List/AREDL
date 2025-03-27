@@ -19420,5 +19420,14 @@
 		"from_rank": null,
 		"above": "lights_out",
 		"below": "backlights"
+	},
+	{
+		"date": 1743115774,
+		"action": "raised",
+		"name": "edelweiss",
+		"to_rank": 358,
+		"from_rank": 379,
+		"above": "crystal",
+		"below": "netzwerk"
 	}
 ]
