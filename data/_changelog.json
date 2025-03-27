@@ -19411,5 +19411,14 @@
 		"from_rank": 221,
 		"above": "sparkling",
 		"below": "iris_of_a_puppeteer"
+	},
+	{
+		"date": 1743055179,
+		"action": "placed",
+		"name": "clown_control",
+		"to_rank": 932,
+		"from_rank": null,
+		"above": "lights_out",
+		"below": "backlights"
 	}
 ]
