@@ -19447,5 +19447,14 @@
 		"from_rank": null,
 		"above": "once_again",
 		"below": "gloss"
+	},
+	{
+		"date": 1743222930,
+		"action": "placed",
+		"name": "last_ship_was_cool",
+		"to_rank": 817,
+		"from_rank": null,
+		"above": "junk_realm",
+		"below": "mjolnir"
 	}
 ]
