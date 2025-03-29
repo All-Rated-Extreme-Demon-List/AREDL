@@ -19429,5 +19429,14 @@
 		"from_rank": 379,
 		"above": "crystal",
 		"below": "netzwerk"
+	},
+	{
+		"date": 1743222464,
+		"action": "placed",
+		"name": "the_man_with_no_eyes",
+		"to_rank": 868,
+		"from_rank": null,
+		"above": "the_ultimate_phase",
+		"below": "on1y_cub3"
 	}
 ]
