@@ -19456,5 +19456,14 @@
 		"from_rank": null,
 		"above": "junk_realm",
 		"below": "mjolnir"
+	},
+	{
+		"date": 1743223214,
+		"action": "placed",
+		"name": "follow_me_closely",
+		"to_rank": 673,
+		"from_rank": null,
+		"above": "into_petals",
+		"below": "cytokinesis"
 	}
 ]
