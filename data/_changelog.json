@@ -19474,5 +19474,14 @@
 		"from_rank": null,
 		"above": "disintegrate",
 		"below": "manic_machine"
+	},
+	{
+		"date": 1743311949,
+		"action": "placed",
+		"name": "masmecrescent",
+		"to_rank": 849,
+		"from_rank": null,
+		"above": "i_never_dream",
+		"below": "shukufuku"
 	}
 ]
