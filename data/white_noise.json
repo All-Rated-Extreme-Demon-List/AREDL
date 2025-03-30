@@ -2,9 +2,9 @@
     "id": 68844390,
     "name": "White Noise",
     "author": 4753160633,
-    "creators": [],
-    "verifier": 9875331982,
-    "verification": "https://youtu.be/r_aiHLPiGQw",
+    "creators": [7268700769],
+    "verifier": 7268700769,
+    "verification": "https://youtu.be/2v5NTbEw97g",
     "percentToQualify": 100,
     "song": 970607,
     "records": [
@@ -55,6 +55,12 @@
             "link": "https://youtu.be/qLnaJgtVOp0",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": 9875331982,
+            "link": "https://youtu.be/r_aiHLPiGQw",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
