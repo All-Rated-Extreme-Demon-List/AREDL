@@ -19492,5 +19492,14 @@
 		"from_rank": 132,
 		"above": "kappa",
 		"below": "the_art_of_the_blade"
+	},
+	{
+		"date": 1743460343,
+		"action": "placed",
+		"name": "the_fog",
+		"to_rank": 303,
+		"from_rank": null,
+		"above": "lucid_chaos",
+		"below": "jamboree"
 	}
 ]
