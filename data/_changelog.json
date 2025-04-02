@@ -19546,5 +19546,14 @@
 		"from_rank": null,
 		"above": "huellas_en_la_nieve",
 		"below": "betelgeuse"
+	},
+	{
+		"date": 1743615012,
+		"action": "raised",
+		"name": "boobawamba",
+		"to_rank": 9,
+		"from_rank": 12,
+		"above": "tunnel_of_despair",
+		"below": "spectre"
 	}
 ]
