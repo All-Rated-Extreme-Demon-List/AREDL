@@ -19537,5 +19537,14 @@
 		"from_rank": 890,
 		"above": "reanimate",
 		"below": "witching_hour"
+	},
+	{
+		"date": 1743614450,
+		"action": "placed",
+		"name": "the_ultimate_return",
+		"to_rank": 752,
+		"from_rank": null,
+		"above": "huellas_en_la_nieve",
+		"below": "betelgeuse"
 	}
 ]
