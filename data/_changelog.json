@@ -19510,5 +19510,14 @@
 		"from_rank": null,
 		"above": "cityfade",
 		"below": "unleash_whale_whales"
+	},
+	{
+		"date": 1743605281,
+		"action": "raised",
+		"name": "seaglass_foundry",
+		"to_rank": 738,
+		"from_rank": 881,
+		"above": "disintegrate",
+		"below": "can_i_have_mod_now"
 	}
 ]
