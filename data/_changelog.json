@@ -19528,5 +19528,14 @@
 		"from_rank": null,
 		"above": "duplication",
 		"below": "niwa"
+	},
+	{
+		"date": 1743613884,
+		"action": "lowered",
+		"name": "deception_dive",
+		"to_rank": 956,
+		"from_rank": 890,
+		"above": "reanimate",
+		"below": "witching_hour"
 	}
 ]
