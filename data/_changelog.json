@@ -19501,5 +19501,59 @@
 		"from_rank": null,
 		"above": "lucid_chaos",
 		"below": "jamboree"
+	},
+	{
+		"date": 1743605219,
+		"action": "placed",
+		"name": "cja",
+		"to_rank": 1082,
+		"from_rank": null,
+		"above": "cityfade",
+		"below": "unleash_whale_whales"
+	},
+	{
+		"date": 1743605281,
+		"action": "raised",
+		"name": "seaglass_foundry",
+		"to_rank": 738,
+		"from_rank": 881,
+		"above": "disintegrate",
+		"below": "can_i_have_mod_now"
+	},
+	{
+		"date": 1743606231,
+		"action": "placed",
+		"name": "magnum_opus",
+		"to_rank": 1087,
+		"from_rank": null,
+		"above": "duplication",
+		"below": "niwa"
+	},
+	{
+		"date": 1743613884,
+		"action": "lowered",
+		"name": "deception_dive",
+		"to_rank": 956,
+		"from_rank": 890,
+		"above": "reanimate",
+		"below": "witching_hour"
+	},
+	{
+		"date": 1743614450,
+		"action": "placed",
+		"name": "the_ultimate_return",
+		"to_rank": 752,
+		"from_rank": null,
+		"above": "huellas_en_la_nieve",
+		"below": "betelgeuse"
+	},
+	{
+		"date": 1743615012,
+		"action": "raised",
+		"name": "boobawamba",
+		"to_rank": 9,
+		"from_rank": 12,
+		"above": "tunnel_of_despair",
+		"below": "spectre"
 	}
 ]
