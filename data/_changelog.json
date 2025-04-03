@@ -19555,5 +19555,14 @@
 		"from_rank": 12,
 		"above": "tunnel_of_despair",
 		"below": "spectre"
+	},
+	{
+		"date": 1743719704,
+		"action": "raised",
+		"name": "guideless_goobering",
+		"to_rank": 79,
+		"from_rank": 109,
+		"above": "dissonance",
+		"below": "neutra"
 	}
 ]
