@@ -19573,5 +19573,14 @@
 		"from_rank": null,
 		"above": "moment",
 		"below": "siniristi"
+	},
+	{
+		"date": 1743810913,
+		"action": "placed",
+		"name": "crystal_crusher_solo",
+		"to_rank": 52,
+		"from_rank": null,
+		"above": "tartarus",
+		"below": "bpata_mpaka"
 	}
 ]
