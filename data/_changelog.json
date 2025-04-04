@@ -19564,5 +19564,14 @@
 		"from_rank": 109,
 		"above": "dissonance",
 		"below": "neutra"
+	},
+	{
+		"date": 1743736784,
+		"action": "placed",
+		"name": "scattered_n_lost",
+		"to_rank": 611,
+		"from_rank": null,
+		"above": "moment",
+		"below": "siniristi"
 	}
 ]
