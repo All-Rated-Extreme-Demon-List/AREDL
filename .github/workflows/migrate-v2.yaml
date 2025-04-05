@@ -22,6 +22,21 @@ jobs:
           ssh ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }} \
           "docker service update --force aredl_backend_stack_migrate"
 
+
+      - name: Wait for migrate service to complete
+        run: |
+          echo "Waiting for migration to complete..."
+          until ! ssh ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }} "docker service ps aredl_backend_stack_migrate --filter 'desired-state=Running'" | grep -q Running; do
+            echo "Migration still running. Sleeping for 5 seconds..."
+            sleep 5
+          done
+          echo "Migration completed."
+
+      - name: Restart API service
+        run: |
+          ssh ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }} \
+          "docker service update --force aredl_backend_stack_api"
+
       - name: Cleanup SSH key
         if: always()
         run: rm -rf ~/.ssh
