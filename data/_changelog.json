@@ -19582,5 +19582,14 @@
 		"from_rank": null,
 		"above": "tartarus",
 		"below": "bpata_mpaka"
+	},
+	{
+		"date": 1743823560,
+		"action": "raised",
+		"name": "anathema",
+		"to_rank": 3,
+		"from_rank": 4,
+		"above": "avernus",
+		"below": "nullscapes"
 	}
 ]
