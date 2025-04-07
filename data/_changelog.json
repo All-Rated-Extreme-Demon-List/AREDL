@@ -19609,5 +19609,14 @@
 		"from_rank": 436,
 		"above": "madmansion",
 		"below": "hot_rod"
+	},
+	{
+		"date": 1744048027,
+		"action": "raised",
+		"name": "dichotomy_solo",
+		"to_rank": 516,
+		"from_rank": 573,
+		"above": "aether_zerosr",
+		"below": "mystic"
 	}
 ]
