@@ -19591,5 +19591,14 @@
 		"from_rank": 4,
 		"above": "avernus",
 		"below": "nullscapes"
+	},
+	{
+		"date": 1744047974,
+		"action": "lowered",
+		"name": "gentlemens_clique_solo",
+		"to_rank": 497,
+		"from_rank": 429,
+		"above": "new_record",
+		"below": "microsoft_drivethru"
 	}
 ]
