@@ -19618,5 +19618,14 @@
 		"from_rank": 573,
 		"above": "aether_zerosr",
 		"below": "mystic"
+	},
+	{
+		"date": 1744048047,
+		"action": "lowered",
+		"name": "bang_gang_solo",
+		"to_rank": 521,
+		"from_rank": 453,
+		"above": "oneattempt",
+		"below": "paranoid_android"
 	}
 ]
