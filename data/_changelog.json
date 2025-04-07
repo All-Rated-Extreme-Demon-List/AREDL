@@ -19600,5 +19600,14 @@
 		"from_rank": 429,
 		"above": "new_record",
 		"below": "microsoft_drivethru"
+	},
+	{
+		"date": 1744047994,
+		"action": "lowered",
+		"name": "based_gang_solo",
+		"to_rank": 513,
+		"from_rank": 436,
+		"above": "madmansion",
+		"below": "hot_rod"
 	}
 ]
