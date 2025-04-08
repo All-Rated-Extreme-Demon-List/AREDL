@@ -19636,5 +19636,14 @@
 		"from_rank": 17,
 		"above": "sakupen_circles",
 		"below": "slaughterhouse"
+	},
+	{
+		"date": 1744147538,
+		"action": "raised",
+		"name": "boobawamba",
+		"to_rank": 3,
+		"from_rank": 9,
+		"above": "anathema",
+		"below": "nullscapes"
 	}
 ]
