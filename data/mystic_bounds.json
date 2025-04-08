@@ -1,13 +1,19 @@
 {
 	"id": 93549959,
 	"name": "Mystic Bounds",
+	"tags": [
+		"2.1",
+		"XXXXL",
+		"Clicksync",
+		"Fast-Paced",
+		"Nerve Control",
+		"Overall",
+		"NONG"
+	],
 	"author": 9254257483,
 	"creators": [],
 	"verifier": 9254257483,
 	"verification": "https://www.youtube.com/watch?v=Nqa36orr4cQ",
-	"tags": [
-		"NONG"
-	],
 	"percentToQualify": 100,
 	"records": [
 		{
@@ -826,6 +832,18 @@
 		{
 			"user": 4606907227,
 			"link": "https://www.youtube.com/watch?v=U_NBd61HyPM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5071440700,
+			"link": "https://www.youtube.com/watch?v=SpidtWn7HFE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6034722924,
+			"link": "https://www.youtube.com/watch?v=bG31o33Tvck&t=13s",
 			"percent": 100,
 			"hz": 360
 		}

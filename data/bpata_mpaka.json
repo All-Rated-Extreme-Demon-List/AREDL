@@ -1,6 +1,14 @@
 {
 	"id": 109947627,
 	"name": "BPATA MPAKA",
+	"tags": [
+		"2.2",
+		"Long",
+		"Ship",
+		"Cube",
+		"Spider",
+		"UFO"
+	],
 	"author": 7683564602,
 	"creators": [
 		6415374798,
@@ -36,6 +44,12 @@
 		{
 			"user": 3693363592,
 			"link": "https://youtu.be/vYEFa1Kiy8A?si=v9IhfphxeVyLZbB1",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6648485382,
+			"link": "https://youtu.be/3yyMlzFsSEU?si=Yld67XkPpgs0W_YI",
 			"percent": 100,
 			"hz": 360
 		}

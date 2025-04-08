@@ -1,6 +1,12 @@
 {
 	"id": 84829178,
 	"name": "Manic Machine",
+	"tags": [
+		"2.1",
+		"Long",
+		"Memory",
+		"Learny"
+	],
 	"author": 8441397207,
 	"creators": [],
 	"verifier": 9475286173,
@@ -608,6 +614,24 @@
 		{
 			"user": 8777893227,
 			"link": "https://youtu.be/F1czxFIUiGg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5209887705,
+			"link": "https://youtu.be/09PfjgRp25Q?si=ri7ZxaFBcaNftivx",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4685201359,
+			"link": "https://www.youtube.com/watch?v=CmTUL-kAmFo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1150134972,
+			"link": "https://www.youtube.com/watch?v=p3hth2h1VJ8",
 			"percent": 100,
 			"hz": 360
 		}

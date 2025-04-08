@@ -1,6 +1,14 @@
 {
 	"id": 52374843,
 	"name": "Zodiac",
+	"tags": [
+		"2.1",
+		"XXL",
+		"Chokepoints",
+		"Timings",
+		"Nerve Control",
+		"Overall"
+	],
 	"author": 9109156979,
 	"creators": [
 		8379263509,
@@ -635,6 +643,18 @@
 		{
 			"user": 5341423302,
 			"link": "https://www.youtube.com/watch?v=REz8I7cJOR8&ab_channel=Abdieldevil",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7324692363,
+			"link": "https://www.youtube.com/watch?v=rmQWMG29abA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9334359459,
+			"link": "https://youtu.be/TTc86GXXvS4",
 			"percent": 100,
 			"hz": 360
 		}

@@ -1,6 +1,11 @@
 {
     "id": 68844390,
     "name": "White Noise",
+    "tags": [
+		"2.1",
+		"Long",
+		"Clicksync"
+	],
     "author": 4753160633,
     "creators": [
         7268700769,
@@ -64,6 +69,12 @@
             "link": "https://youtu.be/r_aiHLPiGQw",
             "percent": 100,
             "hz": 144
-        }
+        },
+      	{
+		    "user": 6075205327,
+		    "link": "https://youtu.be/AYj5uuTLYP8?si=7wYkHdnpTkdrxpuc",
+		    "percent": 100,
+		    "hz": 360
+	    }
     ]
 }

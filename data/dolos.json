@@ -1,6 +1,12 @@
 {
 	"id": 58417850,
 	"name": "Dolos",
+	"tags": [
+		"2.1",
+		"Long",
+		"Clicksync",
+		"Chokepoints"
+	],
 	"author": 4975288467,
 	"creators": [
 		4975288467,
@@ -986,6 +992,12 @@
 		{
 			"user": 9880732106,
 			"link": "https://youtu.be/mTJPSe7gvDo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8424674284,
+			"link": "https://youtu.be/C1k6XvsjNOA?si=2wCZQSd1NICEEhKf",
 			"percent": 100,
 			"hz": 360
 		}

@@ -1,6 +1,13 @@
 {
 	"id": 109730342,
 	"name": "the super hotdog",
+	"tags": [
+		"2.2",
+		"Medium",
+		"Learny",
+		"High CPS",
+		"Duals"
+	],
 	"author": 6839091830,
 	"creators": [],
 	"verifier": 6839091830,
@@ -792,7 +799,7 @@
 		},
 		{
 			"user": 8368727668,
-			"link": "https://youtu.be/Z8Ruvd4yBBw",
+			"link": "https://www.youtube.com/watch?v=Y6wXIFpYVAY",
 			"percent": 100,
 			"hz": 360
 		},
@@ -1005,6 +1012,12 @@
 		{
 			"user": 5225514831,
 			"link": "https://www.youtube.com/watch?v=nZBLjhsTXZ8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1552473546,
+			"link": "https://youtu.be/yQ3jlnmIhdc?si=pH1oGAMVjAPSbKzS",
 			"percent": 100,
 			"hz": 360
 		}

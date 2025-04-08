@@ -19501,5 +19501,140 @@
 		"from_rank": null,
 		"above": "lucid_chaos",
 		"below": "jamboree"
+	},
+	{
+		"date": 1743605219,
+		"action": "placed",
+		"name": "cja",
+		"to_rank": 1082,
+		"from_rank": null,
+		"above": "cityfade",
+		"below": "unleash_whale_whales"
+	},
+	{
+		"date": 1743605281,
+		"action": "raised",
+		"name": "seaglass_foundry",
+		"to_rank": 738,
+		"from_rank": 881,
+		"above": "disintegrate",
+		"below": "can_i_have_mod_now"
+	},
+	{
+		"date": 1743606231,
+		"action": "placed",
+		"name": "magnum_opus",
+		"to_rank": 1087,
+		"from_rank": null,
+		"above": "duplication",
+		"below": "niwa"
+	},
+	{
+		"date": 1743613884,
+		"action": "lowered",
+		"name": "deception_dive",
+		"to_rank": 956,
+		"from_rank": 890,
+		"above": "reanimate",
+		"below": "witching_hour"
+	},
+	{
+		"date": 1743614450,
+		"action": "placed",
+		"name": "the_ultimate_return",
+		"to_rank": 752,
+		"from_rank": null,
+		"above": "huellas_en_la_nieve",
+		"below": "betelgeuse"
+	},
+	{
+		"date": 1743615012,
+		"action": "raised",
+		"name": "boobawamba",
+		"to_rank": 9,
+		"from_rank": 12,
+		"above": "tunnel_of_despair",
+		"below": "spectre"
+	},
+	{
+		"date": 1743719704,
+		"action": "raised",
+		"name": "guideless_goobering",
+		"to_rank": 79,
+		"from_rank": 109,
+		"above": "dissonance",
+		"below": "neutra"
+	},
+	{
+		"date": 1743736784,
+		"action": "placed",
+		"name": "scattered_n_lost",
+		"to_rank": 611,
+		"from_rank": null,
+		"above": "moment",
+		"below": "siniristi"
+	},
+	{
+		"date": 1743810913,
+		"action": "placed",
+		"name": "crystal_crusher_solo",
+		"to_rank": 52,
+		"from_rank": null,
+		"above": "tartarus",
+		"below": "bpata_mpaka"
+	},
+	{
+		"date": 1743823560,
+		"action": "raised",
+		"name": "anathema",
+		"to_rank": 3,
+		"from_rank": 4,
+		"above": "avernus",
+		"below": "nullscapes"
+	},
+	{
+		"date": 1744047974,
+		"action": "lowered",
+		"name": "gentlemens_clique_solo",
+		"to_rank": 497,
+		"from_rank": 429,
+		"above": "new_record",
+		"below": "microsoft_drivethru"
+	},
+	{
+		"date": 1744047994,
+		"action": "lowered",
+		"name": "based_gang_solo",
+		"to_rank": 513,
+		"from_rank": 436,
+		"above": "madmansion",
+		"below": "hot_rod"
+	},
+	{
+		"date": 1744048027,
+		"action": "raised",
+		"name": "dichotomy_solo",
+		"to_rank": 516,
+		"from_rank": 573,
+		"above": "aether_zerosr",
+		"below": "mystic"
+	},
+	{
+		"date": 1744048047,
+		"action": "lowered",
+		"name": "bang_gang_solo",
+		"to_rank": 521,
+		"from_rank": 453,
+		"above": "oneattempt",
+		"below": "paranoid_android"
+	},
+	{
+		"date": 1744052585,
+		"action": "raised",
+		"name": "menace",
+		"to_rank": 15,
+		"from_rank": 17,
+		"above": "sakupen_circles",
+		"below": "slaughterhouse"
 	}
 ]

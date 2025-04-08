@@ -1,6 +1,11 @@
 {
 	"id": 2374518,
 	"name": "Red World",
+	"tags": [
+		"1.8",
+		"Long",
+		"Old Swing"
+	],
 	"description": "Used to be impossible due to an update turning a solid block into a decoration piece, until that was fixed, and the level was rated. Consists of one of the first instances of the swing copter, and some pretty dang hard ships.",
 	"author": 5756670059,
 	"creators": [
@@ -2292,6 +2297,24 @@
 		{
 			"user": 7547328552,
 			"link": "https://www.youtube.com/watch?v=BTvY8yCT3yU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6994586216,
+			"link": "https://youtu.be/zZAoDux-3w0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1550074898,
+			"link": "https://youtu.be/sTtSvXWhZMA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4227406269,
+			"link": "https://youtu.be/TxS8qaexj7Q",
 			"percent": 100,
 			"hz": 360
 		}

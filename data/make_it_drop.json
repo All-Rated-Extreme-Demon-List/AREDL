@@ -2,6 +2,14 @@
 	"id": 75518661,
 	"name": "Make It Drop",
 	"description": "Very purple and green, and the gameplay consists of fast paced click sync, which can be pretty fun. Somehow its XL even though it doesnt feel that long.",
+	"tags": [
+		"2.1",
+		"XL",
+		"Fast-Paced",
+		"Flow",
+		"Nerve Control",
+		"Overall"
+	],
 	"author": 7630000779,
 	"creators": [
 		7630000779,
@@ -1192,6 +1200,12 @@
 		{
 			"user": 3008093557,
 			"link": "https://www.youtube.com/watch?v=6UsQoFBjQog&ab_channel=LloydPro",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9835771025,
+			"link": "https://youtu.be/Z8HdnrklY5I",
 			"percent": 100,
 			"hz": 360
 		}
