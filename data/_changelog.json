@@ -19627,5 +19627,14 @@
 		"from_rank": 453,
 		"above": "oneattempt",
 		"below": "paranoid_android"
+	},
+	{
+		"date": 1744052585,
+		"action": "raised",
+		"name": "menace",
+		"to_rank": 15,
+		"from_rank": 17,
+		"above": "sakupen_circles",
+		"below": "slaughterhouse"
 	}
 ]
