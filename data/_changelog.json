@@ -19654,5 +19654,14 @@
 		"from_rank": 3,
 		"above": "anathema",
 		"below": "nullscapes"
+	},
+	{
+		"date": 1744220010,
+		"action": "raised",
+		"name": "the_hell_dignity",
+		"to_rank": 707,
+		"from_rank": 779,
+		"above": "flamethrower",
+		"below": "novalis"
 	}
 ]
