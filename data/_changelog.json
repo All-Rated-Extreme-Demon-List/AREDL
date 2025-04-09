@@ -19663,5 +19663,14 @@
 		"from_rank": 779,
 		"above": "flamethrower",
 		"below": "novalis"
+	},
+	{
+		"date": 1744231990,
+		"action": "lowered",
+		"name": "sodium",
+		"to_rank": 657,
+		"from_rank": 586,
+		"above": "burn_to_dust",
+		"below": "floating_maze"
 	}
 ]
