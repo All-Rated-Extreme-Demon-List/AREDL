@@ -19672,5 +19672,14 @@
 		"from_rank": 586,
 		"above": "burn_to_dust",
 		"below": "floating_maze"
+	},
+	{
+		"date": 1744250386,
+		"action": "lowered",
+		"name": "ninobytte",
+		"to_rank": 673,
+		"from_rank": 581,
+		"above": "pure_vale",
+		"below": "penultimate_phase"
 	}
 ]
