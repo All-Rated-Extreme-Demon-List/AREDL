@@ -19690,5 +19690,14 @@
 		"from_rank": 46,
 		"above": "oblivion",
 		"below": "jigsaw"
+	},
+	{
+		"date": 1744392119,
+		"action": "raised",
+		"name": "destruction_19",
+		"to_rank": 71,
+		"from_rank": 76,
+		"above": "the_paroxysm_of_rage",
+		"below": "trueffet"
 	}
 ]
