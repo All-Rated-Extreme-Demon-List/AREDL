@@ -19636,5 +19636,59 @@
 		"from_rank": 17,
 		"above": "sakupen_circles",
 		"below": "slaughterhouse"
+	},
+	{
+		"date": 1744147538,
+		"action": "raised",
+		"name": "boobawamba",
+		"to_rank": 3,
+		"from_rank": 9,
+		"above": "anathema",
+		"below": "nullscapes"
+	},
+	{
+		"date": 1744148457,
+		"action": "raised",
+		"name": "boobawamba",
+		"to_rank": 3,
+		"from_rank": 3,
+		"above": "anathema",
+		"below": "nullscapes"
+	},
+	{
+		"date": 1744220010,
+		"action": "raised",
+		"name": "the_hell_dignity",
+		"to_rank": 707,
+		"from_rank": 779,
+		"above": "flamethrower",
+		"below": "novalis"
+	},
+	{
+		"date": 1744231990,
+		"action": "lowered",
+		"name": "sodium",
+		"to_rank": 657,
+		"from_rank": 586,
+		"above": "burn_to_dust",
+		"below": "floating_maze"
+	},
+	{
+		"date": 1744250386,
+		"action": "lowered",
+		"name": "ninobytte",
+		"to_rank": 673,
+		"from_rank": 581,
+		"above": "pure_vale",
+		"below": "penultimate_phase"
+	},
+	{
+		"date": 1744335081,
+		"action": "lowered",
+		"name": "unknown",
+		"to_rank": 54,
+		"from_rank": 46,
+		"above": "oblivion",
+		"below": "jigsaw"
 	}
 ]
