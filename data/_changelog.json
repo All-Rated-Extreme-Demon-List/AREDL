@@ -19708,5 +19708,14 @@
 		"from_rank": null,
 		"above": "memories_iii",
 		"below": "shotgun"
+	},
+	{
+		"date": 1744429034,
+		"action": "placed",
+		"name": "galaxy_gas",
+		"to_rank": 774,
+		"from_rank": null,
+		"above": "to_the_exosphere",
+		"below": "heat_wave"
 	}
 ]
