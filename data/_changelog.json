@@ -19699,5 +19699,14 @@
 		"from_rank": 76,
 		"above": "the_paroxysm_of_rage",
 		"below": "trueffet"
+	},
+	{
+		"date": 1744428753,
+		"action": "placed",
+		"name": "heatseeker",
+		"to_rank": 1106,
+		"from_rank": null,
+		"above": "memories_iii",
+		"below": "shotgun"
 	}
 ]
