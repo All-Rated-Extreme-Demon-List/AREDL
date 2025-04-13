@@ -19744,5 +19744,14 @@
 		"from_rank": 889,
 		"above": "twilight_spire",
 		"below": "v_o_l_l_e_y"
+	},
+	{
+		"date": 1744587034,
+		"action": "lowered",
+		"name": "iridium",
+		"to_rank": 1007,
+		"from_rank": 817,
+		"above": "morphine",
+		"below": "twilight_spire"
 	}
 ]
