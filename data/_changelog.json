@@ -19735,5 +19735,14 @@
 		"from_rank": 864,
 		"above": "idol19",
 		"below": "vertigo_pahc"
+	},
+	{
+		"date": 1744586896,
+		"action": "lowered",
+		"name": "white_noise",
+		"to_rank": 1006,
+		"from_rank": 889,
+		"above": "twilight_spire",
+		"below": "v_o_l_l_e_y"
 	}
 ]
