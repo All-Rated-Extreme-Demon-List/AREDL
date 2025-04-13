@@ -19726,5 +19726,14 @@
 		"from_rank": null,
 		"above": "cytokinesis",
 		"below": "pure_vale"
+	},
+	{
+		"date": 1744586765,
+		"action": "lowered",
+		"name": "imitation_game",
+		"to_rank": 990,
+		"from_rank": 864,
+		"above": "idol19",
+		"below": "vertigo_pahc"
 	}
 ]
