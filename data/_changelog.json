@@ -19708,5 +19708,14 @@
 		"from_rank": null,
 		"above": "to_the_exosphere",
 		"below": "heat_wave"
+	},
+	{
+		"date": 1744582355,
+		"action": "raised",
+		"name": "deep_bass",
+		"to_rank": 138,
+		"from_rank": 155,
+		"above": "the_rupture",
+		"below": "neon_skyline"
 	}
 ]
