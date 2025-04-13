@@ -19717,5 +19717,14 @@
 		"from_rank": 155,
 		"above": "the_rupture",
 		"below": "neon_skyline"
+	},
+	{
+		"date": 1744586681,
+		"action": "placed",
+		"name": "treatment_facility",
+		"to_rank": 675,
+		"from_rank": null,
+		"above": "cytokinesis",
+		"below": "pure_vale"
 	}
 ]
