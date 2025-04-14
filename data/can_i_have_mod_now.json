@@ -2,10 +2,26 @@
 	"id": 111710277,
 	"name": "can i have mod now",
 	"author": 8129386583,
-	"creators": [6965212151,8531028163,4051969182,8129386583,3072077927,8689980793,6211690820,2159791738],
+	"creators": [
+		6965212151,
+		8531028163,
+		4051969182,
+		8129386583,
+		3072077927,
+		8689980793,
+		6211690820,
+		2159791738
+	],
 	"verifier": 8129386583,
 	"verification": "https://youtu.be/BaFBY0d9Rh4?si=bPM2jQrgdRlKw9BR",
 	"percentToQualify": 100,
 	"password": "Free Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 9433199179,
+			"link": "https://youtu.be/P46c_rCLGUo?si=QnBG5CxHBrJHjsgk",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
