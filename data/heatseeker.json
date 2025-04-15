@@ -2,10 +2,31 @@
 	"id": 109513812,
 	"name": "HeatSeeker",
 	"author": 1740043275,
-	"creators": [1740043275],
+	"creators": [
+		1740043275
+	],
 	"verifier": 1740043275,
 	"verification": "https://youtu.be/X9zXVJwT4PE?si=vZXnEmszdZf6OE8t",
 	"percentToQualify": 100,
 	"password": "Free Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 9963464779,
+			"link": "https://www.youtube.com/watch?v=jVloy_JUDo0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1713576292,
+			"link": "https://youtu.be/DFG29_dOI-g?si=UEsM4Y7mHYOQfx2V",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5314542067,
+			"link": "https://youtu.be/85IOXFt462M?si=4TetslDlUb2V01-A",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
