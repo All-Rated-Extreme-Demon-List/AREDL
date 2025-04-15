@@ -19753,5 +19753,14 @@
 		"from_rank": 817,
 		"above": "morphine",
 		"below": "twilight_spire"
+	},
+	{
+		"date": 1744690199,
+		"action": "raised",
+		"name": "devil_vortex",
+		"to_rank": 306,
+		"from_rank": 321,
+		"above": "catalyze",
+		"below": "lucid_chaos"
 	}
 ]
