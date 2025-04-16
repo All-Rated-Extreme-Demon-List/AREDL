@@ -19780,5 +19780,14 @@
 		"from_rank": 210,
 		"above": "visible_ray",
 		"below": "dump"
+	},
+	{
+		"date": 1744835713,
+		"action": "raised",
+		"name": "fever_dream",
+		"to_rank": 198,
+		"from_rank": 212,
+		"above": "worstbrainmap",
+		"below": "frozen_cave"
 	}
 ]
