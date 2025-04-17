@@ -19555,5 +19555,248 @@
 		"from_rank": 12,
 		"above": "tunnel_of_despair",
 		"below": "spectre"
+	},
+	{
+		"date": 1743719704,
+		"action": "raised",
+		"name": "guideless_goobering",
+		"to_rank": 79,
+		"from_rank": 109,
+		"above": "dissonance",
+		"below": "neutra"
+	},
+	{
+		"date": 1743736784,
+		"action": "placed",
+		"name": "scattered_n_lost",
+		"to_rank": 611,
+		"from_rank": null,
+		"above": "moment",
+		"below": "siniristi"
+	},
+	{
+		"date": 1743810913,
+		"action": "placed",
+		"name": "crystal_crusher_solo",
+		"to_rank": 52,
+		"from_rank": null,
+		"above": "tartarus",
+		"below": "bpata_mpaka"
+	},
+	{
+		"date": 1743823560,
+		"action": "raised",
+		"name": "anathema",
+		"to_rank": 3,
+		"from_rank": 4,
+		"above": "avernus",
+		"below": "nullscapes"
+	},
+	{
+		"date": 1744047974,
+		"action": "lowered",
+		"name": "gentlemens_clique_solo",
+		"to_rank": 497,
+		"from_rank": 429,
+		"above": "new_record",
+		"below": "microsoft_drivethru"
+	},
+	{
+		"date": 1744047994,
+		"action": "lowered",
+		"name": "based_gang_solo",
+		"to_rank": 513,
+		"from_rank": 436,
+		"above": "madmansion",
+		"below": "hot_rod"
+	},
+	{
+		"date": 1744048027,
+		"action": "raised",
+		"name": "dichotomy_solo",
+		"to_rank": 516,
+		"from_rank": 573,
+		"above": "aether_zerosr",
+		"below": "mystic"
+	},
+	{
+		"date": 1744048047,
+		"action": "lowered",
+		"name": "bang_gang_solo",
+		"to_rank": 521,
+		"from_rank": 453,
+		"above": "oneattempt",
+		"below": "paranoid_android"
+	},
+	{
+		"date": 1744052585,
+		"action": "raised",
+		"name": "menace",
+		"to_rank": 15,
+		"from_rank": 17,
+		"above": "sakupen_circles",
+		"below": "slaughterhouse"
+	},
+	{
+		"date": 1744147538,
+		"action": "raised",
+		"name": "boobawamba",
+		"to_rank": 3,
+		"from_rank": 9,
+		"above": "anathema",
+		"below": "nullscapes"
+	},
+	{
+		"date": 1744220010,
+		"action": "raised",
+		"name": "the_hell_dignity",
+		"to_rank": 707,
+		"from_rank": 779,
+		"above": "flamethrower",
+		"below": "novalis"
+	},
+	{
+		"date": 1744231990,
+		"action": "lowered",
+		"name": "sodium",
+		"to_rank": 657,
+		"from_rank": 586,
+		"above": "burn_to_dust",
+		"below": "floating_maze"
+	},
+	{
+		"date": 1744250386,
+		"action": "lowered",
+		"name": "ninobytte",
+		"to_rank": 673,
+		"from_rank": 581,
+		"above": "pure_vale",
+		"below": "penultimate_phase"
+	},
+	{
+		"date": 1744335081,
+		"action": "lowered",
+		"name": "unknown",
+		"to_rank": 54,
+		"from_rank": 46,
+		"above": "oblivion",
+		"below": "jigsaw"
+	},
+	{
+		"date": 1744392119,
+		"action": "raised",
+		"name": "destruction_19",
+		"to_rank": 71,
+		"from_rank": 76,
+		"above": "the_paroxysm_of_rage",
+		"below": "trueffet"
+	},
+	{
+		"date": 1744428753,
+		"action": "placed",
+		"name": "heatseeker",
+		"to_rank": 1106,
+		"from_rank": null,
+		"above": "memories_iii",
+		"below": "shotgun"
+	},
+	{
+		"date": 1744429034,
+		"action": "placed",
+		"name": "galaxy_gas",
+		"to_rank": 774,
+		"from_rank": null,
+		"above": "to_the_exosphere",
+		"below": "heat_wave"
+	},
+	{
+		"date": 1744582355,
+		"action": "raised",
+		"name": "deep_bass",
+		"to_rank": 138,
+		"from_rank": 155,
+		"above": "the_rupture",
+		"below": "neon_skyline"
+	},
+	{
+		"date": 1744586681,
+		"action": "placed",
+		"name": "treatment_facility",
+		"to_rank": 675,
+		"from_rank": null,
+		"above": "cytokinesis",
+		"below": "pure_vale"
+	},
+	{
+		"date": 1744586765,
+		"action": "lowered",
+		"name": "imitation_game",
+		"to_rank": 990,
+		"from_rank": 864,
+		"above": "idol19",
+		"below": "vertigo_pahc"
+	},
+	{
+		"date": 1744586896,
+		"action": "lowered",
+		"name": "white_noise",
+		"to_rank": 1006,
+		"from_rank": 889,
+		"above": "twilight_spire",
+		"below": "v_o_l_l_e_y"
+	},
+	{
+		"date": 1744587034,
+		"action": "lowered",
+		"name": "iridium",
+		"to_rank": 1007,
+		"from_rank": 817,
+		"above": "morphine",
+		"below": "twilight_spire"
+	},
+	{
+		"date": 1744690199,
+		"action": "raised",
+		"name": "devil_vortex",
+		"to_rank": 306,
+		"from_rank": 321,
+		"above": "catalyze",
+		"below": "lucid_chaos"
+	},
+	{
+		"date": 1744759237,
+		"action": "lowered",
+		"name": "linugi",
+		"to_rank": 405,
+		"from_rank": 372,
+		"above": "astral_divinity",
+		"below": "sector_19"
+	},
+	{
+		"date": 1744835586,
+		"action": "raised",
+		"name": "the_wiener",
+		"to_rank": 190,
+		"from_rank": 210,
+		"above": "visible_ray",
+		"below": "dump"
+	},
+	{
+		"date": 1744835713,
+		"action": "raised",
+		"name": "fever_dream",
+		"to_rank": 198,
+		"from_rank": 212,
+		"above": "worstbrainmap",
+		"below": "frozen_cave"
+	},
+	{
+		"date": 1744845224,
+		"action": "placed",
+		"name": "starlit_stroll",
+		"to_rank": 97,
+		"from_rank": null,
+		"above": "renevant",
+		"below": "qoueo"
 	}
 ]
