@@ -19807,5 +19807,14 @@
 		"from_rank": 1088,
 		"above": "delirium_tremens",
 		"below": "dichotomy_2p"
+	},
+	{
+		"date": 1744996104,
+		"action": "raised",
+		"name": "moving_forward",
+		"to_rank": 151,
+		"from_rank": 171,
+		"above": "proton_launcher",
+		"below": "asterios"
 	}
 ]
