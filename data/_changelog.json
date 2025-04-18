@@ -19798,5 +19798,14 @@
 		"from_rank": null,
 		"above": "renevant",
 		"below": "qoueo"
+	},
+	{
+		"date": 1744993353,
+		"action": "tolegacy",
+		"name": "cja",
+		"to_rank": 1140,
+		"from_rank": 1088,
+		"above": "delirium_tremens",
+		"below": "dichotomy_2p"
 	}
 ]
