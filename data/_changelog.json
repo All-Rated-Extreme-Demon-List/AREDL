@@ -19816,5 +19816,14 @@
 		"from_rank": 171,
 		"above": "proton_launcher",
 		"below": "asterios"
+	},
+	{
+		"date": 1744996120,
+		"action": "raised",
+		"name": "asterios",
+		"to_rank": 149,
+		"from_rank": 150,
+		"above": "bloodlust",
+		"below": "nabil_let_go"
 	}
 ]
