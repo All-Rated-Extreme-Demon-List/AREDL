@@ -19852,5 +19852,14 @@
 		"from_rank": 132,
 		"above": "proton_launcher",
 		"below": "moving_forward"
+	},
+	{
+		"date": 1745174964,
+		"action": "lowered",
+		"name": "torn",
+		"to_rank": 152,
+		"from_rank": 151,
+		"above": "jesse_pinkman",
+		"below": "proton_launcher"
 	}
 ]
