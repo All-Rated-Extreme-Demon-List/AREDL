@@ -2,10 +2,28 @@
 	"id": 108212471,
 	"name": "Stop Breathing",
 	"author": 2542163578,
-	"creators": [2542163578,5037519121,4955087966,9817380784],
+	"creators": [
+		2542163578,
+		5037519121,
+		4955087966,
+		9817380784
+	],
 	"verifier": 8168033816,
 	"verification": "https://www.youtube.com/watch?v=3k9PQwu_BFo",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 4333136136,
+			"link": "https://www.youtube.com/watch?v=qj9aOnZMhNo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5553813223,
+			"link": "https://youtu.be/7kgXrmxCA1w",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
