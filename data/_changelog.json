@@ -19897,14 +19897,5 @@
 		"from_rank": 78,
 		"above": "critical_heat",
 		"below": "terminal_rampancy"
-	},
-	{
-		"date": 1745213086,
-		"action": "placed",
-		"name": "we_are_not_the_same",
-		"to_rank": 102,
-		"from_rank": null,
-		"above": "ta1lsd0ll",
-		"below": "conclusion"
 	}
 ]
