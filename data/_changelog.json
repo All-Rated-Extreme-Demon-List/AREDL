@@ -19897,5 +19897,14 @@
 		"from_rank": 78,
 		"above": "critical_heat",
 		"below": "terminal_rampancy"
+	},
+	{
+		"date": 1745476255,
+		"action": "lowered",
+		"name": "torn",
+		"to_rank": 161,
+		"from_rank": 154,
+		"above": "fog",
+		"below": "excruciation_chamber"
 	}
 ]
