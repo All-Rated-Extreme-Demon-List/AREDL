@@ -19915,5 +19915,14 @@
 		"from_rank": 493,
 		"above": "envy",
 		"below": "advanced_airstream"
+	},
+	{
+		"date": 1745624068,
+		"action": "lowered",
+		"name": "oxi",
+		"to_rank": 964,
+		"from_rank": 928,
+		"above": "cyclone",
+		"below": "miscellaneous_memory"
 	}
 ]
