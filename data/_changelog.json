@@ -19906,5 +19906,14 @@
 		"from_rank": 154,
 		"above": "fog",
 		"below": "excruciation_chamber"
+	},
+	{
+		"date": 1745619542,
+		"action": "lowered",
+		"name": "coolie_mazie_paloozi",
+		"to_rank": 527,
+		"from_rank": 493,
+		"above": "envy",
+		"below": "advanced_airstream"
 	}
 ]
