@@ -19897,5 +19897,41 @@
 		"from_rank": 78,
 		"above": "critical_heat",
 		"below": "terminal_rampancy"
+	},
+	{
+		"date": 1745476255,
+		"action": "lowered",
+		"name": "torn",
+		"to_rank": 161,
+		"from_rank": 154,
+		"above": "fog",
+		"below": "excruciation_chamber"
+	},
+	{
+		"date": 1745619542,
+		"action": "lowered",
+		"name": "coolie_mazie_paloozi",
+		"to_rank": 527,
+		"from_rank": 493,
+		"above": "envy",
+		"below": "advanced_airstream"
+	},
+	{
+		"date": 1745624068,
+		"action": "lowered",
+		"name": "oxi",
+		"to_rank": 964,
+		"from_rank": 928,
+		"above": "cyclone",
+		"below": "miscellaneous_memory"
+	},
+	{
+		"date": 1745703123,
+		"action": "lowered",
+		"name": "launchpad_labyrinth",
+		"to_rank": 123,
+		"from_rank": 120,
+		"above": "shardscapes",
+		"below": "coral_cave"
 	}
 ]
