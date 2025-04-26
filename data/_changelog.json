@@ -19924,5 +19924,14 @@
 		"from_rank": 928,
 		"above": "cyclone",
 		"below": "miscellaneous_memory"
+	},
+	{
+		"date": 1745703123,
+		"action": "lowered",
+		"name": "launchpad_labyrinth",
+		"to_rank": 123,
+		"from_rank": 120,
+		"above": "shardscapes",
+		"below": "coral_cave"
 	}
 ]
