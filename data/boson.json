@@ -2,10 +2,48 @@
 	"id": 116579233,
 	"name": "boson",
 	"author": 1683839249,
-	"creators": [1683839249,3044477911,1501983014,3396432666,6487661010,9842283636],
+	"creators": [
+		1683839249,
+		3044477911,
+		1501983014,
+		3396432666,
+		6487661010,
+		9842283636
+	],
 	"verifier": 1683839249,
 	"verification": "https://youtu.be/HLk2Q-dFg2E?si=k-8qGW_yzCUpxNhw",
 	"percentToQualify": 100,
 	"password": "Free Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 5164016369,
+			"link": "https://www.youtube.com/watch?v=ioC-oLQMtog",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6356594641,
+			"link": "https://youtu.be/cZjFw5O9qCw?si=GfTQD7g2Oj1OXaS6",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5050254293,
+			"link": "https://youtu.be/RgZrxBTQIJE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2729069698,
+			"link": "https://youtu.be/Pn5dJ2IdcHs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9796697386,
+			"link": "https://youtu.be/iOEaZzB4_Yc?si=EkBz_6s-F5_jeFuY",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
