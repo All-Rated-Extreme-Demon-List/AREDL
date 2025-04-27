@@ -19969,5 +19969,14 @@
 		"from_rank": 1095,
 		"above": "duplication",
 		"below": "niwa"
+	},
+	{
+		"date": 1745785467,
+		"action": "lowered",
+		"name": "air_fryer",
+		"to_rank": 532,
+		"from_rank": 505,
+		"above": "asmodeus",
+		"below": "the_old_trail"
 	}
 ]
