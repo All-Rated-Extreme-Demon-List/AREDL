@@ -19960,5 +19960,14 @@
 		"from_rank": null,
 		"above": "niwa",
 		"below": "freedom16"
+	},
+	{
+		"date": 1745777052,
+		"action": "lowered",
+		"name": "edencity",
+		"to_rank": 1096,
+		"from_rank": 1095,
+		"above": "duplication",
+		"below": "niwa"
 	}
 ]
