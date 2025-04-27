@@ -19978,5 +19978,14 @@
 		"from_rank": 505,
 		"above": "asmodeus",
 		"below": "the_old_trail"
+	},
+	{
+		"date": 1745795693,
+		"action": "raised",
+		"name": "ordinary",
+		"to_rank": 43,
+		"from_rank": 64,
+		"above": "the_plunge",
+		"below": "apocalyptic_trilogy"
 	}
 ]
