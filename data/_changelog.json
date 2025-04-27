@@ -19942,5 +19942,14 @@
 		"from_rank": null,
 		"above": "castling",
 		"below": "robi"
+	},
+	{
+		"date": 1745767126,
+		"action": "tolegacy",
+		"name": "magnum_opus",
+		"to_rank": 1143,
+		"from_rank": 1096,
+		"above": "cja",
+		"below": "dichotomy_2p"
 	}
 ]
