@@ -20014,5 +20014,14 @@
 		"from_rank": 1086,
 		"above": "meltdown",
 		"below": "the_ultimate_demon"
+	},
+	{
+		"date": 1745872624,
+		"action": "raised",
+		"name": "climax",
+		"to_rank": 55,
+		"from_rank": 64,
+		"above": "jigsaw",
+		"below": "tartarus"
 	}
 ]
