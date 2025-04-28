@@ -19996,5 +19996,14 @@
 		"from_rank": 401,
 		"above": "rainbow_girl",
 		"below": "rgb"
+	},
+	{
+		"date": 1745809305,
+		"action": "placed",
+		"name": "nebula",
+		"to_rank": 1032,
+		"from_rank": null,
+		"above": "unknown_civilization",
+		"below": "verisimilitude"
 	}
 ]
