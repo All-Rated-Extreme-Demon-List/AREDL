@@ -20005,5 +20005,14 @@
 		"from_rank": null,
 		"above": "unknown_civilization",
 		"below": "verisimilitude"
+	},
+	{
+		"date": 1745809353,
+		"action": "raised",
+		"name": "overlord",
+		"to_rank": 1025,
+		"from_rank": 1086,
+		"above": "meltdown",
+		"below": "the_ultimate_demon"
 	}
 ]
