@@ -2,10 +2,38 @@
 	"id": 116019507,
 	"name": "NEBULA",
 	"author": 8275273169,
-	"creators": [3120189464,3048899676,7718481758,5781295732,2869230081,9473980060,1411851847],
+	"creators": [
+		3120189464,
+		3048899676,
+		7718481758,
+		5781295732,
+		2869230081,
+		9473980060,
+		1411851847
+	],
 	"verifier": 9918274459,
 	"verification": "https://www.youtube.com/watch?v=R66C4xiLUXM",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 3981630040,
+			"link": "https://youtu.be/HoZnNAhh0Wo?si=Dd61OC6X6Wc0Ns3a",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8608948771,
+			"link": "https://youtu.be/8cmbmA5lqO4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2646679155,
+			"link": "https://youtu.be/EFHz_P3eBYA?si=0JjaF48Vv1g2BpIF",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
