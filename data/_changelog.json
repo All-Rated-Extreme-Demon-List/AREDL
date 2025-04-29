@@ -20032,5 +20032,14 @@
 		"from_rank": null,
 		"above": "coral_cave",
 		"below": "cobwebs"
+	},
+	{
+		"date": 1745966659,
+		"action": "placed",
+		"name": "santa_fe",
+		"to_rank": 642,
+		"from_rank": null,
+		"above": "frozen",
+		"below": "corrupted_volume"
 	}
 ]
