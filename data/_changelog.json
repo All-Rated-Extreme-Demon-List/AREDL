@@ -20023,5 +20023,14 @@
 		"from_rank": 64,
 		"above": "jigsaw",
 		"below": "tartarus"
+	},
+	{
+		"date": 1745961144,
+		"action": "placed",
+		"name": "gloxinia",
+		"to_rank": 122,
+		"from_rank": null,
+		"above": "coral_cave",
+		"below": "cobwebs"
 	}
 ]
