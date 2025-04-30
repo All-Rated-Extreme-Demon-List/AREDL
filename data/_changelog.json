@@ -20050,5 +20050,14 @@
 		"from_rank": 647,
 		"above": "bloodbath",
 		"below": "ruler_of_everything"
+	},
+	{
+		"date": 1746045179,
+		"action": "raised",
+		"name": "phosphorescent",
+		"to_rank": 580,
+		"from_rank": 634,
+		"above": "molten_mercury",
+		"below": "opsm1"
 	}
 ]
