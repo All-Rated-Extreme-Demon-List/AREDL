@@ -20041,5 +20041,14 @@
 		"from_rank": null,
 		"above": "frozen",
 		"below": "corrupted_volume"
+	},
+	{
+		"date": 1746045142,
+		"action": "raised",
+		"name": "tempest_tornado",
+		"to_rank": 610,
+		"from_rank": 647,
+		"above": "bloodbath",
+		"below": "ruler_of_everything"
 	}
 ]
