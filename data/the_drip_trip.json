@@ -2,10 +2,21 @@
 	"id": 93429323,
 	"name": "THE DRIP TRIP",
 	"author": 8129094235,
-	"creators": [8129094235,4874714070,4806114621],
+	"creators": [
+		8129094235,
+		4874714070,
+		4806114621
+	],
 	"verifier": 8129094235,
 	"verification": "https://youtu.be/v6FRQVEfl3A?si=m34tEeOYqcho0p_O",
 	"percentToQualify": 100,
 	"password": "123456",
-	"records" : []
+	"records": [
+		{
+			"user": 2260744819,
+			"link": "https://youtu.be/so8FNLGTJRo?si=ZjWZJURBHfs4l-sE&t=94",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
