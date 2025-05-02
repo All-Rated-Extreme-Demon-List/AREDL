@@ -20122,5 +20122,14 @@
 		"from_rank": 674,
 		"above": "artificial_ideology",
 		"below": "a_bizarre_phantasm"
+	},
+	{
+		"date": 1746220565,
+		"action": "placed",
+		"name": "diamond_disco",
+		"to_rank": 409,
+		"from_rank": null,
+		"above": "desolate",
+		"below": "imoistar"
 	}
 ]
