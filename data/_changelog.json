@@ -20086,5 +20086,14 @@
 		"from_rank": null,
 		"above": "desolate",
 		"below": "imoistar"
+	},
+	{
+		"date": 1746216122,
+		"action": "lowered",
+		"name": "dream_city",
+		"to_rank": 656,
+		"from_rank": 585,
+		"above": "cromulent",
+		"below": "event_horizon"
 	}
 ]
