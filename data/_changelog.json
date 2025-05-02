@@ -20095,5 +20095,14 @@
 		"from_rank": 585,
 		"above": "cromulent",
 		"below": "event_horizon"
+	},
+	{
+		"date": 1746216174,
+		"action": "lowered",
+		"name": "scattered_n_lost",
+		"to_rank": 658,
+		"from_rank": 618,
+		"above": "callisto",
+		"below": "cluttered_confusion"
 	}
 ]
