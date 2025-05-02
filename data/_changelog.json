@@ -20068,5 +20068,14 @@
 		"from_rank": null,
 		"above": "ethereal_artifice",
 		"below": "neurostasis"
+	},
+	{
+		"date": 1746211344,
+		"action": "placed",
+		"name": "budding_roses",
+		"to_rank": 344,
+		"from_rank": null,
+		"above": "rainbow_girl",
+		"below": "through_time"
 	}
 ]
