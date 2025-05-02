@@ -20079,20 +20079,11 @@
 		"below": "through_time"
 	},
 	{
-		"date": 1746211642,
-		"action": "placed",
-		"name": "diamond_disco",
-		"to_rank": 409,
-		"from_rank": null,
-		"above": "desolate",
-		"below": "imoistar"
-	},
-	{
 		"date": 1746216122,
 		"action": "lowered",
 		"name": "dream_city",
-		"to_rank": 656,
-		"from_rank": 585,
+		"to_rank": 655,
+		"from_rank": 584,
 		"above": "cromulent",
 		"below": "event_horizon"
 	},
@@ -20100,8 +20091,8 @@
 		"date": 1746216174,
 		"action": "lowered",
 		"name": "scattered_n_lost",
-		"to_rank": 658,
-		"from_rank": 618,
+		"to_rank": 657,
+		"from_rank": 617,
 		"above": "callisto",
 		"below": "cluttered_confusion"
 	},
@@ -20109,8 +20100,8 @@
 		"date": 1746216275,
 		"action": "raised",
 		"name": "dreaming",
-		"to_rank": 748,
-		"from_rank": 888,
+		"to_rank": 747,
+		"from_rank": 887,
 		"above": "manic_machine",
 		"below": "codependence_2p"
 	},
@@ -20118,8 +20109,8 @@
 		"date": 1746216409,
 		"action": "raised",
 		"name": "apex",
-		"to_rank": 619,
-		"from_rank": 730,
+		"to_rank": 618,
+		"from_rank": 729,
 		"above": "oopz",
 		"below": "moment"
 	},
@@ -20127,8 +20118,8 @@
 		"date": 1746216507,
 		"action": "raised",
 		"name": "nerual",
-		"to_rank": 639,
-		"from_rank": 675,
+		"to_rank": 638,
+		"from_rank": 674,
 		"above": "artificial_ideology",
 		"below": "a_bizarre_phantasm"
 	}
