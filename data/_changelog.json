@@ -20131,5 +20131,14 @@
 		"from_rank": null,
 		"above": "desolate",
 		"below": "imoistar"
+	},
+	{
+		"date": 1746313696,
+		"action": "lowered",
+		"name": "dreams_take_over",
+		"to_rank": 978,
+		"from_rank": 894,
+		"above": "0_mind",
+		"below": "the_flawless"
 	}
 ]
