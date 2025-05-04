@@ -20149,5 +20149,14 @@
 		"from_rank": 765,
 		"above": "disastrous_downpour",
 		"below": "lotus"
+	},
+	{
+		"date": 1746334348,
+		"action": "lowered",
+		"name": "tenth_circle",
+		"to_rank": 569,
+		"from_rank": 538,
+		"above": "triadic_trials",
+		"below": "hateful_reflection"
 	}
 ]
