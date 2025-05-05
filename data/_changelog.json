@@ -20167,5 +20167,14 @@
 		"from_rank": 176,
 		"above": "aronia",
 		"below": "sank"
+	},
+	{
+		"date": 1746403767,
+		"action": "raised",
+		"name": "mystic_bounds",
+		"to_rank": 1100,
+		"from_rank": 1141,
+		"above": "freedom16",
+		"below": "decay"
 	}
 ]
