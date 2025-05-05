@@ -20185,5 +20185,14 @@
 		"from_rank": 900,
 		"above": "dismal_duststorm",
 		"below": "heart_attack"
+	},
+	{
+		"date": 1746444671,
+		"action": "raised",
+		"name": "imoistar",
+		"to_rank": 390,
+		"from_rank": 408,
+		"above": "black_flag",
+		"below": "floating_outskirts"
 	}
 ]
