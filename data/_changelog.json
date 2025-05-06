@@ -20194,5 +20194,14 @@
 		"from_rank": 408,
 		"above": "black_flag",
 		"below": "floating_outskirts"
+	},
+	{
+		"date": 1746569739,
+		"action": "raised",
+		"name": "outside_eyesight",
+		"to_rank": 970,
+		"from_rank": 1044,
+		"above": "faith",
+		"below": "cyclone"
 	}
 ]
