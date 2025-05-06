@@ -20203,5 +20203,14 @@
 		"from_rank": 1044,
 		"above": "faith",
 		"below": "cyclone"
+	},
+	{
+		"date": 1746569910,
+		"action": "raised",
+		"name": "deogen",
+		"to_rank": 657,
+		"from_rank": 733,
+		"above": "dream_city",
+		"below": "event_horizon"
 	}
 ]
