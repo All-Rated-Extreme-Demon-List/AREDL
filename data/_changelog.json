@@ -20212,5 +20212,14 @@
 		"from_rank": 733,
 		"above": "dream_city",
 		"below": "event_horizon"
+	},
+	{
+		"date": 1746601404,
+		"action": "raised",
+		"name": "misty_mountains",
+		"to_rank": 1101,
+		"from_rank": 1144,
+		"above": "freedom16",
+		"below": "mystic_bounds"
 	}
 ]
