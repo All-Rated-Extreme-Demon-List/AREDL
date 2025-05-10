@@ -1,13 +1,15 @@
 {
 	"id": 89187968,
 	"name": "Edge of Destiny",
-	"tags": ["2.1",
-"XL",
-"Timings",
-"Nerve Control",
-"Ship",
-"UFO",
-"Duals"],
+	"tags": [
+		"2.1",
+		"XL",
+		"Timings",
+		"Nerve Control",
+		"Ship",
+		"UFO",
+		"Duals"
+	],
 	"author": 6249869522,
 	"creators": [
 		1197924603,
@@ -90,6 +92,24 @@
 		{
 			"user": 3419382529,
 			"link": "https://www.youtube.com/watch?v=0cmNF19hIkk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1421154277,
+			"link": "https://www.youtube.com/watch?v=tZ8JZX4la_Y&t=10s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5622041352,
+			"link": "https://www.youtube.com/watch?v=RlX_rPCls2o",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6911763500,
+			"link": "https://youtu.be/BsFtX7YF_VI?si=cIQ2dtWGMuqs9as5",
 			"percent": 100,
 			"hz": 360
 		}

@@ -1,12 +1,19 @@
 {
-    "id": 106481162,
-    "name": "GREAT FURY OF HEAVEN",
-    "author": 8367589872,
-    "creators": [],
-    "verifier": 8367589872,
-    "verification": "https://youtu.be/meoW_VVPtco?si=CGHBaJCdQ-2r60ok",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "song": 10009541,
-    "records": []
+	"id": 106481162,
+	"name": "GREAT FURY OF HEAVEN",
+	"author": 8367589872,
+	"creators": [],
+	"verifier": 8367589872,
+	"verification": "https://youtu.be/meoW_VVPtco?si=CGHBaJCdQ-2r60ok",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"song": 10009541,
+	"records": [
+		{
+			"user": 9433199179,
+			"link": "https://youtu.be/kF004f3BSig?si=N4SyVkKCXxx4k07j",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

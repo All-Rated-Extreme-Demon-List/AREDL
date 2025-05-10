@@ -19647,15 +19647,6 @@
 		"below": "nullscapes"
 	},
 	{
-		"date": 1744148457,
-		"action": "raised",
-		"name": "boobawamba",
-		"to_rank": 3,
-		"from_rank": 3,
-		"above": "anathema",
-		"below": "nullscapes"
-	},
-	{
 		"date": 1744220010,
 		"action": "raised",
 		"name": "the_hell_dignity",
@@ -19690,5 +19681,572 @@
 		"from_rank": 46,
 		"above": "oblivion",
 		"below": "jigsaw"
+	},
+	{
+		"date": 1744392119,
+		"action": "raised",
+		"name": "destruction_19",
+		"to_rank": 71,
+		"from_rank": 76,
+		"above": "the_paroxysm_of_rage",
+		"below": "trueffet"
+	},
+	{
+		"date": 1744428753,
+		"action": "placed",
+		"name": "heatseeker",
+		"to_rank": 1106,
+		"from_rank": null,
+		"above": "memories_iii",
+		"below": "shotgun"
+	},
+	{
+		"date": 1744429034,
+		"action": "placed",
+		"name": "galaxy_gas",
+		"to_rank": 774,
+		"from_rank": null,
+		"above": "to_the_exosphere",
+		"below": "heat_wave"
+	},
+	{
+		"date": 1744582355,
+		"action": "raised",
+		"name": "deep_bass",
+		"to_rank": 138,
+		"from_rank": 155,
+		"above": "the_rupture",
+		"below": "neon_skyline"
+	},
+	{
+		"date": 1744586681,
+		"action": "placed",
+		"name": "treatment_facility",
+		"to_rank": 675,
+		"from_rank": null,
+		"above": "cytokinesis",
+		"below": "pure_vale"
+	},
+	{
+		"date": 1744586765,
+		"action": "lowered",
+		"name": "imitation_game",
+		"to_rank": 990,
+		"from_rank": 864,
+		"above": "idol19",
+		"below": "vertigo_pahc"
+	},
+	{
+		"date": 1744586896,
+		"action": "lowered",
+		"name": "white_noise",
+		"to_rank": 1006,
+		"from_rank": 889,
+		"above": "twilight_spire",
+		"below": "v_o_l_l_e_y"
+	},
+	{
+		"date": 1744587034,
+		"action": "lowered",
+		"name": "iridium",
+		"to_rank": 1007,
+		"from_rank": 817,
+		"above": "morphine",
+		"below": "twilight_spire"
+	},
+	{
+		"date": 1744690199,
+		"action": "raised",
+		"name": "devil_vortex",
+		"to_rank": 306,
+		"from_rank": 321,
+		"above": "catalyze",
+		"below": "lucid_chaos"
+	},
+	{
+		"date": 1744759237,
+		"action": "lowered",
+		"name": "linugi",
+		"to_rank": 405,
+		"from_rank": 372,
+		"above": "astral_divinity",
+		"below": "sector_19"
+	},
+	{
+		"date": 1744835586,
+		"action": "raised",
+		"name": "the_wiener",
+		"to_rank": 190,
+		"from_rank": 210,
+		"above": "visible_ray",
+		"below": "dump"
+	},
+	{
+		"date": 1744835713,
+		"action": "raised",
+		"name": "fever_dream",
+		"to_rank": 198,
+		"from_rank": 212,
+		"above": "worstbrainmap",
+		"below": "frozen_cave"
+	},
+	{
+		"date": 1744845224,
+		"action": "placed",
+		"name": "starlit_stroll",
+		"to_rank": 97,
+		"from_rank": null,
+		"above": "renevant",
+		"below": "qoueo"
+	},
+	{
+		"date": 1744993353,
+		"action": "tolegacy",
+		"name": "cja",
+		"to_rank": 1140,
+		"from_rank": 1088,
+		"above": "delirium_tremens",
+		"below": "dichotomy_2p"
+	},
+	{
+		"date": 1744996104,
+		"action": "raised",
+		"name": "moving_forward",
+		"to_rank": 151,
+		"from_rank": 171,
+		"above": "proton_launcher",
+		"below": "asterios"
+	},
+	{
+		"date": 1744996120,
+		"action": "raised",
+		"name": "asterios",
+		"to_rank": 149,
+		"from_rank": 150,
+		"above": "bloodlust",
+		"below": "nabil_let_go"
+	},
+	{
+		"date": 1745084815,
+		"action": "placed",
+		"name": "stop_breathing",
+		"to_rank": 1086,
+		"from_rank": null,
+		"above": "mischievousmechanism",
+		"below": "reverie"
+	},
+	{
+		"date": 1745166965,
+		"action": "raised",
+		"name": "reeses_potentially",
+		"to_rank": 241,
+		"from_rank": 260,
+		"above": "sewers",
+		"below": "sink"
+	},
+	{
+		"date": 1745174914,
+		"action": "lowered",
+		"name": "torn",
+		"to_rank": 151,
+		"from_rank": 132,
+		"above": "proton_launcher",
+		"below": "moving_forward"
+	},
+	{
+		"date": 1745174964,
+		"action": "lowered",
+		"name": "torn",
+		"to_rank": 152,
+		"from_rank": 151,
+		"above": "jesse_pinkman",
+		"below": "proton_launcher"
+	},
+	{
+		"date": 1745176339,
+		"action": "placed",
+		"name": "we_are_not_the_same_solo",
+		"to_rank": 102,
+		"from_rank": null,
+		"above": "instinct_krazyman50real",
+		"below": "ta1lsd0ll"
+	},
+	{
+		"date": 1745198281,
+		"action": "raised",
+		"name": "andromeda",
+		"to_rank": 4,
+		"from_rank": 6,
+		"above": "anathema",
+		"below": "boobawamba"
+	},
+	{
+		"date": 1745212200,
+		"action": "placed",
+		"name": "every_end",
+		"to_rank": 4,
+		"from_rank": null,
+		"above": "andromeda",
+		"below": "boobawamba"
+	},
+	{
+		"date": 1745212632,
+		"action": "raised",
+		"name": "checked_steam",
+		"to_rank": 69,
+		"from_rank": 78,
+		"above": "critical_heat",
+		"below": "terminal_rampancy"
+	},
+	{
+		"date": 1745476255,
+		"action": "lowered",
+		"name": "torn",
+		"to_rank": 161,
+		"from_rank": 154,
+		"above": "fog",
+		"below": "excruciation_chamber"
+	},
+	{
+		"date": 1745619542,
+		"action": "lowered",
+		"name": "coolie_mazie_paloozi",
+		"to_rank": 527,
+		"from_rank": 493,
+		"above": "envy",
+		"below": "advanced_airstream"
+	},
+	{
+		"date": 1745624068,
+		"action": "lowered",
+		"name": "oxi",
+		"to_rank": 964,
+		"from_rank": 928,
+		"above": "cyclone",
+		"below": "miscellaneous_memory"
+	},
+	{
+		"date": 1745703123,
+		"action": "lowered",
+		"name": "launchpad_labyrinth",
+		"to_rank": 123,
+		"from_rank": 120,
+		"above": "shardscapes",
+		"below": "coral_cave"
+	},
+	{
+		"date": 1745766536,
+		"action": "placed",
+		"name": "boson",
+		"to_rank": 1021,
+		"from_rank": null,
+		"above": "castling",
+		"below": "robi"
+	},
+	{
+		"date": 1745767126,
+		"action": "tolegacy",
+		"name": "magnum_opus",
+		"to_rank": 1143,
+		"from_rank": 1096,
+		"above": "cja",
+		"below": "dichotomy_2p"
+	},
+	{
+		"date": 1745767227,
+		"action": "placed",
+		"name": "edencity",
+		"to_rank": 1095,
+		"from_rank": null,
+		"above": "niwa",
+		"below": "freedom16"
+	},
+	{
+		"date": 1745777052,
+		"action": "lowered",
+		"name": "edencity",
+		"to_rank": 1096,
+		"from_rank": 1095,
+		"above": "duplication",
+		"below": "niwa"
+	},
+	{
+		"date": 1745785467,
+		"action": "lowered",
+		"name": "air_fryer",
+		"to_rank": 532,
+		"from_rank": 505,
+		"above": "asmodeus",
+		"below": "the_old_trail"
+	},
+	{
+		"date": 1745795693,
+		"action": "raised",
+		"name": "ordinary",
+		"to_rank": 43,
+		"from_rank": 64,
+		"above": "the_plunge",
+		"below": "apocalyptic_trilogy"
+	},
+	{
+		"date": 1745799341,
+		"action": "raised",
+		"name": "through_time",
+		"to_rank": 342,
+		"from_rank": 401,
+		"above": "rainbow_girl",
+		"below": "rgb"
+	},
+	{
+		"date": 1745809305,
+		"action": "placed",
+		"name": "nebula",
+		"to_rank": 1032,
+		"from_rank": null,
+		"above": "unknown_civilization",
+		"below": "verisimilitude"
+	},
+	{
+		"date": 1745809353,
+		"action": "raised",
+		"name": "overlord",
+		"to_rank": 1025,
+		"from_rank": 1086,
+		"above": "meltdown",
+		"below": "the_ultimate_demon"
+	},
+	{
+		"date": 1745872624,
+		"action": "raised",
+		"name": "climax",
+		"to_rank": 55,
+		"from_rank": 64,
+		"above": "jigsaw",
+		"below": "tartarus"
+	},
+	{
+		"date": 1745961144,
+		"action": "placed",
+		"name": "gloxinia",
+		"to_rank": 122,
+		"from_rank": null,
+		"above": "coral_cave",
+		"below": "cobwebs"
+	},
+	{
+		"date": 1745966659,
+		"action": "placed",
+		"name": "santa_fe",
+		"to_rank": 642,
+		"from_rank": null,
+		"above": "frozen",
+		"below": "corrupted_volume"
+	},
+	{
+		"date": 1746045142,
+		"action": "raised",
+		"name": "tempest_tornado",
+		"to_rank": 610,
+		"from_rank": 647,
+		"above": "bloodbath",
+		"below": "ruler_of_everything"
+	},
+	{
+		"date": 1746045179,
+		"action": "raised",
+		"name": "phosphorescent",
+		"to_rank": 580,
+		"from_rank": 634,
+		"above": "molten_mercury",
+		"below": "opsm1"
+	},
+	{
+		"date": 1746061358,
+		"action": "placed",
+		"name": "funnyname_funnygame",
+		"to_rank": 401,
+		"from_rank": null,
+		"above": "ethereal_artifice",
+		"below": "neurostasis"
+	},
+	{
+		"date": 1746211344,
+		"action": "placed",
+		"name": "budding_roses",
+		"to_rank": 344,
+		"from_rank": null,
+		"above": "rainbow_girl",
+		"below": "through_time"
+	},
+	{
+		"date": 1746216122,
+		"action": "lowered",
+		"name": "dream_city",
+		"to_rank": 655,
+		"from_rank": 584,
+		"above": "cromulent",
+		"below": "event_horizon"
+	},
+	{
+		"date": 1746216174,
+		"action": "lowered",
+		"name": "scattered_n_lost",
+		"to_rank": 657,
+		"from_rank": 617,
+		"above": "callisto",
+		"below": "cluttered_confusion"
+	},
+	{
+		"date": 1746216275,
+		"action": "raised",
+		"name": "dreaming",
+		"to_rank": 747,
+		"from_rank": 887,
+		"above": "manic_machine",
+		"below": "codependence_2p"
+	},
+	{
+		"date": 1746216409,
+		"action": "raised",
+		"name": "apex",
+		"to_rank": 618,
+		"from_rank": 729,
+		"above": "oopz",
+		"below": "moment"
+	},
+	{
+		"date": 1746216507,
+		"action": "raised",
+		"name": "nerual",
+		"to_rank": 638,
+		"from_rank": 674,
+		"above": "artificial_ideology",
+		"below": "a_bizarre_phantasm"
+	},
+	{
+		"date": 1746220565,
+		"action": "placed",
+		"name": "diamond_disco",
+		"to_rank": 409,
+		"from_rank": null,
+		"above": "desolate",
+		"below": "imoistar"
+	},
+	{
+		"date": 1746313696,
+		"action": "lowered",
+		"name": "dreams_take_over",
+		"to_rank": 978,
+		"from_rank": 894,
+		"above": "0_mind",
+		"below": "the_flawless"
+	},
+	{
+		"date": 1746313803,
+		"action": "lowered",
+		"name": "the_ultimate_return",
+		"to_rank": 820,
+		"from_rank": 765,
+		"above": "disastrous_downpour",
+		"below": "lotus"
+	},
+	{
+		"date": 1746334348,
+		"action": "lowered",
+		"name": "tenth_circle",
+		"to_rank": 569,
+		"from_rank": 538,
+		"above": "triadic_trials",
+		"below": "hateful_reflection"
+	},
+	{
+		"date": 1746402873,
+		"action": "raised",
+		"name": "pootis_engage_xtreme",
+		"to_rank": 172,
+		"from_rank": 176,
+		"above": "aronia",
+		"below": "sank"
+	},
+	{
+		"date": 1746403767,
+		"action": "raised",
+		"name": "mystic_bounds",
+		"to_rank": 1100,
+		"from_rank": 1141,
+		"above": "freedom16",
+		"below": "decay"
+	},
+	{
+		"date": 1746412404,
+		"action": "lowered",
+		"name": "evil_depths",
+		"to_rank": 950,
+		"from_rank": 900,
+		"above": "dismal_duststorm",
+		"below": "heart_attack"
+	},
+	{
+		"date": 1746444671,
+		"action": "raised",
+		"name": "imoistar",
+		"to_rank": 390,
+		"from_rank": 408,
+		"above": "black_flag",
+		"below": "floating_outskirts"
+	},
+	{
+		"date": 1746569739,
+		"action": "raised",
+		"name": "outside_eyesight",
+		"to_rank": 970,
+		"from_rank": 1044,
+		"above": "faith",
+		"below": "cyclone"
+	},
+	{
+		"date": 1746569910,
+		"action": "raised",
+		"name": "deogen",
+		"to_rank": 657,
+		"from_rank": 733,
+		"above": "dream_city",
+		"below": "event_horizon"
+	},
+	{
+		"date": 1746601404,
+		"action": "raised",
+		"name": "misty_mountains",
+		"to_rank": 1101,
+		"from_rank": 1144,
+		"above": "freedom16",
+		"below": "mystic_bounds"
+	},
+	{
+		"date": 1746866570,
+		"action": "raised",
+		"name": "the_art_of_the_blade",
+		"to_rank": 138,
+		"from_rank": 145,
+		"above": "farbidi_theory",
+		"below": "pandemonium_cersia"
+	},
+	{
+		"date": 1746878845,
+		"action": "raised",
+		"name": "exotic_energy",
+		"to_rank": 819,
+		"from_rank": 844,
+		"above": "lotus",
+		"below": "armageddon"
+	},
+	{
+		"date": 1746894745,
+		"action": "raised",
+		"name": "ascension",
+		"to_rank": 307,
+		"from_rank": 346,
+		"above": "jamboree",
+		"below": "framework"
 	}
 ]

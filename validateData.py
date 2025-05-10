@@ -13,10 +13,15 @@ level_list_schema = {
 }
 
 banned_schema = {
-    "type": "array",
-    "items": {
-        "type": "number"
-    }
+    "type": "object",
+    "patternProperties": {
+        "^[0-9]+$": {
+            "type": "array",
+            "items": {
+                "type": "number"
+            }
+        }
+    },
 }
 
 editors_supporters_schema = {
