@@ -20221,5 +20221,14 @@
 		"from_rank": 1144,
 		"above": "freedom16",
 		"below": "mystic_bounds"
+	},
+	{
+		"date": 1746866570,
+		"action": "raised",
+		"name": "the_art_of_the_blade",
+		"to_rank": 138,
+		"from_rank": 145,
+		"above": "farbidi_theory",
+		"below": "pandemonium_cersia"
 	}
 ]
