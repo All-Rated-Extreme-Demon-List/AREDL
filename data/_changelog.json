@@ -20239,5 +20239,14 @@
 		"from_rank": 844,
 		"above": "lotus",
 		"below": "armageddon"
+	},
+	{
+		"date": 1746894745,
+		"action": "raised",
+		"name": "ascension",
+		"to_rank": 307,
+		"from_rank": 346,
+		"above": "jamboree",
+		"below": "framework"
 	}
 ]
