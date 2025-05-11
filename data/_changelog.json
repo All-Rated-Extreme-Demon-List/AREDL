@@ -20266,5 +20266,14 @@
 		"from_rank": 668,
 		"above": "output_spring",
 		"below": "burn_to_dust"
+	},
+	{
+		"date": 1746991656,
+		"action": "lowered",
+		"name": "zettabyte",
+		"to_rank": 963,
+		"from_rank": 892,
+		"above": "deception_dive",
+		"below": "witching_hour"
 	}
 ]
