@@ -93,6 +93,45 @@ level_schema = {
     }
 }
 
+plat_level_schema = {
+    "type": "object",
+    "properties": {
+        "id": {"type": "number"},
+        "name": {"type": "string"},
+        "description": {"type": "string"},
+        "author": {"type": "number"},
+        "creators": {
+            "type": "array",
+            "items": {
+                "type": "number",
+            }
+        },
+        "tags": {
+            "type": "array",
+            "items": {
+                "type": "string",
+            }
+        },
+        "verifier": {"type": "number"},
+        "verification": {"type": "string"},
+        "verificationTime": {"type": "number"},
+        "records": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "user": {"type": "number"},
+                    "link": {"type": "string"},
+                    "percent": {"type": "number"},
+                    "hz": {"type": "number"},
+                    "mobile": {"type": "boolean"},
+                    "time": {"type": "number"}
+                }
+            }
+        }
+    }
+}
+
 pack_tiers_schema = {
     "type": "array",
     "items": {
@@ -140,6 +179,9 @@ def validate_data():
     name_map_path = os.path.join(current_dir, "_name_map.json")
     editors_path = os.path.join(current_dir, "_editors.json")
     supporters_path = os.path.join(current_dir, "_supporters.json")
+
+    plat_dir = os.path.join(os.getcwd(), "plat_data")
+    plat_list_path = os.path.join(plat_dir, "_list.json")
     had_error = False
 
     with open(list_path, "r", encoding='utf-8') as file:
@@ -151,6 +193,17 @@ def validate_data():
             sys.exit(1)
         except exceptions.ValidationError as e:
             print(f"Validation failed for _list.json: {str(e)}")
+            sys.exit(1)
+
+    with open(plat_list_path, "r", encoding='utf-8') as file:
+        try:
+            plat_levels = json.load(file)
+            validate(instance=plat_levels, schema=level_list_schema)
+        except ValueError as e:
+            print(f"Invalid json in file plat _list.json: {str(e)}")
+            sys.exit(1)
+        except exceptions.ValidationError as e:
+            print(f"Validation failed for plat _list.json: {str(e)}")
             sys.exit(1)
             
     with open(banned_path, "r", encoding='utf-8') as file:
@@ -259,6 +312,85 @@ def validate_data():
                 try:
                     data = json.load(file)
                     validate(instance=data, schema=level_schema)
+                except ValueError as e:
+                    print(f"Invalid json in file {filename}: {str(e)}")
+                    had_error = True
+                    continue
+                except exceptions.ValidationError as e:
+                    print(f"Validation failed for {filename}: {str(e)}")
+                    had_error = True
+                    continue
+                    
+                level_id = str(data["id"])
+                
+                if filename.endswith("2p"):
+                    level_id += "2p"
+                    
+                if level_id in level_ids:
+                    print(f"Duplicate gd level id in file {filename} with previous file {level_ids[level_id]}")
+                    had_error = True
+                    
+                level_ids[level_id] = filename
+
+                records = data["records"]
+                names = [data["verifier"]]
+
+                if not validate_user(data["verifier"]):
+                    had_error = True
+                    print(f"Invalid verifier: {filename}: {data['verifier']}")
+                
+                try:
+                    validator(data["verification"])
+                except ValidationError:
+                    had_error = True
+                    print(f"Invalid verification Url: {filename}: {data['verification']}")
+
+                for record in records:
+
+                    name = record["user"]
+                    if name in names:
+                        had_error = True
+                        print(f"Duplicate Record: {filename}: {name}")
+
+                    if not validate_user(name):
+                        had_error = True
+                        print(f"Invalid username: {filename}: {name}")
+
+                    names.append(name)
+                    url = record["link"]
+                    try:
+                        validator(url)
+                    except ValidationError:
+                        had_error = True
+                        print(f"Invalid Url: {filename} {name}: {url}")
+
+                if "tags" in data:
+                    for tag_name in data["tags"]:
+                        if tag_name not in available_tags:
+                            had_error = True
+                            print(f"Unrecognized tag: {filename}: {tag_name}")
+
+                creators = []
+                for creator in data["creators"]:
+                    if creator in creators:
+                        had_error = True
+                        print(f"Duplicate Creator: {filename}: {creator}")
+                    if not validate_user(creator):
+                        had_error = True
+                        print(f"Invalid creator: {filename}: {creator}")
+
+                    creators.append(creator)
+        except FileNotFoundError:
+            had_error = True
+            print(f"Missing file {filename}")
+
+    for filename in plat_levels:
+        file_path = os.path.join(plat_dir, f"{filename}.json")
+        try:
+            with open(file_path, "r", encoding='utf-8') as file:
+                try:
+                    data = json.load(file)
+                    validate(instance=data, schema=plat_level_schema)
                 except ValueError as e:
                     print(f"Invalid json in file {filename}: {str(e)}")
                     had_error = True
