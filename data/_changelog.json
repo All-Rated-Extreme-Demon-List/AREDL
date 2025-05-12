@@ -20302,5 +20302,14 @@
 		"from_rank": 605,
 		"above": "karma",
 		"below": "innards"
+	},
+	{
+		"date": 1747078074,
+		"action": "lowered",
+		"name": "ascent",
+		"to_rank": 90,
+		"from_rank": 85,
+		"above": "lotus_flower",
+		"below": "keres"
 	}
 ]
