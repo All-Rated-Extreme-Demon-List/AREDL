@@ -2,10 +2,20 @@
 	"id": 112491891,
 	"name": "SUPER SERIOUS WORLD",
 	"author": 6372342408,
-	"creators": [6372342408,9695236921],
+	"creators": [
+		6372342408,
+		9695236921
+	],
 	"verifier": 6372342408,
 	"verification": "https://youtu.be/RJj5niMDX30?si=bAUpd5Ck7cE81id-",
 	"percentToQualify": 100,
 	"password": "Free Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 7099339620,
+			"link": "https://youtu.be/QhDtCMfMZmY",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

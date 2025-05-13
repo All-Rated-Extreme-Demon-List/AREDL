@@ -2,7 +2,10 @@
 	"id": 115169829,
 	"name": "JRJRJR",
 	"author": 5159499754,
-	"creators": [],
+	"creators": [
+		5159499754,
+		4806114621
+	],
 	"verifier": 5159499754,
 	"verification": "https://www.youtube.com/watch?v=8OiKTAbJ8L8&t=0s",
 	"percentToQualify": 100,
@@ -227,6 +230,72 @@
 		{
 			"user": 4439902560,
 			"link": "https://youtu.be/7lhyZ9OhJG4?si=LAvIY64A6-keJZ-2",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8093652172,
+			"link": "https://youtu.be/6zmU3fcpzlg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8586477551,
+			"link": "https://youtu.be/ymqavNktYd0?si=LfvvfnnenIEYn5H1",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8248250357,
+			"link": "https://youtu.be/3NEa41XAWeM?si=tcekcvNqN_fImCz8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8600863029,
+			"link": "https://www.youtube.com/watch?v=S7GxJ7wT0Kg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8411935000,
+			"link": "https://www.youtube.com/watch?v=sI4KuqOO-Nw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5062049605,
+			"link": "https://youtu.be/JpBS95v8eFY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1917382258,
+			"link": "https://youtu.be/CEOt197jLuI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5164016369,
+			"link": "https://youtu.be/SuAwvx25cgM?si=0UtfTEU2z4G9itpf",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1035964310,
+			"link": "https://youtu.be/Iup5Fy95oVY?si=_sPLv4Bsofl3PqVp",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7461927275,
+			"link": "https://www.youtube.com/watch?v=VCTT0yxNef0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3740620269,
+			"link": "https://www.youtube.com/watch?v=9N6hffhpMkY",
 			"percent": 100,
 			"hz": 360
 		}
