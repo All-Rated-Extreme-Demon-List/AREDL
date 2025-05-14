@@ -1,6 +1,15 @@
 {
 	"id": 83825373,
 	"name": "Overtime",
+	"tags": [
+		"2.1",
+		"Long",
+		"Learny",
+		"Chokepoints",
+		"Wave",
+		"High CPS",
+		"Clicksync"
+	],
 	"author": 7682124528,
 	"creators": [
 		2290646796,
@@ -1352,8 +1361,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }
