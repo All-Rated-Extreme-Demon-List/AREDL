@@ -20311,5 +20311,14 @@
 		"from_rank": 85,
 		"above": "lotus_flower",
 		"below": "keres"
+	},
+	{
+		"date": 1747196195,
+		"action": "raised",
+		"name": "xronier",
+		"to_rank": 339,
+		"from_rank": 348,
+		"above": "factory_realm_x",
+		"below": "zaphkiel"
 	}
 ]
