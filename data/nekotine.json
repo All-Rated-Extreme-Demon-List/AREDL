@@ -2,10 +2,26 @@
 	"id": 110335946,
 	"name": "NEKOTINE",
 	"author": 8650904401,
-	"creators": [8650904401,7789529993,4619878796,1102879450,4334343274,7428777916,5250099179,9651001656],
+	"creators": [
+		8650904401,
+		7789529993,
+		4619878796,
+		1102879450,
+		4334343274,
+		7428777916,
+		5250099179,
+		9651001656
+	],
 	"verifier": 3969992072,
 	"verification": "https://www.youtube.com/watch?v=NdumGGRU0GI",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 8650904401,
+			"link": "https://youtu.be/2HgqhblsFsg?si=co0BX6N_CxHxz87-",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
