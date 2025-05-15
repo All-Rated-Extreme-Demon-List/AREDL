@@ -20338,5 +20338,14 @@
 		"from_rank": null,
 		"above": "dead_of_night",
 		"below": "corrosion"
+	},
+	{
+		"date": 1747339144,
+		"action": "placed",
+		"name": "controlled_chaos",
+		"to_rank": 308,
+		"from_rank": null,
+		"above": "jamboree",
+		"below": "ascension"
 	}
 ]
