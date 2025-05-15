@@ -1,7 +1,6 @@
 {
 	"id": 84813026,
 	"name": "KINGSLAYER",
-	
 	"author": 1927517163,
 	"creators": [],
 	"verifier": 9269401841,
@@ -1514,6 +1513,12 @@
 		{
 			"user": 3666124849,
 			"link": "https://www.youtube.com/watch?v=fKtZK6CIZds",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9443315430,
+			"link": "https://youtu.be/OV9AfK_-DUE",
 			"percent": 100,
 			"hz": 360
 		}
