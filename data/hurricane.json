@@ -1,6 +1,12 @@
 {
 	"id": 60726930,
 	"name": "HURRICANE",
+	"tags": [
+		"2.1",
+		"Long",
+		"Learny",
+		"High CPS"
+	],
 	"author": 9109156979,
 	"creators": [
 		1683839249,
@@ -1263,8 +1269,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }
