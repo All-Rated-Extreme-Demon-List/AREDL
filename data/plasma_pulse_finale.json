@@ -1,6 +1,14 @@
 {
 	"id": 38655495,
 	"name": "Plasma Pulse Finale",
+	"tags": [
+		"2.1",
+		"XL",
+		"Timings",
+		"Learny",
+		"Chokepoints",
+		"Nerve Control"
+	],
 	"author": 5035072909,
 	"creators": [
 		2972759734,
@@ -665,6 +673,12 @@
 		{
 			"user": 6256522005,
 			"link": "https://www.youtube.com/watch?v=nAS8JvTLWY4&t=46s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4980409662,
+			"link": "https://youtu.be/lEYlIJZRGC4",
 			"percent": 100,
 			"hz": 360
 		}

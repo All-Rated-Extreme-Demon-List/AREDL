@@ -1,6 +1,12 @@
 {
 	"id": 92362284,
 	"name": "La Llorona",
+	"tags": [
+		"2.1",
+		"XL",
+		"Timings",
+		"Learny"
+	],
 	"author": 9989822490,
 	"creators": [
 		6289708283,
@@ -1451,6 +1457,12 @@
 		{
 			"user": 8488281302,
 			"link": "https://youtu.be/NAh_VVAYzNQ?si=Ot20gZwWNKi17s5A",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9537924475,
+			"link": "https://youtu.be/H4uw5GHvRlk?si=97BV6vab1vonsbSQ",
 			"percent": 100,
 			"hz": 360
 		}

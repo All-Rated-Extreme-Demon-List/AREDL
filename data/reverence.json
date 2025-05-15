@@ -1,6 +1,14 @@
 {
 	"id": 63433024,
 	"name": "reverence",
+	"tags": [
+		"2.1",
+		"Long",
+		"High CPS",
+		"Learny",
+		"Clicksync",
+		"Fast-Paced"
+	],
 	"author": 4239758058,
 	"creators": [
 		3177405060,
@@ -2324,6 +2332,18 @@
 		{
 			"user": 2836413538,
 			"link": "https://www.youtube.com/watch?v=selJJ8DgrvY&ab_channel=JesulinyP",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4074352742,
+			"link": "https://www.youtube.com/watch?v=c-Wyh0u9L8U",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2893228039,
+			"link": "https://youtu.be/JmZ5Z1VSVQA?si=CTZ-3iSTN1IQOFF8",
 			"percent": 100,
 			"hz": 360
 		}

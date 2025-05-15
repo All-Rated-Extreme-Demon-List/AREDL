@@ -1,6 +1,12 @@
 {
 	"id": 60726930,
 	"name": "HURRICANE",
+	"tags": [
+		"2.1",
+		"Long",
+		"Learny",
+		"High CPS"
+	],
 	"author": 9109156979,
 	"creators": [
 		1683839249,
@@ -1250,9 +1256,18 @@
 			"link": "https://www.youtube.com/watch?v=I39y37JnySk&t=10s",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": 7600446238,
+			"link": "https://www.twitch.tv/videos/2450982884",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4240120324,
+			"link": "https://youtu.be/nC97u5bBj_E?si=WjfIMEyAwdKt-SQv",
+			"percent": 100,
+			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }

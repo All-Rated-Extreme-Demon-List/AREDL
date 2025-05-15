@@ -1,6 +1,14 @@
 {
 	"id": 77312559,
 	"name": "Stellaluna",
+	"tags": [
+		"2.1",
+		"Long",
+		"Timings",
+		"Wave",
+		"Ship",
+		"Nerve Control"
+	],
 	"author": 7119660128,
 	"creators": [],
 	"verifier": 4012247565,
@@ -915,6 +923,18 @@
 		{
 			"user": 2260744819,
 			"link": "https://youtu.be/so8FNLGTJRo?si=mCPHeSyxr2nmr3CT&t=453",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4157628626,
+			"link": "https://youtu.be/frv_Qh_Lz24",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8436547132,
+			"link": "https://www.youtube.com/watch?v=MSxRcm4DYKk",
 			"percent": 100,
 			"hz": 360
 		}

@@ -1,6 +1,12 @@
 {
 	"id": 65561437,
 	"name": "Napalm",
+	"tags": [
+		"2.1",
+		"Long",
+		"Learny",
+		"High CPS"
+	],
 	"author": 7681874334,
 	"creators": [
 		3393348087,
@@ -2928,6 +2934,12 @@
 		{
 			"user": 3911964393,
 			"link": "https://youtu.be/INo29vkczKk?feature=shared",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7172482633,
+			"link": "https://youtu.be/qdmYe-_MaN8?si=UdDAlfTtxu36R1-u",
 			"percent": 100,
 			"hz": 360
 		}

@@ -11,7 +11,12 @@
 	"verifier": 2719075880,
 	"verification": "https://www.youtube.com/watch?v=19kE_Yo8puE",
 	"tags": [
-		"NONG"
+		"2.1",
+		"Medium",
+		"NONG",
+		"Chokepoints",
+		"Ship",
+		"Timings"
 	],
 	"percentToQualify": 100,
 	"password": "789123",
@@ -445,6 +450,18 @@
 		{
 			"user": 1769105544,
 			"link": "https://youtu.be/OttbBMJ3nQ4?si=p5eYSsLhgDMc5QJ5",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3379567602,
+			"link": "https://www.youtube.com/watch?v=ptgi2VkCFcc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6807948992,
+			"link": "https://www.youtube.com/watch?v=B-3xpUH9P1Y",
 			"percent": 100,
 			"hz": 360
 		}

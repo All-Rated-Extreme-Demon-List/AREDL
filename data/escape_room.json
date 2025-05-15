@@ -1,6 +1,14 @@
 {
 	"id": 90420966,
 	"name": "Escape Room",
+	"tags": [
+		"2.1",
+		"Long",
+		"Timings",
+		"Overall",
+		"Cube",
+		"Nerve Control"
+	],
 	"author": 4051969182,
 	"creators": [],
 	"verifier": 9947847028,
@@ -197,6 +205,18 @@
 		{
 			"user": 9586710551,
 			"link": "https://youtu.be/a_fwZJh2_Ik",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7600446238,
+			"link": "https://youtu.be/QcnthxvcjCQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8726101311,
+			"link": "https://www.twitch.tv/redkarma23/clip/SparklingBloodyDonkeyRaccAttack-6gqO0Dtz6ixVZyS8",
 			"percent": 100,
 			"hz": 360
 		}

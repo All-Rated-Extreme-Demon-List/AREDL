@@ -1,6 +1,13 @@
 {
 	"id": 39242117,
 	"name": "night party",
+	"tags": [
+		"2.1",
+		"XL",
+		"Timings",
+		"Chokepoints",
+		"Nerve Control"
+	],
 	"author": 4576669654,
 	"creators": [
 		4576669654,
@@ -739,6 +746,12 @@
 		{
 			"user": 6655340067,
 			"link": "https://youtu.be/0hZcBkkxLkY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5660718352,
+			"link": "https://www.youtube.com/watch?v=t5JGXMOCoiY&t",
 			"percent": 100,
 			"hz": 360
 		}

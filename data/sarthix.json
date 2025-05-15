@@ -6,7 +6,12 @@
 	"verifier": 3029609949,
 	"verification": "https://www.youtube.com/watch?v=2qFVJ6BfArY",
 	"tags": [
-		"NONG"
+		"2.1",
+		"Long",
+		"NONG",
+		"Timings",
+		"Wave",
+		"Learny"
 	],
 	"percentToQualify": 100,
 	"records": [
@@ -562,6 +567,13 @@
 			"link": "https://youtu.be/MxgVIEYcI58",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": 7013715593,
+			"link": "https://youtu.be/3-eZczD7uCo?si=i12KML_0aKs_G2z-",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }

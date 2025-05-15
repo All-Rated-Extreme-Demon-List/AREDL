@@ -1,6 +1,16 @@
 {
 	"id": 15265393,
 	"name": "The Hell Factory",
+	"tags": [
+		"2.0",
+		"Long",
+		"Learny",
+		"Memory",
+		"Timings",
+		"Ship",
+		"Chokepoints",
+		"Nerve Control"
+	],
 	"author": 1074781226,
 	"creators": [
 		9623476437,
@@ -438,6 +448,18 @@
 		{
 			"user": 3969992072,
 			"link": "https://youtu.be/V890uLIaF4s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7600446238,
+			"link": "https://youtu.be/eaEKHren-k4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5757119686,
+			"link": "https://m.youtube.com/watch?v=gqUjlBxDhv0",
 			"percent": 100,
 			"hz": 360
 		}

@@ -1,6 +1,15 @@
 {
 	"id": 77487419,
 	"name": "Mind Control",
+	"tags": [
+		"2.1",
+		"Long",
+		"Timings",
+		"Learny",
+		"Memory",
+		"High CPS",
+		"Ship"
+	],
 	"author": 3972066436,
 	"creators": [
 		3972066436,
@@ -232,6 +241,12 @@
 		{
 			"user": 5156613324,
 			"link": "https://youtu.be/LKKHWRJqfJY?si=cWIRhAuhRT5lan8P",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7600446238,
+			"link": "https://www.youtube.com/watch?v=lnHTPocf7MQ",
 			"percent": 100,
 			"hz": 360
 		}

@@ -1,6 +1,12 @@
 {
 	"id": 20937583,
 	"name": "SUBVERSIVE",
+	"tags": [
+		"2.0",
+		"XXL",
+		"Learny",
+		"Nerve Control"
+	],
 	"author": 2066425046,
 	"creators": [
 		8908545893,
@@ -563,6 +569,18 @@
 		{
 			"user": 4972007949,
 			"link": "https://youtu.be/XEWznLdL97A?si=vDkakRnPIaczu3Xo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4219881106,
+			"link": "https://www.youtube.com/watch?v=yZlde7e5hZ4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5660718352,
+			"link": "https://www.youtube.com/watch?v=zbacI2oIhUU",
 			"percent": 100,
 			"hz": 360
 		}

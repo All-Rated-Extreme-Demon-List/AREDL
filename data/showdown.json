@@ -1,6 +1,16 @@
 {
 	"id": 93799148,
 	"name": "Showdown",
+	"tags": [
+		"2.1",
+		"Long",
+		"Learny",
+		"Memory",
+		"Timings",
+		"Overall",
+		"Old Swing",
+		"Clicksync"
+	],
 	"author": 2047709382,
 	"creators": [],
 	"verifier": 2047709382,
@@ -77,6 +87,12 @@
 		{
 			"user": 9433199179,
 			"link": "https://youtu.be/puribr89wp8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6762086875,
+			"link": "https://youtu.be/oF4MotxkNLw",
 			"percent": 100,
 			"hz": 360
 		}

@@ -6,7 +6,12 @@
 	"verifier": 9269401841,
 	"verification": "https://www.youtube.com/watch?v=exSJrLme6so",
 	"tags": [
-		"NONG"
+		"2.1",
+		"Long",
+		"NONG",
+		"Chokepoints",
+		"Learny",
+		"Wave"
 	],
 	"percentToQualify": 100,
 	"records": [
@@ -1502,6 +1507,18 @@
 		{
 			"user": 3985773486,
 			"link": "https://youtu.be/g-S2Bs1vyCA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3666124849,
+			"link": "https://www.youtube.com/watch?v=fKtZK6CIZds",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9443315430,
+			"link": "https://youtu.be/OV9AfK_-DUE",
 			"percent": 100,
 			"hz": 360
 		}

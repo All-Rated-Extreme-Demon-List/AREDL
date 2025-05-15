@@ -1,6 +1,14 @@
 {
 	"id": 93570042,
 	"name": "wtf",
+	"tags": [
+		"2.1",
+		"Long",
+		"Timings",
+		"Learny",
+		"Memory",
+		"Nerve Control"
+	],
 	"author": 7726010354,
 	"creators": [],
 	"verifier": 7726010354,
@@ -149,6 +157,18 @@
 		{
 			"user": 5611085886,
 			"link": "https://youtu.be/_e4At7BZOqA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9148352519,
+			"link": "https://www.youtube.com/watch?v=oKKw9Um_b0Y",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5638396214,
+			"link": "https://youtu.be/yUlozjC_bCY",
 			"percent": 100,
 			"hz": 360
 		}

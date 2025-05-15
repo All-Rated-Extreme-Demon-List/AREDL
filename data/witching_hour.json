@@ -1,6 +1,15 @@
 {
 	"id": 94083417,
 	"name": "Witching Hour",
+	"tags": [
+		"2.1",
+		"Long",
+		"NONG",
+		"Learny",
+		"Timings",
+		"Clicksync",
+		"Gimmicky"
+	],
 	"author": 5769250037,
 	"creators": [
 		5769250037,
@@ -8,9 +17,6 @@
 	],
 	"verifier": 5769250037,
 	"verification": "https://youtu.be/n-wpn1pDMow?si=3sRJVzXwwGJo6lKL",
-	"tags": [
-		"NONG"
-	],
 	"percentToQualify": 100,
 	"records": [
 		{
@@ -172,6 +178,12 @@
 		{
 			"user": 5611085886,
 			"link": "https://youtu.be/SkkBPS9ey4U",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8986489862,
+			"link": "https://youtu.be/MAOFAeoG_1g",
 			"percent": 100,
 			"hz": 360
 		}

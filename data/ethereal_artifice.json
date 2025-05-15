@@ -1,6 +1,14 @@
 {
 	"id": 58252259,
 	"name": "Ethereal Artifice",
+	"tags": [
+		"2.1",
+		"XL",
+		"High CPS",
+		"Fast-Paced",
+		"Nerve Control",
+		"Wave"
+	],
 	"author": 8752205493,
 	"creators": [
 		2104069102,
@@ -1368,6 +1376,30 @@
 		{
 			"user": 6256522005,
 			"link": "https://www.youtube.com/watch?v=UBKCFHdQ95U&t=17s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5475244868,
+			"link": "https://youtu.be/l5YiU4212Ao",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1436105895,
+			"link": "https://youtu.be/TZgJ2nqulJs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3666124849,
+			"link": "https://www.youtube.com/watch?v=ieqizAupqcs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5660718352,
+			"link": "https://www.youtube.com/watch?v=2rxBqua8N3c",
 			"percent": 100,
 			"hz": 360
 		}

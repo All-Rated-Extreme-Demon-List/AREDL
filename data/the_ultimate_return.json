@@ -1,6 +1,12 @@
 {
 	"id": 116124917,
 	"name": "The Ultimate Return",
+	"tags": [
+		"2.2",
+		"XL",
+		"Learny",
+		"Chokepoints"
+	],
 	"author": 5272092355,
 	"creators": [],
 	"verifier": 3141858804,
@@ -101,6 +107,12 @@
 		{
 			"user": 5835386586,
 			"link": "https://youtube.com/shorts/zcYs6T9ASD0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4157628626,
+			"link": "https://youtu.be/C-BTpBtPlUg",
 			"percent": 100,
 			"hz": 360
 		}

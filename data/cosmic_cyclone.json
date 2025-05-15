@@ -5,7 +5,9 @@
 		"2.1",
 		"Long",
 		"Circles",
-		"Wave"
+		"Wave",
+		"High CPS",
+		"Chokepoints"
 	],
 	"author": 3677981615,
 	"creators": [
@@ -383,6 +385,12 @@
 		{
 			"user": 5565956747,
 			"link": "https://youtu.be/x3n5pwK5Gts?si=yPymhRnYS1aZ0_mK",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3693363592,
+			"link": "https://youtu.be/2G5mzC417uM?si=NSlzMKTRgrtIiwpV",
 			"percent": 100,
 			"hz": 360
 		}

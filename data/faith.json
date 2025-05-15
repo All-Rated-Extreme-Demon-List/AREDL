@@ -1,6 +1,11 @@
 {
 	"id": 62419475,
 	"name": "Faith",
+	"tags": [
+		"2.1",
+		"XL",
+		"Learny"
+	],
 	"author": 1683839249,
 	"creators": [
 		1683839249,
@@ -826,6 +831,12 @@
 		{
 			"user": 6194157716,
 			"link": "https://www.youtube.com/watch?v=71lMPoOy0JU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7648823556,
+			"link": "https://youtu.be/AG_4Pvyjn8E",
 			"percent": 100,
 			"hz": 360
 		}

@@ -1,6 +1,14 @@
 {
 	"id": 58161496,
 	"name": "Renevant",
+	"tags": [
+		"2.1",
+		"Long",
+		"Learny",
+		"Chokepoints",
+		"Overall",
+		"Timings"
+	],
 	"author": 3755803056,
 	"creators": [],
 	"verifier": 2886792207,
@@ -724,12 +732,6 @@
 			"hz": 360
 		},
 		{
-			"user": 3755803056,
-			"link": "https://www.youtube.com/watch?v=xwDBENqU-tg",
-			"percent": 100,
-			"hz": 360
-		},
-		{
 			"user": 1053647436,
 			"link": "https://www.youtube.com/watch?v=T1JsnTsQ_8I",
 			"percent": 100,
@@ -816,6 +818,18 @@
 		{
 			"user": 3741636207,
 			"link": "https://www.youtube.com/watch?v=OT_H87iIfTw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6948389279,
+			"link": "https://www.youtube.com/watch?v=a6vzwgpXlME",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9043104713,
+			"link": "https://youtu.be/bloObOaN6Ug?si=V5L0TqSubH8U91h4",
 			"percent": 100,
 			"hz": 360
 		}

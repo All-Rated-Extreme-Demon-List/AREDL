@@ -1,6 +1,13 @@
 {
 	"id": 62551239,
 	"name": "Sigma Interface",
+	"tags": [
+		"2.1",
+		"Long",
+		"Slow-Paced",
+		"Timings",
+		"Old Swing"
+	],
 	"description": "Has a very chill atmosphere and gameplay that is mostly timings, wave, and ship. Was supposed to have an extension but was released early.",
 	"author": 7652908224,
 	"creators": [
@@ -1835,6 +1842,18 @@
 		{
 			"user": 6561944991,
 			"link": "https://www.youtube.com/watch?v=l_ki6sGgqtQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6485433003,
+			"link": "https://youtu.be/tlowJ91UWwQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5488112652,
+			"link": "https://www.youtube.com/watch?v=yQX4WbqT9u8",
 			"percent": 100,
 			"hz": 360
 		}

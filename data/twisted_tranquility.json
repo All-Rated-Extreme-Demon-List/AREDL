@@ -1,6 +1,13 @@
 {
 	"id": 32920197,
 	"name": "Twisted Tranquility",
+	"tags": [
+		"2.1",
+		"XL",
+		"Learny",
+		"Chokepoints",
+		"Nerve Control"
+	],
 	"author": 4685902575,
 	"creators": [
 		4685902575,
@@ -648,6 +655,12 @@
 		{
 			"user": 1917382258,
 			"link": "https://youtu.be/aF0haZSBefA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2260744819,
+			"link": "https://youtu.be/5YjGSgaUGTY?si=1yD_qboLJ250gZ11",
 			"percent": 100,
 			"hz": 360
 		}

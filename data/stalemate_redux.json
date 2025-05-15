@@ -1,6 +1,13 @@
 {
 	"id": 37398911,
 	"name": "Stalemate Redux",
+	"tags": [
+		"2.1",
+		"Long",
+		"Timings",
+		"Nerve Control",
+		"High CPS"
+	],
 	"author": 6689246827,
 	"creators": [
 		6689246827,
@@ -837,6 +844,12 @@
 		{
 			"user": 3057013718,
 			"link": "https://www.youtube.com/watch?v=l8WK8dWiJrg&ab_channel=Bambih45",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5836969800,
+			"link": "https://www.youtube.com/watch?v=uexw1_v-p2Y",
 			"percent": 100,
 			"hz": 360
 		}

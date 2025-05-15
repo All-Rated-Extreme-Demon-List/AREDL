@@ -1,6 +1,14 @@
 {
 	"id": 93916671,
 	"name": "Shukufuku",
+	"tags": [
+		"2.1",
+		"Long",
+		"NONG",
+		"Fast-Paced",
+		"High CPS",
+		"Clicksync"
+	],
 	"author": 4686296502,
 	"creators": [
 		8516713878,
@@ -14,9 +22,6 @@
 	],
 	"verifier": 4123636997,
 	"verification": "https://youtu.be/BNaixSQPmys?si=UoicxGJQ3dAz_N_3",
-	"tags": [
-		"NONG"
-	],
 	"percentToQualify": 100,
 	"records": [
 		{
@@ -1236,6 +1241,12 @@
 		{
 			"user": 5434994263,
 			"link": "https://youtu.be/gO9b7EKc0j0?si=wi7PceP9gir-_DDr",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7280670581,
+			"link": "https://www.youtube.com/watch?v=m7eFMJhN0AY&t=1s",
 			"percent": 100,
 			"hz": 360
 		}

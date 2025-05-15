@@ -18,7 +18,14 @@
 	"percentToQualify": 100,
 	"password": "789123",
 	"tags": [
-		"NONG"
+		"2.1",
+		"Long",
+		"NONG",
+		"Learny",
+		"Nerve Control",
+		"Fast-Paced",
+		"Timings",
+		"High CPS"
 	],
 	"records": [
 		{
@@ -246,6 +253,12 @@
 		{
 			"user": 3224305727,
 			"link": "https://youtu.be/4y9GWR34Elc?si=tDo1ToAxs0pEvZuf",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9880732106,
+			"link": "https://youtu.be/vibJ1jQC53k?si=zNNxhZfCgxGcFqa5",
 			"percent": 100,
 			"hz": 360
 		}

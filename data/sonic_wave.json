@@ -1,6 +1,12 @@
 {
 	"id": 26681070,
 	"name": "Sonic Wave",
+	"tags": [
+		"2.0",
+		"XL",
+		"Wave",
+		"Circles"
+	],
 	"author": 8391442327,
 	"creators": [
 		2978594944
@@ -2684,6 +2690,18 @@
 		{
 			"user": 1735976621,
 			"link": "https://www.youtube.com/watch?v=D5oXBmlueAY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8256986741,
+			"link": "https://youtu.be/r9DU1QtKqFI?si=TAR5gvOQ9vgmPDm5",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7388381348,
+			"link": "https://youtu.be/cEYCYsOcDSU?si=KLioVIK5r6qm-3fA&t=80",
 			"percent": 100,
 			"hz": 360
 		}
