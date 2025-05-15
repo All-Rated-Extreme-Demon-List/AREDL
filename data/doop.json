@@ -1,6 +1,12 @@
 {
 	"id": 51393047,
 	"name": "Doop",
+	"tags": [
+		"2.1",
+		"Long",
+		"NONG",
+		"Chokepoints"
+	],
 	"description": "XL level featuring a variety of skillsets, but has a major difficulty spike in the final wave and ship.",
 	"author": 6447495132,
 	"creators": [
@@ -755,8 +761,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }
