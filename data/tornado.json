@@ -1,6 +1,13 @@
 {
 	"id": 83098728,
 	"name": "TORNADO",
+	"tags": [
+		"2.1",
+		"Long",
+		"NONG",
+		"Learny",
+		"Chokepoints"
+	],
 	"author": 9109156979,
 	"creators": [
 		5262942759,
@@ -804,8 +811,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }
