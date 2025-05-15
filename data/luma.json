@@ -2,10 +2,19 @@
 	"id": 114849191,
 	"name": "Luma",
 	"author": 6803156536,
-	"creators": [6803156536],
+	"creators": [
+		6803156536
+	],
 	"verifier": 6803156536,
 	"verification": "https://youtu.be/BUlCPtwXizg?si=UG7N_r2k6AQp-9cF",
 	"percentToQualify": 100,
 	"password": "Free Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 8093652172,
+			"link": "https://youtu.be/CbxxP7Rlb1g",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
