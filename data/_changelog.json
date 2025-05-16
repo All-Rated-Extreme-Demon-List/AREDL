@@ -20365,5 +20365,14 @@
 		"from_rank": null,
 		"above": "eon",
 		"below": "bloodbath"
+	},
+	{
+		"date": 1747434248,
+		"action": "placed",
+		"name": "superconductor",
+		"to_rank": 646,
+		"from_rank": null,
+		"above": "want_me",
+		"below": "auroral_valhalla"
 	}
 ]
