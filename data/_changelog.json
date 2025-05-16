@@ -20356,5 +20356,14 @@
 		"from_rank": null,
 		"above": "surge_of_memories",
 		"below": "ziroikapi"
+	},
+	{
+		"date": 1747433916,
+		"action": "placed",
+		"name": "helix_leopus",
+		"to_rank": 616,
+		"from_rank": null,
+		"above": "eon",
+		"below": "bloodbath"
 	}
 ]
