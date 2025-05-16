@@ -1,6 +1,13 @@
 {
 	"id": 86787878,
 	"name": "Sazerix",
+	"tags": [
+		"2.1",
+		"Long",
+		"NONG",
+		"Fast-Paced",
+		"Wave"
+	],
 	"author": 8115013616,
 	"creators": [],
 	"verifier": 5362479182,
@@ -367,8 +374,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }
