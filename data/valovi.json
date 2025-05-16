@@ -2,10 +2,19 @@
 	"id": 109432828,
 	"name": "VALOVI",
 	"author": 9795236104,
-	"creators": [9795236104],
+	"creators": [
+		9795236104
+	],
 	"verifier": 9835771025,
 	"verification": "https://youtu.be/toPNBDFtRy8?si=kROWX_wVWnzI1uDS",
 	"percentToQualify": 100,
 	"password": "Free Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 4502219941,
+			"link": "https://youtu.be/NtyrM3EFjo0?si=KRdPd7NRFLYHz5aJ",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
