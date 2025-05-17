@@ -1,6 +1,15 @@
 {
 	"id": 88946497,
 	"name": "Last Stop",
+	"tags": [
+		"2.1",
+		"Long",
+		"NONG",
+		"Learny",
+		"Chokepoints",
+		"Timings",
+		"Overall"
+	],
 	"author": 9204261697,
 	"creators": [],
 	"verifier": 2615681688,
@@ -43,8 +52,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }
