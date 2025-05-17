@@ -1,12 +1,12 @@
 {
 	"id": 44860762,
 	"name": "Rate Demon",
-	    "tags":[
-        "2.1",
-        "Long",
-        "Robot",
-        "Ship"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Robot",
+		"Ship"
+	],
 	"author": 4837698208,
 	"creators": [],
 	"verifier": 3636816658,
@@ -210,6 +210,12 @@
 		{
 			"user": 2006833785,
 			"link": "https://youtu.be/PvWvZerJlcQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5663222224,
+			"link": "https://www.youtube.com/watch?v=VsloVZnZP08&list=PLoGRZ7epY3TMi2v-uqjN3vji23cF8aSfQ&index=12",
 			"percent": 100,
 			"hz": 360
 		}
