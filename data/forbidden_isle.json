@@ -2,12 +2,12 @@
 	"id": 63775846,
 	"name": "Forbidden Isle",
 	"tags": [
-        "2.1",
-        "Long",
-        "Learny",
-        "Timings",
-        "Ship"
-    ],
+		"2.1",
+		"Long",
+		"Learny",
+		"Timings",
+		"Ship"
+	],
 	"description": "Sillow extreme demon which, like their others, consists of mostly skill based gameplay, mostly wave and ship.",
 	"author": 9054522295,
 	"creators": [],
@@ -4671,6 +4671,12 @@
 		{
 			"user": 5143257858,
 			"link": "https://youtu.be/PAv8vdiEteY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2590523038,
+			"link": "https://www.youtube.com/watch?v=ur3RUpFTAI4",
 			"percent": 100,
 			"hz": 360
 		}
