@@ -1,14 +1,13 @@
 {
 	"id": 54833498,
 	"name": "Grill Kill",
-	"tags":[
-	  "2.1",
-	  "Long",
-     "Chokepoints",
-     "Precision",
-      "Overall"
-    ],
-
+	"tags": [
+		"2.1",
+		"Long",
+		"Chokepoints",
+		"Precision",
+		"Overall"
+	],
 	"author": 4837698208,
 	"creators": [],
 	"verifier": 4359234074,
@@ -200,6 +199,12 @@
 		{
 			"user": 2006833785,
 			"link": "https://youtu.be/JdPporpHCYU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1967689040,
+			"link": "https://youtu.be/BfQ9BSoMD80?si=yKGQKTdSxE3WPidP",
 			"percent": 100,
 			"hz": 360
 		}
