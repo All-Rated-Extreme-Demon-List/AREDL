@@ -1,6 +1,14 @@
 {
 	"id": 59270436,
 	"name": "Tempered Steel",
+	    "tags":[
+        "2.1",
+        "Long",
+        "Chokepoints",
+        "Fast-Paced",
+        "Timings",
+        "Wave"
+    ],
 	"author": 8273075022,
 	"creators": [],
 	"verifier": 6004996169,
@@ -102,6 +110,12 @@
 		{
 			"user": 4886572813,
 			"link": "https://youtu.be/ShRXiT_aojw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8290982750,
+			"link": "https://youtu.be/L_D7F764sJY",
 			"percent": 100,
 			"hz": 360
 		}

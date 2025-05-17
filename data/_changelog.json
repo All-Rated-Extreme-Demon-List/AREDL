@@ -20347,5 +20347,32 @@
 		"from_rank": null,
 		"above": "jamboree",
 		"below": "ascension"
+	},
+	{
+		"date": 1747428026,
+		"action": "placed",
+		"name": "valovi",
+		"to_rank": 461,
+		"from_rank": null,
+		"above": "surge_of_memories",
+		"below": "ziroikapi"
+	},
+	{
+		"date": 1747433916,
+		"action": "placed",
+		"name": "helix_leopus",
+		"to_rank": 616,
+		"from_rank": null,
+		"above": "eon",
+		"below": "bloodbath"
+	},
+	{
+		"date": 1747434248,
+		"action": "placed",
+		"name": "superconductor",
+		"to_rank": 646,
+		"from_rank": null,
+		"above": "want_me",
+		"below": "auroral_valhalla"
 	}
 ]

@@ -1,6 +1,13 @@
 {
 	"id": 101478916,
 	"name": "Eon",
+	"tags": [
+		"2.2",
+		"Eon",
+		"Gimmicky",
+		"Nerve Control",
+		"Overall"
+	],
 	"author": 4600507733,
 	"creators": [],
 	"verifier": 9918274459,
@@ -264,6 +271,12 @@
 		{
 			"user": 7343044097,
 			"link": "https://drive.google.com/file/d/1jN-vjQ8f1Vucg0ldP5uDH_Am-0rXpnXl/view?usp=sharing",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5488487582,
+			"link": "https://youtu.be/B7ZtG-WRr28",
 			"percent": 100,
 			"hz": 360
 		}

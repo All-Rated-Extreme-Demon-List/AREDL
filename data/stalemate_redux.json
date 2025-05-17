@@ -5,8 +5,9 @@
 		"2.1",
 		"Long",
 		"Timings",
-		"Nerve Control",
-		"High CPS"
+		"High CPS",
+		"Wave",
+		"UFO"
 	],
 	"author": 6689246827,
 	"creators": [
@@ -856,6 +857,12 @@
 		{
 			"user": 5131185963,
 			"link": "https://www.youtube.com/watch?v=jbBDFm0bf7c",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2909044958,
+			"link": "https://youtu.be/bkd_9Zh2iIk",
 			"percent": 100,
 			"hz": 360
 		}
