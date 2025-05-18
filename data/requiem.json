@@ -1,6 +1,16 @@
 {
 	"id": 52303420,
 	"name": "Requiem",
+	"tags": [
+		"2.1",
+		"Long",
+		"NONG",
+		"Chokepoints",
+		"Learny",
+		"Memory",
+		"Duals",
+		"Overall"
+	],
 	"author": 4187181889,
 	"creators": [
 		7160435392
@@ -292,8 +302,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }

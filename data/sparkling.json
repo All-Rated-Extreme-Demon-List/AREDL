@@ -1,6 +1,16 @@
 {
 	"id": 77765367,
 	"name": "Sparkling",
+    "tags": [
+        "2.1",
+        "Long",
+        "NONG",
+        "Overall",
+        "Clicksync",
+        "Fast-Paced",
+        "Learny",
+        "Gimmicky"
+	],
 	"author": 7216752068,
 	"creators": [
 		5953765651,
@@ -109,8 +119,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }
