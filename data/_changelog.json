@@ -20374,5 +20374,14 @@
 		"from_rank": null,
 		"above": "want_me",
 		"below": "auroral_valhalla"
+	},
+	{
+		"date": 1747606052,
+		"action": "lowered",
+		"name": "le_midd_mapperoonies",
+		"to_rank": 587,
+		"from_rank": 554,
+		"above": "monstercat",
+		"below": "aura"
 	}
 ]
