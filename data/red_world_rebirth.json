@@ -1,14 +1,14 @@
 {
 	"id": 20077821,
 	"name": "Red World Rebirth",
-    "tags": [
-        "2.1",
-        "Long",
-        "Chokepoints",
-        "Slow-Paced",
-        "Ship",
-        "Old Swing"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Chokepoints",
+		"Slow-Paced",
+		"Ship",
+		"Old Swing"
+	],
 	"description": "Harder version of Red World, with most its difficulty being ship and swing copter gameplay.",
 	"author": 1762461014,
 	"creators": [
@@ -1972,6 +1972,12 @@
 		{
 			"user": 9835771025,
 			"link": "https://youtu.be/s1Wsj_8CBKI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1666483086,
+			"link": "https://youtu.be/GEBftvc63nA?si=qxHdfaFY1IFXqBdZ",
 			"percent": 100,
 			"hz": 360
 		}
