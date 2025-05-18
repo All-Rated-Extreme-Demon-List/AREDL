@@ -1,6 +1,13 @@
 {
 	"id": 83697006,
 	"name": "Edge of the World",
+	"tags": [
+        "2.1",
+        "Long",
+        "NONG",
+        "Overall",
+        "Fast-Paced"
+	],
 	"author": 1861230410,
 	"creators": [
 		8181994636,
@@ -203,8 +210,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }
