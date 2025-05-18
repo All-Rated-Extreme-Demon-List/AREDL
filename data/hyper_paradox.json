@@ -1,13 +1,13 @@
 {
 	"id": 61531210,
 	"name": "Hyper Paradox",
-	    "tags":[
-        "2.1",
-        "Long",
-        "Circles",
-        "Wave",
-        "Fast-Paced"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Circles",
+		"Wave",
+		"Fast-Paced"
+	],
 	"author": 8273075022,
 	"creators": [
 		1175107069,
@@ -830,6 +830,18 @@
 		{
 			"user": 7292843809,
 			"link": "https://youtu.be/hZ2SMdfQqIM?si=-MyrqgjoPnSL2WmF",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2136178939,
+			"link": "https://youtu.be/i0jQnmYITpM?si=cDC_vQ5TpE-ndCUg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3757359420,
+			"link": "https://youtu.be/Fhyxe_btB1Q?si=EFytAkj1BG9BlUxp",
 			"percent": 100,
 			"hz": 360
 		}

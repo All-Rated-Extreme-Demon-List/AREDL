@@ -1,13 +1,13 @@
 {
 	"id": 88943354,
 	"name": "Proteus",
-    "tags": [
-        "2.1",
-        "Long",
-        "Wave",
-        "Timings",
-        "Nerve Control"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Wave",
+		"Timings",
+		"Nerve Control"
+	],
 	"author": 3495562646,
 	"creators": [
 		4051969182,
@@ -1707,6 +1707,12 @@
 		{
 			"user": 9880143849,
 			"link": "https://youtu.be/1w-yE-dZEQs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5356734773,
+			"link": "https://www.youtube.com/watch?v=fDBZMd7Q1zo",
 			"percent": 100,
 			"hz": 360
 		}
