@@ -1,12 +1,12 @@
 {
 	"id": 48843446,
 	"name": "Epsilon",
-    "tags": [
-        "2.1",
-        "XL",
-        "Overall",
-        "Nerve Control"
-    ],
+	"tags": [
+		"2.1",
+		"XL",
+		"Overall",
+		"Nerve Control"
+	],
 	"author": 9349943857,
 	"creators": [
 		8300826836,
@@ -492,6 +492,12 @@
 		{
 			"user": 6256522005,
 			"link": "https://www.youtube.com/watch?v=WYDU5AbnzCA&t=2s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1666483086,
+			"link": "https://youtu.be/qNPVmONW83A?si=fy_yU8klmcrPwZtd",
 			"percent": 100,
 			"hz": 360
 		}
