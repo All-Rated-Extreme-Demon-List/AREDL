@@ -1,15 +1,15 @@
 {
 	"id": 112412828,
 	"name": "Clarity",
-    "tags": [
-        "2.2",
-        "Long",
-        "NONG",
-        "Overall",
-        "Clicksync",
-        "Fast-Paced",
-        "Learny"
-    ],
+	"tags": [
+		"2.2",
+		"Long",
+		"NONG",
+		"Overall",
+		"Clicksync",
+		"Fast-Paced",
+		"Learny"
+	],
 	"author": 5816304874,
 	"creators": [
 		5816304874
@@ -1306,6 +1306,12 @@
 		{
 			"user": 8455139661,
 			"link": "https://youtu.be/A0nDt4TRo3s?si=CvNgL83JwmoSN1WK",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3442731355,
+			"link": "https://youtu.be/_UNfx3VqJII",
 			"percent": 100,
 			"hz": 360
 		}
