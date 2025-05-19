@@ -1,14 +1,14 @@
 {
 	"id": 92128198,
 	"name": "IDOL19",
-    "tags": [
-        "1.9PS",
-        "XXL",
-        "NONG",
-        "Overall",
-        "Fast-Paced",
-        "Nerve Control"
-    ],
+	"tags": [
+		"1.9PS",
+		"XXL",
+		"NONG",
+		"Overall",
+		"Fast-Paced",
+		"Nerve Control"
+	],
 	"author": 2904117997,
 	"creators": [],
 	"verifier": 9268115619,
@@ -409,6 +409,12 @@
 		{
 			"user": 1276393119,
 			"link": "https://www.youtube.com/watch?v=6CXqJas_tNQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4706681217,
+			"link": "https://youtu.be/bYraJUcgWfA",
 			"percent": 100,
 			"hz": 360
 		}
