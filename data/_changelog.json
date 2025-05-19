@@ -20392,5 +20392,14 @@
 		"from_rank": 116,
 		"above": "escape_room",
 		"below": "omega_interface"
+	},
+	{
+		"date": 1747675214,
+		"action": "lowered",
+		"name": "escape_room",
+		"to_rank": 146,
+		"from_rank": 132,
+		"above": "kappa",
+		"below": "silent_club"
 	}
 ]
