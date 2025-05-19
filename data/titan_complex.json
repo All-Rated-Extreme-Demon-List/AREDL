@@ -1,13 +1,13 @@
 {
 	"id": 44022701,
 	"name": "Titan Complex",
-	    "tags":[
-        "2.1",
-        "XXL",
-        "Nerve Control",
-        "Overall",
-        "Chokepoints"
-    ],
+	"tags": [
+		"2.1",
+		"XXL",
+		"Nerve Control",
+		"Overall",
+		"Chokepoints"
+	],
 	"author": 2682832643,
 	"creators": [
 		2524720670,
@@ -414,6 +414,12 @@
 		{
 			"user": 6889022258,
 			"link": "https://www.youtube.com/live/mVahj-8GZvY?si=s4HFVrqvK9tzLqKC",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6212612251,
+			"link": "https://youtu.be/TW46pqbrSqc",
 			"percent": 100,
 			"hz": 360
 		}
