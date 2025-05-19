@@ -1,14 +1,14 @@
 {
 	"id": 113620104,
 	"name": "Clown Control",
-    "tags": [
-        "2.2",
-        "Long",
-        "Overall",
-        "Clicksync",
-        "Fast-Paced",
-        "Timings"
-    ],
+	"tags": [
+		"2.2",
+		"Long",
+		"Overall",
+		"Clicksync",
+		"Fast-Paced",
+		"Timings"
+	],
 	"author": 7547239976,
 	"creators": [
 		5016694745,
@@ -415,6 +415,12 @@
 		{
 			"user": 1967689040,
 			"link": "https://youtu.be/hbbxrZvVyEw?si=f_USZk2TAYKV9UVo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7937190301,
+			"link": "https://youtu.be/73MxkpgdlYw",
 			"percent": 100,
 			"hz": 360
 		}

@@ -1,13 +1,13 @@
 {
 	"id": 91386392,
 	"name": "iridium",
-	    "tags":[
-        "2.1",
-        "Long",
-        "Clicksync",
-        "Overall",
-        "Timings"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Clicksync",
+		"Overall",
+		"Timings"
+	],
 	"author": 3260552738,
 	"creators": [],
 	"verifier": 3879155370,
@@ -372,6 +372,12 @@
 		{
 			"user": 1032047992,
 			"link": "https://www.youtube.com/watch?v=6prLWYHlk6g&t=130s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1917382258,
+			"link": "https://youtu.be/5Ilf9kDDyO0",
 			"percent": 100,
 			"hz": 360
 		}

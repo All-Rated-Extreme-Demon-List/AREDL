@@ -1,13 +1,13 @@
 {
 	"id": 92287510,
 	"name": "laranja azul rosa",
-	    "tags":[
-        "2.1",
-        "Long",
-        "Gimmicky",
-        "Duals",
-        "Learny"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Gimmicky",
+		"Duals",
+		"Learny"
+	],
 	"author": 4235117103,
 	"creators": [],
 	"verifier": 4235117103,
@@ -116,6 +116,12 @@
 		{
 			"user": 8469835947,
 			"link": "https://www.youtube.com/watch?v=EmLWse3xb04",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3442731355,
+			"link": "https://youtu.be/i6F9AUAIxE8",
 			"percent": 100,
 			"hz": 360
 		}
