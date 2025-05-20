@@ -1,13 +1,13 @@
 {
 	"id": 67622133,
 	"name": "SHATTER ",
-    "tags": [
-        "2.1",
-        "Long",
-        "Timings",
-        "Chokepoints",
-        "Duals"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Timings",
+		"Chokepoints",
+		"Duals"
+	],
 	"author": 6421367949,
 	"creators": [],
 	"verifier": 6421367949,
@@ -397,6 +397,12 @@
 		{
 			"user": 5356734773,
 			"link": "https://www.youtube.com/watch?v=9DvaAvvToOM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4758086202,
+			"link": "https://youtu.be/hisgUwS18ks",
 			"percent": 100,
 			"hz": 360
 		}
