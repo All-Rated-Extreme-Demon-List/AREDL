@@ -20401,5 +20401,14 @@
 		"from_rank": 132,
 		"above": "kappa",
 		"below": "silent_club"
+	},
+	{
+		"date": 1747768382,
+		"action": "placed",
+		"name": "erosion",
+		"to_rank": 1118,
+		"from_rank": null,
+		"above": "air_tech",
+		"below": "revolution_unleashed"
 	}
 ]
