@@ -2,11 +2,11 @@
 	"id": 83697006,
 	"name": "Edge of the World",
 	"tags": [
-        "2.1",
-        "Long",
-        "NONG",
-        "Overall",
-        "Fast-Paced"
+		"2.1",
+		"Long",
+		"NONG",
+		"Overall",
+		"Fast-Paced"
 	],
 	"author": 1861230410,
 	"creators": [
@@ -207,6 +207,12 @@
 		{
 			"user": 1032047992,
 			"link": "https://www.youtube.com/watch?v=AXVuXoFfowk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1769105544,
+			"link": "https://youtu.be/BnNnaoQ4is8",
 			"percent": 100,
 			"hz": 360
 		}
