@@ -20410,5 +20410,14 @@
 		"from_rank": null,
 		"above": "air_tech",
 		"below": "revolution_unleashed"
+	},
+	{
+		"date": 1747769533,
+		"action": "placed",
+		"name": "aurora_hasuopf",
+		"to_rank": 1065,
+		"from_rank": null,
+		"above": "dark_odyssey",
+		"below": "boost"
 	}
 ]
