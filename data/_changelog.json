@@ -20419,5 +20419,14 @@
 		"from_rank": null,
 		"above": "dark_odyssey",
 		"below": "boost"
+	},
+	{
+		"date": 1747862805,
+		"action": "raised",
+		"name": "shock_therapy",
+		"to_rank": 460,
+		"from_rank": 485,
+		"above": "ziroikapi",
+		"below": "voltage"
 	}
 ]
