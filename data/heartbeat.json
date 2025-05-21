@@ -1,17 +1,17 @@
 {
 	"id": 20321297,
 	"name": "Heartbeat",
-    "tags": [
-        "2.0",
-        "Long",
-        "Timings",
-        "Learny",
-        "Gimmicky",
-        "Cube",
-        "Ball",
-        "UFO",
-        "Robot"
-    ],
+	"tags": [
+		"2.0",
+		"Long",
+		"Timings",
+		"Learny",
+		"Gimmicky",
+		"Cube",
+		"Ball",
+		"UFO",
+		"Robot"
+	],
 	"author": 9612031972,
 	"creators": [
 		6638041211,
@@ -1771,6 +1771,18 @@
 		{
 			"user": 1666483086,
 			"link": "https://youtu.be/5D0jFLDwM_k?si=VmBGX9ck-Hw5JbiZ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6434010820,
+			"link": "https://youtu.be/G61k3SCfmr8?si=iKwqQoJtorOTDF44",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3469187972,
+			"link": "https://youtu.be/nxZ5QdWjtTQ?si=5_L5dF7BEujYle9g",
 			"percent": 100,
 			"hz": 360
 		}

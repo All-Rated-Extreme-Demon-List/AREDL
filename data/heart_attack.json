@@ -2,11 +2,11 @@
 	"id": 89190831,
 	"name": "Heart Attack",
 	"tags": [
-        "2.1",
-        "Long",
-        "Overall",
-        "Chokepoints"
-    ],
+		"2.1",
+		"Long",
+		"Overall",
+		"Chokepoints"
+	],
 	"author": 2509857927,
 	"creators": [
 		7642117357,
@@ -464,6 +464,12 @@
 		{
 			"user": 8191421801,
 			"link": "https://youtu.be/3egOak1HaI4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6034722924,
+			"link": "https://www.youtube.com/watch?v=LVowpgDEKTo",
 			"percent": 100,
 			"hz": 360
 		}
