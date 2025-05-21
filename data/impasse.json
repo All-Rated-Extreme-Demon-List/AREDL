@@ -1,6 +1,13 @@
 {
     "id": 70211427,
     "name": "Impasse",
+    "tags": [
+        "1.9PS",
+        "Long",
+        "NONG",
+        "Overall",
+        "Learny"
+    ],
     "author": 3494526243,
     "creators": [
         3868133456,
@@ -79,8 +86,5 @@
             "percent": 100,
             "hz": 360
         }
-    ],
-    "tags": [
-        "NONG"
     ]
 }
