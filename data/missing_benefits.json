@@ -1,14 +1,14 @@
 {
 	"id": 47043002,
 	"name": "Missing Benefits",
-	    "tags":[
-        "2.1",
-        "Long",
-        "Learny",
-        "Gimmicky",
-        "Chokepoints",
-        "High CPS"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Learny",
+		"Gimmicky",
+		"Chokepoints",
+		"High CPS"
+	],
 	"author": 9892130045,
 	"creators": [
 		6282507731,
@@ -144,6 +144,12 @@
 		{
 			"user": 1787732959,
 			"link": "https://youtu.be/lQbXDn7hH4g",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3692526018,
+			"link": "https://www.youtube.com/watch?v=27ms6eX44vw",
 			"percent": 100,
 			"hz": 360
 		}
