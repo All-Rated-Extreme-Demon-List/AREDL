@@ -1,12 +1,12 @@
 {
 	"id": 38765979,
 	"name": "Mujigae",
-    "tags": [
-        "2.1",
-        "Fast-Paced",
-        "Precision",
-        "Wave"
-    ],
+	"tags": [
+		"2.1",
+		"Fast-Paced",
+		"Precision",
+		"Wave"
+	],
 	"author": 9287691816,
 	"creators": [],
 	"verifier": 5086458419,
@@ -318,6 +318,12 @@
 		{
 			"user": 3261717201,
 			"link": "https://youtu.be/IiHWrfryx3A?si=MbAsIHHUAmdYH8oa",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9746953199,
+			"link": "https://www.youtube.com/watch?v=op5AUsqc-zk",
 			"percent": 100,
 			"hz": 360
 		}
