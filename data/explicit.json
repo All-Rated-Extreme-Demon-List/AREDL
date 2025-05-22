@@ -1,12 +1,12 @@
 {
 	"id": 74028410,
 	"name": "EXPLICIT",
-    "tags": [
-        "2.1",
-        "Medium",
-        "Fast-Paced",
-        "High CPS"
-    ],
+	"tags": [
+		"2.1",
+		"Medium",
+		"Fast-Paced",
+		"High CPS"
+	],
 	"author": 3163878731,
 	"creators": [
 		4600507733
@@ -1036,6 +1036,13 @@
 		{
 			"user": 7013715593,
 			"link": "https://youtu.be/42AssmlWb0s?si=VfQGI0E5Tje_4M0-",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		},
+		{
+			"user": 7574161620,
+			"link": "https://youtu.be/DLxKH7mu-LI?si=sJRV-hmF3Wn2SDLg",
 			"percent": 100,
 			"hz": 360,
 			"mobile": true

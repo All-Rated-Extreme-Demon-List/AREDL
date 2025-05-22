@@ -1,13 +1,13 @@
 {
 	"id": 14977845,
 	"name": "Uprise",
-	    "tags":[
-        "2.0",
-        "Long",
-        "Chokepoints",
-        "Wave",
-        "Duals"
-    ],
+	"tags": [
+		"2.0",
+		"Long",
+		"Chokepoints",
+		"Wave",
+		"Duals"
+	],
 	"description": "2.0 level which has chokepoints and bugs scattered through out, the most iconic of which is the extremely hard wave with a random UFO break in the middle of it.",
 	"author": 9240753238,
 	"creators": [
@@ -1073,6 +1073,12 @@
 		{
 			"user": 5488487582,
 			"link": "https://www.youtube.com/watch?v=6C8QI8cMaos",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1827588006,
+			"link": "https://youtu.be/KtGYBGWOthw?si=_tKQxesJGDN86K-_",
 			"percent": 100,
 			"hz": 360
 		}
