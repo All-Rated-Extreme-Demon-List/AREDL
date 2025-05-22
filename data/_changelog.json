@@ -2837,7 +2837,7 @@
 	{
 		"date": 1668637857,
 		"action": "placed",
-		"name": "aurora",
+		"name": "aurora_thekris",
 		"from_rank": null,
 		"to_rank": 311,
 		"above": null,
@@ -2850,7 +2850,7 @@
 		"from_rank": null,
 		"to_rank": 312,
 		"above": null,
-		"below": "aurora"
+		"below": "aurora_thekris"
 	},
 	{
 		"date": 1668637857,
@@ -11471,7 +11471,7 @@
 		"name": "nemesis",
 		"to_rank": 536,
 		"from_rank": null,
-		"above": "aurora",
+		"above": "aurora_thekris",
 		"below": "tempest_tornado"
 	},
 	{
@@ -13731,7 +13731,7 @@
 		"to_rank": 580,
 		"from_rank": 594,
 		"above": "arctic_arena",
-		"below": "aurora"
+		"below": "aurora_thekris"
 	},
 	{
 		"date": 1723313466,
@@ -15485,7 +15485,7 @@
 		"name": "triple_six",
 		"to_rank": 597,
 		"from_rank": 654,
-		"above": "aurora",
+		"above": "aurora_thekris",
 		"below": "nemesis"
 	},
 	{
@@ -20419,5 +20419,41 @@
 		"from_rank": null,
 		"above": "dark_odyssey",
 		"below": "boost"
+	},
+	{
+		"date": 1747862805,
+		"action": "raised",
+		"name": "shock_therapy",
+		"to_rank": 460,
+		"from_rank": 485,
+		"above": "ziroikapi",
+		"below": "voltage"
+	},
+	{
+		"date": 1747924515,
+		"action": "placed",
+		"name": "row",
+		"to_rank": 938,
+		"from_rank": null,
+		"above": "ferrum_frenzy",
+		"below": "no_more"
+	},
+	{
+		"date": 1747924931,
+		"action": "placed",
+		"name": "burnout",
+		"to_rank": 488,
+		"from_rank": null,
+		"above": "singularity",
+		"below": "vivacious"
+	},
+	{
+		"date": 1747925112,
+		"action": "lowered",
+		"name": "protoflicker",
+		"to_rank": 632,
+		"from_rank": 537,
+		"above": "cave_of_heart",
+		"below": "down_bass"
 	}
 ]

@@ -1,16 +1,16 @@
 {
 	"id": 27580467,
 	"name": "Hatred",
-    "tags": [
-        "2.0",
-        "Long",
-        "Timings",
-        "Chokepoints",
-        "Slow-Paced",
-        "Cube",
-        "Ball",
-        "Wave"
-    ],
+	"tags": [
+		"2.0",
+		"Long",
+		"Timings",
+		"Chokepoints",
+		"Slow-Paced",
+		"Cube",
+		"Ball",
+		"Wave"
+	],
 	"author": 1475484653,
 	"creators": [
 		1475484653,
@@ -490,6 +490,18 @@
 		{
 			"user": 7937190301,
 			"link": "https://youtu.be/cxor1q1yJuQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9746953199,
+			"link": "https://www.youtube.com/watch?v=_EfpfHgwM8g",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9378738113,
+			"link": "https://drive.google.com/file/d/1v_YVUjrq8RXOUWC6iFv_JUNQuhoLD6f8/view?usp=drive_link",
 			"percent": 100,
 			"hz": 360
 		}

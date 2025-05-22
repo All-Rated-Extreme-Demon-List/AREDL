@@ -1,15 +1,15 @@
 {
 	"id": 38235367,
 	"name": "Quantum Processing",
-    "tags": [
-        "2.0",
-        "Long",
-        "Timings",
-        "Chokepoints",
-        "Slow-Paced",
-        "UFO",
-        "Wave"
-    ],
+	"tags": [
+		"2.0",
+		"Long",
+		"Timings",
+		"Chokepoints",
+		"Slow-Paced",
+		"UFO",
+		"Wave"
+	],
 	"author": 1762461014,
 	"creators": [
 		1762461014,
@@ -1271,6 +1271,12 @@
 		{
 			"user": 7270545067,
 			"link": "https://youtu.be/ZW_fDI9GvtU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9746953199,
+			"link": "https://www.youtube.com/watch?v=JxJLrvB31UU",
 			"percent": 100,
 			"hz": 360
 		}

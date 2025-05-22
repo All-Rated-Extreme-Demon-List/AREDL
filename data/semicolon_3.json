@@ -2,11 +2,11 @@
 	"id": 81944593,
 	"name": "Semicolon 3",
 	"tags": [
-        "2.1",
-        "Long",
-        "Learny",
-        "Duals"
-    ],
+		"2.1",
+		"Long",
+		"Learny",
+		"Duals"
+	],
 	"author": 9629497004,
 	"creators": [],
 	"verifier": 4043755891,
@@ -536,6 +536,12 @@
 		{
 			"user": 5663222224,
 			"link": "https://www.youtube.com/watch?v=FHpFhwj9neo&list=PLoGRZ7epY3TMi2v-uqjN3vji23cF8aSfQ&index=53",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8299075170,
+			"link": "https://youtu.be/qzRtgF1whHE?si=zHa0WJ-K58N9XOGS",
 			"percent": 100,
 			"hz": 360
 		}
