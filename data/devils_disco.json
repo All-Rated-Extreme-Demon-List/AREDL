@@ -1,6 +1,17 @@
 {
 	"id": 75350544,
 	"name": "Devils Disco",
+    "tags": [
+        "2.1",
+        "Long",
+		"NONG",
+        "Overall",
+        "Fast-Paced",
+        "Learny",
+        "High CPS",
+        "Ball",
+        "Robot"
+    ],
 	"author": 4301212111,
 	"creators": [],
 	"verifier": 3240199777,
@@ -219,8 +230,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }
