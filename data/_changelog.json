@@ -20428,5 +20428,14 @@
 		"from_rank": 485,
 		"above": "ziroikapi",
 		"below": "voltage"
+	},
+	{
+		"date": 1747924515,
+		"action": "placed",
+		"name": "row",
+		"to_rank": 938,
+		"from_rank": null,
+		"above": "ferrum_frenzy",
+		"below": "no_more"
 	}
 ]
