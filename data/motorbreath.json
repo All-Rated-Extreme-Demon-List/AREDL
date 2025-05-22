@@ -1,6 +1,14 @@
 {
 	"id": 81281891,
 	"name": "Motorbreath",
+    "tags": [
+        "2.1",
+        "Long",
+        "NONG",
+        "Clicksync",
+        "Fast-Paced",
+        "High CPS"
+    ],
 	"author": 8441397207,
 	"creators": [],
 	"verifier": 2155628733,
@@ -326,8 +334,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }
