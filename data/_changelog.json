@@ -20455,5 +20455,14 @@
 		"from_rank": 537,
 		"above": "cave_of_heart",
 		"below": "down_bass"
+	},
+	{
+		"date": 1747950088,
+		"action": "raised",
+		"name": "coalescence",
+		"to_rank": 52,
+		"from_rank": 60,
+		"above": "bpata_mpaka",
+		"below": "waterfall"
 	}
 ]
