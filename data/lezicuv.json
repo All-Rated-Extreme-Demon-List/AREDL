@@ -2,11 +2,11 @@
 	"id": 13314218,
 	"name": "lezicuv",
 	"tags": [
-        "2.0",
-        "Long",
-        "Overall",
-        "Chokepoints"
-    ],
+		"2.0",
+		"Long",
+		"Overall",
+		"Chokepoints"
+	],
 	"author": 3783946418,
 	"creators": [],
 	"verifier": 6405106745,
@@ -179,6 +179,12 @@
 		{
 			"user": 1963685772,
 			"link": "https://youtu.be/ZvYvboWkGcw?si=aZYMXENyAAbW8N1x",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9746953199,
+			"link": "https://youtu.be/fwiNk8k90Zo?t=224",
 			"percent": 100,
 			"hz": 360
 		}

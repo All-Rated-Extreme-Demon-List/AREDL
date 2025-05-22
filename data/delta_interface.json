@@ -1,14 +1,14 @@
 {
 	"id": 45094581,
 	"name": "Delta Interface",
-    "tags": [
-        "2.0",
-        "XL",
-        "Overall",
-        "Nerve Control",
-        "Ship",
-        "Wave"
-    ],
+	"tags": [
+		"2.0",
+		"XL",
+		"Overall",
+		"Nerve Control",
+		"Ship",
+		"Wave"
+	],
 	"author": 7652908224,
 	"creators": [],
 	"verifier": 9199237751,
@@ -937,6 +937,18 @@
 		{
 			"user": 9475907149,
 			"link": "https://youtu.be/ZTiiFsLC2ao?si=C-RSaK5Lp4uAqZMS",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4040700610,
+			"link": "https://www.youtube.com/watch?v=virVQ0Tk1-Y&t=94s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9746953199,
+			"link": "https://www.youtube.com/watch?v=0-mEcW_T5b0",
 			"percent": 100,
 			"hz": 360
 		}

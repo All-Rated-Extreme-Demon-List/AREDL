@@ -1,17 +1,17 @@
 {
 	"id": 90853661,
 	"name": "Fog",
-    "tags": [
-        "2.1",
-        "Long",
-        "Clicksync",
-        "Fast-Paced",
-        "Timings",
-        "Chokepoints",
-        "High CPS",
-        "Cube",
-        "UFO"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Clicksync",
+		"Fast-Paced",
+		"Timings",
+		"Chokepoints",
+		"High CPS",
+		"Cube",
+		"UFO"
+	],
 	"author": 9092411607,
 	"creators": [
 		9092411607,
@@ -591,6 +591,12 @@
 		{
 			"user": 7937190301,
 			"link": "https://www.youtube.com/watch?v=wQyguRSa7N0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8659309797,
+			"link": "https://www.youtube.com/watch?v=zaxr-QMqFaU",
 			"percent": 100,
 			"hz": 360
 		}

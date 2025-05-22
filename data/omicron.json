@@ -3,11 +3,11 @@
 	"name": "Omicron",
 	"tags": [
 		"2.1",
-        "XXL",
-        "Overall",
-        "Clicksync",
-        "Flow",
-        "Nerve Control"
+		"XXL",
+		"Overall",
+		"Clicksync",
+		"Flow",
+		"Nerve Control"
 	],
 	"author": 9349943857,
 	"creators": [
@@ -504,6 +504,12 @@
 		{
 			"user": 4219881106,
 			"link": "https://youtu.be/MPUnbFEWvUs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9746953199,
+			"link": "https://www.youtube.com/watch?v=i6hbtuiJJ-k",
 			"percent": 100,
 			"hz": 360
 		}

@@ -2,9 +2,9 @@
 	"id": 81107735,
 	"name": "Nunri",
 	"tags": [
-        "2.1",
-        "Long",
-        "Overall"
+		"2.1",
+		"Long",
+		"Overall"
 	],
 	"author": 8593066626,
 	"creators": [],
@@ -89,6 +89,12 @@
 		{
 			"user": 8199551609,
 			"link": "https://youtu.be/zs8zdSiwvBs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3504422141,
+			"link": "https://youtu.be/qMK5L_OGWVo",
 			"percent": 100,
 			"hz": 360
 		}
