@@ -1,6 +1,18 @@
 {
 	"id": 81435156,
 	"name": "Future Chaos",
+    "tags": [
+        "2.1",
+        "Long",
+        "NONG",
+        "Timings",
+        "Chokepoints",
+        "Learny",
+        "Memory",
+        "Ship",
+        "UFO",
+        "Wave"
+    ],
 	"author": 1919224734,
 	"creators": [],
 	"verifier": 1919224734,
@@ -49,8 +61,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }

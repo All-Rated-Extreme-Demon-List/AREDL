@@ -1,6 +1,15 @@
 {
 	"id": 78435955,
 	"name": "Esfera",
+    "tags": [
+        "2.1",
+        "XXXL",
+		"NONG",
+        "Fast-Paced",
+        "Chokepoints",
+        "Learny",
+        "Nerve Control"
+    ],
 	"author": 1175107069,
 	"creators": [
 		2323765071,
@@ -83,8 +92,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }

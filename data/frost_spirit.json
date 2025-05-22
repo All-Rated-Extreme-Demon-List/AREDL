@@ -1,6 +1,16 @@
 {
 	"id": 95767653,
 	"name": "Frost Spirit",
+    "tags": [
+        "1.9PS",
+        "XL",
+		"NONG",
+        "Overall",
+        "Nerve Control",
+        "Cube",
+        "Ship",
+        "Ball"
+    ],
 	"author": 2321289444,
 	"creators": [
 		2321289444,
@@ -162,8 +172,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }
