@@ -1,14 +1,14 @@
 {
 	"id": 88172786,
 	"name": "Robi",
-    "tags": [
-        "2.1",
-        "Medium",
-        "Timings",
-        "Chokepoints",
-        "Slow-Paced",
-        "Ship"
-    ],
+	"tags": [
+		"2.1",
+		"Medium",
+		"Timings",
+		"Chokepoints",
+		"Slow-Paced",
+		"Ship"
+	],
 	"author": 3935240167,
 	"creators": [],
 	"verifier": 7203973510,
@@ -1562,6 +1562,12 @@
 		{
 			"user": 7937190301,
 			"link": "https://youtu.be/AtWCBQ6jAGQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8299075170,
+			"link": "https://youtu.be/DI8vjPFYZDA?si=OsCFxYb2GKA3k3pP",
 			"percent": 100,
 			"hz": 360
 		}
