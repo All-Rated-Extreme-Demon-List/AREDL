@@ -20437,5 +20437,14 @@
 		"from_rank": null,
 		"above": "ferrum_frenzy",
 		"below": "no_more"
+	},
+	{
+		"date": 1747924931,
+		"action": "placed",
+		"name": "burnout",
+		"to_rank": 488,
+		"from_rank": null,
+		"above": "singularity",
+		"below": "vivacious"
 	}
 ]
