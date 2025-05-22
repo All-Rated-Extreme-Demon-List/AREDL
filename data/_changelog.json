@@ -20446,5 +20446,14 @@
 		"from_rank": null,
 		"above": "singularity",
 		"below": "vivacious"
+	},
+	{
+		"date": 1747925112,
+		"action": "lowered",
+		"name": "protoflicker",
+		"to_rank": 632,
+		"from_rank": 537,
+		"above": "cave_of_heart",
+		"below": "down_bass"
 	}
 ]
