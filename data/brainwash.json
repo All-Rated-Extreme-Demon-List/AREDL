@@ -2,11 +2,11 @@
 	"id": 114264278,
 	"name": "BRAINWASH",
 	"tags": [
-        "2.2",
-        "Medium",
-        "Overall",
-        "Memory"
-    ],
+		"2.2",
+		"Medium",
+		"Overall",
+		"Memory"
+	],
 	"author": 5810149514,
 	"creators": [
 		2826273245,
@@ -100,6 +100,12 @@
 		{
 			"user": 2729069698,
 			"link": "https://youtu.be/MqD3aIJrnhA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3935778328,
+			"link": "https://www.youtube.com/watch?v=2rZvgmRyZfI",
 			"percent": 100,
 			"hz": 360
 		}
