@@ -1,13 +1,13 @@
 {
 	"id": 106522770,
 	"name": "Dry Out Copyable 2",
-    "tags": [
-        "2.2",
-        "XXL",
-        "Clicksync",
-        "Gimmicky",
-        "Nerve Control"
-    ],
+	"tags": [
+		"2.2",
+		"XXL",
+		"Clicksync",
+		"Gimmicky",
+		"Nerve Control"
+	],
 	"author": 2155729847,
 	"creators": [
 		2760150365,
@@ -123,6 +123,12 @@
 		{
 			"user": 9246230842,
 			"link": "https://youtu.be/latYQwQfXxg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6518245248,
+			"link": "https://www.youtube.com/watch?v=FM244Hf14PU",
 			"percent": 100,
 			"hz": 360
 		}
