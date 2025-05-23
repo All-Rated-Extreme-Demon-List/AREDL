@@ -1,15 +1,15 @@
 {
 	"id": 110913375,
 	"name": "Judgement Knights",
-    "tags": [
-        "2.2",
-        "Long",
-        "Clicksync",
-        "Fast-Paced",
-        "Learny",
-        "High CPS",
-        "Wave"
-    ],
+	"tags": [
+		"2.2",
+		"Long",
+		"Clicksync",
+		"Fast-Paced",
+		"Learny",
+		"High CPS",
+		"Wave"
+	],
 	"author": 6194674878,
 	"creators": [
 		2541669760,
@@ -153,6 +153,12 @@
 		{
 			"user": 7639283352,
 			"link": "https://youtu.be/kCHwKTBBxbE?si=n71XS6Gw2gury53e",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9739321917,
+			"link": "https://www.youtube.com/watch?v=wgZK1_LaGLQ",
 			"percent": 100,
 			"hz": 360
 		}
