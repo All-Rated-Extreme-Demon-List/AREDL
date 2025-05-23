@@ -1,12 +1,12 @@
 {
 	"id": 59075347,
 	"name": "Tartarus",
-    "tags": [
-        "2.1",
-        "Chokepoints",
-        "Precision",
-        "Ship"
-    ],
+	"tags": [
+		"2.1",
+		"Chokepoints",
+		"Precision",
+		"Ship"
+	],
 	"author": 2664551804,
 	"creators": [
 		5175792407,
@@ -414,6 +414,12 @@
 		{
 			"user": 9798187478,
 			"link": "https://www.youtube.com/watch?v=WKsh6oTWmbI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5341423302,
+			"link": "https://www.youtube.com/watch?v=ahMzUYJTROE&ab_channel=Abdieldevil",
 			"percent": 100,
 			"hz": 360
 		}

@@ -1,12 +1,12 @@
 {
 	"id": 112515547,
 	"name": "Bangarang",
-	"tags":[
-      "2.2",
-	  "Long",
-	  "Circles",
-	  "Wave",
-	  "Fast-Paced"
+	"tags": [
+		"2.2",
+		"Long",
+		"Circles",
+		"Wave",
+		"Fast-Paced"
 	],
 	"author": 2089703011,
 	"creators": [
@@ -362,6 +362,12 @@
 		{
 			"user": 7547328552,
 			"link": "https://www.youtube.com/watch?v=v8vZPm4rwJg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4439902560,
+			"link": "https://youtu.be/hoz5NNePrYY",
 			"percent": 100,
 			"hz": 360
 		}
