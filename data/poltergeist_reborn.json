@@ -1,12 +1,12 @@
 {
 	"id": 36886759,
 	"name": "Poltergeist Reborn",
-    "tags": [
-        "2.1",
-        "Long",
-        "Circles",
-        "Wave"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Circles",
+		"Wave"
+	],
 	"author": 7802322798,
 	"creators": [
 		8320669366,
@@ -195,6 +195,12 @@
 		{
 			"user": 1552473546,
 			"link": "https://youtu.be/y9GTy7XVyRQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9746953199,
+			"link": "https://www.youtube.com/watch?v=7dmYGA54csw",
 			"percent": 100,
 			"hz": 360
 		}
