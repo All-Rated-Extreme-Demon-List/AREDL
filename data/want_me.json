@@ -1,6 +1,17 @@
 {
 	"id": 63068474,
 	"name": "Want Me",
+    "tags": [
+        "2.1",
+        "Long",
+        "NONG",
+        "Timings",
+        "Chokepoints",
+        "Slow-Paced",
+        "Cube",
+        "Ship",
+        "UFO"
+    ],
 	"author": 1921977854,
 	"creators": [],
 	"verifier": 7662766980,
@@ -116,8 +127,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }

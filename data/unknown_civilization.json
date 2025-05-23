@@ -1,6 +1,14 @@
 {
 	"id": 88912081,
 	"name": "Unknown Civilization",
+    "tags": [
+        "2.1",
+        "Long",
+		"NONG",
+        "Learny",
+        "Flow",
+        "Wave"
+    ],
 	"author": 5249609094,
 	"creators": [],
 	"verifier": 5249609094,
@@ -273,8 +281,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }

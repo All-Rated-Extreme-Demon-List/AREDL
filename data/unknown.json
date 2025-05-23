@@ -1,6 +1,13 @@
 {
 	"id": 88203501,
 	"name": "UNKNOWN",
+    "tags": [
+        "2.1",
+        "Medium",
+        "NONG",
+        "Fast-Paced",
+        "Wave"
+    ],
 	"author": 1808222329,
 	"creators": [
 		8457906217,
@@ -353,8 +360,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }

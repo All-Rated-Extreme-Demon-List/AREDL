@@ -1,6 +1,17 @@
 {
 	"id": 85383554,
 	"name": "Stereo Extremeness",
+    "tags": [
+        "2.1",
+        "Long",
+        "NONG",
+        "Timings",
+        "Learny",
+        "Precision",
+        "Cube",
+        "Ship",
+        "Robot"
+    ],
 	"author": 1501164866,
 	"creators": [
 		6402382657,
@@ -101,8 +112,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }

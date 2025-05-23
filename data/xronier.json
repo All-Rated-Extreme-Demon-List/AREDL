@@ -1,6 +1,17 @@
 {
 	"id": 88913586,
 	"name": "Xronier",
+    "tags": [
+        "2.1",
+        "Medium",
+		"NONG",
+        "Fast-Paced",
+        "Timings",
+        "Learny",
+        "Cube",
+        "Ship",
+        "Wave"
+    ],
 	"author": 7996251843,
 	"creators": [],
 	"verifier": 7996251843,
@@ -157,8 +168,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }

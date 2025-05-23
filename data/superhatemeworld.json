@@ -1,6 +1,17 @@
 {
 	"id": 57571983,
 	"name": "SUPERHATEMEWORLD",
+    "tags": [
+        "2.1",
+        "Long",
+        "NONG",
+        "Timings",
+        "Chokepoints",
+        "High CPS",
+        "Slow-Paced",
+        "Ship",
+        "Ball"
+    ],
 	"author": 9860764236,
 	"creators": [
 		4931411030,
@@ -356,8 +367,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }
