@@ -1,6 +1,14 @@
 {
 	"id": 71571300,
 	"name": "Fragmented",
+    "tags": [
+        "1.9PS",
+        "Long",
+		"NONG",
+        "Fast-Paced",
+        "Nerve Control",
+        "Wave"
+    ],
 	"author": 3468549686,
 	"creators": [
 		3468549686,
@@ -88,8 +96,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }
