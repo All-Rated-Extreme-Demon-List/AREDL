@@ -1,12 +1,12 @@
 {
 	"id": 25241513,
 	"name": "Breakout",
-    "tags": [
-        "2.0",
-        "Long",
-        "Overall",
-        "Duals"
-    ],
+	"tags": [
+		"2.0",
+		"Long",
+		"Overall",
+		"Duals"
+	],
 	"author": 8922886636,
 	"creators": [
 		4315877716,
@@ -936,6 +936,12 @@
 		{
 			"user": 7937190301,
 			"link": "https://youtu.be/UVVXwyPZusc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3504422141,
+			"link": "https://youtu.be/Zf60VTFBrAc",
 			"percent": 100,
 			"hz": 360
 		}
