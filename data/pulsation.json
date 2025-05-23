@@ -1,15 +1,15 @@
 {
 	"id": 83948570,
 	"name": "pulsation",
-    "tags": [
-        "2.1",
-        "Long",
-        "Clicksync",
-        "Timings",
-        "Chokepoints",
-        "Cube",
-        "Ship"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Clicksync",
+		"Timings",
+		"Chokepoints",
+		"Cube",
+		"Ship"
+	],
 	"author": 8983468774,
 	"creators": [
 		9514230544,
@@ -184,6 +184,12 @@
 		{
 			"user": 1552473546,
 			"link": "https://youtu.be/A1Vwtj67aF0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3935778328,
+			"link": "https://www.youtube.com/watch?v=jplnH8wA__o",
 			"percent": 100,
 			"hz": 360
 		}
