@@ -1,15 +1,15 @@
 {
 	"id": 110335946,
 	"name": "NEKOTINE",
-    "tags": [
-        "2.2",
-        "Overall",
-        "Clicksync",
-        "Fast-Paced",
-        "Chokepoints",
-        "Ship",
-        "Wave"
-    ],
+	"tags": [
+		"2.2",
+		"Overall",
+		"Clicksync",
+		"Fast-Paced",
+		"Chokepoints",
+		"Ship",
+		"Wave"
+	],
 	"author": 8650904401,
 	"creators": [
 		8650904401,
@@ -90,6 +90,18 @@
 		{
 			"user": 3740620269,
 			"link": "https://youtu.be/uUSz8vsD15E",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1769105544,
+			"link": "https://youtu.be/e6Xlkm1bm6o",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9043104713,
+			"link": "https://youtu.be/He5nM9bOGHA?si=pJ3dU1Qcqp-rmYUe",
 			"percent": 100,
 			"hz": 360
 		}

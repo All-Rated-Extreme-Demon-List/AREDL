@@ -2,10 +2,26 @@
 	"id": 105219294,
 	"name": "Erosion",
 	"author": 4170414043,
-	"creators": [4170414043],
+	"creators": [
+		4170414043
+	],
 	"verifier": 4170414043,
 	"verification": "https://youtu.be/sxY4WhvjYx4?si=Z59o2RcmfDxo3-xT",
 	"percentToQualify": 100,
 	"password": "Free Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 9762756242,
+			"link": "https://youtu.be/TwOd-sygMJo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5320099452,
+			"link": "https://youtu.be/7-ZwvNsc0U0?si=s7PlcLmgXOSJaEkX",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }

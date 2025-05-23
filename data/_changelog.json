@@ -20464,5 +20464,14 @@
 		"from_rank": 60,
 		"above": "bpata_mpaka",
 		"below": "waterfall"
+	},
+	{
+		"date": 1747968514,
+		"action": "placed",
+		"name": "mizureta",
+		"to_rank": 1111,
+		"from_rank": null,
+		"above": "misty_mountains",
+		"below": "mystic_bounds"
 	}
 ]

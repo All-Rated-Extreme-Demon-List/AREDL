@@ -1,13 +1,13 @@
 {
 	"id": 48329084,
 	"name": "Breakout Redux",
-    "tags": [
-        "2.1",
-        "Long",
-        "Overall",
-        "Chokepoints",
-        "Duals"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Overall",
+		"Chokepoints",
+		"Duals"
+	],
 	"author": 2873312277,
 	"creators": [
 		4315877716,
@@ -131,6 +131,12 @@
 		{
 			"user": 9533527776,
 			"link": "https://youtu.be/daJHsdDcF8E?si=nUbiA5EmV5w3YE1J",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3504422141,
+			"link": "https://youtu.be/21SJy8OQf0Y",
 			"percent": 100,
 			"hz": 360
 		}
