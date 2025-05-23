@@ -1,6 +1,18 @@
 {
 	"id": 63377357,
 	"name": "Halberd",
+    "tags": [
+        "2.1",
+        "Long",
+        "NONG",
+        "Clicksync",
+        "Chokepoints",
+        "Memory",
+        "Gimmicky",
+        "Bossfight",
+        "Ship",
+        "Spider"
+    ],
 	"author": 4830209087,
 	"creators": [
 		7158762056,
@@ -374,8 +386,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }
