@@ -2,13 +2,13 @@
 	"id": 88108583,
 	"name": "MINIMUM",
 	"tags": [
-        "2.1",
-        "Long",
-        "Overall",
-        "Timings",
-        "Learny",
-        "Gimmicky"
-    ],
+		"2.1",
+		"Long",
+		"Overall",
+		"Timings",
+		"Learny",
+		"Gimmicky"
+	],
 	"author": 2062304635,
 	"creators": [],
 	"verifier": 9584816388,
@@ -116,6 +116,12 @@
 		{
 			"user": 8986489862,
 			"link": "https://www.youtube.com/watch?v=pTXyO6LcYXM&list=PLZQT3djPbsI7uzSaoNQWNqYI1OOB9jjkk&index=8&ab_channel=BFDIAFan_5346%28MinecraftParkour%29",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9378543564,
+			"link": "https://youtu.be/dEVxg1aRiLA",
 			"percent": 100,
 			"hz": 360
 		}
