@@ -1,15 +1,15 @@
 {
 	"id": 81011195,
 	"name": "walter white",
-    "tags": [
-        "2.1",
-        "XL",
-        "Overall",
-        "Timings",
-        "Chokepoints",
-        "Nerve Control",
-        "Cube"
-    ],
+	"tags": [
+		"2.1",
+		"XL",
+		"Overall",
+		"Timings",
+		"Chokepoints",
+		"Nerve Control",
+		"Cube"
+	],
 	"author": 4600507733,
 	"creators": [
 		9322333526,
@@ -77,6 +77,12 @@
 		{
 			"user": 7624896741,
 			"link": "https://www.youtube.com/watch?v=F4suk7If014",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2902580574,
+			"link": "https://youtu.be/APcF_jIFwBQ",
 			"percent": 100,
 			"hz": 360
 		}

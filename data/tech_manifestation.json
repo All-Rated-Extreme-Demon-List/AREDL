@@ -1,13 +1,13 @@
 {
 	"id": 55985772,
 	"name": "Tech Manifestation",
-    "tags": [
-        "2.1",
-        "Long",
-        "Chokepoints",
-        "Timings",
-        "Slow-Paced"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Chokepoints",
+		"Timings",
+		"Slow-Paced"
+	],
 	"description": "Has an overall horrible reputation, due to the beginning, and the infamous last third, having the 90% click of all time.",
 	"author": 1186115884,
 	"creators": [
@@ -1176,6 +1176,12 @@
 		{
 			"user": 5164016369,
 			"link": "https://youtu.be/FUR0AD-eavw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2067487205,
+			"link": "https://youtu.be/HQ52PTv230s",
 			"percent": 100,
 			"hz": 360
 		}
