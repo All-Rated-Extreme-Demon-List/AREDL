@@ -1,6 +1,16 @@
 {
 	"id": 63471387,
 	"name": "Karma",
+    "tags": [
+        "2.1",
+        "XXL",
+        "NONG",
+        "Clicksync",
+        "Fast-Paced",
+        "Chokepoints",
+        "Learny",
+        "Flow"
+    ],
 	"author": 9141872830,
 	"creators": [
 		9141872830,
@@ -449,8 +459,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }

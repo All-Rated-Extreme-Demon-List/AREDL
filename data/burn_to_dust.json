@@ -1,6 +1,13 @@
 {
 	"id": 80588137,
 	"name": "burn to dust",
+    "tags": [
+        "2.1",
+        "Long",
+        "NONG",
+        "Chokepoints",
+        "Learny"
+    ],
 	"author": 8879933929,
 	"creators": [],
 	"verifier": 9987483369,
@@ -206,8 +213,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }
