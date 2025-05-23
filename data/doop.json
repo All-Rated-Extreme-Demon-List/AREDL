@@ -1,14 +1,14 @@
 {
 	"id": 51393047,
 	"name": "Doop",
-    "tags": [
-        "2.1",
-        "Long",
-        "NONG",
-        "Overall",
-        "Learny",
-        "Clicksync"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"NONG",
+		"Overall",
+		"Learny",
+		"Clicksync"
+	],
 	"description": "XL level featuring a variety of skillsets, but has a major difficulty spike in the final wave and ship.",
 	"author": 6447495132,
 	"creators": [
@@ -766,6 +766,12 @@
 		{
 			"user": 9519787906,
 			"link": "https://www.youtube.com/watch?v=UIGu7GJgukI&ab_channel=Maku54",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2067487205,
+			"link": "https://youtu.be/zziyTeDIUxA",
 			"percent": 100,
 			"hz": 360
 		}
