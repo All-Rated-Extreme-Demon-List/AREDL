@@ -1,15 +1,15 @@
 {
 	"id": 87768310,
 	"name": "miss you",
-    "tags": [
-        "2.1",
-        "Long",
+	"tags": [
+		"2.1",
+		"Long",
 		"NONG",
-        "Timings",
-        "Slow-Paced",
-        "Cube",
-        "Duals"
-    ],
+		"Timings",
+		"Slow-Paced",
+		"Cube",
+		"Duals"
+	],
 	"author": 4235117103,
 	"creators": [],
 	"verifier": 4235117103,
@@ -122,6 +122,12 @@
 		{
 			"user": 1907036226,
 			"link": "https://www.youtube.com/watch?v=dBOrSE4MX8M",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6465029967,
+			"link": "https://youtu.be/iLI6OcgR9GQ?si=ZODQC1i9TZUW1ie6",
 			"percent": 100,
 			"hz": 360
 		}

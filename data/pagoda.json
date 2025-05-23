@@ -1,14 +1,14 @@
 {
 	"id": 77669659,
 	"name": "Pagoda",
-    "tags": [
-        "2.1",
-        "Long",
-        "Overall",
-        "Clicksync",
-        "Timings",
-        "Chokepoints"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Overall",
+		"Clicksync",
+		"Timings",
+		"Chokepoints"
+	],
 	"author": 7485931193,
 	"creators": [
 		7485931193,
@@ -124,6 +124,12 @@
 		{
 			"user": 8904205120,
 			"link": "https://youtu.be/yPKGobRNalk?si=lBW0YnTvMjQACpvZ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9739321917,
+			"link": "https://www.youtube.com/watch?v=30mKIzXqb5s",
 			"percent": 100,
 			"hz": 360
 		}
