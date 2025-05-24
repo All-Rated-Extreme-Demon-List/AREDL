@@ -20473,5 +20473,14 @@
 		"from_rank": null,
 		"above": "misty_mountains",
 		"below": "mystic_bounds"
+	},
+	{
+		"date": 1748045023,
+		"action": "lowered",
+		"name": "edelweiss",
+		"to_rank": 369,
+		"from_rank": 367,
+		"above": "fabrication",
+		"below": "trxpping_eyebxlls"
 	}
 ]

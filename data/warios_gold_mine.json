@@ -1,12 +1,12 @@
 {
 	"id": 109877068,
 	"name": "Warios Gold MinE",
-    "tags": [
-        "2.2",
-        "Long",
-        "NONG",
-        "Overall"
-    ],
+	"tags": [
+		"2.2",
+		"Long",
+		"NONG",
+		"Overall"
+	],
 	"author": 8606718388,
 	"creators": [
 		8606718388,
@@ -288,6 +288,12 @@
 		{
 			"user": 5164016369,
 			"link": "https://youtu.be/9JVxU9eVHKo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4143233482,
+			"link": "https://youtu.be/N0M9j_EMGWE",
 			"percent": 100,
 			"hz": 360
 		}

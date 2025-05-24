@@ -1,15 +1,15 @@
 {
 	"id": 80252396,
 	"name": "OneAttempt",
-    "tags": [
-        "2.1",
-        "Long",
-        "Overall",
-        "Fast-Paced",
-        "Timings",
-        "Cube",
-        "Wave"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Overall",
+		"Fast-Paced",
+		"Timings",
+		"Cube",
+		"Wave"
+	],
 	"author": 9629497004,
 	"creators": [],
 	"verifier": 7684106352,
@@ -128,6 +128,12 @@
 		{
 			"user": 9783353384,
 			"link": "https://youtu.be/G028Gqrm0DI?si=zUBrsF-L0TAOnIff",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9951073997,
+			"link": "https://www.youtube.com/watch?v=TA5Zx5xHpcE",
 			"percent": 100,
 			"hz": 360
 		}

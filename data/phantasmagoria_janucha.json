@@ -1,14 +1,14 @@
 {
 	"id": 79142469,
 	"name": "Phantasmagoria (Janucha)",
-    "tags": [
-        "2.1",
-        "Long",
-        "Overall",
-        "Timings",
-        "Chokepoints",
-        "Cube"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Overall",
+		"Timings",
+		"Chokepoints",
+		"Cube"
+	],
 	"author": 8974244764,
 	"creators": [
 		5061690590
@@ -177,6 +177,12 @@
 		{
 			"user": 8568721165,
 			"link": "https://youtu.be/ZKXUpdkSXZM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6678085735,
+			"link": "https://youtu.be/wQ7h3tSsnx4",
 			"percent": 100,
 			"hz": 360
 		}

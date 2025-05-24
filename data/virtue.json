@@ -1,18 +1,18 @@
 {
 	"id": 72943745,
 	"name": "VIRTUE",
-    "tags": [
-        "2.1",
-        "Long",
-        "NONG",
-        "Clicksync",
-        "Timings",
-        "Chokepoints",
-        "Learny",
-        "Gimmicky",
-        "Ball",
-        "Wave"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"NONG",
+		"Clicksync",
+		"Timings",
+		"Chokepoints",
+		"Learny",
+		"Gimmicky",
+		"Ball",
+		"Wave"
+	],
 	"author": 9941687306,
 	"creators": [],
 	"verifier": 9918274459,
@@ -539,6 +539,12 @@
 		{
 			"user": 3984492432,
 			"link": "https://www.youtube.com/watch?v=j9Wq7YbV8DE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6516518134,
+			"link": "https://youtu.be/vdvTTWZdDOU",
 			"percent": 100,
 			"hz": 360
 		}

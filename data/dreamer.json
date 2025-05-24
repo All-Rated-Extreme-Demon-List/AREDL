@@ -1,15 +1,15 @@
 {
 	"id": 75162476,
 	"name": "Dreamer",
-    "tags": [
-        "2.1",
-        "XL",
-        "Timings",
-        "Slow-Paced",
-        "Nerve Control",
-        "Cube",
-        "Ship"
-    ],
+	"tags": [
+		"2.1",
+		"XL",
+		"Timings",
+		"Slow-Paced",
+		"Nerve Control",
+		"Cube",
+		"Ship"
+	],
 	"author": 6177043654,
 	"creators": [],
 	"verifier": 6177043654,
@@ -140,6 +140,12 @@
 		{
 			"user": 7266933940,
 			"link": "https://youtu.be/leDPDiev7o8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8568721165,
+			"link": "https://youtu.be/sQHePzTG07k",
 			"percent": 100,
 			"hz": 360
 		}

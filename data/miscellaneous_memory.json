@@ -1,11 +1,11 @@
 {
 	"id": 83801688,
 	"name": "Miscellaneous Memory",
-    "tags": [
-        "2.1",
-        "Long",
-        "Memory"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Memory"
+	],
 	"author": 7954983588,
 	"creators": [],
 	"verifier": 5272986369,
@@ -318,6 +318,18 @@
 		{
 			"user": 5663222224,
 			"link": "https://www.youtube.com/watch?v=q9HK4IVOaLQ&list=PLoGRZ7epY3TMi2v-uqjN3vji23cF8aSfQ&index=52",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7403154518,
+			"link": "https://youtu.be/GnycYT0kZq4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8089547718,
+			"link": "https://youtu.be/_TzzdHjZO9M",
 			"percent": 100,
 			"hz": 360
 		}
