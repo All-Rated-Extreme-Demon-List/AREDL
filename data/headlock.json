@@ -1,14 +1,14 @@
 {
 	"id": 94353238,
 	"name": "headlock",
-    "tags": [
-        "2.1",
-        "Long",
-        "2P",
-        "Overall",
-        "Learny",
-        "Gimmicky"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"2P",
+		"Overall",
+		"Learny",
+		"Gimmicky"
+	],
 	"author": 4546764138,
 	"creators": [],
 	"verifier": 4546764138,
@@ -425,6 +425,12 @@
 		{
 			"user": 2909044958,
 			"link": "https://youtu.be/Vf40e8AuWOM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5072670531,
+			"link": "https://youtu.be/0lOdQzleotw?si=LebzgzFJ7fUa2YAf",
 			"percent": 100,
 			"hz": 360
 		}
