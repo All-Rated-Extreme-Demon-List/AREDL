@@ -1,16 +1,16 @@
 {
 	"id": 102551828,
 	"name": "Make it funky",
-    "tags": [
-        "2.2",
-        "Long",
-        "Overall",
-        "Fast-Paced",
-        "Learny",
-        "High CPS",
-        "Ship",
-        "Duals"
-    ],
+	"tags": [
+		"2.2",
+		"Long",
+		"Overall",
+		"Fast-Paced",
+		"Learny",
+		"High CPS",
+		"Ship",
+		"Duals"
+	],
 	"author": 6890205656,
 	"creators": [],
 	"verifier": 6890205656,
@@ -94,6 +94,12 @@
 		{
 			"user": 2067487205,
 			"link": "https://youtu.be/qpRPWOKisVU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9107742343,
+			"link": "https://youtu.be/LU2DEdzsLYU",
 			"percent": 100,
 			"hz": 360
 		}

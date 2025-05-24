@@ -8426,7 +8426,7 @@
 	{
 		"date": 1694001285,
 		"action": "placed",
-		"name": "helix",
+		"name": "helix_lggd",
 		"from_rank": null,
 		"to_rank": 411,
 		"above": "to_the_blue_moon",
@@ -12174,7 +12174,7 @@
 		"to_rank": 518,
 		"from_rank": null,
 		"above": "oopz",
-		"below": "helix"
+		"below": "helix_lggd"
 	},
 	{
 		"date": 1712824140,
@@ -13452,7 +13452,7 @@
 		"to_rank": 543,
 		"from_rank": 608,
 		"above": "siniristi",
-		"below": "helix"
+		"below": "helix_lggd"
 	},
 	{
 		"date": 1722568730,
@@ -14199,7 +14199,7 @@
 		"to_rank": 548,
 		"from_rank": 523,
 		"above": "bloodbath",
-		"below": "helix"
+		"below": "helix_lggd"
 	},
 	{
 		"date": 1725489504,
@@ -16187,7 +16187,7 @@
 		"name": "vertigo_notlevo",
 		"to_rank": 567,
 		"from_rank": null,
-		"above": "helix",
+		"above": "helix_lggd",
 		"below": "atmarbl"
 	},
 	{
@@ -17124,7 +17124,7 @@
 		"to_rank": 578,
 		"from_rank": 638,
 		"above": "prismatic_haze",
-		"below": "helix"
+		"below": "helix_lggd"
 	},
 	{
 		"date": 1734213139,
@@ -19275,7 +19275,7 @@
 		"to_rank": 604,
 		"from_rank": 562,
 		"above": "bloodbath",
-		"below": "helix"
+		"below": "helix_lggd"
 	},
 	{
 		"date": 1742249491,
