@@ -1,14 +1,14 @@
 {
 	"id": 59539361,
 	"name": "Eternal Moment",
-    "tags": [
-        "2.1",
-        "Long",
-        "Fast-Paced",
-        "Timings",
-        "Ship",
-        "Wave"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Fast-Paced",
+		"Timings",
+		"Ship",
+		"Wave"
+	],
 	"author": 6004996169,
 	"creators": [
 		6004996169,
@@ -415,6 +415,12 @@
 		{
 			"user": 2909044958,
 			"link": "https://youtu.be/xLbxv3ar7aY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7973652256,
+			"link": "https://youtu.be/DrhWjVjyRCY",
 			"percent": 100,
 			"hz": 360
 		}
