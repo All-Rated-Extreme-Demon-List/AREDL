@@ -1,18 +1,25 @@
 {
 	"id": 117177172,
 	"name": "BURNOUT",
-    "tags": [
-        "2.1",
-        "XL",
-        "Chokepoints",
-        "Nerve Control",
-        "Ship"
-    ],
+	"tags": [
+		"2.1",
+		"XL",
+		"Chokepoints",
+		"Nerve Control",
+		"Ship"
+	],
 	"author": 9629497004,
 	"creators": [],
 	"verifier": 9912969552,
 	"verification": "https://www.youtube.com/watch?v=C6PUqMjGVYI",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 8416165965,
+			"link": "https://www.youtube.com/watch?v=tEPKp5IWhDY",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
