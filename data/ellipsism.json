@@ -1,6 +1,12 @@
 {
 	"id": 83914474,
 	"name": "ELLIPSISM",
+    "tags": [
+        "2.1",
+        "Long",
+        "Timings",
+        "Wave"
+    ],
 	"author": 3227630167,
 	"creators": [],
 	"verifier": 7489040360,
@@ -115,8 +121,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }

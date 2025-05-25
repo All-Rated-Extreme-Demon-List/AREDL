@@ -1,6 +1,12 @@
 {
 	"id": 57390800,
 	"name": "Glacial Torrent",
+    "tags": [
+        "2.1",
+        "XXL",
+        "High CPS",
+        "Nerve Control"
+    ],
 	"author": 2619016038,
 	"creators": [
 		2452287525,
@@ -73,8 +79,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }
