@@ -1,15 +1,15 @@
 {
 	"id": 94107500,
 	"name": "FRIDAY",
-    "tags": [
-        "1.9",
-        "Long",
-        "NONG",
-        "Overall",
-        "Clicksync",
-        "Cube",
-        "Duals"
-    ],
+	"tags": [
+		"1.9",
+		"Long",
+		"NONG",
+		"Overall",
+		"Clicksync",
+		"Cube",
+		"Duals"
+	],
 	"author": 4796048557,
 	"creators": [],
 	"verifier": 4796048557,
@@ -49,6 +49,12 @@
 		{
 			"user": 7688909842,
 			"link": "https://www.youtube.com/watch?v=mgMlM5cmz4g",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9746953199,
+			"link": "https://www.youtube.com/watch?v=zQr18DZslpI",
 			"percent": 100,
 			"hz": 360
 		}

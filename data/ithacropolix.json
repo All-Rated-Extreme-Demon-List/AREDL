@@ -1,19 +1,19 @@
 {
 	"id": 80293947,
 	"name": "IthacropoliX",
-    "tags": [
-        "2.1",
-        "XL",
-        "Overall",
-        "Fast-Paced",
-        "Timings",
-        "High CPS",
-        "Nerve Control",
-        "Cube",
-        "Ship",
-        "Ball",
-        "Wave"
-    ],
+	"tags": [
+		"2.1",
+		"XL",
+		"Overall",
+		"Fast-Paced",
+		"Timings",
+		"High CPS",
+		"Nerve Control",
+		"Cube",
+		"Ship",
+		"Ball",
+		"Wave"
+	],
 	"author": 5743519987,
 	"creators": [
 		5743519987,
@@ -67,6 +67,12 @@
 		{
 			"user": 1101896031,
 			"link": "https://www.youtube.com/watch?v=q4DUXZu2ScI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9746953199,
+			"link": "https://www.youtube.com/watch?v=aGtSm5qkliE",
 			"percent": 100,
 			"hz": 360
 		}

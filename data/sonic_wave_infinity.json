@@ -1,13 +1,13 @@
 {
 	"id": 69685815,
 	"name": "Sonic Wave Infinity",
-    "tags": [
-        "2.1",
-        "XL",
-        "Circles",
-        "Chokepoints",
-        "Wave"
-    ],
+	"tags": [
+		"2.1",
+		"XL",
+		"Circles",
+		"Chokepoints",
+		"Wave"
+	],
 	"author": 3677981615,
 	"creators": [
 		9120450247,
@@ -229,6 +229,12 @@
 		{
 			"user": 5143550608,
 			"link": "https://www.youtube.com/watch?v=YRRha-TewhE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9746953199,
+			"link": "https://www.youtube.com/watch?v=t4R5HlQWc8o",
 			"percent": 100,
 			"hz": 360
 		}
