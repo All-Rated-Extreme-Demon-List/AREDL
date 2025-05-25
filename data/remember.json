@@ -1,12 +1,12 @@
 {
 	"id": 104236312,
 	"name": "Remember",
-    "tags": [
-        "2.2",
-        "XL",
-        "Memory",
-        "Nerve Control"
-    ],
+	"tags": [
+		"2.2",
+		"XL",
+		"Memory",
+		"Nerve Control"
+	],
 	"author": 5816304874,
 	"creators": [
 		4235117103,
@@ -52,6 +52,12 @@
 		{
 			"user": 8730309957,
 			"link": "https://www.youtube.com/watch?v=e74zgZ6oo6E",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4315025024,
+			"link": "https://drive.google.com/file/d/1s9AER6X71hyy1maHf8W-g8Ed7SxSvbQq/view?usp=drivesdk",
 			"percent": 100,
 			"hz": 360
 		}

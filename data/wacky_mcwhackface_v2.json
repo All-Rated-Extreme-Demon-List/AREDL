@@ -1,13 +1,13 @@
 {
 	"id": 93019675,
 	"name": "Wacky McWhackface v2",
-    "tags": [
-        "2.1",
-        "Long",
-        "Clicksync",
-        "Timings",
-        "Learny"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Clicksync",
+		"Timings",
+		"Learny"
+	],
 	"author": 8593066626,
 	"creators": [],
 	"verifier": 5078848198,
@@ -198,6 +198,12 @@
 		{
 			"user": 7928488134,
 			"link": "https://youtu.be/YQMXo_tjj5E?si=3-sIGEytfQIWc1Jz",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6632518431,
+			"link": "https://youtu.be/gI7x2PEjzY8?list=PLyOj7_kNNi_dOV3uof0ch3ja61nfnYRno",
 			"percent": 100,
 			"hz": 360
 		}
