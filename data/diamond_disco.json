@@ -1,17 +1,17 @@
 {
 	"id": 117862884,
 	"name": "Diamond Disco",
-    "tags": [
-        "2.2",
-        "Long",
-        "Clicksync",
-        "Fast-Paced",
-        "Timings",
-        "Learny",
-        "High CPS",
-        "Gimmicky",
-        "Flow"
-    ],
+	"tags": [
+		"2.2",
+		"Long",
+		"Clicksync",
+		"Fast-Paced",
+		"Timings",
+		"Learny",
+		"High CPS",
+		"Gimmicky",
+		"Flow"
+	],
 	"author": 5312127109,
 	"creators": [],
 	"verifier": 5312127109,
@@ -94,6 +94,12 @@
 		{
 			"user": 9246230842,
 			"link": "https://youtu.be/FcvcOrPBlFw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3263100860,
+			"link": "https://youtu.be/pB7mQgsTuy4?si=qdqEM1PdjGLgMlzu",
 			"percent": 100,
 			"hz": 360
 		}

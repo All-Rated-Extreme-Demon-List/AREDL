@@ -1,12 +1,12 @@
 {
 	"id": 44788659,
 	"name": "PixelSonic",
-    "tags": [
-        "2.1",
-        "Long",
-        "Overall",
-        "Chokepoints"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Overall",
+		"Chokepoints"
+	],
 	"author": 6316273393,
 	"creators": [
 		1910239903,
@@ -66,6 +66,12 @@
 		{
 			"user": 5611085886,
 			"link": "https://youtu.be/LPRoxHzrfRs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9165024608,
+			"link": "https://www.youtube.com/watch?v=xYRePoWnZxY",
 			"percent": 100,
 			"hz": 360
 		}
