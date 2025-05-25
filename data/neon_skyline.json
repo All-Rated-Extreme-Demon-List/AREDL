@@ -1,6 +1,14 @@
 {
 	"id": 88822041,
 	"name": "Neon Skyline",
+    "tags": [
+        "2.1",
+        "Long",
+        "NONG",
+        "Timings",
+        "Chokepoints",
+        "Learny"
+    ],
 	"author": 4450487850,
 	"creators": [],
 	"verifier": 1977624064,
@@ -43,8 +51,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }

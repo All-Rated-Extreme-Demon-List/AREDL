@@ -1,6 +1,14 @@
 {
 	"id": 52113279,
 	"name": "Removed Submission",
+    "tags": [
+        "2.1",
+        "XL",
+		"NONG",
+        "Timings",
+        "Slow-Paced",
+        "Nerve Control"
+    ],
 	"author": 5451556751,
 	"creators": [],
 	"verifier": 1377587596,
@@ -375,8 +383,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }

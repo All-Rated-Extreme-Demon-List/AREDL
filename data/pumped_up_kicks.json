@@ -1,6 +1,16 @@
 {
 	"id": 48353992,
 	"name": "Pumped Up Kicks",
+    "tags": [
+        "2.1",
+        "XXL",
+        "NONG",
+        "Timings",
+        "Chokepoints",
+        "Nerve Control",
+        "Ship",
+        "UFO"
+    ],
 	"author": 6506802425,
 	"creators": [
 		1110456771,
@@ -690,8 +700,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }

@@ -1,6 +1,13 @@
 {
 	"id": 94383049,
 	"name": "TURN THE LIGHTS OFF",
+    "tags": [
+        "2.1",
+        "Long",
+		"NONG",
+        "Fast-Paced",
+        "Learny"
+    ],
 	"author": 2328181530,
 	"creators": [],
 	"verifier": 3123807701,
@@ -109,8 +116,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }
