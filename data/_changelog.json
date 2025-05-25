@@ -20482,5 +20482,14 @@
 		"from_rank": 367,
 		"above": "fabrication",
 		"below": "trxpping_eyebxlls"
+	},
+	{
+		"date": 1748200393,
+		"action": "placed",
+		"name": "cimmerian_shade",
+		"to_rank": 59,
+		"from_rank": null,
+		"above": "oblivion",
+		"below": "unknown"
 	}
 ]
