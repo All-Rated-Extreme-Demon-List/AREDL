@@ -20491,5 +20491,14 @@
 		"from_rank": null,
 		"above": "oblivion",
 		"below": "unknown"
+	},
+	{
+		"date": 1748236318,
+		"action": "lowered",
+		"name": "trollmachine",
+		"to_rank": 984,
+		"from_rank": 943,
+		"above": "party_rock_anthem",
+		"below": "polish_alphabet"
 	}
 ]
