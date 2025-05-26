@@ -20500,5 +20500,14 @@
 		"from_rank": 943,
 		"above": "party_rock_anthem",
 		"below": "polish_alphabet"
+	},
+	{
+		"date": 1748236367,
+		"action": "placed",
+		"name": "fabulous",
+		"to_rank": 387,
+		"from_rank": null,
+		"above": "aesthetic",
+		"below": "night_rider"
 	}
 ]
