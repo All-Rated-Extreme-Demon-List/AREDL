@@ -1,14 +1,14 @@
 {
 	"id": 89513590,
 	"name": "Dump",
-    "tags": [
-        "2.1",
-        "Long",
-        "NONG",
-        "Timings",
-        "Chokepoints",
-        "Cube"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"NONG",
+		"Timings",
+		"Chokepoints",
+		"Cube"
+	],
 	"author": 7399024180,
 	"creators": [
 		1028357416,
@@ -351,6 +351,12 @@
 		{
 			"user": 9798187478,
 			"link": "https://www.youtube.com/watch?v=Qgt42tayV_o",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4686799981,
+			"link": "https://youtu.be/lhJT0jeq0ag",
 			"percent": 100,
 			"hz": 360
 		}
