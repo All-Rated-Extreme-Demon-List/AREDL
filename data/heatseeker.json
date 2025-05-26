@@ -1,15 +1,15 @@
 {
 	"id": 109513812,
 	"name": "HeatSeeker",
-    "tags": [
-        "2.2",
-        "Long",
-        "Fast-Paced",
-        "Memory",
-        "Cube",
-        "Ship",
-        "Duals"
-    ],
+	"tags": [
+		"2.2",
+		"Long",
+		"Fast-Paced",
+		"Memory",
+		"Cube",
+		"Ship",
+		"Duals"
+	],
 	"author": 1740043275,
 	"creators": [
 		1740043275
@@ -100,6 +100,12 @@
 		{
 			"user": 3652116927,
 			"link": "https://youtu.be/3kCH8sOwkEA?si=wSx2mbprJGB_cUtS",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3643727782,
+			"link": "https://youtu.be/YjiI3NXWhWA",
 			"percent": 100,
 			"hz": 360
 		}
