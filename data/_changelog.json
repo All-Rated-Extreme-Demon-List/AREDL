@@ -20509,5 +20509,14 @@
 		"from_rank": null,
 		"above": "aesthetic",
 		"below": "night_rider"
+	},
+	{
+		"date": 1748371361,
+		"action": "raised",
+		"name": "feel_alive",
+		"to_rank": 1101,
+		"from_rank": 1130,
+		"above": "azurite_sillow",
+		"below": "a9blue"
 	}
 ]
