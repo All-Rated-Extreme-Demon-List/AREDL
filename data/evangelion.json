@@ -1,12 +1,12 @@
 {
 	"id": 62151546,
 	"name": "Evangelion",
-    "tags": [
-        "2.1",
-        "Long",
-        "Overall",
-        "Clicksync"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Overall",
+		"Clicksync"
+	],
 	"author": 6289708283,
 	"creators": [
 		3712518089,
@@ -428,6 +428,12 @@
 		{
 			"user": 4344967618,
 			"link": "https://www.youtube.com/watch?v=1JStwz8u81E&ab_channel=KuboiksGD",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2546854896,
+			"link": "https://youtu.be/c-RgAJM4dtM?si=gumHMMAhZxVXh3Jx",
 			"percent": 100,
 			"hz": 360
 		}

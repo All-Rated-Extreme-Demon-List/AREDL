@@ -1,13 +1,13 @@
 {
 	"id": 100485888,
 	"name": "STRATUS",
-    "tags": [
-        "2.2",
-        "Long",
-        "Overall",
-        "Fast-Paced",
-        "Learny"
-    ],
+	"tags": [
+		"2.2",
+		"Long",
+		"Overall",
+		"Fast-Paced",
+		"Learny"
+	],
 	"description": "The first Legendary rated extreme demon. Whether you agree with that rating or not, it looks pretty cool. Gameplay is fast paced and engaging.",
 	"author": 4239758058,
 	"creators": [
@@ -781,6 +781,12 @@
 		{
 			"user": 1873099453,
 			"link": "https://www.youtube.com/watch?v=iqHCc9qf7KY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5429217719,
+			"link": "https://youtu.be/h7w__U8sdNY",
 			"percent": 100,
 			"hz": 360
 		}

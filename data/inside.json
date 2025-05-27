@@ -1,14 +1,14 @@
 {
 	"id": 114321891,
 	"name": "Inside",
-    "tags": [
-        "2.2",
-        "XL",
-        "Overall",
-        "Fast-Paced",
-        "Learny",
-        "Duals"
-    ],
+	"tags": [
+		"2.2",
+		"XL",
+		"Overall",
+		"Fast-Paced",
+		"Learny",
+		"Duals"
+	],
 	"author": 5816304874,
 	"creators": [
 		5816304874
@@ -93,6 +93,12 @@
 		{
 			"user": 1907036226,
 			"link": "https://youtu.be/sp74tE9ZJp4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4157625283,
+			"link": "https://medal.tv/games/geometry-dash/clips/klRN5nkRlMGzON_2g?invite=cr-MSxsWm0sMjAzOTQzOTI1",
 			"percent": 100,
 			"hz": 360
 		}

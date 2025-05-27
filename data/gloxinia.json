@@ -1,12 +1,12 @@
 {
 	"id": 110038200,
 	"name": "Gloxinia",
-    "tags": [
-        "2.2",
-        "XL",
-        "Overall",
-        "Flow"
-    ],
+	"tags": [
+		"2.2",
+		"XL",
+		"Overall",
+		"Flow"
+	],
 	"author": 9623476437,
 	"creators": [
 		9623476437,
@@ -36,6 +36,12 @@
 		{
 			"user": 1032789438,
 			"link": "https://youtu.be/jkW8FUenMAA?si=lr3Zc-Yq_33yM4Er",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7830624510,
+			"link": "https://youtu.be/EbUWVt6iLG0",
 			"percent": 100,
 			"hz": 360
 		}

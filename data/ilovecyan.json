@@ -1,15 +1,15 @@
 {
 	"id": 78119012,
 	"name": "ILOVECYAN",
-    "tags": [
-        "2.1",
-        "Long",
-        "Overall",
-        "Fast-Paced",
-        "Learny",
-        "High CPS",
-        "Flow"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Overall",
+		"Fast-Paced",
+		"Learny",
+		"High CPS",
+		"Flow"
+	],
 	"author": 8936094108,
 	"creators": [],
 	"verifier": 6558732412,
@@ -797,6 +797,12 @@
 		{
 			"user": 1367211691,
 			"link": "https://youtu.be/v-ls6mkAKhI?si=vF151jLqdVILiWA5",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1077275565,
+			"link": "https://www.youtube.com/watch?v=yzgzZxTRvYU",
 			"percent": 100,
 			"hz": 360
 		}

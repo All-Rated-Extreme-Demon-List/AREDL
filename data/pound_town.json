@@ -1,13 +1,13 @@
 {
 	"id": 43638852,
 	"name": "Pound Town",
-    "tags": [
-        "2.1",
-        "Long",
-        "Overall",
-        "Chokepoints",
-        "Wave"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Overall",
+		"Chokepoints",
+		"Wave"
+	],
 	"author": 7652908224,
 	"creators": [
 		5112792362,
@@ -137,6 +137,12 @@
 		{
 			"user": 6330419507,
 			"link": "https://youtu.be/tEmIqoHjlgQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2482424178,
+			"link": "https://youtu.be/gMoey08bM8Q",
 			"percent": 100,
 			"hz": 360
 		}

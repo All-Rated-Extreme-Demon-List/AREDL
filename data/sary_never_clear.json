@@ -1,15 +1,15 @@
 {
 	"id": 33498127,
 	"name": "SARY NEVER CLEAR",
-    "tags": [
-        "2.1",
-        "Long",
-        "Timings",
-        "Chokepoints",
-        "Mirror",
-        "Cube",
-        "Ship"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Timings",
+		"Chokepoints",
+		"Mirror",
+		"Cube",
+		"Ship"
+	],
 	"author": 3573652073,
 	"creators": [
 		4683504966,
@@ -218,6 +218,12 @@
 		{
 			"user": 3469187972,
 			"link": "https://youtu.be/U0W-R0qG84Y?si=3rZHPF8SzWRWwsiu",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9746953199,
+			"link": "https://www.youtube.com/watch?v=SzyNn6CE0CA",
 			"percent": 100,
 			"hz": 360
 		}

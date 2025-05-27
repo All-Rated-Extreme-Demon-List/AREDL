@@ -1,15 +1,15 @@
 {
 	"id": 74343352,
 	"name": "RGB",
-    "tags": [
-        "2.1",
-        "Long",
-        "Overall",
-        "Timings",
-        "Chokepoints",
-        "UFO",
-        "Duals"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Overall",
+		"Timings",
+		"Chokepoints",
+		"UFO",
+		"Duals"
+	],
 	"author": 4051969182,
 	"creators": [],
 	"verifier": 9577565812,
@@ -74,6 +74,12 @@
 		{
 			"user": 7937190301,
 			"link": "https://www.youtube.com/watch?v=H0kPj3leqnc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6851864429,
+			"link": "https://youtu.be/ycJbUlR9hb0?si=tk1HsSvrh4HSuKFM",
 			"percent": 100,
 			"hz": 360
 		}

@@ -1,13 +1,13 @@
 {
 	"id": 65969451,
 	"name": "Timor",
-    "tags": [
-        "2.1",
-        "XL",
-        "Timings",
-        "Ship",
-        "Wave"
-    ],
+	"tags": [
+		"2.1",
+		"XL",
+		"Timings",
+		"Ship",
+		"Wave"
+	],
 	"author": 6925632760,
 	"creators": [
 		6925632760,
@@ -393,6 +393,12 @@
 		{
 			"user": 9739321917,
 			"link": "https://www.youtube.com/watch?v=JQMBmSsEdpQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8299075170,
+			"link": "https://youtu.be/wdrglUJN4YY",
 			"percent": 100,
 			"hz": 360
 		}

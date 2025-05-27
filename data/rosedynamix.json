@@ -1,11 +1,11 @@
 {
 	"id": 84140347,
 	"name": "rosedynamix",
-    "tags": [
-        "2.1",
-        "Long",
-        "Wave"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Wave"
+	],
 	"author": 4424365930,
 	"creators": [
 		4600507733,
@@ -151,6 +151,12 @@
 		{
 			"user": 9533527776,
 			"link": "https://youtu.be/pA56IlQy8UE?si=S_KyrMyXkUYgiZKB",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1552473546,
+			"link": "https://youtu.be/7_-n__o5W5k",
 			"percent": 100,
 			"hz": 360
 		}

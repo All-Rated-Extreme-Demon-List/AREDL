@@ -1,12 +1,12 @@
 {
 	"id": 54615662,
 	"name": "The Yandere",
-    "tags": [
-        "2.1",
-        "XL",
-        "Chokepoints",
-        "Nerve Control"
-    ],
+	"tags": [
+		"2.1",
+		"XL",
+		"Chokepoints",
+		"Nerve Control"
+	],
 	"author": 3636816658,
 	"creators": [
 		2749452169,
@@ -484,6 +484,12 @@
 		{
 			"user": 1046751197,
 			"link": "https://youtu.be/arAihvmtzVk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9746953199,
+			"link": "https://www.youtube.com/watch?v=S-ro78Meu0U",
 			"percent": 100,
 			"hz": 360
 		}

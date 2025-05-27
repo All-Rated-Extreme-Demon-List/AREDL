@@ -1,12 +1,12 @@
 {
 	"id": 116579233,
 	"name": "boson",
-    "tags": [
-        "2.2",
-        "Long",
-        "Timings",
-        "Learny"
-    ],
+	"tags": [
+		"2.2",
+		"Long",
+		"Timings",
+		"Learny"
+	],
 	"author": 1683839249,
 	"creators": [
 		1683839249,
@@ -132,6 +132,12 @@
 		{
 			"user": 4771023247,
 			"link": "https://youtu.be/I1jVCH2tVX4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9195579347,
+			"link": "https://youtu.be/oZhfjHj9PWE",
 			"percent": 100,
 			"hz": 360
 		}

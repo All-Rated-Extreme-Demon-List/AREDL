@@ -1,12 +1,12 @@
 {
 	"id": 90902050,
 	"name": "Ogue",
-    "tags": [
-        "2.1",
-        "Long",
-        "Overall",
-        "Flow"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Overall",
+		"Flow"
+	],
 	"author": 5486490807,
 	"creators": [
 		5486490807,
@@ -219,6 +219,12 @@
 		{
 			"user": 1769105544,
 			"link": "https://youtu.be/0vVYzOtbi5w?si=E8IPcoFj2Hbh0nsb",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5117630113,
+			"link": "https://youtu.be/Q6W3ffPfjGc",
 			"percent": 100,
 			"hz": 360
 		}

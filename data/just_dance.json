@@ -1,15 +1,15 @@
 {
 	"id": 60257058,
 	"name": "Just DANCE",
-    "tags": [
-        "2.1",
-        "Long",
-        "Overall",
-        "Clicksync",
-        "Timings",
-        "Cube",
-        "Robot"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Overall",
+		"Clicksync",
+		"Timings",
+		"Cube",
+		"Robot"
+	],
 	"description": "Was formerly way harder and poorly received, after the update its just poorly received now.",
 	"author": 5124478136,
 	"creators": [
@@ -928,6 +928,12 @@
 		{
 			"user": 1769105544,
 			"link": "https://youtu.be/nNiFvca74zA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 1329626921,
+			"link": "https://youtu.be/s5wm7JYkzoE",
 			"percent": 100,
 			"hz": 360
 		}

@@ -1,13 +1,13 @@
 {
 	"id": 80588137,
 	"name": "burn to dust",
-    "tags": [
-        "2.1",
-        "Long",
-        "NONG",
-        "Chokepoints",
-        "Learny"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"NONG",
+		"Chokepoints",
+		"Learny"
+	],
 	"author": 8879933929,
 	"creators": [],
 	"verifier": 9987483369,
@@ -210,6 +210,12 @@
 		{
 			"user": 2909044958,
 			"link": "https://youtu.be/k6-xExSy_Jw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7049977450,
+			"link": "https://www.youtube.com/watch?v=vz1xZ1Jxxa0",
 			"percent": 100,
 			"hz": 360
 		}

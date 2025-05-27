@@ -1,14 +1,14 @@
 {
 	"id": 93262795,
 	"name": "Shinigami",
-    "tags": [
-        "2.1",
-        "XXL",
-        "Fast-Paced",
-        "Learny",
-        "Flow",
-        "Nerve Control"
-    ],
+	"tags": [
+		"2.1",
+		"XXL",
+		"Fast-Paced",
+		"Learny",
+		"Flow",
+		"Nerve Control"
+	],
 	"author": 9989822490,
 	"creators": [
 		4966181449,
@@ -244,6 +244,12 @@
 		{
 			"user": 1335028117,
 			"link": "https://www.youtube.com/watch?v=saqobqMHXe8&ab_channel=miniwombat2",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5556353600,
+			"link": "https://youtu.be/dAWdkIXAjmw?si=cFiQ8Je7yw7oGJZ5",
 			"percent": 100,
 			"hz": 360
 		}

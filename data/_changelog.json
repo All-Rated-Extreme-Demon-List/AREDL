@@ -20482,5 +20482,59 @@
 		"from_rank": 367,
 		"above": "fabrication",
 		"below": "trxpping_eyebxlls"
+	},
+	{
+		"date": 1748200393,
+		"action": "placed",
+		"name": "cimmerian_shade",
+		"to_rank": 59,
+		"from_rank": null,
+		"above": "oblivion",
+		"below": "unknown"
+	},
+	{
+		"date": 1748236318,
+		"action": "lowered",
+		"name": "trollmachine",
+		"to_rank": 984,
+		"from_rank": 943,
+		"above": "party_rock_anthem",
+		"below": "polish_alphabet"
+	},
+	{
+		"date": 1748236367,
+		"action": "placed",
+		"name": "fabulous",
+		"to_rank": 387,
+		"from_rank": null,
+		"above": "aesthetic",
+		"below": "night_rider"
+	},
+	{
+		"date": 1748371361,
+		"action": "raised",
+		"name": "feel_alive",
+		"to_rank": 1101,
+		"from_rank": 1130,
+		"above": "azurite_sillow",
+		"below": "a9blue"
+	},
+	{
+		"date": 1748371461,
+		"action": "raised",
+		"name": "make_it_funky",
+		"to_rank": 1059,
+		"from_rank": 1128,
+		"above": "cosmorush_21",
+		"below": "four"
+	},
+	{
+		"date": 1748372261,
+		"action": "placed",
+		"name": "melon_river",
+		"to_rank": 1023,
+		"from_rank": null,
+		"above": "v_o_l_l_e_y",
+		"below": "clock_tower"
 	}
 ]

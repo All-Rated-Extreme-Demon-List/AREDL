@@ -1,12 +1,12 @@
 {
 	"id": 86795510,
 	"name": "X0",
-    "tags": [
-        "2.1",
-        "Long",
-        "Learny",
-        "High CPS"
-    ],
+	"tags": [
+		"2.1",
+		"Long",
+		"Learny",
+		"High CPS"
+	],
 	"author": 2011306273,
 	"creators": [
 		2011306273,
@@ -74,6 +74,12 @@
 		{
 			"user": 7973652256,
 			"link": "https://youtu.be/ygqKEQcK5iU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9746953199,
+			"link": "https://www.youtube.com/watch?v=egT3cbe3B6k",
 			"percent": 100,
 			"hz": 360
 		}
