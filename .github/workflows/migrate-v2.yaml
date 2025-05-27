@@ -2,9 +2,6 @@ name: Migrate V2
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   migrate-v2:
