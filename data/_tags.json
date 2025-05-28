@@ -194,5 +194,9 @@
     {
         "name":"Overall",
         "description":"Extreme demons that contain a mostly even amount of each gameplay mode."
+    },
+    {
+        "name":"Solo Intended",
+        "description":"2P Extreme demons intended to be played by one person."
     }
 ]
