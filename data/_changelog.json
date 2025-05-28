@@ -20536,5 +20536,14 @@
 		"from_rank": null,
 		"above": "v_o_l_l_e_y",
 		"below": "clock_tower"
+	},
+	{
+		"date": 1748407893,
+		"action": "tolegacy",
+		"name": "aurora_hasuopf",
+		"to_rank": 1164,
+		"from_rank": 1071,
+		"above": "magnum_opus",
+		"below": "dichotomy_2p"
 	}
 ]
