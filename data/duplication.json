@@ -1,6 +1,13 @@
 {
 	"id": 88577065,
 	"name": "Duplication",
+    "tags": [
+        "2.1",
+        "Long",
+        "NONG",
+        "Fast-Paced",
+        "Learny"
+    ],
 	"author": 2547906853,
 	"creators": [
 		5272092355,
@@ -214,8 +221,5 @@
 			"percent": 100,
 			"hz": 360
 		}
-	],
-	"tags": [
-		"NONG"
 	]
 }
